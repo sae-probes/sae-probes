@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v0.1.3 (2025-08-16)
+
+### Performance
+
+* perf: switch to zstd to compress data files ([`1b14a11`](https://github.com/sae-probes/sae-probes/commit/1b14a119ca6d530720702cd881bfd612a16c566e))
+
 ## v0.1.2 (2025-08-16)
 
 ### Fix
