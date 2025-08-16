@@ -5,6 +5,17 @@ description = "Sparse probing benchmark for Sparse Autoencoders derived from the
 authors = ["Subhash Kantamneni", "Joshua Engels"]
 readme = "README.md"
 packages = [{ include = "sae_probes" }]
+repository = "https://github.com/sae-probes/sae-probes"
+homepage = "https://github.com/sae-probes/sae-probes"
+license = "MIT"
+keywords = [
+    "deep-learning",
+    "sparse-autoencoders",
+    "mechanistic-interpretability",
+    "PyTorch",
+]
+classifiers = ["Topic :: Scientific/Engineering :: Artificial Intelligence"]
+
 
 [tool.poetry.dependencies]
 python = ">=3.10,<4.0"

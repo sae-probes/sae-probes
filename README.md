@@ -1,5 +1,9 @@
 # SAE Probes Benchmark
 
+[![PyPI](https://img.shields.io/pypi/v/sae-probes?color=blue)](https://pypi.org/project/sae-probes/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![build](https://github.com/sae-probes/sae-probes/actions/workflows/ci.yaml/badge.svg)](https://github.com/sae-probes/sae-probes/actions/workflows/ci.yaml)
+
 This repository contains the code for the paper [_Are Sparse Autoencoders Useful? A Case Study in Sparse Probing_](https://arxiv.org/pdf/2502.16681), but has been reformatted into a Python package that will work with any SAE that can be loaded in [SAELens](https://github.com/jbloomAus/SAELens). This makes it easy to use the sparse probing tasks from the paper as a standalone SAE benchmark.
 
 # Installation
