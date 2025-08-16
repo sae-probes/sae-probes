@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v0.1.1 (2025-08-16)
+
+### Fix
+
+* fix: reducing dataset sizes to fit in pypi limit ([`534ffce`](https://github.com/sae-probes/sae-probes/commit/534ffce080d4935537c82d49ad4a720c64295599))
+
 ## v0.1.0 (2025-08-16)
 
 ### Feature

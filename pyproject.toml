@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "sae-probes"
-version = "0.1.0"
+version = "0.1.1"
 description = "Sparse probing benchmark for Sparse Autoencoders derived from the paper \"Are Sparse Autoencoders Useful? A Case Study in Sparse Probing\""
 authors = ["Subhash Kantamneni", "Joshua Engels"]
 readme = "README.md"
