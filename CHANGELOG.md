@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v0.1.2 (2025-08-16)
+
+### Fix
+
+* fix: adding more metadata to project and README ([`22b8aad`](https://github.com/sae-probes/sae-probes/commit/22b8aad95130e58f7a3640f15c15d53c273fb074))
+
 ## v0.1.1 (2025-08-16)
 
 ### Fix
