@@ -1,0 +1,48 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "default",
+  "dataset_size": 26758636,
+  "description": "",
+  "download_checksums": {
+    "/yanglinyi/new_codes_cluster/cola_data/hanmeng_second/data.json": {
+      "num_bytes": 30713853,
+      "checksum": "960b87256a0b86ce899a4931d2da40a400dc017489bd0c6271c3e1d1c9ab7ab8"
+    }
+  },
+  "download_size": 30713853,
+  "features": {
+    "sentence": {
+      "dtype": "string",
+      "id": null,
+      "_type": "Value"
+    },
+    "label": {
+      "dtype": "int64",
+      "id": null,
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "post_processed": null,
+  "post_processing_size": null,
+  "size_in_bytes": 57472489,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 26758636,
+      "num_examples": 304277,
+      "dataset_name": "json"
+    }
+  },
+  "supervised_keys": null,
+  "task_templates": null,
+  "version": {
+    "version_str": "0.0.0",
+    "description": null,
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

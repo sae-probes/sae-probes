@@ -1,0 +1,5001 @@
+prompt,prompt_len,target
+Chilhowie,5,2060.0
+Pilot Point,3,4393.0
+Worthington Hills,4,1741.0
+Montura,3,3424.0
+Trevorton,3,1700.0
+Harrisonburg City,4,52062.0
+Watseka,4,4623.0
+Coweta,4,9696.0
+Timber Lakes,3,614.0
+Abernathy,4,3359.0
+Coggon,3,738.0
+Platte,3,1178.0
+Wesley Hills,3,6105.0
+Paragonah,4,622.0
+Blue Hill,3,865.0
+Vacaville,3,102256.0
+Kenwood,3,8143.0
+Hide-A-Way Lake,7,1878.0
+Seat Pleasant,3,4537.0
+Parchment,4,1884.0
+Girardville,4,1360.0
+Huntingdon County,4,44458.0
+Tioga Terrace,5,2428.0
+Sagadahoc County,5,36530.0
+Marmaduke,4,1581.0
+Kingsford Heights,4,1471.0
+Hayden Lake,3,602.0
+Oakton,3,36675.0
+Ackley,3,1706.0
+Falcon Lake Estates,4,896.0
+New Port Richey,5,16348.0
+Reece City,4,744.0
+Innovation,2,1116.0
+Watauga County,5,54077.0
+China Spring,3,1342.0
+Trumansburg,5,1675.0
+Switzerland County,3,9870.0
+Placerville,4,10777.0
+Tarentum,4,4359.0
+Port St. John,5,24677.0
+Grantsburg,3,1339.0
+Puget Island,4,1153.0
+Brownton,3,549.0
+Stockdale,3,1353.0
+Seguin,3,29293.0
+Wanaque,4,11285.0
+Ashford,3,2476.0
+Los Lunas,4,17072.0
+Falls Creek,3,1009.0
+La Puebla,3,1038.0
+Glens Falls North,5,9160.0
+Knox,2,3691.0
+New Miami,3,2300.0
+Wadesboro,4,5079.0
+Holly Pond,3,819.0
+South Webster,3,851.0
+Lannon,3,1292.0
+D'Iberville,6,12736.0
+Ponderosa Pines,5,520.0
+Krotz Springs,4,823.0
+Dutchess County,5,296012.0
+Lebanon Junction,3,2214.0
+Lane County,3,380532.0
+Kenosha,4,123061.0
+Westmoreland County,4,355107.0
+Lake Koshkonong,6,996.0
+Troy Hills,3,5126.0
+East Atlantic Beach,4,1778.0
+Gretna,3,17836.0
+Lake Wynonah,5,2879.0
+West Cape May,4,1017.0
+Lucerne Valley,4,5998.0
+Malibu,3,10915.0
+Rivergrove,3,545.0
+Delhi Hills,3,4978.0
+Loghill Village,4,601.0
+Charlotte,2,1516107.0
+Rockford,3,289763.0
+North Arlington,3,16339.0
+Niantic,4,3240.0
+Stony Brook University,5,8868.0
+Monroe Manor,3,2581.0
+Pitkin County,4,17471.0
+Grifton,4,2764.0
+Carlyss,3,5252.0
+Mount Wolf,3,1417.0
+Sunray,3,2417.0
+Apache Junction,3,38311.0
+Stepney,3,3370.0
+Gassville,4,2324.0
+Alexandria Bay,3,1097.0
+Braymer,3,628.0
+Brady,2,5129.0
+Aspen Hill,3,53850.0
+New Pekin,4,1348.0
+Las Quintas Fronterizas,7,1062.0
+Lake Pocotopaug,6,5124.0
+Devine,3,4349.0
+Aliquippa,4,9237.0
+Dimmit County,4,8840.0
+Berlin Heights,3,569.0
+Gideon,3,691.0
+Ipswich,3,1183.0
+North River Shores,4,3739.0
+Highland-on-the-Lake,8,3962.0
+Isle of Wight County,5,38301.0
+Peña Blanca,4,684.0
+Normal,2,53446.0
+Travilah,4,11052.0
+Lilesville,4,607.0
+Cookson,4,1031.0
+Barnum Island,4,2519.0
+Atlantic County,3,273865.0
+East Point,3,37895.0
+Rodeo,3,9575.0
+Los Gatos,4,33309.0
+New Lenox,3,26942.0
+Laurinburg,4,15242.0
+Soquel,3,10806.0
+Lake Kiowa,4,2409.0
+Cross Keys,3,538.0
+McDowell County,4,44527.0
+Clearbrook,3,655.0
+McCloud,3,870.0
+Meadow,3,927.0
+Florence County,3,137276.0
+Grand Marais,3,1596.0
+Alpha,2,2290.0
+Kootenai County,5,168317.0
+Glasford,3,834.0
+Hull,2,2248.0
+Orchard Hills,4,2247.0
+Kinsman Center,5,701.0
+Barnum Island,4,2519.0
+Traverse City,3,15263.0
+West St. Paul,5,20476.0
+Crescent City,4,6686.0
+Church Hill,3,6973.0
+Noel,2,1878.0
+Evadale,4,1168.0
+New Port Richey,5,16348.0
+Winder,3,17768.0
+Stoddard,4,828.0
+Friendswood,3,40780.0
+San Tan Valley,4,96127.0
+Cedar Rapids,3,192714.0
+Belmond,3,2463.0
+Carbon County,3,64792.0
+Joplin,4,81025.0
+New Middletown,3,1405.0
+Hollis Crossroads,4,676.0
+New Bern,3,31058.0
+Orchard Mesa,4,6592.0
+Lake Murray of Richland,5,6632.0
+East Renton Highlands,5,12392.0
+Martin,2,10536.0
+Holiday City South,4,4077.0
+Old Tappan,4,5870.0
+Solon Springs,4,785.0
+University of California-Davis,6,8532.0
+Commercial Point,3,2902.0
+Roseau County,4,15321.0
+West Palm Beach,4,115877.0
+Marine City,3,4069.0
+Ida,2,733.0
+Powder River County,4,1759.0
+Hamilton County,3,826790.0
+Dodgeville,3,4958.0
+Ashdown,3,4242.0
+Weyauwega,5,1662.0
+Nolanville,3,5817.0
+Irving,2,254184.0
+Doney Park,4,5086.0
+Wilmette,3,27895.0
+Cañon City,4,17157.0
+Benton Harbor,4,9171.0
+King William County,4,17511.0
+Rocky Mountain,3,565.0
+New Rockford,3,1374.0
+Thunderbird Bay,4,760.0
+Cimarron,4,2066.0
+Phenix City,4,38216.0
+Cross Timber,3,577.0
+Lansford,4,4110.0
+Diamond City,3,915.0
+Elk River,3,25467.0
+Wind Lake,3,5196.0
+Peggs,3,942.0
+Woods Bay,3,643.0
+Vero Beach South,5,174748.0
+La Tina Ranch,4,844.0
+Mill Neck,3,1142.0
+Emmet County,4,33946.0
+Clymer,4,1184.0
+Highland Park,3,30245.0
+Elmira Heights,4,4265.0
+East Norwich,3,2871.0
+Woodlawn Park,4,832.0
+Miltonvale,3,506.0
+Hobson City,4,947.0
+Buffalo,2,1004655.0
+South Boardman,4,523.0
+Camanche,4,4545.0
+Rodney Village,3,1472.0
+Yalaha,4,1546.0
+Olympia Fields,3,4949.0
+Ingold,3,848.0
+Sykesville,4,4260.0
+Archer City,3,1690.0
+Hargill,4,1094.0
+Marble Cliff,3,782.0
+Village of Oak Creek,5,6144.0
+Scotland Neck,3,2033.0
+Smock,3,559.0
+Cross Roads,3,1364.0
+Cedar Valley,3,574.0
+Whitmore Lake,4,8019.0
+Valhalla,3,3135.0
+Moyie Springs,4,1174.0
+Emeryville,4,12747.0
+Windber,3,3936.0
+Scalp Level,4,606.0
+North Haverhill,4,1097.0
+Mono County,3,13291.0
+Gassaway,4,906.0
+Funston,3,972.0
+Reinholds,3,2151.0
+Onawa,3,2894.0
+Calico Rock,4,2001.0
+Mechanicville,3,5191.0
+Gambrills,4,3185.0
+Freeman,2,1711.0
+Lochmoor Waterway Estates,6,5106.0
+Kayenta,3,5227.0
+Grandwood Park,4,5506.0
+Bensville,4,14483.0
+Aldan,3,4214.0
+Sandy Valley,3,1723.0
+Big Stone City,4,620.0
+Green Meadows,3,2227.0
+Hollow Rock,3,762.0
+Corvallis,3,66090.0
+Nocona Hills,4,578.0
+Blue Mound,3,2274.0
+East Bangor,3,1117.0
+Lyles,3,1218.0
+East Renton Highlands,5,12392.0
+Whatcom County,4,224533.0
+Mount Holly,3,17315.0
+Verdigris,4,5189.0
+Accokeek,4,12241.0
+LaSalle,3,9607.0
+Somerton,3,14126.0
+Verandah,4,1444.0
+Portola Valley,4,4458.0
+Gothenburg,3,3476.0
+Lake Linden,3,1199.0
+Belding,3,6070.0
+Ravensdale,4,671.0
+Warrick County,4,63575.0
+Pecan Hill,4,622.0
+San Leandro,3,91176.0
+Cohutta,3,692.0
+Buhl,3,4532.0
+Haynesville,4,2402.0
+Mason,2,34337.0
+Buford,3,16811.0
+Oologah,4,1742.0
+Nuevo,2,7491.0
+Wekiwa Springs,5,24049.0
+Dolgeville,4,2402.0
+Tunica,3,1202.0
+Corte Madera,3,10145.0
+Oconomowoc Lake,6,587.0
+Door County,3,29713.0
+Brownsdale,4,698.0
+Hecker,3,554.0
+Old Field,3,978.0
+Seminole,4,19224.0
+Marble Falls,3,6892.0
+Reeseville,3,786.0
+Moroni,3,1239.0
+Gibraltar,3,4953.0
+Polvadera,4,684.0
+Seven Lakes,3,3919.0
+Oreland,3,6111.0
+Auxier,3,993.0
+Anaconda,3,9380.0
+Edgemont,3,871.0
+The Villages,3,119296.0
+Empire,2,3496.0
+Hobbs,3,39476.0
+Cutlerville,4,19313.0
+Santa Clara County,4,1932022.0
+Cameron County,3,420554.0
+Waynoka,4,781.0
+Harleysville,4,9219.0
+Chantilly,4,23564.0
+Ramsey County,4,549377.0
+Seabeck,3,860.0
+Winston-Salem,4,420400.0
+Dickson County,4,54000.0
+Wauchula,4,4958.0
+Olmito,3,901.0
+De Smet,4,1128.0
+Wrightsboro,4,4654.0
+Bear River,3,951.0
+Italy,2,2353.0
+Misericordia University,4,824.0
+Connellsville,4,7092.0
+Tierra Verde,3,3847.0
+Tega Cay,4,12336.0
+Worcester,3,573573.0
+La Vergne,4,38127.0
+Kent Narrows,4,509.0
+Victory Gardens,3,1666.0
+Mound,3,9365.0
+Washburn County,4,16561.0
+Metcalfe,3,999.0
+Mill Creek East,4,25528.0
+Forest Meadows,3,1371.0
+Guthrie Center,5,1556.0
+St. Charles County,5,402377.0
+Waukesha,4,71307.0
+Glassboro,3,20284.0
+Morgan,2,4105.0
+East San Gabriel,4,22941.0
+Blackduck,3,725.0
+Napa,3,86130.0
+Mission Canyon,3,2353.0
+Readlyn,3,794.0
+Gillette,3,33047.0
+La Belle,3,781.0
+Elk Point,3,2248.0
+North Haven,3,891.0
+Catheys Valley,5,783.0
+Bladen County,4,30105.0
+Waller County,4,55505.0
+Griswold,3,1081.0
+Sudden Valley,3,7251.0
+South Ogden,3,17363.0
+Hazel Dell,3,21650.0
+Plum Grove,3,1623.0
+Boley,3,1139.0
+Scotts Valley,4,12317.0
+Sauk County,4,65428.0
+Honey Grove,3,2128.0
+Ponce Inlet,4,3342.0
+Anson,2,2011.0
+Waterflow,3,1521.0
+Amherst County,4,31381.0
+Laddonia,3,644.0
+Alapaha,4,650.0
+Aspen Park,3,962.0
+Millsboro,3,6542.0
+Volente,3,802.0
+Teague,3,3410.0
+Essexville,3,3377.0
+Fairland,3,25324.0
+Cherokee County,4,262155.0
+Pinardville,4,4849.0
+Oquawka,5,1400.0
+Hookerton,3,706.0
+Cecil-Bishop,4,2576.0
+Waubeka,5,581.0
+Faxon,3,1210.0
+Williamsburg County,4,31279.0
+Payette County,4,24928.0
+Center Moriches,4,7948.0
+Teachey,3,749.0
+Sacramento,2,1924167.0
+Old Hill,3,3026.0
+Kalona,3,2631.0
+Alafaya,4,92080.0
+Lake Mystic,3,561.0
+Cherry Hill Mall,4,13826.0
+Akron,3,546549.0
+Annawan,3,878.0
+Laurel Bay,3,5926.0
+Chattahoochee,6,3370.0
+Langhorne Manor,5,1614.0
+Durant,2,18358.0
+Natchez,3,14435.0
+Walnut Ridge,3,5392.0
+San Miguel,3,3573.0
+Parke County,4,16316.0
+Willimantic,4,18150.0
+Dresser,3,1028.0
+Robstown,3,10372.0
+Red Lake County,4,3921.0
+Netarts,3,813.0
+Fond du Lac County,5,103890.0
+McCullom Lake,5,1054.0
+Volusia County,5,548783.0
+Walnut Springs,3,785.0
+Cedar Knolls,4,4286.0
+Shinglehouse,4,1004.0
+Dunes City,4,1151.0
+Kershaw,4,2249.0
+Radium Springs,4,1991.0
+Parkway Village,4,656.0
+Sunlit Hills,4,794.0
+Kings Mountain,3,10775.0
+Wingo,3,607.0
+Wilkshire Hills,5,2897.0
+Bristol County,3,576070.0
+Sheppton,4,514.0
+Green Knoll,3,6480.0
+Trucksville,4,2006.0
+Institute,2,529.0
+Cresskill,4,9096.0
+Goodhue,3,1207.0
+Temescal Valley,4,27546.0
+Winter Haven,3,240768.0
+Bovina,3,1409.0
+Caruthers,4,2171.0
+Black Earth,3,1720.0
+Nekoosa,3,2361.0
+La Monte,3,1083.0
+Fairborn,3,34398.0
+Elkader,3,1270.0
+New Lenox,3,26942.0
+Chase,2,1010.0
+Glen Park,3,618.0
+Ness City,3,1301.0
+Chelyan,4,662.0
+Taylors,3,23348.0
+Floral City,3,4953.0
+Spanaway,3,34670.0
+Vanleer,3,538.0
+North Lakeville,4,3343.0
+Crewe,3,2853.0
+Folsom,3,79201.0
+Scott AFB,3,4219.0
+Mary Esther,3,3979.0
+Pacheco,3,5129.0
+Spotswood,3,8163.0
+Saxonburg,3,1316.0
+McConnell AFB,4,1776.0
+New Brunswick,3,55671.0
+Yamhill,3,1337.0
+Lake Kiowa,4,2409.0
+Morral,3,507.0
+Zapata County,4,13945.0
+Riverwood,3,509.0
+Moab,3,5329.0
+La Monte,3,1083.0
+Micro,2,526.0
+Mackinaw,3,1956.0
+Fort Worth,3,908469.0
+Holiday Shores,3,3309.0
+Pinewood Estates,4,1407.0
+Algonac,4,4173.0
+Granada,2,527.0
+Flower Mound,3,75050.0
+Grand Point,3,2604.0
+New Germany,3,504.0
+Fern Park,3,8164.0
+Carey,2,3498.0
+Union Point,3,1670.0
+Dix Hills,3,24739.0
+Pine Bluffs,3,1273.0
+Red Lake Falls,4,1267.0
+Red Bud,3,3704.0
+Lake Katrine,4,2465.0
+Ashford,3,2476.0
+Niwot,3,4216.0
+Gervais,3,2585.0
+Wellsburg,3,2442.0
+Governors Village,4,1784.0
+Mocanaqua,4,664.0
+Avenel,3,17132.0
+Fircrest,3,7109.0
+Brambleton,4,21986.0
+Floresville,3,7138.0
+Yates City,4,711.0
+Weweantic,4,1374.0
+Cotton County,3,5603.0
+Trabuco Canyon,5,1269.0
+Ellenboro,3,746.0
+Ridgemark,3,2790.0
+Pearsall,4,7888.0
+Romancoke,3,1667.0
+Many Farms,3,680.0
+Hallandale Beach,4,41004.0
+Wright City,3,4725.0
+Melbourne,2,83500.0
+Royal City,3,2270.0
+Summers County,4,12125.0
+Pelahatchie,5,1733.0
+Girard,3,9571.0
+Aiken,3,31516.0
+Larchmont,4,6532.0
+Dundas,3,1645.0
+Squirrel Mountain Valley,4,1113.0
+Bee County,3,31191.0
+Giddings,4,4986.0
+Anacortes,4,17437.0
+Heritage Pines,3,1817.0
+Phoenixville,3,18437.0
+Montana City,3,2735.0
+Dobson,3,1547.0
+Southern Shores,3,3069.0
+Gordon Heights,3,4377.0
+Ada County,3,485246.0
+Clarksville,4,198689.0
+Shawnee,3,67021.0
+Knippa,3,808.0
+Toppers,3,1091.0
+Dickenson County,4,14256.0
+Scotts Valley,4,12317.0
+Cape Canaveral,4,9979.0
+Rehobeth,4,1713.0
+Malvern,3,10626.0
+Suisun City,5,29436.0
+Hamden,3,764.0
+Fulshear,3,17259.0
+Whitefish Bay,4,14818.0
+West Ocean City,4,5287.0
+Luttrell,3,930.0
+Ragland,3,1784.0
+Kearny,4,41790.0
+Winterstown,3,517.0
+Goldsby,4,2634.0
+Volente,3,802.0
+Curwensville,4,2556.0
+Gustine,3,5990.0
+Lorton,3,21394.0
+Glenwood Springs,4,10017.0
+Kitsap County,4,273072.0
+Conyers,3,17101.0
+Seaman,3,1042.0
+Hollidaysburg,4,5622.0
+Piqua,3,20352.0
+Clarke County,3,128195.0
+Arden,3,551.0
+Hancock,3,4558.0
+Putnam Lake,4,3893.0
+Mountain View Ranches,5,1596.0
+Palmerton,3,5585.0
+Tamiami,4,54525.0
+Gratiot County,4,41758.0
+Broxton,3,1071.0
+Mount Sterling,3,7517.0
+Leland,3,22794.0
+South Paris,3,2169.0
+Newcomerstown,5,3809.0
+Interlachen,4,1646.0
+Grandy,3,2715.0
+Vine Grove,3,6397.0
+Ferrysburg,4,2963.0
+Francisco,2,595.0
+Town Line,3,1837.0
+Stratford Downtown,4,1763.0
+Brazil,2,8320.0
+Cammack Village,5,790.0
+Kaufman,3,6796.0
+Copiah County,4,28453.0
+Woodland,2,60977.0
+Havre de Grace,5,14625.0
+Queen Anne,3,1360.0
+Elk Run Heights,4,877.0
+Forest Grove,3,25767.0
+Rome City,3,1347.0
+Berwick,3,10355.0
+Corona,2,157844.0
+Sorgho,4,2350.0
+India Hook,3,4092.0
+Palatine,3,67754.0
+Flat Top Mountain,4,853.0
+Lebanon Junction,3,2214.0
+Piney Mountain,4,1916.0
+Tillson,3,1767.0
+Claysburg,4,1246.0
+Edwards AFB,3,2721.0
+Hamblen County,4,64184.0
+Olive Hill,3,1424.0
+Gainesboro,4,1098.0
+Dukes County,4,20277.0
+Kahite,3,520.0
+Panhandle,3,2686.0
+Bromley,3,1109.0
+Lucedale,4,2910.0
+Saranac,4,1919.0
+Streator,4,12135.0
+Mount Union,3,2093.0
+Bozeman,3,51574.0
+Troup County,4,69483.0
+Oconto County,4,38691.0
+Edwardsburg,3,1207.0
+Tallassee,4,5199.0
+Lewisburg,3,12131.0
+Payne,3,1476.0
+Keewatin,4,1190.0
+East Gaffney,4,2773.0
+Bridgeton,3,11417.0
+South Pekin,4,1005.0
+Zephyrhills North,5,3570.0
+Winnie,2,2366.0
+Buna,2,1689.0
+La Prairie,3,601.0
+Tenaha,4,1372.0
+Anna Maria,3,944.0
+Longport,3,742.0
+Gunnison County,5,16851.0
+Minden,2,12145.0
+North Eastham,4,1871.0
+Van Wert,3,10793.0
+Aspen,2,7019.0
+Rigby,3,4920.0
+Mars,2,1310.0
+Sutter Creek,4,2614.0
+Buhler,3,1218.0
+Graeagle,3,516.0
+Sanborn County,4,2371.0
+Ridgetop,3,2488.0
+Rolling Meadows,3,24300.0
+Chelsea Cove,3,1171.0
+Meridian Village,4,2747.0
+Castroville,3,6665.0
+Wabash,4,10420.0
+South Valley Stream,4,6754.0
+Canova,3,545.0
+Trimble County,4,8502.0
+Queen Anne's County,6,49702.0
+Botetourt County,6,33542.0
+Cedar Bluffs,3,819.0
+Bow Mar,3,986.0
+Mountain Pine,3,567.0
+Harleysville,4,9219.0
+Pemberton Heights,4,2759.0
+Durham,2,399762.0
+Zolfo Springs,4,1795.0
+Talladega County,4,81850.0
+Berry Creek,3,1190.0
+Plainsboro Center,5,2768.0
+Niverville,4,1163.0
+Pottsgrove,4,3414.0
+Four Bridges,3,3540.0
+Stansbury Park,5,9839.0
+Alameda,3,78320.0
+SeaTac,3,30867.0
+Emmitsburg,4,2769.0
+Hemingford,4,657.0
+Walker Mill,3,10596.0
+Tazewell County,5,131977.0
+Knightstown,3,2109.0
+Neapolis,3,661.0
+Paulden,3,4602.0
+Noroton Heights,4,2723.0
+Lorenzo,2,1020.0
+Hueytown,4,16694.0
+Lake Barrington,3,5557.0
+Little Flock,3,2977.0
+Double Springs,3,1753.0
+Cibolo,3,31489.0
+Chariton County,4,7432.0
+Ossian,3,3263.0
+McBee,3,875.0
+Steger,3,9568.0
+Merigold,3,591.0
+Romoland,3,2781.0
+Linntown,3,1903.0
+Cedartown,3,10091.0
+Wickliffe,3,12688.0
+Bakersfield Country Club,6,1607.0
+Wilber,3,1984.0
+Lake Ketchum,4,1373.0
+Cedar Heights,3,2145.0
+Wheeler,2,1425.0
+Easley,3,22643.0
+Leake County,4,21452.0
+Warren Park,3,1414.0
+Wilber,3,1984.0
+Lovelady,4,613.0
+Creedmoor,3,4860.0
+Terramuggus,5,810.0
+South Amherst,3,1891.0
+Icehouse Canyon,4,524.0
+Cutler,3,5172.0
+East Prairie,3,3018.0
+Nina,2,623.0
+Liberal,2,19340.0
+Wolf Trap,3,16394.0
+Elkhorn City,5,1173.0
+Carlisle County,4,4821.0
+St. Bernard,4,4052.0
+Saginaw County,4,190540.0
+Garland,3,245075.0
+Saxonburg,3,1316.0
+Clementon,3,5271.0
+Paragould,4,29327.0
+Brunswick County,3,133789.0
+South Bound Brook,4,4818.0
+Iselin,3,17684.0
+Wingate,3,3830.0
+Rice County,3,66795.0
+Hiawatha,5,7184.0
+Wye,3,1078.0
+Rosemount,3,25513.0
+Maricopa County,5,4367186.0
+South River,3,16087.0
+Langdon Place,4,966.0
+Starr County,4,65568.0
+Clearfield,3,31802.0
+Rockland,3,6977.0
+Elk Plain,3,15157.0
+Perezville,3,2577.0
+North Rose,3,628.0
+Shinnston,4,2287.0
+Shrub Oak,4,3071.0
+San Joaquin County,4,771406.0
+Lilbourn,3,996.0
+Pawtucket,4,75200.0
+Shinnston,4,2287.0
+Lake Ketchum,4,1373.0
+Franklin Lakes,3,11034.0
+Plymouth Meeting,3,6744.0
+Bradford Woods,3,1226.0
+Bayfield,3,2821.0
+Lenoir City,5,9953.0
+Geary,3,781.0
+Whitwell,3,1771.0
+Chadwick,3,564.0
+Black River,3,1754.0
+Camden,3,72381.0
+DeQuincy,4,3120.0
+Portage County,4,161897.0
+Haysville,4,10887.0
+Northwest Harwinton,5,3089.0
+Massac County,4,14280.0
+East Baton Rouge Parish,5,455447.0
+El Granada,3,5842.0
+Corn,2,574.0
+Vermontville,3,675.0
+Deerfield Beach,4,86062.0
+Keystone,3,25397.0
+Pleasants County,4,7623.0
+Noel,2,1878.0
+Pleasant Run Farm,4,3902.0
+Galveston County,4,347084.0
+Boutte,3,2253.0
+Northwood,3,5195.0
+Mount Angel,3,3397.0
+Mahtomedi,4,8041.0
+Newport East,3,11903.0
+Botkins,3,1132.0
+Nodaway County,4,21571.0
+Kalispell,4,24260.0
+Montpelier,3,7966.0
+Los Molinos,4,1906.0
+Buffalo City,3,801.0
+Seeley Lake,4,1566.0
+Lepanto,3,1785.0
+Los Alamos,3,13270.0
+South San Jose Hills,5,19750.0
+Covelo,3,1317.0
+Beverly Hills,3,32903.0
+Fort Campbell North,4,13323.0
+Muscle Shoals,4,15969.0
+Myrtle,3,552.0
+Cedar City,3,34246.0
+Keefton,3,740.0
+Landfall,3,719.0
+Bentonville,4,52565.0
+Pepin,3,786.0
+Tipp City,3,10202.0
+Chesaning,3,2415.0
+Creswell,3,5625.0
+Fairgarden,3,502.0
+Schoolcraft County,4,8004.0
+Spring Lake,3,11629.0
+Licking County,4,177454.0
+Modjeska,4,838.0
+Frostproof,3,2934.0
+Reid Hope King,4,814.0
+Green Park,3,2683.0
+Ocean Springs,3,18275.0
+La Villa,3,2646.0
+Laona,3,568.0
+Sebeka,4,809.0
+Saginaw,3,118845.0
+Ridgefield Park,4,13202.0
+Mexico Beach,3,1273.0
+Schnecksville,5,3969.0
+South River,3,16087.0
+West Conshohocken,5,1407.0
+Ballenger Creek,4,23114.0
+Keasbey,4,2937.0
+Farr West,4,7581.0
+Chowchilla,4,18826.0
+Northampton County,4,311359.0
+Great Falls,3,62112.0
+Point Lookout,3,1168.0
+Lake Village,3,2247.0
+Margaretville,3,671.0
+King County,3,2240876.0
+Wilkes County,4,66335.0
+Scottville,3,1343.0
+St. Martin Parish,5,52222.0
+Winnetka,4,12658.0
+White Pine County,4,9192.0
+Tolar,3,1405.0
+Delaware County,3,573883.0
+Alcorn State University,5,874.0
+Juneau,3,2702.0
+Muskego,4,24991.0
+La Mesilla,4,2515.0
+Crane,2,3628.0
+Chemung,3,791.0
+Castle Pines Village,4,4356.0
+Manteno,3,8893.0
+Pretty Bayou,3,2497.0
+Uintah,3,1417.0
+Salmon Brook,3,2200.0
+Moenkopi,4,1258.0
+Sappington,3,7119.0
+Seadrift,4,1317.0
+North Hodge,3,564.0
+Deer Lake,3,800.0
+Ubly,3,734.0
+Yonkers,3,209730.0
+Amite City,4,3840.0
+Camp Point,3,1279.0
+Marriott-Slaterville,7,1934.0
+Paxton,3,4269.0
+Bellwood,3,18778.0
+Hardeeville,5,7228.0
+Crenshaw County,4,13300.0
+Rock Mills,3,577.0
+South Canal,3,883.0
+Garberville,4,1416.0
+Newnan,3,41598.0
+Arkoma,3,1851.0
+Kent Estates,3,1944.0
+Roseau County,4,15321.0
+Cliffside,3,569.0
+Waverly,3,23328.0
+Camarillo,4,77795.0
+Dunkirk,3,12651.0
+Bibb County,4,156711.0
+Ridge,2,12931.0
+Benbrook,3,24248.0
+Hitchcock County,4,2630.0
+Mammoth,3,1219.0
+Lecanto,3,7416.0
+Flowery Branch,4,9194.0
+Colesburg,4,521.0
+Kingstown,3,1745.0
+La Grulla,4,1402.0
+San Joaquin County,4,771406.0
+Whitmore Lake,4,8019.0
+Alexandria,2,158185.0
+Cowlitz County,4,109457.0
+Denton County,4,885012.0
+Linton Hall,4,42089.0
+Providence Village,3,7359.0
+Satsop,4,605.0
+Constantine,3,2099.0
+Appling County,4,18509.0
+Chocowinity,4,1226.0
+East Falmouth,3,6739.0
+West View,3,6686.0
+New Underwood,3,889.0
+Troutdale,3,16353.0
+Biglerville,4,1209.0
+Ider,3,604.0
+Lavonia,3,2711.0
+Los Chaves,3,4938.0
+Havre de Grace,5,14625.0
+Whittier,3,87184.0
+Tiskilwa,5,709.0
+Whitmire,3,1503.0
+Catawissa,4,1518.0
+Long Beach,3,466565.0
+Valders,3,926.0
+Pink Hill,3,627.0
+Crest Hill,3,20305.0
+Oriole Beach,4,1739.0
+Issaquena County,6,1111.0
+Walthourville,5,3729.0
+Orangeburg,3,12779.0
+West Bountiful,4,5871.0
+Staten Island,4,495747.0
+Second Mesa,3,1606.0
+Billings County,4,839.0
+Leola,3,7721.0
+Birchwood Lakes,4,1472.0
+Gilpin County,4,5812.0
+Killen,3,1209.0
+Greenbriar,4,7914.0
+Columbus County,3,51474.0
+Sussex,3,11398.0
+Sigourney,4,1805.0
+Lilburn,3,14424.0
+Trappe,3,3946.0
+Star Valley Ranch,4,2168.0
+Melba,3,652.0
+Muscoda,3,1194.0
+The Cliffs Valley,4,664.0
+Frankenmuth,4,5045.0
+Youngsville,4,15167.0
+Frontier County,3,2512.0
+Calwa,3,2517.0
+Eden Prairie,3,64048.0
+Old Miakka,4,1290.0
+Landis,3,3610.0
+Leupp,3,1149.0
+Gallant,3,835.0
+Marriott-Slaterville,7,1934.0
+Floral Park,3,16180.0
+Armour,3,719.0
+Clovis,3,118488.0
+Keokuk County,5,10050.0
+Calimesa,4,10053.0
+Ozona,3,2343.0
+Florida Ridge,3,22151.0
+Round Rock,3,117735.0
+Story,2,887.0
+Bonne Terre,3,6772.0
+South Salt Lake,4,26086.0
+Budd Lake,4,9971.0
+Vadnais Heights,4,12931.0
+Adams County,3,514969.0
+Pioneer Village,3,2681.0
+Tennessee Ridge,3,1281.0
+Hustonville,4,614.0
+Penns Grove,4,4836.0
+Cape Coral,3,682773.0
+Many,2,2337.0
+West Brow,3,953.0
+Lucerne Valley,4,5998.0
+Hampton Bays,3,16546.0
+Port Aransas,4,3058.0
+Lakemore,3,2944.0
+Morrison County,3,33876.0
+Cedar Valley,3,574.0
+Peculiar,4,5559.0
+Foots Creek,4,923.0
+Darmstadt,3,1284.0
+Dallas City,3,844.0
+Victory Gardens,3,1666.0
+Swainsboro,4,7430.0
+North Tonawanda,5,30592.0
+Sully,3,995.0
+Plymouth Meeting,3,6744.0
+West University Place,4,14975.0
+Proctor,3,3113.0
+Rose Lodge,3,1645.0
+Campbellsville,4,11345.0
+Arley,3,625.0
+Avonia,3,1657.0
+Tamalpais-Homestead Valley,8,12535.0
+Hyde Park,3,5116.0
+Hominy,4,3314.0
+Moreno Valley,4,208371.0
+St. Louis County,5,1001982.0
+Howe,3,3440.0
+Diaz,2,1213.0
+Farina,3,722.0
+Glenwood City,4,1272.0
+Viera West,4,14322.0
+Castro Valley,3,66324.0
+Bowdens,3,608.0
+Indialantic,4,2984.0
+Pinellas Park,4,53130.0
+Tiltonsville,4,1394.0
+Lake Wildwood,4,4928.0
+Collinsburg,3,1096.0
+Barling,3,4802.0
+Dunklin County,4,28592.0
+Cassville,3,3182.0
+Tucson,2,875284.0
+Bonney Lake,4,22229.0
+Phenix City,4,38216.0
+Flossmoor,4,9868.0
+Harlowton,4,1096.0
+Homestead Meadows North,5,6521.0
+Trimont,3,723.0
+Groveport,3,5942.0
+Millheim,3,531.0
+Madera County,4,156304.0
+Robinhood,3,1269.0
+Hanson County,4,3429.0
+La Villa,3,2646.0
+Medora,3,917.0
+Choctaw Lake,5,2196.0
+Teton County,4,23319.0
+Chewelah,4,2479.0
+Quakertown,4,9285.0
+Providence Village,3,7359.0
+Avery County,3,17747.0
+Panama City,3,149366.0
+Chelyan,4,662.0
+Salunga,3,3094.0
+Gibson,2,3863.0
+Plainwell,3,3773.0
+Melbourne Beach,3,3219.0
+Scotts Bluff County,5,36229.0
+Albany County,3,314679.0
+Minerva Park,4,1611.0
+Turner,2,2306.0
+Fellsmere,4,4892.0
+Manton,3,1295.0
+Newman Grove,3,947.0
+Ocean Pines,3,12266.0
+Des Plaines,4,60413.0
+Brock Hall,3,12764.0
+Avondale Estates,4,3494.0
+Juniata Gap,4,728.0
+Rendon,3,14597.0
+Premont,3,2591.0
+Pearsall,4,7888.0
+Canute,3,527.0
+Williamsburg County,4,31279.0
+Maxton,3,2224.0
+Laona,3,568.0
+Paul,2,1399.0
+Ferron,3,1516.0
+St. Anthony,4,9145.0
+Mangum,3,2705.0
+Storey County,4,4047.0
+Susquehanna Trails,4,1823.0
+Carolina Beach,3,6456.0
+Velda City,4,1282.0
+Massieville,5,535.0
+Elkhart County,4,206314.0
+Sewickley Hills,5,760.0
+Roscoe,3,11092.0
+Appomattox,5,2214.0
+Brownsville,4,235735.0
+Cabazon,3,2264.0
+Twin Falls,3,51223.0
+Brighton,2,39895.0
+Whetstone,4,2734.0
+Franklin Lakes,3,11034.0
+Northridge,3,7791.0
+Dixon County,3,5632.0
+Mahnomen County,5,5429.0
+Cinnamon Lake,3,991.0
+Stow,3,34556.0
+Waverly Hall,4,713.0
+Runge,3,1100.0
+Terre Haute,3,93247.0
+Providence,2,1270149.0
+Fort Myers,3,84694.0
+Bluffs,3,696.0
+Red Boiling Springs,4,1329.0
+Bonneau Beach,4,1045.0
+Big Coppitt Key,6,3147.0
+Roman Forest,3,2031.0
+Westhampton Beach,5,2234.0
+North Bay Shore,4,18524.0
+Mena,3,5626.0
+Blair County,3,123132.0
+Brookwood,3,2406.0
+Loveland,3,75938.0
+Farmingdale,3,8468.0
+South Amherst,3,1891.0
+Thiensville,4,3284.0
+Ligonier,4,4358.0
+Treasure Island,3,6620.0
+San Patricio County,4,68600.0
+Summit County,3,540567.0
+Palouse,3,1008.0
+Quakertown,4,9285.0
+Fulshear,3,17259.0
+Byram Center,4,2186.0
+Brushy,3,1047.0
+Sanibel,3,6437.0
+Spring Green,3,1595.0
+Harold,2,892.0
+Supreme,2,719.0
+Bronxville,4,6569.0
+Bernalillo County,5,674919.0
+Verplanck,4,951.0
+Vamo,3,2437.0
+Yarrow Point,4,1365.0
+Modena,3,600.0
+San Miguel County,4,27357.0
+Birchwood Lakes,4,1472.0
+Heflin,4,3416.0
+Fort Towson,4,586.0
+Lake San Marcos,4,4127.0
+Ransom County,4,5679.0
+Northfield,3,20374.0
+Phillipsburg,3,15146.0
+Northville,3,6106.0
+Juneau County,4,26595.0
+Cos Cob,3,7089.0
+Westbrook,3,20074.0
+Millis-Clicquot,5,4653.0
+South Run,3,6953.0
+Barker Ten Mile,5,866.0
+Cohutta,3,692.0
+Lake Ketchum,4,1373.0
+Val Verde,3,3177.0
+Hidden Springs,3,3382.0
+Colonial Beach,3,3838.0
+Black Hammock,4,1250.0
+St. Augustine South,5,5354.0
+Kirtland,4,6921.0
+Barataria,4,931.0
+War,2,679.0
+Pageland,3,2854.0
+Wrightsboro,4,4654.0
+Swink,3,617.0
+Garden Prairie,3,528.0
+Benld,3,1655.0
+Bannockburn,4,1315.0
+Owyhee County,5,11815.0
+Renaissance at Monroe,4,719.0
+Lake Madison,3,856.0
+Moody County,3,6335.0
+Shingle Springs,4,3609.0
+Ponca City,4,24499.0
+Kenedy,4,3626.0
+Emigsville,5,3899.0
+Black River Falls,4,3514.0
+South Wilton,3,1309.0
+McCartys Village,5,660.0
+Fort Bragg,3,7049.0
+Isabella County,3,65623.0
+Lemmon Valley,4,5100.0
+West St. Paul,5,20476.0
+Flushing,3,8356.0
+Grinnell,3,9481.0
+Lealman,4,21213.0
+Custer,3,2067.0
+Gearhart,3,1955.0
+Hastings-on-Hudson,7,8505.0
+Van Buren,3,23213.0
+Forks,3,3373.0
+Rice Tracts,4,918.0
+Thermal,2,1198.0
+Blackwell,3,6192.0
+Fisher,2,1797.0
+Cloverly,3,16473.0
+Hamer,3,849.0
+Forest Hills,3,28327.0
+Ukiah,3,16728.0
+Lockland,3,3495.0
+Fordsville,4,584.0
+Cullman County,4,87129.0
+Fresno,3,719558.0
+Pelican Marsh,4,2196.0
+Somervell County,5,9170.0
+Halfway House,4,3348.0
+Isola,3,743.0
+Fort Payne,3,14730.0
+Walworth County,4,105945.0
+West Yellowstone,3,1096.0
+North Beach,3,2611.0
+Lauderdale Lakes,5,35898.0
+Reedsport,4,4289.0
+Rineyville,4,2307.0
+Arthur,2,2006.0
+Kure Beach,4,2474.0
+Dulac,4,812.0
+St. Augusta,4,3506.0
+Lakesite,3,1848.0
+Prentiss County,4,25022.0
+Divide County,3,2196.0
+Sylvester,3,5675.0
+Oconto County,4,38691.0
+Zephyrhills West,5,5474.0
+Huntingburg,3,6534.0
+Cocoa Beach,3,11316.0
+Brillion,3,3277.0
+Evangeline Parish,5,32538.0
+Ives Estates,4,25689.0
+Marshfield,3,18668.0
+Hanna City,3,1372.0
+Clintonville,3,4568.0
+Hudson Bend,3,3035.0
+Short Pump,3,27332.0
+Elmore County,4,87146.0
+Hecker,3,554.0
+College Park,3,34961.0
+Balch Springs,4,27369.0
+Haines City,4,26510.0
+Bayou Vista,4,4015.0
+Three Forks,3,2084.0
+Uvalde County,5,24918.0
+Quentin,2,663.0
+Crow Wing County,4,65879.0
+Ashmore,3,790.0
+Chiefland,3,2152.0
+Coldwater,3,13764.0
+North Ballston Spa,5,1332.0
+Sebeka,4,809.0
+Charlotte,2,1516107.0
+Nelsonville,3,4319.0
+Flat,2,610.0
+Murdo,3,607.0
+Tift County,4,41148.0
+Mount Arlington,3,5812.0
+Marsing,3,1275.0
+Roland,2,3372.0
+Lynnwood,3,38812.0
+Bernalillo County,5,674919.0
+Blucksberg Mountain,5,607.0
+Oklahoma County,3,790938.0
+Solis,3,844.0
+West Baraboo,4,1603.0
+Sealy,3,6766.0
+Loudon,3,5921.0
+Spring Valley Lake,4,8266.0
+Morehead,3,6994.0
+Smithsburg,3,2986.0
+Bloomer,3,3654.0
+West Terre Haute,4,2215.0
+Dunn County,3,45254.0
+Meigs,3,951.0
+Mobridge,3,3215.0
+Pendleton,3,16861.0
+Atlantic Beach,3,13404.0
+West Concord,3,7003.0
+Annapolis Neck,4,13059.0
+Mayflower Village,4,5448.0
+Arbuckle,3,3325.0
+Traill County,4,8008.0
+Falls Church City,4,14494.0
+Pemberwick,4,3293.0
+Okawville,4,1317.0
+Betsy Layne,4,718.0
+Bechtelsville,5,873.0
+La Jara,3,772.0
+Stafford,3,17170.0
+Hernando Beach,4,2544.0
+Catalina Foothills,5,50096.0
+National City,3,56846.0
+Isla Vista,3,15732.0
+Clifton Forge,4,3549.0
+Phillips County,3,16923.0
+Juliaetta,3,563.0
+Lake Grove,3,11110.0
+Harriston,4,993.0
+Veneta,3,5199.0
+Willow Street,3,9338.0
+Bath,2,8718.0
+Westphalia,4,10578.0
+Zephyr Cove,4,662.0
+Lake Hughes,3,611.0
+Old Tappan,4,5870.0
+Pendleton,3,16861.0
+Jim Wells County,4,39203.0
+Doral,3,73126.0
+Saline County,4,122308.0
+Chattahoochee County,7,9533.0
+Cavalier County,4,3725.0
+Mauston,4,4317.0
+Astor,3,1425.0
+Pine Canyon,3,2603.0
+Ecorse,4,9328.0
+Alleghenyville,4,963.0
+Highlands Ranch,4,103238.0
+Borrego Springs,4,2566.0
+Ponchatoula,4,7729.0
+Copan,3,908.0
+Atchison County,5,16382.0
+Fairfield,3,145163.0
+Dennehotso,4,709.0
+Oriental,2,989.0
+Iberville Parish,5,30651.0
+Parkin,3,706.0
+Orlando,2,1927699.0
+Rosanky,3,1488.0
+Lumpkin,4,862.0
+Dalton Gardens,3,2492.0
+Delhi,2,10921.0
+Livingston County,4,193234.0
+Lake Elmo,3,11237.0
+Hansford County,4,5332.0
+Clearlake Oaks,4,2171.0
+Mercedes,2,16274.0
+Hohenwald,4,3696.0
+Bushyhead,4,1320.0
+New Smyrna Beach,4,29674.0
+Chamblee,4,29894.0
+Buffalo Center,3,1080.0
+Adena,3,606.0
+North Key Largo,4,1263.0
+Avenel,3,17132.0
+Shoshoni,4,664.0
+Tye,3,1211.0
+Brush,2,5323.0
+Monrovia,4,37999.0
+Grangerland,4,850.0
+Gonzalez,2,14324.0
+McCone County,4,1805.0
+Nazareth,3,6016.0
+Great Notch,3,4059.0
+Winlock,3,1924.0
+Port Edwards,3,1851.0
+Hancock,3,4558.0
+Donora,3,4570.0
+Seeley Lake,4,1566.0
+Gore,2,1014.0
+Vinco,3,1526.0
+Tangipahoa,5,543.0
+White Deer,3,918.0
+Nelsonville,3,4319.0
+Shadow Lake,3,2200.0
+Ovid,3,1463.0
+Sloatsburg,4,3043.0
+Radcliffe,3,584.0
+Fort Sumner,3,1364.0
+Sunnyside-Tahoe City,7,1507.0
+Reliez Valley,4,3168.0
+Shell Rock,3,1616.0
+West Puente Valley,4,23003.0
+Haubstadt,4,1825.0
+Daphne,2,27088.0
+Haslett,3,19333.0
+Bonne Terre,3,6772.0
+Terrace Heights,4,9114.0
+Burgettstown,4,1277.0
+Carlisle Barracks,4,643.0
+Arnot,3,511.0
+Windfall City,4,771.0
+Marion Heights,3,646.0
+Henderson,2,311250.0
+Mount Sterling,3,7517.0
+Klickitat County,5,22478.0
+Camp County,3,12498.0
+Kingfisher,3,4810.0
+Monroe City,3,2995.0
+American Fork,3,32822.0
+Royal Palm Beach,4,38697.0
+Haw River,3,2579.0
+Fort Atkinson,3,12529.0
+Sheffield,2,9305.0
+Ocklawaha,6,1874.0
+North Bellport,4,10484.0
+Bethel Springs,4,859.0
+Dodge Center,3,2830.0
+Stonewall County,4,1358.0
+Butlertown,3,505.0
+Nyssa,3,3180.0
+Walla Walla,3,33765.0
+Toulon,3,1424.0
+Ringwood,3,11778.0
+Roberta,2,1232.0
+Lamb County,3,13147.0
+Cochranville,4,555.0
+San Luis Obispo County,5,282771.0
+Upper Montclair,4,12033.0
+Lakehills,3,5499.0
+Millry,3,620.0
+Barclay,3,4397.0
+Cannon Falls,3,4198.0
+Pueblo Nuevo,4,632.0
+Bay Point,3,24999.0
+Lake Caroline,3,1454.0
+Carlsbad,4,114858.0
+Las Quintas Fronterizas,7,1062.0
+Green River,3,11887.0
+Hiller,3,1086.0
+Belvedere Park,4,14497.0
+Ballwin,3,30998.0
+The Hideout,4,1782.0
+Cloquet,3,12563.0
+Highland Hills,3,697.0
+Littlerock,4,1144.0
+Malverne Park Oaks,5,581.0
+Springville,3,34750.0
+Gleneagle,3,6259.0
+St. Pete Beach,5,8963.0
+Wade,2,1426.0
+Chariton,3,4193.0
+Chisholm,3,4784.0
+Castalia,3,1120.0
+Clarkdale,3,4419.0
+Orason,3,557.0
+Del Rio,3,34831.0
+Paradis,3,708.0
+Pittsford,4,733.0
+Blackhawk,3,10874.0
+Boyceville,4,1241.0
+Eagle County,3,55693.0
+Honesdale,4,4410.0
+Brooten,4,550.0
+Lake Shastina,4,2880.0
+Millersport,4,1063.0
+Chesapeake City,4,788.0
+Holyoke,3,38480.0
+Prospect,2,4653.0
+Myers Corner,3,10427.0
+Rustburg,3,1944.0
+Newborn,3,795.0
+Citrus City,3,2941.0
+Ballinger,3,3567.0
+Beaumont,3,137549.0
+Watkins Glen,4,1844.0
+Crisfield,3,2533.0
+Remerton,3,1264.0
+Waymart,3,1155.0
+Southside Place,4,1480.0
+Lime Springs,3,534.0
+Walton Park,4,3724.0
+Colleyville,4,25827.0
+St. Lawrence County,5,108836.0
+Groton,3,1641.0
+Orason,3,557.0
+Paisley,3,1115.0
+Ivins,3,8786.0
+Kinney County,4,3199.0
+Hugo,2,15541.0
+Muhlenberg County,5,31011.0
+Bernville,3,848.0
+Five Corners,3,20428.0
+Kellogg,3,2255.0
+Ben Wheeler,3,2026.0
+Elkridge,3,24115.0
+Bryn Athyn,5,1126.0
+Fort Benton,3,1396.0
+Cypress,2,50279.0
+South Bloomfield,3,2528.0
+Buras,3,827.0
+Watsonville,3,76285.0
+Barnstable County,4,227942.0
+Pearl Beach,3,4964.0
+Woodbury,3,74014.0
+Elsberry,3,1862.0
+San Clemente,3,64600.0
+Muscatine County,5,43145.0
+East York,3,8670.0
+Thornville,3,1564.0
+Broomfield County,5,72697.0
+East Grand Forks,4,9140.0
+Swedesboro,4,2721.0
+Wrightwood,3,4568.0
+Sutherland,3,1436.0
+Maryland City,3,18059.0
+Toppers,3,1091.0
+Lake Wildwood,4,4928.0
+Uvalde,4,15374.0
+St. Ignace,5,2041.0
+Hilbert,3,1066.0
+Metcalfe,3,999.0
+Ava,2,2864.0
+Seneca Gardens,4,675.0
+Harbor Springs,3,1088.0
+Log Lane Village,4,960.0
+Driscoll,3,752.0
+Tallassee,4,5199.0
+Munsons Corners,5,2782.0
+Griggstown,4,925.0
+Holland,2,100202.0
+Epps,3,672.0
+Tuscaloosa,3,148523.0
+Deer Trail,3,599.0
+Travis Ranch,3,8201.0
+Bothell East,4,13437.0
+South Coatesville,4,1566.0
+Pines Lake,4,3079.0
+Miller,2,1338.0
+Saks,3,10504.0
+Munfordville,4,1743.0
+Mills River,3,7082.0
+Dresser,3,1028.0
+Kuttawa,4,579.0
+Woodbranch,3,1628.0
+North Ballston Spa,5,1332.0
+Hokendauqua,5,3135.0
+Belle Mead,3,5754.0
+Hines,3,1685.0
+Garden City Park,4,7807.0
+Avery County,3,17747.0
+Hutchison,3,6503.0
+Runnemede,4,8316.0
+Millis-Clicquot,5,4653.0
+Bell Acres,3,1528.0
+Roselle Park,4,13973.0
+Bellemeade,4,938.0
+Jupiter Island,3,879.0
+Haywood County,4,61695.0
+Baldwin County,3,227131.0
+Tipton County,4,60868.0
+Gleed,3,3184.0
+Cambridge Springs,3,2502.0
+South Hills,3,669.0
+South Willard,3,1567.0
+Sullivan County,3,157843.0
+Stamford,3,134820.0
+Childress,3,5751.0
+Kidder County,4,2397.0
+Lakehurst,3,2629.0
+Cleburne,3,30984.0
+Fish Springs,3,555.0
+Panhandle,3,2686.0
+Nissequogue,4,1640.0
+Emsworth,4,2551.0
+Cañada de los Alamos,6,664.0
+Dufur,4,897.0
+North Beach,3,2611.0
+Strongsville,4,46187.0
+Pinecrest,4,18405.0
+Tobaccoville,3,2582.0
+Somis,3,993.0
+Hoboken,3,59369.0
+Kutztown,4,4257.0
+Sellersville,4,4528.0
+Villa Ridge,3,3177.0
+Galva,3,2527.0
+Blountstown,4,3168.0
+Warm Beach,3,3313.0
+Sabula,3,519.0
+Occidental,3,1126.0
+Mims,3,7702.0
+Evans County,3,10761.0
+Maysville,4,8851.0
+Jacksonwald,3,4157.0
+Monte Sereno,4,3502.0
+Cottonport,3,1965.0
+Thurston County,4,290642.0
+Grand Saline,3,3093.0
+Sequatchie County,5,15727.0
+Frio County,4,18428.0
+Fairfield,3,145163.0
+Sheridan County,4,30812.0
+Starbuck,3,1240.0
+Belvedere Park,4,14497.0
+Monmouth Beach,4,3197.0
+West Odessa,3,31927.0
+Tishomingo County,6,18945.0
+South Ashburnham,5,848.0
+Fort Irwin,3,9100.0
+Port LaBelle,4,5487.0
+Three Way,3,1689.0
+South Browning,3,1392.0
+Notre Dame,3,6581.0
+Oneida,3,10493.0
+Beaverton,3,97466.0
+Deephaven,3,3878.0
+Velva,3,1120.0
+Beulah,3,3070.0
+South Beach,3,3204.0
+San Benito,3,24812.0
+Garland County,4,99694.0
+Argos,3,1742.0
+Timber Pines,3,4935.0
+Schenectady,4,66809.0
+Big Spring,3,26199.0
+North Bellmore,4,21535.0
+Taholah,4,685.0
+Oregon County,3,8891.0
+Zimmerman,3,6108.0
+Dash Point,3,1035.0
+Cutlerville,4,19313.0
+Sausal,3,568.0
+East Bakersfield,3,11025.0
+Durham,2,399762.0
+Schurz,3,960.0
+Winner,2,2882.0
+Towaoc,4,1284.0
+Cole County,3,77412.0
+Olive Hill,3,1424.0
+Lacey,3,52572.0
+Bowie,3,58113.0
+Taylorsville,4,60295.0
+Grand Coteau,4,845.0
+Stony Prairie,4,1729.0
+Stark County,3,374712.0
+Allardt,3,1038.0
+Siloam Springs,5,16944.0
+Vero Lake Estates,5,7194.0
+Boscobel,4,3294.0
+Winner,2,2882.0
+Dover Plains,3,1289.0
+Laurel Lake,3,2396.0
+Beatrice,2,12276.0
+Zwolle,3,1963.0
+Cooperstown,3,2035.0
+Pacheco,3,5129.0
+East Basin,3,3310.0
+Belle Rose,3,2413.0
+Bowmans Addition,4,821.0
+Rancho Calaveras,5,5893.0
+Habersham County,4,45767.0
+Terra Alta,3,2067.0
+County Center,3,4191.0
+Ammon,3,17401.0
+Monongahela,4,4168.0
+Cole County,3,77412.0
+Meagher County,4,1932.0
+Cream Ridge,3,565.0
+Osprey,3,6395.0
+Madera County,4,156304.0
+Boise County,4,7549.0
+Camino,3,2042.0
+Goodview,3,4126.0
+Rancho Banquete,5,517.0
+Chittenango,4,4927.0
+Fairfax,3,23980.0
+Battlement Mesa,4,5220.0
+Selmer,3,4421.0
+Conway Springs,3,1483.0
+East Wenatchee,5,14113.0
+Indio Hills,4,565.0
+Okemah,3,3113.0
+Miles City,3,8441.0
+Mazomanie,4,1754.0
+Fort Totten,4,1167.0
+Rush City,3,3238.0
+Bard College,3,1488.0
+Carl Junction,3,8099.0
+Calvert County,4,92515.0
+Pearson,2,2010.0
+Sagamore,4,4229.0
+Laclede County,5,35898.0
+North New Hyde Park,5,15125.0
+Arlington Heights,3,77283.0
+Rodney Village,3,1472.0
+Herkimer County,5,60596.0
+Hillside,3,8286.0
+Wintersville,4,3892.0
+Dale County,3,49443.0
+Klickitat County,5,22478.0
+English,2,1052.0
+Elmsford,3,5176.0
+Sussex,3,11398.0
+Varnell,3,2226.0
+Charlevoix County,5,26109.0
+South Pekin,4,1005.0
+Baconton,3,923.0
+Holly Hills,3,2843.0
+Cottonwood Falls,4,832.0
+East Dennis,3,3272.0
+Scotts Corners,4,507.0
+Gooding County,4,15422.0
+Boyertown,4,4242.0
+Troup,3,2200.0
+Boonsboro,4,3757.0
+L'Anse,5,2089.0
+Hailesboro,4,699.0
+Foreman,3,1121.0
+Brightwood,3,1359.0
+Lewis County,3,81214.0
+Wildewood,4,6805.0
+Hastings-on-Hudson,7,8505.0
+Taft Mosswood,5,1351.0
+Ellettsville,5,6559.0
+Santa Monica,3,92828.0
+Pawnee City,4,899.0
+Williamsdale,3,854.0
+Bouse,3,1153.0
+Trimont,3,723.0
+Tunica,3,1202.0
+Flanagan,3,911.0
+Clermont County,4,207650.0
+Sauk Village,4,9981.0
+Creston,3,7594.0
+Osawatomie,5,4275.0
+Darrtown,4,567.0
+Hialeah,4,224362.0
+Saginaw,3,118845.0
+Robbinsdale,4,14522.0
+Lecompte,3,804.0
+Tazewell County,5,131977.0
+Salunga,3,3094.0
+Kenesaw,4,857.0
+Edinboro,4,5097.0
+Colo,2,809.0
+Pittman Center,4,654.0
+Woods Hole,3,1127.0
+Corvallis,3,66090.0
+La Center,3,3471.0
+Peosta,3,2161.0
+South Miami Heights,4,36239.0
+Greenup County,4,35996.0
+Agency Village,3,1068.0
+Heritage Pines,3,1817.0
+Stromsburg,3,1010.0
+Danville City,4,42556.0
+Dumas,3,14565.0
+Elysburg,4,2336.0
+Cocke County,4,35896.0
+Oshkosh,4,74737.0
+Perryman,3,2767.0
+Lake Wales,3,16173.0
+North Eagle Butte,4,1731.0
+Osage County,4,46140.0
+National City,3,56846.0
+Vado,3,3199.0
+Gnadenhutten,5,1250.0
+Ringwood,3,11778.0
+Bellview,3,22613.0
+Hondo,3,8332.0
+Cordaville,3,2776.0
+Elsinore,4,782.0
+Kent County,3,654958.0
+Dakota,2,677.0
+Divernon,4,1182.0
+Rosanky,3,1488.0
+Ridgecrest,3,27989.0
+Ossian,3,3263.0
+Jersey City,3,287146.0
+East Cathlamet,5,521.0
+Bayside Gardens,4,1014.0
+Copper Canyon,3,1956.0
+Ducor,3,613.0
+Argusville,4,537.0
+Garza-Salinas II,7,579.0
+Sussex,3,11398.0
+Peach Springs,3,1315.0
+Swartz Creek,4,5839.0
+Maybee,3,658.0
+Philmont,3,1403.0
+Winona Lake,4,5059.0
+Ashwaubenon,5,17042.0
+Oceana,4,1347.0
+New Egypt,3,1813.0
+Southfield,3,76196.0
+Joshua Tree,3,7398.0
+Glenmont,3,15795.0
+Ulster County,4,181862.0
+Oriental,2,989.0
+Centennial,3,107972.0
+Toro Canyon,3,1714.0
+Brinckerhoff,4,2459.0
+Lake Bungee,4,521.0
+State Center,3,1631.0
+Pine,2,1697.0
+Baudette,3,1022.0
+Pacheco,3,5129.0
+White Rock,3,5716.0
+Verona Walk,4,2688.0
+St. Leo,4,1277.0
+Inyo County,4,18804.0
+Poulan,3,823.0
+Niantic,4,3240.0
+Dilworthtown,4,1037.0
+Star Lake,3,600.0
+Spiro,3,2095.0
+Pretty Prairie,3,583.0
+Marquette,3,20561.0
+South Dos Palos,5,1003.0
+Diablo,2,689.0
+Becker County,3,34995.0
+South Dennis,3,3259.0
+Warwick,3,82666.0
+Howell County,4,39753.0
+Duval County,4,983153.0
+Gypsum,3,8047.0
+Fraser,2,14703.0
+Hazel Dell,3,21650.0
+Bogota,3,8830.0
+Ebensburg,3,3402.0
+Gaston,3,2089.0
+Charlevoix County,5,26109.0
+Tucson,2,875284.0
+Oroville,3,20409.0
+Marlene Village,3,5064.0
+Upper Grand Lagoon,4,18140.0
+Holbrook,3,26958.0
+Quakertown,4,9285.0
+Mariposa County,4,17225.0
+San Luis,3,35289.0
+Eastland County,4,17785.0
+Castle Hills,3,4007.0
+Tulsa,3,715983.0
+Peotone,3,4137.0
+Encantada-Ranchito-El Calaboz,11,1362.0
+St. Petersburg,4,258245.0
+Gibsland,4,574.0
+Ada,2,16804.0
+Redington Beach,4,1243.0
+Johnson Lane,3,6277.0
+Juneau,3,2702.0
+Wyomissing,4,11026.0
+Quasqueton,5,791.0
+West Bend,3,69672.0
+Noblesville,4,68885.0
+Park Layne,4,4252.0
+Chinchilla,3,1938.0
+Harveys Lake,4,2788.0
+Island Lake,3,8057.0
+Gibson City,3,3593.0
+Hobbs,3,39476.0
+Galva,3,2527.0
+Garner,3,30859.0
+Tuscarawas County,6,93025.0
+Stony Creek Mills,5,722.0
+Claiborne,4,13147.0
+Two Rivers,3,11276.0
+Selmont-West Selmont,7,1995.0
+Amherst County,4,31381.0
+Lindstrom,3,4838.0
+Jenks,3,25210.0
+Lithia Springs,4,15825.0
+Braymer,3,628.0
+Marsing,3,1275.0
+Sedgwick County,4,520467.0
+Minnesota Lake,3,600.0
+Wyndmoor,4,5713.0
+Chevy Chase Section Three,6,982.0
+Seven Fields,3,2905.0
+Vilas County,4,22813.0
+Rio Grande County,4,11476.0
+Junction,2,2591.0
+Big Lake,3,11614.0
+Seco Mines,4,1064.0
+Monmouth Beach,4,3197.0
+Hopkinsville,3,30771.0
+Mountain Village,3,1577.0
+Walnutport,3,1925.0
+Hollow Rock,3,762.0
+Pontotoc,3,5621.0
+Lynnview,3,689.0
+South Pottstown,4,2309.0
+Worcester,3,573573.0
+Little Silver,3,6103.0
+Otis Orchards-East Farms,7,6133.0
+Horseshoe Bend,4,2432.0
+Sierra View,3,5323.0
+North Powder,3,655.0
+Liberal,2,19340.0
+Maringouin,4,515.0
+Constantine,3,2099.0
+University of California-Davis,6,8532.0
+Elysian,3,657.0
+Wolverine Lake,3,4515.0
+Sterlington,3,2094.0
+Saugerties South,5,2023.0
+Mount Auburn,3,606.0
+Ridge,2,12931.0
+Granville County,4,60854.0
+Whispering Pines,4,4759.0
+Hallettsville,5,2709.0
+Manassas,3,42596.0
+Twin City,3,1838.0
+Frankfort Square,4,9214.0
+Wathena,4,1415.0
+Lynwood,3,67497.0
+Morris,2,14601.0
+Bodega,3,629.0
+Clarkesville,4,1644.0
+Tippah County,4,21877.0
+Manistique,3,2817.0
+Waukee,4,23441.0
+Isanti,3,6667.0
+Ladysmith,4,3194.0
+Tri-City,4,4009.0
+Sandy Valley,3,1723.0
+Villa Park,3,22755.0
+Mifflin County,4,46156.0
+Lake Pocotopaug,6,5124.0
+Eddy County,3,61096.0
+Stewartville,3,6620.0
+Sublette County,4,8830.0
+West Dennis,3,2703.0
+Windy Hills,4,2381.0
+Velva,3,1120.0
+Swartz Creek,4,5839.0
+Parkesburg,4,3859.0
+Fife Heights,4,1833.0
+Tieton,3,2044.0
+Brewerton,4,4699.0
+Donald,2,1200.0
+Whitewood,3,901.0
+Greenbelt,3,24602.0
+Blacksburg,3,94398.0
+Oakridge,3,3247.0
+McCloud,3,870.0
+Toulon,3,1424.0
+Thief River Falls,4,8791.0
+Green Acres,3,759.0
+White Bear Lake,4,24520.0
+Tuba City,4,8748.0
+McLean,3,49310.0
+Higbee,3,570.0
+Pearl City,3,808.0
+Mille Lacs County,5,26397.0
+South Tucson,3,4726.0
+Williamstown,3,14947.0
+Rowlesburg,4,614.0
+Youngstown,3,363541.0
+Caseyville,3,4185.0
+Marshfield Hills,4,2244.0
+Salem Heights,3,3501.0
+Putnam Lake,4,3893.0
+Cashiers,4,659.0
+Stromsburg,3,1010.0
+Foscoe,3,1336.0
+Shaw Heights,3,5648.0
+Roselawn,3,3659.0
+La Mirada,4,47957.0
+Assumption Parish,3,21366.0
+Highland-on-the-Lake,8,3962.0
+Brusly,3,2604.0
+Eureka County,3,1603.0
+The Plains,3,2644.0
+Marrero,4,31928.0
+McCordsville,4,8629.0
+Fort Hall,3,2499.0
+New Johnsonville,4,1860.0
+Barry,2,1549.0
+Oglala Lakota County,7,13835.0
+Yonah,3,501.0
+Indian Springs Village,4,2563.0
+Finderne,3,6052.0
+Helmetta,3,2365.0
+Coleraine,4,1715.0
+West Unity,3,1904.0
+Lowesville,4,3258.0
+Southern Gateway,3,3163.0
+Pelican Rapids,4,2577.0
+Granville County,4,60854.0
+Limestone Creek,4,1597.0
+Atglen,3,1202.0
+Mobile County,3,414620.0
+Walled Lake,4,7263.0
+Monte Rio,3,864.0
+Paulden,3,4602.0
+Garden City Park,4,7807.0
+Le Sueur,4,4174.0
+West Menlo Park,4,3492.0
+Beatrice,2,12276.0
+Bixby,4,28091.0
+Brookfield,3,41020.0
+Lowden,3,819.0
+Gibbon,3,1911.0
+Laurel County,3,62090.0
+Corbin,3,8397.0
+Mount Union,3,2093.0
+Copperopolis,3,3563.0
+Sausal,3,568.0
+Oakton,3,36675.0
+Mount Dora,3,15830.0
+Fordoche,3,1024.0
+Enterprise,2,219566.0
+Valencia West,3,12887.0
+Pioneer Village,3,2681.0
+Trotwood,4,23157.0
+Goessel,3,576.0
+Mooreville,3,1961.0
+Van Zandt County,5,58782.0
+Eglin AFB,4,2744.0
+Anaconda,3,9380.0
+Vander,2,1341.0
+La Pine,3,2390.0
+Reinbeck,3,1752.0
+Maries County,4,8457.0
+Duvall,3,8007.0
+Vinita Park,4,1666.0
+Mantorville,4,938.0
+Garland,3,245075.0
+Sound Beach,3,7289.0
+Leipsic,4,2340.0
+Quinter,3,907.0
+Burr Oak,4,754.0
+Trout Lake,3,732.0
+West Hamlin,3,543.0
+Elk Park,3,593.0
+Byng,3,1254.0
+Hammondsport,4,582.0
+Del City,3,21778.0
+River Rouge,3,7257.0
+Lone Star,3,1798.0
+University Place,3,34565.0
+Cass Lake,3,558.0
+Bonne Terre,3,6772.0
+Arenac County,4,15009.0
+Charlotte Park,3,1913.0
+Waggaman,4,11161.0
+Amsterdam,2,18218.0
+Savanna,3,3102.0
+Rancho Tehama Reserve,6,1700.0
+Rio Verde,3,2404.0
+West Pelzer,4,1136.0
+White House Station,4,3991.0
+Middlebranch,3,2182.0
+Roessleville,4,11835.0
+San Castle,3,3495.0
+Boyle,3,921.0
+Four Bridges,3,3540.0
+Kenton,3,8032.0
+Maple Heights,3,23511.0
+Gatesville,3,15997.0
+New Madrid County,4,16658.0
+Centre County,3,158879.0
+Trail Creek,3,1954.0
+Molalla,3,10060.0
+Warner,2,1414.0
+Candler-McAfee,7,22880.0
+Bear Lake County,4,6327.0
+Porter,2,5175.0
+Port Charlotte,3,62531.0
+Yukon,3,23697.0
+Coats Bend,4,1119.0
+Red Corral,3,1838.0
+Ness City,3,1301.0
+Golinda,3,793.0
+Boundary County,3,11966.0
+Swifton,4,1229.0
+Lake Morton-Berrydale,6,10709.0
+Zena,3,781.0
+New Burlington,3,4704.0
+Champion Heights,3,6237.0
+Gordon Heights,3,4377.0
+Newfield,3,1795.0
+Cochranville,4,555.0
+Talco,3,577.0
+The Crossings,4,22382.0
+Lac du Flambeau,6,1776.0
+Kenyon,3,1827.0
+Mattydale,3,6250.0
+Lampasas,3,7221.0
+Desert Hot Springs,4,31988.0
+Freeburg,3,4195.0
+Newburyport,4,18282.0
+Los Altos Hills,4,8520.0
+Mount Orab,4,4200.0
+Pierson,3,1575.0
+Midland County,4,166964.0
+East Carroll Parish,4,7502.0
+Raleigh,2,1062018.0
+Harrisonville,3,10070.0
+Greilickville,5,1412.0
+Marinette,3,11025.0
+Glade Spring,4,2068.0
+Wallis,2,1568.0
+Cortland County,4,46984.0
+Elm City,3,1300.0
+Lula,3,2830.0
+Downers Grove,4,50209.0
+Factoryville,3,1234.0
+Loghill Village,4,601.0
+North Westport,3,4835.0
+Riverside,2,2022285.0
+Battle Lake,3,654.0
+West Perrine,4,10093.0
+Farrell,3,4329.0
+Watauga County,5,54077.0
+Iredell County,4,183965.0
+Mazomanie,4,1754.0
+Magee,3,3984.0
+Gruetli-Laager,7,1657.0
+Ama,2,1229.0
+Pike Creek Valley,4,11718.0
+Kenvir,3,556.0
+Banning,3,29664.0
+Hallowell,4,2542.0
+Colquitt,4,2051.0
+New Chapel Hill,4,758.0
+Kings Point,3,5493.0
+Tuscola,3,4769.0
+West View,3,6686.0
+Kittery Point,4,1017.0
+New Chapel Hill,4,758.0
+Lake Montezuma,4,4362.0
+Waseca,4,9237.0
+Onley,3,674.0
+Fairchilds,3,755.0
+Reddick,3,522.0
+North Barrington,3,2814.0
+Kirtland,4,6921.0
+San Juan County,4,122912.0
+Newmanstown,3,2792.0
+Horse Cave,3,2409.0
+Briarcliff Manor,5,7587.0
+Wolf Point,3,2638.0
+Ambler,3,6747.0
+Pendleton,3,16861.0
+Larchwood,4,966.0
+Trafalgar,3,1108.0
+Piru,3,2203.0
+Eagle Pass,3,28367.0
+Trotwood,4,23157.0
+Inkerman,4,1288.0
+Airmont,4,9964.0
+New Glarus,5,2211.0
+Casselberry,4,28750.0
+Murfreesboro,4,181450.0
+Adelphi,3,16977.0
+Trinity,2,18191.0
+Emerald Lake Hills,4,4545.0
+Leadwood,3,1849.0
+North Valley,3,12594.0
+Estero,3,36187.0
+Tahoka,3,2350.0
+Ozark Acres,4,706.0
+August,2,9829.0
+North Enid,3,1056.0
+Pascagoula,5,22001.0
+Homestead Meadows North,5,6521.0
+Westbrook Center,4,2241.0
+Trumann,3,7416.0
+Westview,3,11010.0
+Norman,2,125745.0
+West Vero Corridor,4,10158.0
+West Dennis,3,2703.0
+Rockbridge County,4,22663.0
+Kewanna,3,594.0
+Port Republic,3,1058.0
+Fulda,3,1314.0
+Pond Creek,3,1032.0
+Cadillac,3,10317.0
+Green County,3,37098.0
+Fletcher,2,7935.0
+Wesley Hills,3,6105.0
+Ponce Inlet,4,3342.0
+Cabell County,4,94622.0
+Sugarland Run,4,12928.0
+Hall County,3,201703.0
+Forest Home,3,923.0
+Perham,3,3460.0
+Vails Gate,4,2917.0
+Olivette,4,8408.0
+Versailles,3,10196.0
+Clymer,4,1184.0
+Firebaugh,3,8040.0
+Port St. Lucie,5,468979.0
+Warrior,2,3211.0
+Pecan Plantation,4,6607.0
+Fernley,3,22343.0
+Hartville,3,3286.0
+Scotts Valley,4,12317.0
+Orange Park,3,8682.0
+Soudersburg,4,810.0
+Kentwood,3,53884.0
+New Bern,3,31058.0
+Wesson,3,2224.0
+Clarissa,3,564.0
+Three Springs,3,513.0
+Thornport,3,1086.0
+Eddyville,3,2618.0
+Brownsville,4,235735.0
+LeRoy,3,524.0
+Mason Neck,3,1903.0
+Rutherford,3,18781.0
+Eastern Goleta Valley,5,29983.0
+Woodsdale,4,557.0
+Doffing,4,5396.0
+Charles City,3,7399.0
+Alleghenyville,4,963.0
+Horseheads North,4,2765.0
+Port Republic,3,1058.0
+Valley Grande,3,4137.0
+Whitfield County,4,103076.0
+Port Austin,3,599.0
+Rhea County,4,32723.0
+Arp,3,1483.0
+Naples Manor,3,6384.0
+Woodbury Center,4,1470.0
+Ellicott,4,1282.0
+Gallitzin,4,1628.0
+Goose Creek Lake,4,666.0
+Mesa,2,497752.0
+Hildebran,4,1887.0
+Hennepin,4,832.0
+Doyline,4,645.0
+Harrisonburg,3,74901.0
+Presque Isle County,5,12976.0
+Zelienople,5,3874.0
+Chattahoochee County,7,9533.0
+Idaho Falls,3,101326.0
+Mount Kisco,4,10904.0
+Naples Manor,3,6384.0
+Sand Springs,3,19935.0
+Pojoaque,4,2281.0
+Zeigler,4,1563.0
+Webster Groves,3,23817.0
+Romney,3,2035.0
+St. Meinrad,5,678.0
+Clayhatchee,4,637.0
+Beckham County,4,22349.0
+Rosman,3,700.0
+Cuero,3,8200.0
+Sammamish,5,66532.0
+Pine Haven,3,667.0
+New Eagle,3,2377.0
+Marmet,3,1557.0
+Malone,3,2175.0
+Tavernier,4,2286.0
+Halstead,4,2395.0
+Saw Creek,3,4187.0
+Crewe,3,2853.0
+La Plata County,4,55673.0
+Hildale,4,1069.0
+Rappahannock County,5,7400.0
+Hyde,2,1284.0
+North Barrington,3,2814.0
+Price,2,8192.0
+Sarepta,4,770.0
+Myrtle Point,4,2691.0
+Grainger County,4,23377.0
+Prentiss,3,965.0
+DeWitt County,4,19834.0
+King Arthur Park,4,1951.0
+Riverdale Park,4,7321.0
+Tiki Island,4,982.0
+Torrington,3,35447.0
+Archer City,3,1690.0
+Siloam Springs,5,16944.0
+Albertville,3,22268.0
+Excel,2,539.0
+Carmi,3,5012.0
+Webster City,3,7825.0
+Wister,3,988.0
+West Chicago,3,25881.0
+Ragland,3,1784.0
+Tilton Northfield,5,2868.0
+Middletown,3,95296.0
+Hoxie,4,2618.0
+Redlands,3,72649.0
+New Tripoli,3,678.0
+Hailey,3,9001.0
+Withamsville,4,7899.0
+Weakley County,4,32948.0
+Prentiss County,4,25022.0
+Minto,3,664.0
+Gig Harbor,3,11505.0
+Baldwyn,3,3254.0
+Seabrook Island,4,1904.0
+Peosta,3,2161.0
+Leominster,4,118190.0
+Worland,3,4843.0
+Sanford,3,60215.0
+North Hartsville,4,2646.0
+Susquehanna County,4,38892.0
+West Hattiesburg,5,6447.0
+Hyde,2,1284.0
+Second Mesa,3,1606.0
+Vado,3,3199.0
+New Philadelphia,3,17622.0
+Lake Elsinore,5,68822.0
+Wilburton,3,2786.0
+Penn,2,661.0
+Ridgetop,3,2488.0
+Taylor Mill,3,6834.0
+Deerwood,3,1522.0
+Paradise Heights,3,614.0
+Lake of the Woods County,6,3757.0
+Pewee Valley,4,1442.0
+Costa Mesa,3,112148.0
+Boomer,2,618.0
+Winder,3,17768.0
+Beebe,3,8343.0
+Ogle County,4,51787.0
+La Rue,3,636.0
+Wyndmoor,4,5713.0
+Rossiter,3,649.0
+Fort Jones,3,647.0
+North Olmsted,4,32371.0
+Electric City,3,954.0
+French Camp,3,3778.0
+Kraemer,3,1053.0
+Norwich,3,201726.0
+Nocona,3,2998.0
+Orland Hills,4,6914.0
+Toomsuba,5,638.0
+Seth Ward,3,1849.0
+Lukachukai,4,1637.0
+Brantley,4,966.0
+Dulce,3,2607.0
+Greenwood Lake,4,3055.0
+Muscatine,4,23759.0
+Mathis,3,4413.0
+Tenafly,4,15307.0
+Sedillo,3,502.0
+Crouch Mesa,4,4997.0
+Totah Vista,4,537.0
+Helena West Side,4,1743.0
+Puget Island,4,1153.0
+Elmhurst,3,45661.0
+Irene,2,523.0
+Blackwells Mills,4,10488.0
+McCamey,4,1718.0
+South Duxbury,4,3381.0
+Perdido,3,649.0
+Du Quoin,4,5842.0
+Blytheville,4,13559.0
+Urbana,3,39189.0
+Groves,3,17078.0
+San Patricio County,4,68600.0
+Langhorne,4,1655.0
+Maryland Heights,3,28141.0
+Broadmoor,3,4487.0
+Ontonagon,4,1322.0
+Westwego,3,8538.0
+Pemiscot County,5,15949.0
+North Boston,3,2568.0
+Tyndall,4,1210.0
+Biola,3,1515.0
+Heritage Hills,3,4050.0
+Pickens,3,3326.0
+Fort Myers,3,84694.0
+Vilas County,4,22813.0
+Laguna Niguel,4,64608.0
+Evant,3,508.0
+Sloan,3,3754.0
+Kossuth County,5,14823.0
+McLeod County,4,36662.0
+Serenada,3,1668.0
+Hunters Creek,4,19554.0
+East Syracuse,3,3096.0
+Cimarron County,5,2271.0
+Regency at Monroe,5,2016.0
+Appalachia,4,1472.0
+Ludington,3,7728.0
+Lake California,3,3668.0
+Aldan,3,4214.0
+Limestone Creek,4,1597.0
+Gasport,3,1396.0
+Leonville,3,1742.0
+Addis,3,6503.0
+Laurel County,3,62090.0
+Annabella,3,844.0
+The Dalles,4,15942.0
+Mather,3,4707.0
+Hamden,3,764.0
+Newnan,3,41598.0
+Capitol View,3,3087.0
+Catalina Foothills,5,50096.0
+New Chapel Hill,4,758.0
+Burlingame,4,31142.0
+Bull Mountain,3,9545.0
+Westmoreland,3,2666.0
+Yates City,4,711.0
+Green Springs,3,1334.0
+Romoland,3,2781.0
+Ellisburg,3,5093.0
+Morehead City,4,9535.0
+Isla Vista,3,15732.0
+Brooklyn,2,2736074.0
+Hooven,3,542.0
+Escambia County,5,318828.0
+Circle City,3,657.0
+Fentress County,5,18385.0
+World Golf Village,4,19975.0
+Corriganville,4,760.0
+Cañoncito,4,1155.0
+Terramuggus,5,810.0
+Erin,2,1607.0
+Lakeside Park,4,2820.0
+Timnath,3,6289.0
+Shepherdstown,3,1529.0
+De Baca County,4,1873.0
+Big Rapids,3,9105.0
+La Monte,3,1083.0
+Redington Shores,4,2043.0
+Pinecrest,4,18405.0
+Steelton,3,6217.0
+Flora Vista,3,1990.0
+Mulga,3,682.0
+Randallstown,3,35641.0
+Yakima County,4,255151.0
+Meridian,3,115227.0
+Marlow,3,4387.0
+Hartford City,4,5895.0
+Tequesta,3,6097.0
+Valle Vista,3,19550.0
+Cold Springs,3,10920.0
+Nez Perce County,5,41820.0
+Pecos,3,12467.0
+New Lebanon,3,3999.0
+Massac County,4,14280.0
+Niagara Falls,3,48763.0
+Edinburgh,2,4290.0
+McCormick,3,2936.0
+Lubbock,3,259946.0
+Cherry Hills Village,4,6426.0
+Barberton,3,25309.0
+Haines City,4,26510.0
+Transylvania County,4,32979.0
+Buckhorn,3,2522.0
+Occoquan,4,1112.0
+Albany,2,604077.0
+Louisville,2,1022630.0
+Glide,2,1431.0
+Arroyo Grande,5,18422.0
+Port Isabel,3,5208.0
+West Puente Valley,4,23003.0
+Conover,3,8393.0
+Polson,3,5161.0
+Elko New Market,5,4777.0
+Lewisville,3,110077.0
+Skippers Corner,4,3514.0
+Onley,3,674.0
+Clemson,3,17238.0
+Red Hill,3,16060.0
+Cherry Creek,3,11389.0
+Dover Beaches North,4,1826.0
+Charlotte Court House,4,691.0
+Triangle,2,10868.0
+Blackwell,3,6192.0
+Blairsville,4,3259.0
+Stallion Springs,4,3018.0
+Scott AFB,3,4219.0
+Oriskany,4,1155.0
+Thomson,2,6892.0
+Shell Rock,3,1616.0
+Foxfield,3,648.0
+Wyndmere,4,554.0
+Babbie,3,506.0
+Echo,2,572.0
+East San Gabriel,4,22941.0
+Brocton,3,1467.0
+Parmer County,4,9874.0
+Cocoa,2,18891.0
+Rainsville,4,5466.0
+Holiday City-Berkeley,5,12889.0
+Runge,3,1100.0
+Perkins,3,3265.0
+Irvona,3,556.0
+Schuylerville,5,1541.0
+Bowersville,4,639.0
+Bee Ridge,3,9921.0
+Sugarcreek,3,4864.0
+Silverhill,3,704.0
+Haw River,3,2579.0
+Country Walk,3,18627.0
+Citrus Heights,3,87521.0
+Mesilla,3,1760.0
+Bayou La Batre,6,2520.0
+Sunrise Lake,3,798.0
+Whetstone,4,2734.0
+Kent County,3,654958.0
+Laguna Beach,3,23121.0
+Josephine,3,2503.0
+Garner,3,30859.0
+Carbon Hill,3,1522.0
+King,2,7258.0
+Cache County,3,131703.0
+Sylvan Springs,4,1614.0
+Valencia,2,2236.0
+Clarion County,4,37571.0
+Key Colony Beach,4,744.0
+New Chicago,3,2033.0
+The Dalles,4,15942.0
+Brook,2,959.0
+Ellsinore,5,560.0
+Franklin Lakes,3,11034.0
+Closter,3,8573.0
+Wanchese,4,1936.0
+Minnehaha,4,11508.0
+North Gate,3,687.0
+Hot Springs Village,4,15970.0
+Juab County,4,11648.0
+Fleetwood,3,4059.0
+Venice Gardens,3,3423.0
+Junction City,3,23033.0
+Mineral Wells,3,14925.0
+Wahneta,3,3943.0
+Fruitville,3,14673.0
+Fort Davis,3,1012.0
+Bayonet Point,4,25200.0
+Antioch,3,322796.0
+Halifax,3,1645.0
+Collinsville,3,24627.0
+Peekskill,4,25304.0
+Copiague,4,23552.0
+Mississippi Valley State University,5,902.0
+Oakley,3,42996.0
+East Whittier,3,9995.0
+Plentywood,3,1660.0
+Glenvar,3,873.0
+Glens Falls North,5,9160.0
+Andrews AFB,3,3419.0
+Old Stine,4,3759.0
+Olivarez,3,7213.0
+Santa Fe,3,99439.0
+Avra Valley,4,5916.0
+Hallowell,4,2542.0
+East Gaffney,4,2773.0
+Blossburg,4,2000.0
+Valdosta,4,78786.0
+Dunnstown,3,1268.0
+Warrior Run,3,526.0
+Rose Hills,3,2596.0
+Temple City,3,36526.0
+Mound Bayou,4,1792.0
+Spring Ridge,3,5827.0
+Kalida,3,1595.0
+Elmwood Place,4,2215.0
+Shady Hollow,3,4587.0
+Western Springs,3,13550.0
+Purple Sage,3,503.0
+Jesup,3,9902.0
+Rogers City,3,2838.0
+Smoke Rise,3,1657.0
+McKenney,4,506.0
+Missoula,3,92863.0
+Kenly,3,2301.0
+Capitola,3,10041.0
+Chenoa,4,1893.0
+Higginson,4,931.0
+Mayfair,3,5299.0
+Peconic,3,822.0
+Childress County,4,6784.0
+Hosford,3,728.0
+Wauseon,4,7277.0
+Milo,2,665.0
+Finderne,3,6052.0
+Brookside Village,4,1439.0
+Spanish Fork,3,41953.0
+Upper Santan Village,5,630.0
+Hawk Run,3,645.0
+Star Prairie,3,612.0
+Raleigh County,3,74929.0
+Eagle Butte,3,1421.0
+Elburn,3,5981.0
+Prairie Heights,3,4610.0
+Markleville,3,611.0
+North Puyallup,5,1846.0
+Spring Valley Lake,4,8266.0
+San Bernardino,3,220821.0
+Waseca County,5,18972.0
+Center,2,5197.0
+St. Lawrence County,5,108836.0
+Eden,2,15317.0
+Mayflower,3,2305.0
+Rand,2,899.0
+Old Hill,3,3026.0
+Paterson,3,157927.0
+Chadds Ford,4,1485.0
+Ethel,3,504.0
+Naperville,4,149013.0
+Tonganoxie,5,5383.0
+Crittenden County,5,48338.0
+Squaw Valley,4,3688.0
+Sandia Knolls,5,1387.0
+Red Willow County,4,10724.0
+Hidden Valley,3,5723.0
+Sweet Home,3,9716.0
+Newington Forest,4,12641.0
+Upland,3,78624.0
+Earlville,3,1932.0
+Eastlawn Gardens,4,3599.0
+Loch Sheldrake,5,1499.0
+Alta Sierra,3,7769.0
+Eglin AFB,4,2744.0
+McLennan County,4,258031.0
+Jersey City,3,287146.0
+Fountain County,3,16422.0
+Archbold,3,4509.0
+Council Grove,3,2274.0
+Ilion,3,7826.0
+Scalp Level,4,606.0
+Greenbriar,4,7914.0
+Los Ebanos,5,666.0
+North Lindenhurst,4,11144.0
+Nuevo,2,7491.0
+Annville,3,952.0
+Portola,3,2204.0
+Middlesborough,4,9493.0
+Ucon,3,1348.0
+Mont Clare,3,2006.0
+Beecher,3,9171.0
+Seaside Park,4,1804.0
+Sarcoxie,4,1513.0
+San Felipe,3,1143.0
+Viroqua,4,4429.0
+Sinton,3,5557.0
+West Elmira,4,4944.0
+Hammondsport,4,582.0
+Beaver Dam,3,16594.0
+Dickenson County,4,14256.0
+Long Prairie,3,3628.0
+Eagle,2,29665.0
+Clemson University,4,5409.0
+Marathon,2,9622.0
+Quinby,3,975.0
+Sherwood Shores,4,778.0
+DeCordova,4,2984.0
+Elko New Market,5,4777.0
+Breckenridge Hills,5,4493.0
+Pleasant Gap,3,3569.0
+McLoud,3,4223.0
+Fort Recovery,3,1800.0
+Baudette,3,1022.0
+Juneau,3,2702.0
+Bennettsville,5,7306.0
+Strafford County,5,130598.0
+Mount Healthy,3,6976.0
+Cypress,2,50279.0
+Purvis,3,1982.0
+Coaling,3,2112.0
+Clarks Summit,4,5122.0
+Burke Centre,3,18113.0
+Brecon,3,855.0
+Barnhart,4,6506.0
+Wheelersburg,3,6349.0
+Boulder Canyon,3,508.0
+Detroit,2,3522856.0
+Hughson,3,7425.0
+Oak Brook,3,8178.0
+Gresham,4,114164.0
+Sunsites,3,693.0
+Butler Beach,3,4973.0
+Icehouse Canyon,4,524.0
+New Chapel Hill,4,758.0
+Ferry Pass,3,30526.0
+Luna County,3,25282.0
+Winlock,3,1924.0
+Janesville,4,71907.0
+Kendallville,3,9926.0
+Queens Gate,3,1690.0
+Hunters Creek,4,19554.0
+Cridersville,4,2009.0
+Los Luceros,4,1004.0
+India Hook,3,4092.0
+Amesti,3,3307.0
+White Knoll,3,6901.0
+Thorntown,3,1090.0
+Acworth,3,22330.0
+Cardington,3,1744.0
+Laurel Bay,3,5926.0
+Arthur County,3,472.0
+Placerville,4,10777.0
+South Wallins,4,1020.0
+Ferry Pass,3,30526.0
+Oilton,3,819.0
+Attapulgus,5,754.0
+Tarpey Village,4,4056.0
+Barker Ten Mile,5,866.0
+Orchid,2,536.0
+Cottage City,4,1089.0
+Viola,2,7068.0
+Waco,3,187172.0
+Dousman,4,2476.0
+Dare County,3,36718.0
+Fort Gay,3,590.0
+Calcasieu Parish,5,212646.0
+West Hills,3,5235.0
+Villa Park,3,22755.0
+Bobtown,3,672.0
+Keansburg,4,9781.0
+Tano Road,4,1760.0
+Pratt County,4,9266.0
+Allenton,3,769.0
+Ravia,3,507.0
+Kewanee,3,12485.0
+Cutler Bay,4,44865.0
+Chilchinbito,5,916.0
+Grand Ronde,3,1334.0
+East Oakdale,4,2358.0
+St. James Parish,5,20390.0
+North Massapequa,5,18577.0
+Hacienda Heights,5,54841.0
+Mayflower,3,2305.0
+Rosebud County,4,8464.0
+Altus,3,18825.0
+Brices Creek,4,4174.0
+Sells,3,2323.0
+Neptune Beach,3,6880.0
+Rio Lucio,3,577.0
+Dillonvale,4,3360.0
+Charlotte Court House,4,691.0
+Rosewood Heights,4,4061.0
+Bear Creek Ranch,4,2247.0
+Romancoke,3,1667.0
+Blue Ridge Summit,4,648.0
+Manheim,3,5036.0
+Rocky Point,3,13406.0
+Sebastian,2,24843.0
+Chadds Ford,4,1485.0
+Ogden,3,608259.0
+Bowersville,4,639.0
+California,2,14129.0
+Bel Air North,4,30969.0
+Bridgewater Center,4,5911.0
+Discovery Bay,3,15704.0
+McConnellsburg,5,1060.0
+Taos Pueblo,4,1510.0
+South La Paloma,4,790.0
+Port Royal,3,12734.0
+Golden Valley County,4,1812.0
+Dermott,2,2584.0
+Seneca Knolls,5,1949.0
+Billington Heights,4,1823.0
+Cleveland County,3,292110.0
+Rich Creek,3,658.0
+Box Butte County,4,10821.0
+Low Mountain,3,538.0
+Tamarac,3,71140.0
+Blytheville,4,13559.0
+Beach Haven West,4,4729.0
+Hanna City,3,1372.0
+Cheyenne,3,76456.0
+Old Field,3,978.0
+Landmark,2,3442.0
+Malone,3,2175.0
+Columbus Junction,3,2132.0
+Thorsby,4,2483.0
+Reed Creek,3,2780.0
+Timonium,3,11136.0
+Bethel Springs,4,859.0
+Quincy,3,100544.0
+Ogemaw County,5,20745.0
+Treynor,4,933.0
+Piatt County,4,16664.0
+Cranesville,4,780.0
+Lime Lake,3,763.0
+Chama,3,1002.0
+Letha,3,579.0
+Saylorsburg,4,1318.0
+Corriganville,4,760.0
+Troy Hills,3,5126.0
+Olpe,3,537.0
+Rock Spring,3,964.0
+Westphalia,4,10578.0
+Conway County,3,20687.0
+Sayreville,4,45062.0
+Hanson County,4,3429.0
+Level Green,3,4128.0
+Germanton,3,828.0
+Deadwood,3,1317.0
+Ridge Farm,3,925.0
+Snowflake,3,6086.0
+La Vergne,4,38127.0
+Route 7 Gateway,5,747.0
+Tyrrell County,4,3436.0
+Sylvan Lake,4,1778.0
+Detroit Beach,3,2167.0
+North DeLand,4,837.0
+East Rockaway,4,10108.0
+East Ithaca,3,2281.0
+Mantua,3,7771.0
+McMinn County,4,53065.0
+Holiday Island,3,2581.0
+East Griffin,3,1424.0
+Dixie County,3,16701.0
+Virginia,2,8444.0
+Caribou County,4,7003.0
+Fallon Station,4,791.0
+Sanborn County,4,2371.0
+Greenock,4,1764.0
+Gilbertville,3,790.0
+Vandenberg AFB,5,3638.0
+Fruitvale,3,7883.0
+Merced County,4,279150.0
+Cleora,3,1425.0
+Wilburton,3,2786.0
+McCormick,3,2936.0
+Brooktrails,3,4462.0
+Endwell,3,11795.0
+Lake Hallie,4,7099.0
+Cedar Heights,3,2145.0
+Julian,2,1332.0
+The Village of Indian Hill,6,6017.0
+Hopland,3,922.0
+Edisto,3,1991.0
+Nesco,3,629.0
+Griggsville,4,1328.0
+Baroda,3,845.0
+Nesco,3,629.0
+West Des Moines,4,67640.0
+Marblehead,3,845.0
+Ocilla,3,3696.0
+Immokalee,4,27669.0
+Blytheville,4,13559.0
+Lorain,3,186500.0
+Greenhills,3,3711.0
+Raymondville,3,10574.0
+North Laurel,3,24233.0
+Jackson County,3,713229.0
+Potomac Mills,5,6759.0
+Pittston,3,7589.0
+Wallis,2,1568.0
+Montesano,4,4070.0
+Cincinnati,2,1712287.0
+Maggie Valley,3,2429.0
+Amery,3,2899.0
+Ballston Spa,4,5510.0
+Dahlgren Center,5,727.0
+Dunes City,4,1151.0
+Pineland,3,1120.0
+West End,3,2181.0
+Bradley Junction,3,784.0
+Sauk Centre,4,4531.0
+Penitas,3,6206.0
+Staten Island,4,495747.0
+Zilwaukee,4,1713.0
+Fort Worth,3,908469.0
+Wolf Point,3,2638.0
+Midland County,4,166964.0
+Cheval,3,12839.0
+Michigan City,3,65946.0
+Lake Hopatcong,5,10521.0
+Due West,3,1078.0
+Unicoi,4,3793.0
+Tate County,3,28123.0
+Rockport,3,10264.0
+Pine Valley,3,1678.0
+Victory Gardens,3,1666.0
+Corfu,3,847.0
+Norton,2,11697.0
+Elmo,3,1065.0
+Sumiton,3,2676.0
+Babbie,3,506.0
+Booker,3,1433.0
+Beaumont,3,137549.0
+Oran,3,1272.0
+Morris County,3,508347.0
+Tahoma,2,1035.0
+Tyhee,3,1468.0
+Northampton,3,29379.0
+Kennebec County,5,123293.0
+Whatcom County,4,224533.0
+Moose Lake,3,3258.0
+Bystrom,3,4068.0
+Federal Way,3,99792.0
+Sanger,3,26424.0
+Ransom Canyon,4,1107.0
+Ethete,4,1561.0
+North Star,3,8009.0
+Moultrie County,5,14634.0
+Litchfield County,4,185175.0
+Appling County,4,18509.0
+Schoolcraft County,4,8004.0
+Keno,3,1907.0
+Lenwood,3,4353.0
+Shoshoni,4,664.0
+Metolius,3,887.0
+Helena Valley Northeast,4,3607.0
+Opp,2,6671.0
+Chattanooga Valley,4,3716.0
+Reinholds,3,2151.0
+Taunton,3,59076.0
+Seth Ward,3,1849.0
+Hailey,3,9001.0
+Runnemede,4,8316.0
+Sylvan Lake,4,1778.0
+East Canton,3,1534.0
+Redwood Valley,4,1798.0
+Juno Ridge,3,1154.0
+Indian Mountain Lake,4,4538.0
+Muhlenberg County,5,31011.0
+Cheswick,3,1647.0
+Everson,3,2859.0
+Buchanan County,4,85545.0
+Paincourtville,4,1443.0
+Allegan,3,5165.0
+Rockcastle County,4,16167.0
+Conway,2,70555.0
+Hill 'n Dale,5,3114.0
+La Plata,3,10054.0
+Dobbins Heights,5,735.0
+Eastpoint,3,2761.0
+Rimersburg,3,1092.0
+Plandome,4,1264.0
+Klickitat County,5,22478.0
+Olin,3,877.0
+Purcell,3,6506.0
+Rose Lodge,3,1645.0
+Fieldale,3,716.0
+Green City,3,613.0
+Parker City,3,1061.0
+Granite City,3,27336.0
+Mountain City,3,2367.0
+Clarkesville,4,1644.0
+Caddo County,4,27253.0
+West Marion,3,993.0
+Diamond,2,2765.0
+Mosinee,3,4436.0
+Lemon Hill,3,14471.0
+Jessamine County,4,53016.0
+Etna Green,4,560.0
+Channelview,3,42394.0
+Nash County,3,94628.0
+Dupo,3,4001.0
+Naytahwaush,5,542.0
+Glen Ellyn,4,28506.0
+Rock Island County,4,144694.0
+Sequatchie,4,706.0
+Shueyville,4,858.0
+Atchison County,5,16382.0
+Harwood,3,757.0
+Shoreview,3,26871.0
+Brookings County,4,34315.0
+Jersey Shore,3,4177.0
+Maricopa,4,57075.0
+Forest Hill,3,13797.0
+St. Charles Parish,5,52411.0
+West Lake Hills,4,3373.0
+Osborne,3,1554.0
+Harwich Center,4,1435.0
+Holiday Island,3,2581.0
+Shakopee,4,43396.0
+Dry Run,3,7457.0
+Lake Havasu City,6,56510.0
+Chesterbrook,3,5457.0
+South Uniontown,4,1347.0
+Pickens County,4,129617.0
+The Villages,3,119296.0
+Rainbow,2,2129.0
+Glastonbury Center,4,8187.0
+Yellowstone County,4,163593.0
+Export,2,942.0
+Glennville,3,3871.0
+Santa Cruz County,4,272138.0
+Tippecanoe County,6,185961.0
+Tarrant County,4,2091953.0
+Cannon Falls,3,4198.0
+Nankin,3,646.0
+Isola,3,743.0
+Fort Deposit,3,1899.0
+Hyattsville,4,20790.0
+Sully County,4,1279.0
+Elburn,3,5981.0
+Ansley,3,618.0
+Blackwell,3,6192.0
+Dooms,3,1191.0
+Quinby,3,975.0
+Gulf County,3,15205.0
+Gervais,3,2585.0
+Allenspark,3,574.0
+Brooke County,3,22603.0
+Griffin,2,23300.0
+Pepper Pike,3,6743.0
+Willow Springs,3,5874.0
+Hawk Run,3,645.0
+Maize,3,5469.0
+East Quincy,3,2276.0
+Jekyll Island,4,1182.0
+Faribault,4,24310.0
+Earth,2,941.0
+Chantilly,4,23564.0
+Caldwell Parish,5,9707.0
+Brunson,3,518.0
+Barview,3,1732.0
+Mountainhome,3,1080.0
+Arthur,2,2006.0
+Stinson Beach,4,526.0
+Skyline View,4,4127.0
+Paintsville,4,4370.0
+Ash Grove,3,1474.0
+Clay Center,3,4147.0
+Moss Bluff,3,11453.0
+Century,2,1979.0
+Stepney,3,3370.0
+Arden on the Severn,6,1386.0
+Edgemont Park,4,2533.0
+St. Bernard Parish,5,43821.0
+Bow Mar,3,986.0
+Wetumpka,4,7025.0
+North Enid,3,1056.0
+Richmond City,3,225676.0
+Prophetstown,3,1799.0
+Winneconne,4,2509.0
+Morrice,3,1521.0
+Bret Harte,4,4981.0
+Federal Way,3,99792.0
+West Tawakoni,5,1940.0
+Lubbock,3,259946.0
+Sargent,3,1319.0
+L'Anse,5,2089.0
+Lake California,3,3668.0
+Fernandina Beach,4,12697.0
+Mountain Top,3,11716.0
+San Dimas,4,34775.0
+Ridgeside,4,965.0
+Lula,3,2830.0
+Postville,3,2711.0
+Marlboro Village,5,9786.0
+Raymore,3,22722.0
+Limestone Creek,4,1597.0
+Reed Creek,3,2780.0
+Ransomville,4,1435.0
+Oakville,3,35357.0
+Amsterdam,2,18218.0
+Renton,3,105313.0
+North St. Paul,5,12395.0
+Montauk,3,4272.0
+Estill County,4,14157.0
+Lake View,3,3357.0
+St. Ignace,5,2041.0
+Cashmere,3,3215.0
+Wartburg,3,1235.0
+North Branch,3,10742.0
+Confluence,3,588.0
+Orland,3,8168.0
+Estacada,4,4353.0
+Mena,3,5626.0
+Old Tappan,4,5870.0
+Spring Valley Village,4,4204.0
+Chetopa,4,1113.0
+Weirton,3,65447.0
+Lake Ridge,3,44697.0
+Sabattus,4,674.0
+Delaware County,3,573883.0
+Mason County,3,64964.0
+Stedman,4,1856.0
+Benns Church,4,831.0
+St. Croix County,5,92495.0
+New Preston,3,923.0
+Hot Springs Village,4,15970.0
+Marvell,3,1232.0
+Belle Haven,3,6434.0
+Fort Johnson,3,561.0
+Lutcher,3,3163.0
+Cumberland Center,4,2956.0
+Gilpin County,4,5812.0
+Hazelwood,3,25466.0
+Blue Earth County,4,68575.0
+Washington Court House,4,14440.0
+McCalla,3,13221.0
+Demorest,4,2479.0
+Clay,2,10320.0
+Red Oak,3,13956.0
+Masonville,3,2196.0
+Euclid,3,49382.0
+Campbellsport,4,1761.0
+Opal,2,601.0
+Melbourne Village,3,741.0
+Del Norte County,4,27655.0
+Trempealeau,5,1722.0
+Honeygo,3,12169.0
+McConnellstown,4,1275.0
+Guntersville,4,8559.0
+Penn Valley,3,1124.0
+Ursa,3,542.0
+Prairieville,3,34118.0
+Lynnville,3,1102.0
+Grand Isle County,4,7249.0
+Aroma Park,3,620.0
+San Simeon,3,510.0
+Elizabeth,2,135772.0
+Spring Valley Village,4,4204.0
+Philomath,4,5353.0
+Schaller,3,691.0
+Thompson,2,1194.0
+Inglis,3,1669.0
+Cobbtown,4,589.0
+Indian Head,3,3909.0
+Oxon Hill,4,18763.0
+Belle Chasse,3,10406.0
+Fallbrook,3,32999.0
+Casey,2,2422.0
+Wisconsin Rapids,3,18711.0
+Yalobusha County,6,12586.0
+Boonsboro,4,3757.0
+University of California-Davis,6,8532.0
+Bergen County,3,952979.0
+Holbrook,3,26958.0
+Satanta,3,979.0
+Elizabethville,3,1557.0
+Mitchellville,3,12160.0
+Perdido,3,649.0
+Saybrook-on-the-Lake,9,1208.0
+Castle Rock,3,71037.0
+Chandler,2,272439.0
+Okemos,3,25179.0
+Butner,3,8295.0
+Boiling Springs,3,10591.0
+Golden Grove,3,3317.0
+Chesterton,3,14045.0
+Carbonado,3,560.0
+Evans City,3,1992.0
+Prichard,3,19645.0
+Sheridan County,4,30812.0
+Pecos,3,12467.0
+Muscoda,3,1194.0
+St. Landry Parish,5,82999.0
+White Pine County,4,9192.0
+Gould,3,616.0
+Coopertown,3,4476.0
+Biddeford,4,22331.0
+Hereford,3,15043.0
+Pitkin County,4,17471.0
+Oak Bluffs,3,1372.0
+Minot AFB,4,5375.0
+Kendall Park,3,10560.0
+Schofield,3,2274.0
+El Prado Estates,4,542.0
+Hebron Estates,4,1069.0
+Aetna Estates,4,1255.0
+Garwood,3,4425.0
+Lauderdale,4,2479.0
+Modoc County,4,8723.0
+Essexville,3,3377.0
+Manorhaven,4,6923.0
+Chetopa,4,1113.0
+Rocky Mount,3,61952.0
+Eads,3,733.0
+Cloverleaf,3,25576.0
+Briarcliffe Acres,5,571.0
+Emeryville,4,12747.0
+Lovingston,3,527.0
+Inglenook,4,1081.0
+Far Hills,3,1001.0
+Interlachen,4,1646.0
+Woods Cross,3,11372.0
+Galax City,3,6681.0
+Ulysses,3,5812.0
+Wesley Hills,3,6105.0
+Downers Grove,4,50209.0
+Cherry Grove,3,4040.0
+Lakewood Village,4,614.0
+Tequesta,3,6097.0
+Drum Point,3,3007.0
+Stockertown,4,949.0
+Mono County,3,13291.0
+Sublimity,4,2940.0
+Sand Rock,3,798.0
+Owings,3,2393.0
+Golden Gate,3,29271.0
+Edina,3,53059.0
+Ravine,3,605.0
+Sequim,3,7896.0
+Nance County,4,3389.0
+Port Angeles East,4,3221.0
+Bloomville,3,1006.0
+Oradell,4,8236.0
+Garvin County,4,25949.0
+Souderton,4,7131.0
+Cobb County,4,762500.0
+Yakima County,4,255151.0
+Wareham Center,4,3057.0
+Key West,3,26776.0
+Pine,2,1697.0
+Tiffin,4,17882.0
+Natalia,2,1075.0
+South Hills,3,669.0
+Copiah County,4,28453.0
+Huntland,3,1112.0
+San Rafael,3,61158.0
+Rocksprings,3,901.0
+Garden Acres,3,10411.0
+Bolinas,3,1181.0
+Libby,3,2745.0
+Moline Acres,4,2995.0
+Clarkesville,4,1644.0
+Sherwood Manor,4,5710.0
+Magnet Cove,3,1192.0
+Jamestown West,4,2543.0
+Palestine,2,18532.0
+Liberty Center,3,972.0
+First Mesa,3,1660.0
+Moores Hill,4,880.0
+Rich Hill,3,1384.0
+Hopatcong,4,14395.0
+Fellsburg,4,1137.0
+Hodgeman County,5,1851.0
+Brookfield,3,41020.0
+Quincy,3,100544.0
+Verde Village,3,12658.0
+Oliver Springs,3,3727.0
+Miamitown,4,1193.0
+Powhatan Point,4,1743.0
+Plum Grove,3,1623.0
+Slaughterville,4,4214.0
+Tysons,4,26171.0
+Hope Mills,3,17421.0
+Rappahannock County,5,7400.0
+Lone Pine,3,1580.0
+Drakes Branch,4,580.0
+Wadena County,4,14009.0
+Wade Hampton,3,20879.0
+Belview,3,835.0
+East San Gabriel,4,22941.0
+Chilchinbito,5,916.0
+Bessemer,4,26171.0
+Flowood,3,10019.0
+Toomsuba,5,638.0
+Pace,2,23527.0
+Leesburg,3,154301.0
+Jackpot,3,1130.0
+Essex Village,3,2814.0
+Marengo County,4,19397.0
+Hosford,3,728.0
+Herndon,3,24574.0
+Layhill,3,5119.0
+Lilbourn,3,996.0
+Parker City,3,1061.0
+Cannon Ball,3,847.0
+Trail,2,632.0
+Eudora,4,6457.0
+Crump,3,1825.0
+Vanleer,3,538.0
+Margate City,4,5402.0
+Pine County,3,28997.0
+Elm City,3,1300.0
+Goodwater,3,1172.0
+Stuarts Draft,4,11954.0
+Cottage Lake,4,22779.0
+Bushyhead,4,1320.0
+New Middletown,3,1405.0
+Lake of the Woods,5,8557.0
+Moorefield,4,3019.0
+Knightsville,3,595.0
+Hunting Valley,3,757.0
+Cedar Creek,3,4076.0
+Lacona,3,738.0
+Slaughterville,4,4214.0
+Jay,2,2714.0
+Rockwall County,4,105227.0
+Good Hope,3,7877.0
+Veneta,3,5199.0
+Stoutsville,4,630.0
+Rock Port,3,1316.0
+Deans,3,1294.0
+Moorland,3,516.0
+Archdale,3,12117.0
+Stevensville,3,8359.0
+Upper Santan Village,5,630.0
+Banner Elk,3,1350.0
+Roan Mountain,4,1140.0
+Inglis,3,1669.0
+West Sacramento,3,53589.0
+Briarcliff,4,2202.0
+Bostonia,4,18074.0
+West Kennebunk,5,1119.0
+Ravenna,3,11369.0
+Garden City Park,4,7807.0
+Miner,2,809.0
+Hacienda Heights,5,54841.0
+Green Lake,3,881.0
+Shiner,3,2018.0
+Casa Conejo,4,2961.0
+North St. Paul,5,12395.0
+Belle Isle,3,6975.0
+Archie,2,1244.0
+Chesterland,3,7481.0
+Corbin City,4,689.0
+Cedar Creek,3,4076.0
+Sorrento,3,1943.0
+Lahoma,3,646.0
+Bellmawr,4,11631.0
+West DeLand,4,3403.0
+Evendale,3,2664.0
+Wakefield,3,11534.0
+Piney Point,4,939.0
+Jack County,3,8494.0
+Plattsville,4,974.0
+Belle Fourche,4,5561.0
+Freeburg,3,4195.0
+Port Vincent,3,542.0
+North Port,3,221616.0
+Youngsville,4,15167.0
+Bunk Foss,4,3622.0
+Goulds,4,10994.0
+Clewiston,4,7447.0
+Sheffield,2,9305.0
+Pasadena Hills,4,11788.0
+Glen Head,3,4839.0
+Cordry Sweetwater Lakes,6,1235.0
+Reece City,4,744.0
+Silverhill,3,704.0
+Hanson County,4,3429.0
+Shasta County,4,181935.0
+Max Meadows,3,609.0
+West Mansfield,3,740.0
+Naco,3,1001.0
+Center Point,3,16422.0
+Bothell,3,47355.0
+Craigsville,4,2190.0
+Kilmichael,3,815.0
+Fallon County,4,3074.0
+Flagler Estates,4,3577.0
+Saylorsburg,4,1318.0
+Chatsworth,3,4764.0
+Tolono,3,3578.0
+Broussard,5,12960.0
+Lunenburg County,4,11982.0
+Jackson Center,3,1467.0
+East Griffin,3,1424.0
+Cross Hill,3,553.0
+Wedgefield,4,7912.0
+Pennington Gap,4,2079.0
+Oxoboxo River,5,2553.0
+Iraan,3,1387.0
+Spurgeon,3,3966.0
+Dewar,3,773.0
+St. Lucie Village,5,831.0
+McAdenville,4,1019.0
+Labette County,4,20222.0
+Pines Lake,4,3079.0
+Landis,3,3610.0
+Marion Center,3,1095.0
+Vinita,3,5250.0
+Granville South,4,1192.0
+Kerhonkson,4,2328.0
+Nolensville,5,13393.0
+Laurel Hill,3,8415.0
+Argentine,2,2573.0
+Middleburg Heights,4,15975.0
+Herrin,3,12398.0
+Menahga,4,1087.0
+Sycamore Hills,4,685.0
+Oktibbeha County,6,51339.0
+Boykins,3,512.0
+Sunnyvale,3,155550.0
+Bidwell,3,1001.0
+Meiners Oaks,4,4065.0
+New Beaver,3,1371.0
+Yellow Medicine County,4,9616.0
+White House Station,4,3991.0
+Chisago County,5,56328.0
+Port Ewen,4,3603.0
+North Riverside,3,7382.0
+Moscow,2,25336.0
+Searingtown,4,4553.0
+Toppenish,4,8843.0
+Ware County,3,36084.0
+Cerro Gordo,5,1370.0
+Shrub Oak,4,3071.0
+Lowden,3,819.0
+Bean Station,3,2968.0
+Alameda,3,78320.0
+Ensley,3,22015.0
+Carol Stream,3,39895.0
+Elk City,3,11743.0
+New Madrid,3,2805.0
+Farmersville,3,10441.0
+Orlovista,4,7145.0
+Demarest,4,4977.0
+Santa Ynez,4,4679.0
+Callaway,3,13656.0
+Rockwall County,4,105227.0
+Nobles County,4,22223.0
+Normandy Park,4,6716.0
+East Feliciana Parish,5,19588.0
+New Lisbon,3,2322.0
+Elmira,3,63404.0
+Apopka,4,54110.0
+Pine Manor,3,4080.0
+James Island,3,11618.0
+Desert Palms,3,6225.0
+North Lewisburg,4,1629.0
+Lake Mack-Forest Hills,6,2252.0
+Medley,3,957.0
+Skippers Corner,4,3514.0
+Willcox,3,3240.0
+Vernal,3,10037.0
+Prince Edward County,4,21887.0
+Wild Peach Village,4,2134.0
+Belgrade,3,10555.0
+South Dos Palos,5,1003.0
+The Villages,3,119296.0
+Vista,2,98651.0
+Nyack,3,7303.0
+Rosenberg,3,37871.0
+Fort Bragg,3,7049.0
+Rapid Valley,3,7875.0
+Tarrant,3,6137.0
+Silver City,3,9694.0
+Jamestown West,4,2543.0
+South Elgin,3,23749.0
+Ashwaubenon,5,17042.0
+Dresser,3,1028.0
+Angier,3,5312.0
+Homestead Meadows North,5,6521.0
+Sedro-Woolley,6,12266.0
+Westwego,3,8538.0
+Ste. Genevieve County,5,18406.0
+Oilton,3,819.0
+Helmetta,3,2365.0
+Union Beach,3,5781.0
+Holgate,3,1204.0
+West Canton,3,1326.0
+Chappaqua,4,3062.0
+Lyford,3,2494.0
+Kincaid,3,1245.0
+Dallastown,4,4147.0
+Altamont,4,19569.0
+Claiborne County,5,31958.0
+Labish Village,4,558.0
+Wewahitchka,6,1791.0
+North Chicago,3,30619.0
+Stow,3,34556.0
+Parkville,3,30783.0
+England,2,2502.0
+Timber Lake,3,579.0
+Calpella,4,617.0
+Dumbarton,3,8443.0
+Ansonia,3,18945.0
+Paradise,2,189852.0
+Florien,3,590.0
+New Johnsonville,4,1860.0
+Girard,3,9571.0
+Mazomanie,4,1754.0
+East Port Orchard,4,5087.0
+Pearlington,3,958.0
+Bensenville,4,18801.0
+Citrus City,3,2941.0
+Glen Lyon,3,2381.0
+Juneau,3,2702.0
+Fleming-Neon,5,621.0
+Arapahoe County,5,651621.0
+Riviera Beach,4,37301.0
+Simonton,3,838.0
+Manhasset,4,8093.0
+Puget Island,4,1153.0
+Union Springs,3,3389.0
+Crittenden County,5,48338.0
+O'Donnell,4,804.0
+Darlington County,4,63433.0
+Embarrass,3,561.0
+Fremont,3,231502.0
+Lake Morton-Berrydale,6,10709.0
+Wilroads Gardens,4,688.0
+Coke County,3,3288.0
+Walnut Park,3,16453.0
+Dieterich,3,889.0
+Compo,3,3400.0
+Port Wentworth,3,10502.0
+Keyser,3,4916.0
+Sterlington,3,2094.0
+Beach Park,3,13634.0
+Daniels County,4,1739.0
+Daviess County,5,102488.0
+Twin Rivers,3,64012.0
+Lindon,3,11346.0
+Passaic,3,70308.0
+Twin Falls,3,51223.0
+Bertram,3,1852.0
+Vevay,4,1700.0
+Woodsburgh,3,888.0
+Weston Mills,4,1270.0
+Atchison County,5,16382.0
+Madera County,4,156304.0
+Walnut Springs,3,785.0
+Mayfair,3,5299.0
+Grimes,3,14842.0
+East Troy,3,4683.0
+Great Bend,3,14864.0
+Mountain Lake Park,4,2116.0
+Port Angeles East,4,3221.0
+McKenney,4,506.0
+Tiki Island,4,982.0
+Bakerstown,3,3037.0
+Paramus,3,26650.0
+Port Allegany,4,2328.0
+Little River-Academy,5,2242.0
+Itta Bena,5,1614.0
+Lorenzo,2,1020.0
+Tannersville,4,611.0
+Hartselle,3,15308.0
+Cotter,3,1019.0
+Eva,2,583.0
+Cammack Village,5,790.0
+Deer Trail,3,599.0
+Madisonville,3,19533.0
+Hawkins,3,1762.0
+King George,3,4657.0
+Deville,3,957.0
+Honea Path,4,3659.0
+Coolidge,3,13347.0
+McDowell,3,591.0
+Talladega,3,15782.0
+Fort Hood,3,24781.0
+Irrigon,4,1993.0
+Avondale,3,254537.0
+Wilson,2,47914.0
+Massanutten,4,2184.0
+English Creek,3,2579.0
+Calipatria,4,7247.0
+Simpson,2,1239.0
+Colorado Springs,3,628808.0
+Muscatine,4,23759.0
+Coeur d'Alene,7,114880.0
+Maltby,4,11458.0
+Ore City,3,1085.0
+Shoals,3,562.0
+Montandon,3,814.0
+Whispering Pines,4,4759.0
+Deer River,3,946.0
+Holmes Beach,3,3132.0
+Defiance,3,17155.0
+Fenton,3,11949.0
+Laredo,3,256748.0
+Royal Oak,3,58368.0
+Thiells,3,4486.0
+Lycoming County,4,114274.0
+Bellevue,3,149365.0
+Screven,3,776.0
+West Valley,3,613.0
+Ogle County,4,51787.0
+Kutztown,4,4257.0
+Colon,2,1143.0
+Green Park,3,2683.0
+Fayette County,4,321354.0
+Prudenville,4,1451.0
+Alexander County,3,36491.0
+Richmond Hill,3,15900.0
+Greens Farms,3,2881.0
+Gas City,3,6088.0
+Belgium,2,2548.0
+Menard,3,1336.0
+Ossun,3,2450.0
+Caspian,3,510.0
+Ridgewood,3,25991.0
+Gregory County,3,4004.0
+Cowley,3,688.0
+Andrews County,3,18184.0
+Buckhorn,3,2522.0
+Joshua Tree,3,7398.0
+Leetsdale,4,1137.0
+Dobbins Heights,5,735.0
+Dunkirk,3,12651.0
+West Milwaukee,3,4108.0
+Rocky Hill,3,752.0
+Wahkiakum County,5,4373.0
+Macksville,4,611.0
+Green Cove Springs,4,9351.0
+Colusa County,4,21780.0
+Kendall County,3,130757.0
+Coahoma County,5,21839.0
+Chelyan,4,662.0
+Koochiching County,6,12203.0
+East Randolph,3,611.0
+Higganum,4,1833.0
+Lilbourn,3,996.0
+Davison County,4,19944.0
+Mount Gay-Shamrock,6,1515.0
+Ovilla,3,4120.0
+Miles City,3,8441.0
+Sugar Creek,3,3268.0
+New Franklin,3,13913.0
+Italy,2,2353.0
+Yell County,4,20489.0
+Refugio County,4,6822.0
+Excel,2,539.0
+Rothsay,4,557.0
+New Orleans,3,925443.0
+De Witt County,4,15653.0
+Arizona City,3,8950.0
+South Holland,3,21524.0
+Ohio City,3,766.0
+Malden,3,65602.0
+Hartington,3,1499.0
+Hankinson,3,839.0
+St. Martins,4,1253.0
+Molino,3,942.0
+Prattville,4,37977.0
+Muskegon County,5,175633.0
+Summit,2,22598.0
+Monee,3,5131.0
+Olmsted Falls,5,8684.0
+Papillion,3,23875.0
+Kalona,3,2631.0
+Stepping Stone,3,2191.0
+Trout Valley,3,542.0
+Huntington Station,4,34050.0
+Terrebonne,3,1442.0
+La Puebla,3,1038.0
+Del Norte County,4,27655.0
+El Cerrito,4,25898.0
+Wadesboro,4,5079.0
+Tracyton,3,5563.0
+North Gate,3,687.0
+Leighton,3,687.0
+Gilpin County,4,5812.0
+Four Square Mile,4,21723.0
+South Wilmington,3,643.0
+Albia,3,3692.0
+Emerald Lakes,3,3300.0
+Racine County,4,197379.0
+Lucerne Mines,4,841.0
+Gages Lake,4,10445.0
+Burr Oak,4,754.0
+Tulelake,4,885.0
+Peshtigo,4,3374.0
+Forest Meadows,3,1371.0
+Eden,2,15317.0
+Ripley County,4,28953.0
+Hawarden,3,2675.0
+Chattahoochee,6,3370.0
+Washingtonville,3,5782.0
+El Paso,3,794344.0
+New Holland,3,5743.0
+Spring,2,62569.0
+Montara,3,2879.0
+Bystrom,3,4068.0
+Homer City,3,1622.0
+Indian Creek,3,834.0
+Broadmoor,3,4487.0
+Krum,3,5423.0
+Bluffs,3,696.0
+Green Oaks,3,4067.0
+Brown City,3,1186.0
+La Crosse,3,99227.0
+Fort Collins,3,301596.0
+Owingsville,4,2095.0
+Orting,3,8781.0
+Westlake,3,34049.0
+Carrollton,3,131388.0
+San Dimas,4,34775.0
+Muncy,3,2614.0
+Lone Rock,3,769.0
+Dripping Springs,4,4699.0
+Waymart,3,1155.0
+Fairless Hills,4,9028.0
+Gordo,3,1599.0
+Elmsford,3,5176.0
+Butte Creek Canyon,5,598.0
+Fort Sumner,3,1364.0
+Cheshire Village,4,6006.0
+Corpus Christi,3,333764.0
+Brier,3,6524.0
+Barneveld,4,1319.0
+Bennett County,3,3411.0
+Wyomissing,4,11026.0
+Kerkhoven,4,754.0
+Curry County,3,48716.0
+Estill Springs,4,2024.0
+Gruetli-Laager,7,1657.0
+Lahoma,3,646.0
+Mount Dora,3,15830.0
+Winter Beach,3,3543.0
+Marfa,3,1838.0
+Castleton-on-Hudson,7,1445.0
+Ness County,3,2717.0
+Pierz,3,1640.0
+Clever,2,2858.0
+Northgate,3,6215.0
+Baltimore County,3,850702.0
+Los Banos,4,44421.0
+Velda Village Hills,5,841.0
+Maltby,4,11458.0
+Willacoochee,6,1446.0
+Watsontown,3,1956.0
+Watauga County,5,54077.0
+Goddard,3,4536.0
+Snydertown,4,543.0
+Lake Panorama,3,882.0
+Priceville,3,3479.0
+Cheneyville,4,786.0
+Hardee County,4,25632.0
+Red Oak,3,13956.0
+Horatio,3,1024.0
+Viburnum,3,747.0
+Midvale,3,35313.0
+Foyil,4,529.0
+West Bishop,3,2481.0
+Moriches,3,2685.0
+Penbrook,3,3230.0
+Tidioute,4,780.0
+Cedar Vale,3,663.0
+Coldwater,3,13764.0
+Lockland,3,3495.0
+Estero,3,36187.0
+Peotone,3,4137.0
+Davison,3,5103.0
+Conecuh County,5,11778.0
+Michigan Center,3,4681.0
+Upper Montclair,4,12033.0
+South Lockport,4,8480.0
+Powers Lake,3,1311.0
+Upper Exeter,3,1028.0
+Merchantville,3,3797.0
+Kress,3,742.0
+Herkimer County,5,60596.0
+Merryville,3,1154.0
+Centenary,4,546.0
+Dover Beaches North,4,1826.0
+Rosa,2,822.0
+Milliken,3,8122.0
+Leeton,3,688.0
+Cave Junction,3,2039.0
+Star Valley Ranch,4,2168.0
+Dennison,3,2416.0
+Spearville,3,1006.0
+Hackensack,4,45723.0
+Frederick County,3,267498.0
+Solvay,3,6661.0
+Celebration,2,11264.0
+Belwood,3,1143.0
+Eton,3,1182.0
+Effingham,3,12218.0
+Archie,2,1244.0
+Anderson Creek,3,14597.0
+Scenic Oaks,4,9136.0
+Christmas,2,1310.0
+Holdrege,4,5485.0
+Potomac Park,5,10517.0
+Fletcher,2,7935.0
+Bluff City,4,2192.0
+Prince William County,4,477224.0
+Pine Ridge at Crestwood,6,2639.0
+Kendall County,3,130757.0
+Waveland,4,7063.0
+Cos Cob,3,7089.0
+Avon Park,3,9725.0
+Malad City,4,2112.0
+Sky Valley,3,2236.0
+Ligonier,4,4358.0
+Morning Sun,3,697.0
+Hoboken,3,59369.0
+Benton Ridge,4,686.0
+Mount Plymouth,3,5359.0
+Edinboro,4,5097.0
+Hays County,4,234573.0
+Chittenango,4,4927.0
+Willoughby,3,23753.0
+Northfield,3,20374.0
+Clare,2,3312.0
+Lake Ridge,3,44697.0
+Lionville,3,6662.0
+Bennett,2,2964.0
+Harristown,3,1365.0
+Woodbranch,3,1628.0
+Buckeystown,4,1397.0
+Bucks County,3,643872.0
+Lexington Hills,3,2532.0
+Fallon County,4,3074.0
+Raoul,3,2679.0
+Heath Springs,3,745.0
+Pine Castle,3,11167.0
+Flandreau,4,2298.0
+West Buechel,5,1974.0
+Bothell West,4,20180.0
+Fountainhead-Orchard Hills,7,6113.0
+Rochelle,3,9380.0
+Ivy,2,816.0
+Lakeside City,4,935.0
+Stephens,3,911.0
+Sixteen Mile Stand,5,3589.0
+Storm Lake,3,11166.0
+Rushford Village,4,747.0
+Leipsic,4,2340.0
+Nellysford,5,1337.0
+Ronceverte,4,1435.0
+Merton,3,3445.0
+Struthers,3,10058.0
+Coshocton County,5,36621.0
+Gloverville,4,3102.0
+Warm Mineral Springs,4,5051.0
+Sabula,3,519.0
+Rocky Top,3,1728.0
+Stanhope,3,3515.0
+Bayou L'Ourse,7,2150.0
+Berry College,3,1917.0
+Crystal Lawns,4,2024.0
+Spokane Valley,4,102178.0
+Little Ferry,3,10973.0
+Paulden,3,4602.0
+Parma Heights,4,20764.0
+Wauneta,4,637.0
+Light Oak,3,791.0
+South Riding,3,33828.0
+Brush Prairie,3,2738.0
+Delhi,2,10921.0
+Sands Point,4,2714.0
+San Ramon,3,85688.0
+Henrico County,4,331924.0
+Gamewell,3,3735.0
+Orlando,2,1927699.0
+Bonner Springs,4,7858.0
+Eagleview,3,2034.0
+Parsippany,5,21931.0
+Morris,2,14601.0
+Willamina,4,2511.0
+Somerville,3,80608.0
+Carlsbad,4,114858.0
+Chester Gap,3,1021.0
+Panguitch,4,1662.0
+Yuba City,4,129536.0
+Weatherly,3,2503.0
+North Fort Myers,4,41551.0
+Blairs,3,915.0
+North Troy,3,570.0
+Frost,2,915.0
+Meriden,3,60790.0
+Pottawatomie County,6,72331.0
+Many,2,2337.0
+Coloma,3,1173.0
+Mukwonago,4,8255.0
+Gage County,4,21706.0
+Huber Heights,4,42650.0
+Jennings Lodge,4,7953.0
+Petaluma,4,66609.0
+Sisco Heights,4,3257.0
+Thorsby,4,2483.0
+Corder,3,601.0
+Front Royal,3,15039.0
+Rio Vista,3,9850.0
+Panama City Beach,4,17882.0
+Scandia,3,3971.0
+Loudon,3,5921.0
+Cedartown,3,10091.0
+Beaufort County,4,186007.0
+Summers County,4,12125.0
+Cathlamet,4,599.0
+Norfolk,2,238556.0
+Minneola,4,13709.0
+Garden Acres,3,10411.0
+San Augustine County,4,7964.0
+Newtown Grant,4,5829.0
+East Patchogue,4,21830.0
+Elko New Market,5,4777.0
+Forest Junction,3,701.0
+Sharonville,3,14022.0
+Temescal Valley,4,27546.0
+Trout Lake,3,732.0
+Falkville,3,1347.0
+Cedarville,3,4148.0
+Bellmore,3,16603.0
+Cloudcroft,3,845.0
+Finley,3,5879.0
+Syosset,4,19347.0
+Hawkinsville,4,4137.0
+Dennison,3,2416.0
+Pflugerville,4,64007.0
+Clayhatchee,4,637.0
+Huntland,3,1112.0
+Schenectady County,5,157515.0
+San Mateo,3,105087.0
+Montclair State University,5,1300.0
+Minnehaha County,5,194884.0
+Osprey,3,6395.0
+Sweeny,4,3638.0
+Glenn Dale,3,15426.0
+Haysville,4,10887.0
+Gaston,3,2089.0
+Valdese,3,4647.0
+Groveland,3,17896.0
+Seneca Gardens,4,675.0
+Orlovista,4,7145.0
+St. Lawrence County,5,108836.0
+Kaufman,3,6796.0
+Solvang,3,6032.0
+Sturtevant,4,6970.0
+Slaughter,3,1022.0
+Green Acres,3,759.0
+Warner Robins,3,157416.0
+Casper,2,63962.0
+Pearl City,3,808.0
+Hand County,3,3061.0
+Minden,2,12145.0
+Emporium,3,1934.0
+Island Lake,3,8057.0
+Battle Lake,3,654.0
+Carrboro,3,21237.0
+Todd Creek,3,5015.0
+Bainbridge Island,4,24557.0
+Parmer County,4,9874.0
+Staley,3,515.0
+Woolrich,3,786.0
+Bell County,3,364703.0
+North Beach Haven,4,2272.0
+Iota,3,1463.0
+Pepper Pike,3,6743.0
+McConnellstown,4,1275.0
+Rineyville,4,2307.0
+Newton,2,88647.0
+Hoytsville,4,584.0
+Merkel,3,2290.0
+Log Cabin,3,910.0
+Clovis,3,118488.0
+Azusa,3,49457.0
+Woodland Mills,3,525.0
+Elfin Forest,4,519.0
+Rockdale,3,5378.0
+East Merrimack,4,4609.0
+Paterson,3,157927.0
+Muskego,4,24991.0
+Kaneville,3,531.0
+Leetsdale,4,1137.0
+Maple Park,3,1775.0
+Grundy Center,4,2783.0
+Hamilton City,3,2216.0
+Ethel,3,504.0
+Bulloch County,4,79635.0
+Artemus,3,627.0
+South Range,3,552.0
+Cathcart,3,2241.0
+Shackle Island,4,3552.0
+Rollingwood,3,3535.0
+Peletier,3,709.0
+Dalton City,3,652.0
+Blaine County,4,23868.0
+Rock Falls,3,8807.0
+Eastern Goleta Valley,5,29983.0
+Gibsonia,3,2536.0
+Quail Ridge,4,2767.0
+Winter Springs,3,38021.0
+San Diego,3,3084174.0
+Yardville,3,6242.0
+Union County,3,571963.0
+Sterling Ranch,3,1171.0
+Forest Home,3,923.0
+Letha,3,579.0
+Winona Lake,4,5059.0
+Williston Highlands,4,3070.0
+Sharpes,3,2569.0
+Luzerne County,4,324825.0
+Bay Minette,4,7824.0
+Loudoun County,4,413574.0
+Mendota Heights,5,11681.0
+North San Pedro,4,752.0
+Weatherby Lake,4,2408.0
+Barrow County,4,82138.0
+San Buenaventura,4,110572.0
+New Fairview,3,1457.0
+Silver City,3,9694.0
+Swain County,4,14166.0
+Hollandale,3,2240.0
+Battlement Mesa,4,5220.0
+Timberline-Fernwood,6,2637.0
+George West,3,3106.0
+Bayonet Point,4,25200.0
+Ridley Park,4,7131.0
+LaFayette,4,6928.0
+Sunlit Hills,4,794.0
+Lopezville,3,1683.0
+Clearlake,3,16468.0
+Donnellson,3,960.0
+Elk Point,3,2248.0
+Mount Clemens,3,15735.0
+Village Green-Green Ridge,6,8592.0
+Oakfield,3,1158.0
+Parkersburg,3,68217.0
+Miner,2,809.0
+Port Trevorton,5,623.0
+Kemah,3,1878.0
+Matagorda County,5,36323.0
+Bolinas,3,1181.0
+Queen Creek,3,57728.0
+New Brunswick,3,55671.0
+Silver City,3,9694.0
+Homedale,3,2845.0
+Dearborn County,4,50494.0
+Home Gardens,3,12910.0
+Cocke County,4,35896.0
+Avon Park,3,9725.0
+Guy,2,679.0
+Chevy Chase Section Five,6,797.0
+Western Springs,3,13550.0
+Brandermill,4,13745.0
+Malheur County,4,31313.0
+Menifee County,5,6149.0
+Schuylerville,5,1541.0
+Mora,2,3569.0
+Windham,3,1785.0
+Howard County,3,329248.0
+New Kent,3,851.0
+Piney Mountain,4,1916.0
+Great Falls,3,62112.0
+Hale Center,3,2049.0
+Otis Orchards-East Farms,7,6133.0
+Chester Hill,3,687.0
+Carmi,3,5012.0
+San Martin,3,6655.0
+Jefferson City,3,43076.0
+Linglestown,4,6380.0
+Beacon Hill,3,1925.0
+North Topsail Beach,5,789.0
+Smithton,3,4192.0
+North Star,3,8009.0
+Oracle,2,3335.0
+Silverado,3,861.0
+Salyersville,5,1957.0
+Saline,3,9072.0
+Van Bibber Lake,5,555.0
+Ashland Heights,4,870.0
+De Smet,4,1128.0
+Sayreville,4,45062.0
+Flagler Beach,4,5064.0
+Tallapoosa,4,3189.0
+Pemberville,4,1360.0
+Hardeeville,5,7228.0
+Miami County,3,107899.0
+Lake Stickney,4,14733.0
+Colwyn,3,2961.0
+Goodyear,3,93651.0
+Desert Aire,3,2819.0
+Asotin County,4,22285.0
+Ranchos de Taos,6,2067.0
+Gladeview,4,14161.0
+Grand Forks County,4,73101.0
+Mayville,3,5165.0
+Elyria,3,52853.0
+Dighton,3,737.0
+Jamestown West,4,2543.0
+Livingston Manor,4,784.0
+Woodlynne,4,2902.0
+Stone Ridge,3,15776.0
+Mountainair,3,1032.0
+New Tripoli,3,678.0
+Ellijay,4,1935.0
+Elizabeth Lake,3,1817.0
+Calipatria,4,7247.0
+Manchester,2,167568.0
+Pixley,3,4137.0
+Rockvale,3,1560.0
+Nassau Village-Ratliff,6,4799.0
+China Spring,3,1342.0
+West Brattleboro,5,2770.0
+Trafalgar,3,1108.0
+Owenton,4,1829.0
+Swedesboro,4,2721.0
+Anthem,3,22750.0
+Califon,3,1041.0
+Hilton Head Island,4,74248.0
+West Valley City,4,139361.0
+Portia,3,508.0
+Blue Ridge Manor,4,731.0
+Pablo,2,2037.0
+Ahtanum,4,3906.0
+Campti,3,1180.0
+McNair,4,20980.0
+La Jara,3,772.0
+Zolfo Springs,4,1795.0
+Newport County,3,85525.0
+Wynantskill,5,3562.0
+Little Chute,4,11652.0
+Lake Lakengren,5,3460.0
+Pine City,3,3142.0
+Unicoi County,5,17891.0
+New Hope,3,21683.0
+Aquebogue,5,1948.0
+Pine Harbor,3,809.0
+Hillcrest Heights,4,17090.0
+Tarpey Village,4,4056.0
+Kitsap Lake,4,1964.0
+Conway County,3,20687.0
+Sausal,3,568.0
+Shinnston,4,2287.0
+Randolph AFB,4,1842.0
+Coshocton,4,11051.0
+Woodacre,3,1279.0
+Statesville,3,27777.0
+Flower Mound,3,75050.0
+Norcross,3,17413.0
+Real County,3,2852.0
+South Fulton,3,105551.0
+Botkins,3,1132.0
+Rhea County,4,32723.0
+Laurel Bay,3,5926.0
+Mentor,2,47369.0
+Obion County,4,30722.0
+North River Shores,4,3739.0
+Pelican Bay,4,6243.0
+Ider,3,604.0
+Panama City,3,149366.0
+Lynnville,3,1102.0
+Hildebran,4,1887.0
+Watertown Town,4,35171.0
+Issaquah,5,39057.0
+McNary,4,1023.0
+Rawlins County,4,2531.0
+Cobbtown,4,589.0
+Sapulpa,4,21853.0
+Palmetto Estates,4,16612.0
+Brantley County,5,18072.0
+Coffey County,5,8361.0
+Moapa Valley,4,7436.0
+Overland,3,15908.0
+Ashtabula County,5,97869.0
+Balaton,3,568.0
+Duncanville,3,40575.0
+Reserve,2,8688.0
+Granada,2,527.0
+Valley City,3,6586.0
+Raymondville,3,10574.0
+Bulls Gap,4,909.0
+Armona,3,4521.0
+Williams Bay,3,2935.0
+Cheltenham Village,4,2181.0
+Cowan,3,1545.0
+Fussels Corner,4,4963.0
+Poplarville,4,2837.0
+St. Pauls,5,2077.0
+Johnson Park,3,872.0
+White Marsh,3,9663.0
+Doylestown,5,3059.0
+Bally,3,1167.0
+Marseilles,4,4384.0
+Third Lake,3,1137.0
+Robertsdale,3,6603.0
+Port Matilda,3,599.0
+Homestead,3,78885.0
+Mars,2,1310.0
+Lake Mathews,3,7455.0
+Zephyrhills South,5,5286.0
+Ponca City,4,24499.0
+Hyrum,4,9330.0
+Kernville,3,780.0
+Lambertville,3,10049.0
+Holyoke,3,38480.0
+Mayville,3,5165.0
+Bermuda Dunes,3,6862.0
+Rosanky,3,1488.0
+Mahtomedi,4,8041.0
+Portageville,4,2958.0
+Hart,2,2193.0
+South Patrick Shores,4,7053.0
+Grassflat,3,505.0
+Etna Green,4,560.0
+Loving County,3,83.0
+Lemon Grove,3,27513.0
+Ontario,2,175223.0
+New Carlisle,3,5561.0
+Missaukee County,5,15038.0
+Onawa,3,2894.0
+Chebanse,4,1163.0
+Hartwell,3,4432.0
+Halls,3,9822.0
+Marlboro,4,3758.0
+Walton Park,4,3724.0
+Albertville,3,22268.0
+Sandyfield,3,590.0
+Port Ewen,4,3603.0
+Scott,2,8200.0
+Carson City,3,57957.0
+Williamsdale,3,854.0
+Giddings,4,4986.0
+Gnadenhutten,5,1250.0
+Oelwein,4,5961.0
+Eden Prairie,3,64048.0
+Levan,3,860.0
+McCone County,4,1805.0
+Bartonsville,4,2176.0
+Webster City,3,7825.0
+Grandview Plaza,4,1744.0
+North Alamo,3,4080.0
+Bluffton,4,27596.0
+Harwick,3,864.0
+Laguna Heights,3,1521.0
+Poteet,4,2863.0
+Littleville,3,873.0
+Forrest County,3,77743.0
+Fordsville,4,584.0
+Ottawa Hills,3,4762.0
+Air Force Academy,4,6170.0
+West Perrine,4,10093.0
+Wood Dale,3,14034.0
+Rich Square,3,744.0
+Oracle,2,3335.0
+Beach Haven West,4,4729.0
+Ash Fork,3,652.0
+Travelers Rest,4,7670.0
+Lanark,3,1571.0
+Sunnyside,3,16343.0
+El Dorado County,4,190568.0
+Camp Verde,3,11942.0
+New York Mills,4,3293.0
+Lonsdale,4,4608.0
+Eagle Butte,3,1421.0
+Cramerton,4,5190.0
+District of Columbia,4,683154.0
+Texas City,3,122017.0
+The Hideout,4,1782.0
+Gassaway,4,906.0
+Cleora,3,1425.0
+Lake Delton,4,3413.0
+Mio,2,1497.0
+Ogle County,4,51787.0
+Ranchester,3,1211.0
+Van Bibber Lake,5,555.0
+Pass Christian,3,5655.0
+Ocala Estates,4,3243.0
+Florissant,3,52382.0
+August,2,9829.0
+Valley Cottage,3,8749.0
+Belleair,3,4266.0
+Madeira,3,9397.0
+Sea Breeze,3,1632.0
+Lake Ripley,3,1911.0
+Maineville,3,1990.0
+Spry,3,4779.0
+Sallisaw,4,8503.0
+Dugger,3,776.0
+Woods Hole,3,1127.0
+Rock Mills,3,577.0
+Lock Haven,3,8458.0
+Edgar,2,1402.0
+Altadena,3,43384.0
+Forest Oaks,3,4265.0
+Huntington County,4,36572.0
+Elk Plain,3,15157.0
+Wendell,3,9847.0
+Big Stone Gap,4,5280.0
+Ravena,3,3273.0
+Hawthorne,3,87863.0
+Arial,2,1969.0
+Columbia Falls,3,5304.0
+Stanford,2,16333.0
+Earle,3,1888.0
+Hickory,3,211042.0
+Pen Mar,3,1309.0
+Penn Wynne,3,6226.0
+Randolph County,4,143735.0
+Karlstad,3,739.0
+Tustin,3,79895.0
+Franklin Lakes,3,11034.0
+Sheridan County,4,30812.0
+Lake Mack-Forest Hills,6,2252.0
+Charlack,3,2094.0
+Glenside,3,7411.0
+Hapeville,4,6553.0
+Jay,2,2714.0
+Grand Ronde,3,1334.0
+Taycheedah,4,741.0
+Jonesport,3,659.0
+Perezville,3,2577.0
+Dodson Branch,4,1216.0
+Highgrove,3,6270.0
+Mart,2,2144.0
+Interlachen,4,1646.0
+St. Paul Park,5,5490.0
+Houghton,3,7675.0
+Holly Springs,3,40198.0
+La Cienega,5,4110.0
+Catron County,4,3581.0
+Hardin,3,3754.0
+Lakes East,3,1526.0
+Robeson County,4,118836.0
+Cynthiana,4,6291.0
+Hustonville,4,614.0
+St. Edward,4,610.0
+Savanna,3,3102.0
+Hennessey,4,2680.0
+Hettinger,3,1116.0
+Chelsea Cove,3,1171.0
+Powhatan Point,4,1743.0
+Goliad,4,1759.0
+Pelham Manor,4,5698.0
+Seaboard,3,674.0
+Greenlawn,3,15115.0
+Cody,2,10055.0
+Airport,2,1209.0
+Flemingsburg,5,2898.0
+Sierra View,3,5323.0
+Hendron,3,5143.0
+Humboldt Hill,5,3386.0
+St. Lucie Village,5,831.0
+Pinewood Estates,4,1407.0
+Big Bear Lake,4,5068.0
+Dolton,3,21588.0
+Baird,3,1671.0
+Mound Bayou,4,1792.0
+Russell Springs,3,2657.0
+Lofall,4,2066.0
+Paa-Ko,5,657.0
+Fairview-Ferndale,6,1840.0
+Bowdon,3,2705.0
+Klamath Falls,4,21710.0
+Freedom Plains,3,647.0
+Coeburn,4,1615.0
+Shandon,4,1110.0
+Donna,2,16743.0
+McConnellstown,4,1275.0
+Rowan County,3,145784.0
+Arbury Hills,4,1502.0
+Fort Gaines,3,903.0
+Remerton,3,1264.0
+Cheney,3,12743.0
+Sebastopol,4,7563.0
+West Mayfield,3,1236.0
+Clover,2,6566.0
+Ralston,3,6453.0
+Bingen,3,786.0
+Echelon,4,13668.0
+Swedeland,4,1761.0
+Sunfield,3,646.0
+Sodus Point,4,977.0
+Kingstree,3,3244.0
+Lake City,3,12325.0
+Lake Isabella,3,3553.0
+Kerrville,3,24071.0
+Millstadt,3,4071.0
+Del City,3,21778.0
+Nodaway County,4,21571.0
+Rancho Mirage,4,17129.0
+Sloan,3,3754.0
+Royal Oak,3,58368.0
+Independence,2,122230.0
+Holiday,2,21435.0
+Mount Vista,3,9924.0
+Green Bay,3,219472.0
+West Mansfield,3,740.0
+Creswell,3,5625.0
+Bloomsdale,4,803.0
+Mill Creek East,4,25528.0
+Lake Meade,3,2436.0
+Timber Lake,3,579.0
+Botkins,3,1132.0
+Saginaw County,4,190540.0
+Schenevus,4,512.0
+Chadwicks,4,1010.0
+Sweeny,4,3638.0
+Conneaut,3,12276.0
+Van Zandt County,5,58782.0
+Hauppauge,4,19967.0
+Cooper County,3,17397.0
+Truesdale,4,776.0
+Coventry Lake,4,2028.0
+Emmetsburg,4,3670.0
+Sully County,4,1279.0
+West Mansfield,3,740.0
+South Valley,3,36583.0
+Lake San Marcos,4,4127.0
+Oconomowoc,5,17969.0
+Gratiot County,4,41758.0
+Brookwood,3,2406.0
+Silver Creek,3,2617.0
+Mi-Wuk Village,6,1076.0
+Gulf Breeze,3,6249.0
+Hale County,3,32879.0
+Lacey,3,52572.0
+Bradley Beach,3,4284.0
+Timber Lakes,3,614.0
+Long Valley,3,2108.0
+Person County,3,38999.0
+Ucon,3,1348.0
+Lincolnia,4,20704.0
+Jensen Beach,3,13108.0
+Geneseo,4,6774.0
+Bay Port,3,596.0
+Clarks Grove,4,606.0
+Midfield,3,5219.0
+Souderton,4,7131.0
+Spring Grove,3,5713.0
+Northlakes,3,1185.0
+Richton Park,4,12867.0
+Terrytown,3,25388.0
+Madison,2,461778.0
+South Bay,3,6284.0
+Netcong,3,3418.0
+Three Points,3,4807.0
+North Vernon,3,6836.0
+Cayuga Heights,4,4023.0
+Mount Arlington,3,5812.0
+Markleville,3,611.0
+Alapaha,4,650.0
+East Helena,3,1647.0
+Frankton,3,2047.0
+Cascade Valley,3,3290.0
+Sultan,2,5208.0
+Metamora,4,4032.0
+Riverview,3,98928.0
+Oradell,4,8236.0
+Yalaha,4,1546.0
+Gallaway,4,652.0
+Mercerville,4,14234.0
+Canaan,3,1243.0
+Paola,2,5733.0
+Dennis,2,857.0
+Piru,3,2203.0
+Big Stone City,4,620.0
+Weyers Cave,4,2167.0
+Summerset,3,2875.0
+Bear Creek Ranch,4,2247.0
+Modena,3,600.0
+Inyo County,4,18804.0
+Bruceville-Eddy,5,1648.0
+Karnes County,4,14823.0
+Luzerne County,4,324825.0
+Dentsville,4,15245.0
+Forest Meadows,3,1371.0
+Fontana,3,208087.0
+Swedesboro,4,2721.0
+Rathdrum,3,9099.0
+Navajo Mountain,5,533.0
+Traer,3,1424.0
+Iraan,3,1387.0
+Rollingwood,3,3535.0
+Nibley,3,7160.0
+College Park,3,34961.0
+Mashpee Neck,4,1405.0
+Toppers,3,1091.0
+Codington County,4,28289.0
+Newburgh Heights,4,1815.0
+Brandywine Bay,5,1276.0
+Pellston,4,790.0
+Centralhatchee,4,563.0
+Poinsett County,5,23212.0
+Indian River County,4,158002.0
+East Hemet,4,19998.0
+Brookfield Center,4,1319.0
+Delano,3,52206.0
+Horizon West,3,54038.0
+International Falls,3,5859.0
+Continental,2,1428.0
+Encantada-Ranchito-El Calaboz,11,1362.0
+Burton,2,29532.0
+Seneca Knolls,5,1949.0
+Santa Rosa County,4,184345.0
+Early County,3,10813.0
+Blue Bell,3,6421.0
+Skokie,3,67444.0
+Morganfield,3,3286.0
+Hoxie,4,2618.0
+Maries County,4,8457.0
+Minoa,3,3653.0
+Vicksburg,3,21748.0
+Turpin Hills,4,5710.0
+Bossier Parish,4,128508.0
+Helena Valley Northeast,4,3607.0
+Fullerton,3,142964.0
+Sewanee,3,2651.0
+Pinellas Park,4,53130.0
+Lakes of the Four Seasons,6,7453.0
+Maries County,4,8457.0
+Alpharetta,3,65187.0
+Terra Alta,3,2067.0
+Bethel Springs,4,859.0
+Amarillo,3,204357.0
+Belgium,2,2548.0
+Snellville,4,20475.0
+Millvale,3,3414.0
+Bear Rocks,3,1111.0
+Carmichael,3,77358.0
+East Vineland,4,1204.0
+Union Parish,3,21272.0
+Colo,2,809.0
+Jacobus,3,2196.0
+Riverwood,3,509.0
+Mathews County,4,8548.0
+Pierre,2,14126.0
+Molalla,3,10060.0
+Lehighton,4,5267.0
+Byers,3,1433.0
+Marysvale,4,527.0
+Loveland Park,4,1853.0
+Kemmerer,4,2632.0
+Chenoa,4,1893.0
+South Pittsburg,3,3116.0
+Zearing,3,531.0
+Walworth,3,2800.0
+Fort Lewis,3,12773.0
+Indian River,3,2128.0
+Brookfield,3,41020.0
+Biltmore Forest,5,1670.0
+Tarrytown,4,11808.0
+Daytona Beach,4,71041.0
+Hazel Park,3,15213.0
+New Freedom,3,4889.0
+La Pryor,3,973.0
+Youngtown,3,6908.0
+Cascade County,3,84178.0
+Odenton,4,43488.0
+Essex Village,3,2814.0
+Ishpeming,4,6223.0
+Tucson,2,875284.0
+Joppa,3,681.0
+Punta Rassa,5,1555.0
+Andrews County,3,18184.0
+Millis-Clicquot,5,4653.0
+Woods Hole,3,1127.0
+Dammeron Valley,5,912.0
+La Palma,3,15650.0
+Orleans Parish,4,383974.0
+Maurertown,4,971.0
+Channel Lake,3,1742.0
+Rio Grande County,4,11476.0
+Horace,2,3141.0
+Offutt AFB,4,5375.0
+North Caldwell,3,6633.0
+Truckee,3,16850.0
+Loris,3,2473.0
+Galax,2,6681.0
+Codington County,4,28289.0
+Hebbronville,4,4283.0
+North Beach,3,2611.0
+West Haven-Sylvan,6,8469.0
+Platte County,4,105189.0
+Romeoville,4,40099.0
+Edgemere,3,8915.0
+Chanute,3,8737.0
+Elkland,3,1692.0
+Port Chester,3,31317.0
+Waushara County,5,24527.0
+Central Heights-Midland City,7,2587.0
+Milledgeville,4,17278.0
+Rockfish,3,3220.0
+Spaulding,4,927.0
+Boalsburg,4,4376.0
+Hopewell Junction,4,881.0
+Lakefield,3,1702.0
+Abbeville County,5,24374.0
+Lumpkin,4,862.0
+Pumpkin Center,3,1959.0
+Ninnekah,4,1067.0
+Middlesex,4,14513.0
+Baileyton,3,1114.0
+Rexland Acres,4,3728.0
+Jewell County,4,2927.0
+Lee,2,702.0
+Sherwood Shores,4,778.0
+Baldwin City,3,4827.0
+Sea Isle City,4,2068.0
+Frederickson,4,21651.0
+Wartburg,3,1235.0
+Northwest Harborcreek,4,9052.0
+Maysville,4,8851.0
+Tolleson,4,7180.0
+Charlestown,3,7859.0
+Beach City,3,3059.0
+Montrose,3,20098.0
+Palm Beach Gardens,4,58482.0
+Kingstowne,4,18369.0
+César Chávez,3,1174.0
+Fort Thomas,3,17241.0
+Lytle,3,2192.0
+D'Iberville,6,12736.0
+L'Anse,5,2089.0
+King County,3,2240876.0
+Campti,3,1180.0
+Elsinore,4,782.0
+Latham,3,14076.0
+Smock,3,559.0
+Le Roy,3,3131.0
+Mountain Grove,3,4386.0
+North Bay Village,4,8057.0
+Federal Heights,3,14111.0
+Mayodan,3,2428.0
+Coconut Creek,3,57553.0
+Hertford County,5,22010.0
+Hopland,3,922.0
+Long Branch,3,31734.0
+West Hills,3,5235.0
+Princeton Meadows,3,15491.0
+Brewer,3,9606.0
+North Ogden,3,20703.0
+Mineral Ridge,3,3987.0
+Traill County,4,8008.0
+Downsville,3,776.0
+East Butler,3,910.0
+Ironton,4,10647.0
+Hyndman,4,933.0
+Mineral Springs,3,3129.0
+Velva,3,1120.0
+Leelanau County,5,22251.0
+Newkirk,3,1979.0
+North Richmond,3,3928.0
+Cross Lanes,3,9434.0
+Tyler,2,143895.0
+Walton,3,5333.0
+Ball Ground,3,2423.0
+Marcus,2,1106.0
+Taylor Ferry,3,849.0
+Bouse,3,1153.0
+Yadkinville,5,2801.0
+Evaro,3,545.0
+Saluda,3,3179.0
+Corcoran,3,22616.0
+Leflore County,4,28555.0
+Riviera Beach,4,37301.0
+Lake Seneca,3,638.0
+Cavalier County,4,3725.0
+Cockeysville,4,23803.0
+Norris,3,1643.0
+Whitewood,3,901.0
+North Newton,3,1957.0
+Nambe,3,2074.0
+Calcutta,3,4426.0
+Rock Island County,4,144694.0
+Oak Valley,3,4322.0
+Log Lane Village,4,960.0
+Kleberg County,4,31015.0
+St. Cloud,4,123569.0
+Edwardsburg,3,1207.0
+Lame Deer,3,2231.0
+Galena Park,4,10770.0
+Margaretville,3,671.0
+Dimondale,3,1688.0
+Kenvil,4,1905.0
+Lima,2,69440.0
+Ellington,3,1423.0
+Farmer City,3,1890.0
+Shasta,3,1645.0
+Golden,2,20041.0
+Fallon Station,4,791.0
+Clarks Grove,4,606.0
+Rosalia,3,598.0
+Mooresburg,4,810.0
+Browns Point,4,1069.0
+Golden Valley,3,22247.0
+Egan,3,1132.0
+Suisun City,5,29436.0
+Valliant,3,763.0
+Boyle,3,921.0
+Kent Estates,3,1944.0
+Riley,2,1194.0
+West Falls Church,4,31023.0
+Rolesville,3,8995.0
+Parlier,3,14666.0
+Interlachen,4,1646.0
+Caddo County,4,27253.0
+Lindsay,2,12551.0
+Metompkin,4,607.0
+Pickensville,4,790.0
+Ransom County,4,5679.0
+Mentor-on-the-Lake,8,7135.0
+Paincourtville,4,1443.0
+Roxboro,3,8097.0
+Tukwila,4,21545.0
+Cross Mountain,3,4443.0
+Lake Kathryn,3,865.0
+Pleasant Gap,3,3569.0
+Jellico,3,1983.0
+Clay,2,10320.0
+Maple Ridge,3,542.0
+Christopher,2,2459.0
+Wirt County,4,5264.0
+Hospers,3,989.0
+Homestead Meadows North,5,6521.0
+Clarkesville,4,1644.0
+Medford Lakes,4,4240.0
+Slater-Marietta,6,1874.0
+New Kent,3,851.0
+Moenkopi,4,1258.0
+Gridley,3,7510.0
+Fort Atkinson,3,12529.0
+Pennwyn,3,577.0
+Piper City,3,709.0
+Pleak,3,1756.0
+Windy Hills,4,2381.0
+Rolling Meadows,3,24300.0
+Navasota,4,7614.0
+Tariffville,3,1684.0
+Kemp Mill,4,14509.0
+Brandermill,4,13745.0
+Dalton City,3,652.0
+Armada,3,2115.0
+Meridianville,4,8344.0
+Fields Landing,3,632.0
+Loudoun County,4,413574.0
+Long Grove,3,8258.0
+Cornersville,3,1562.0
+Archer City,3,1690.0
+Upton County,4,3340.0
+Rangely,3,2381.0
+Doe Run,3,787.0
+Brock Hall,3,12764.0
+Manitou Beach-Devils Lake,8,1821.0
+Flemington,3,4819.0
+Vauxhall,4,5375.0
+Coral Gables,3,49269.0
+Brook Park,3,18592.0
+Woods Hole,3,1127.0
+McConnelsville,5,2282.0
+Pocono Woodland Lakes,5,3700.0
+South Hills,3,669.0
+Greentree,4,10517.0
+Saugatuck,4,2890.0
+Valhalla,3,3135.0
+Claypool,3,1063.0
+McCloud,3,870.0
+Tovey,3,811.0
+Buna,2,1689.0
+Alexander,2,3363.0
+Lake Morton-Berrydale,6,10709.0
+Naylor,3,554.0
+Crossett,3,4888.0
+McBee,3,875.0
+Eva,2,583.0
+North Creek,3,576.0
+Bardmoor,3,9711.0
+Elizabeth,2,135772.0
+Littleton,3,45465.0
+Osage County,4,46140.0
+Russia,2,861.0
+Fossil,2,533.0
+Annabella,3,844.0
+Palatine Bridge,4,684.0
+Cedar Falls,3,40500.0
+Kerens,3,2308.0
+Tortugas,3,800.0
+Powellton,3,534.0
+Alta,2,2144.0
+Logan,2,106319.0
+Teachey,3,749.0
+Colonial Park,3,16132.0
+Witt,2,638.0
+Hurlock,3,2239.0
+Cana,2,1469.0
+South Plainfield,4,24251.0
+Avis,2,1338.0
+St. Paul Park,5,5490.0
+Headland,3,4941.0
+Hodgeman County,5,1851.0
+Winterville,3,10336.0
+Rose Valley,3,1116.0
+Wonewoc,5,712.0
+South Holland,3,21524.0
+Kewaunee County,5,20535.0
+Coventry Lake,4,2028.0
+Chain O' Lakes,5,772.0
+Bluffton,4,27596.0
+Knott County,4,14506.0
+Fort Rucker,4,5912.0
+York,2,236818.0
+El Portal,3,1756.0
+Owyhee,4,921.0
+Tomahawk,3,3409.0
+Tift County,4,41148.0
+Buena Vista County,4,20723.0
+Kitsap Lake,4,1964.0
+New Bethlehem,3,821.0
+Boulder Canyon,3,508.0
+Festus,3,12609.0
+Galeton,3,861.0
+Saylorsburg,4,1318.0
+Etna Green,4,560.0
+La Puebla,3,1038.0
+Portia,3,508.0
+Tangelo Park,4,3202.0
+One Loudoun,4,2504.0
+Aromas,3,2941.0
+Cincinnati,2,1712287.0
+Palo Cedro,4,3275.0
+Sisco Heights,4,3257.0
+Bayboro,3,1158.0
+Barrow County,4,82138.0
+Washburn County,4,16561.0
+Jamul,3,5963.0
+North Bonneville,3,1177.0
+Skyline,3,1078.0
+Piney Point,4,939.0
+Dewey,3,3375.0
+Richfield Springs,4,1256.0
+Ware Shoals,4,2022.0
+Homeacre-Lyndora,7,6610.0
+University of Pittsburgh Bradford,5,730.0
+Laytonsville,4,580.0
+Mystic,2,4354.0
+Mascoutah,4,8803.0
+Interlaken,3,8079.0
+Oklahoma County,3,790938.0
+Lakin,3,1846.0
+Hamilton City,3,2216.0
+Elverta,4,5104.0
+West Bradenton,5,4096.0
+Walnut Hill,3,2520.0
+Fountainebleau,5,57957.0
+Cockeysville,4,23803.0
+Ossineke,4,897.0
+Greenwood Village,4,15548.0
+Newton Grove,3,580.0
+Norton City,3,3696.0
+East Patchogue,4,21830.0
+Salina,3,46896.0
+South Riding,3,33828.0
+Kingfield,3,573.0
+Fentress County,5,18385.0
+Wanblee,4,773.0
+Homeland,3,6717.0
+Celeste,2,969.0
+Albert City,3,624.0
+Story County,3,98106.0
+Bellaire,3,17262.0
+Remlap,3,2520.0
+Strongsville,4,46187.0
+Pingree Grove,4,9734.0
+Pownal,4,568.0
+Seaside Heights,4,2161.0
+Goleta,4,32677.0
+Iosco County,4,25262.0
+Garyville,3,2102.0
+Westchester County,4,999723.0
+Oglala,4,1177.0
+Chenequa,4,777.0
+Electra,3,2163.0
+Lesage,3,843.0
+Oxoboxo River,5,2553.0
+South Webster,3,851.0
+Harlan County,4,26921.0
+Valley Brook,3,786.0
+Nazareth College,4,1215.0
+Corunna,3,3116.0
+Edmonson County,5,12165.0
+Plain View,3,971.0
+Little River-Academy,5,2242.0
+Leighton,3,687.0
+Pendleton County,4,14625.0
+Steamboat Springs,4,13193.0
+Pine Ridge at Crestwood,6,2639.0
+Sunflower County,3,26295.0
+Browns Lake,4,1959.0
+Upper Exeter,3,1028.0
+Church Point,3,4252.0
+Mounds View,4,13187.0
+Middle River,3,30606.0
+Barneveld,4,1319.0
+Belmond,3,2463.0
+Gloucester County,5,300821.0
+Anoka County,4,360773.0
+Kay County,3,44019.0
+Auburn Lake Trails,4,3637.0
+Incline Village,4,9440.0
+Neffs,3,1149.0
+Rockcreek,3,9659.0
+Daniels,3,1351.0
+Fort Meade,3,11253.0
+North New Hyde Park,5,15125.0
+North Salt Lake,4,21411.0
+Revloc,3,550.0
+Kekoskee,4,1085.0
+Oljato-Monument Valley,7,731.0
+Marlinton,4,1329.0
+Shannon Hills,3,4365.0
+Garden Grove,3,172708.0
+Cave Creek,3,4933.0
+Urbandale,4,45037.0
+Mesa County,3,154685.0
+Brice Prairie,4,2146.0
+Cisne,3,563.0
+Cuming County,4,9035.0
+Motley County,4,1269.0
+Park Forest,3,21368.0
+Columbus County,3,51474.0
+East Conemaugh,5,954.0
+Esperance,3,4422.0
+East Bernstadt,4,814.0
+Jacinto City,4,9734.0
+Deckerville,3,949.0
+Clearview,3,3621.0
+Manor,3,13928.0
+Smackover,3,2000.0
+South Coventry,3,1592.0
+Kanawha,4,929.0
+Sutter,3,2778.0
+Waterproof,2,675.0
+Westhampton,4,3816.0
+Gardena,3,60917.0
+Niobrara County,5,2486.0
+Offutt AFB,4,5375.0
+Bay Hill,3,4877.0
+Edmonson County,5,12165.0
+Pageland,3,2854.0
+West End,3,2181.0
+Shokan,3,1308.0
+Rio Lucio,3,577.0
+Pollock,4,604.0
+Grand Rapids,3,604311.0
+Mount Auburn,3,606.0
+Pacific City,3,1362.0
+Crafton,3,6067.0
+White Island Shores,4,2522.0
+Sweet Springs,3,1373.0
+Fuquay-Varina,6,33135.0
+Port Townsend,3,10002.0
+Hedwig Village,4,2343.0
+Delton,3,532.0
+Lolo,3,4338.0
+Vandercook Lake,4,4728.0
+Rio Rancho Estates,4,1087.0
+Clifton Heights,4,6806.0
+Wooster,3,26753.0
+Clara,2,623.0
+Herricks,3,4163.0
+Mont Alto,3,1663.0
+Alex,2,654.0
+Timberville,3,2943.0
+Kosciusko County,5,80151.0
+Anacortes,4,17437.0
+Cliffside,3,569.0
+Pleasant Hill,3,34649.0
+Imboden,3,756.0
+Melbourne Village,3,741.0
+West Wendover,5,4517.0
+Wolf Trap,3,16394.0
+Washington Heights,3,2041.0
+Helena West Side,4,1743.0
+Anacortes,4,17437.0
+Covelo,3,1317.0
+Shafer,3,1140.0
+Kapp Heights,3,784.0
+New Richland,3,994.0
+South Wenatchee,5,1383.0
+Bull Shoals,4,1728.0
+Ladera Heights,4,6658.0
+Moffat County,5,13240.0
+Onsted,3,1204.0
+Schoharie County,5,29936.0
+Guin,3,2490.0
+Evanston,3,78454.0
+Bella Villa,3,679.0
+Madison Parish,3,10297.0
+Perezville,3,2577.0
+South Greeley,3,4385.0
+Fennimore,5,2750.0
+Green Level,3,3015.0
+Ware Shoals,4,2022.0
+Shellsburg,4,908.0
+Mendota Heights,5,11681.0
+Half Moon Bay,4,11792.0
+Mountain View Ranches,5,1596.0
+Foxfire,3,1720.0
+Kiawah Island,4,1964.0
+Haysi,3,615.0
+Ada County,3,485246.0
+Littleton,3,45465.0
+Fall River,3,93339.0
+Tucker,2,36764.0
+Gilmer,3,4802.0
+Bokeelia,4,1815.0
+Cadillac,3,10317.0
+Everly,3,591.0
+Monument Beach,3,3187.0
+Algoma,3,3221.0
+Alton,3,83705.0
+Hawesville,4,969.0
+Hydetown,3,758.0
+Wolfe City,3,1269.0
+Talladega County,4,81850.0
+Glandorf,4,1141.0
+Pine Bluff,3,41964.0
+Panama City,3,149366.0
+Freeman,2,1711.0
+Hooper,3,8941.0
+McLoud,3,4223.0
+Levy County,3,42392.0
+Goulding,4,3427.0
+Kingfisher,3,4810.0
+Hermitage,4,16240.0
+Desha County,4,11530.0
+Utica,3,112948.0
+Sebring,3,63287.0
+Swisher County,4,7055.0
+Valatie,3,1611.0
+Dunwoody,3,51103.0
+Baileyton,3,1114.0
+San Miguel,3,3573.0
+Cascade-Chipita Park,6,1256.0
+Auglaize County,5,46282.0
+Heath Springs,3,745.0
+Monument Hills,3,1508.0
+New Straitsville,4,679.0
+Juniata,3,675.0
+Happy Valley,3,23442.0
+Tiskilwa,5,709.0
+Suisun City,5,29436.0
+Fort Scott,3,7579.0
+Matoaca,4,2440.0
+Terrytown,3,25388.0
+Anaheim,3,348204.0
+Pitkin County,4,17471.0
+LeChee,4,1499.0
+Harbor Hills,3,1610.0
+Arenac County,4,15009.0
+Traverse City,3,15263.0
+Eagleville,4,5362.0
+Great Bend,3,14864.0
+Leadwood,3,1849.0
+Clark Mills,3,1655.0
+Reedsburg,4,9942.0
+Elizabethtown,3,78446.0
+Millbrook,3,16675.0
+White County,3,77075.0
+Hawesville,4,969.0
+North Liberty,3,19976.0
+Waurika,4,1829.0
+Lake Magdalene,3,31211.0
+Renville,3,1370.0
+Crofton,3,29812.0
+Goldendale,3,3480.0
+Cookeville,4,34068.0
+Jackson,2,326977.0
+Rehoboth Beach,5,1392.0
+Yalobusha County,6,12586.0
+Teviston,4,1063.0
+Omega,2,1257.0
+Torrance,3,147156.0
+Escobares,4,2574.0
+Walnut Park,3,16453.0
+Eddington,3,1832.0
+Wallenpaupack Lake Estates,8,1109.0
+Highland Village,3,15769.0
+San Bernardino,3,220821.0
+Potomac,4,46891.0
+Purcellville,4,8910.0
+Brewton,3,5288.0
+Eagleton Village,4,5603.0
+Vermilion,4,10560.0
+Verde Village,3,12658.0
+Fife Heights,4,1833.0
+Brigham City,4,19373.0
+Gumlog,3,2290.0
+Bard College,3,1488.0
+Maple Park,3,1775.0
+La Grande,3,13212.0
+Northwest Harborcreek,4,9052.0
+Galt,3,25385.0
+Aetna Estates,4,1255.0
+New Harmony,3,719.0
+Big Wells,3,503.0
+Gahanna,4,35626.0
+Becker County,3,34995.0
+Red Rock,3,3403.0
+Bay Park,3,1324.0
+Nescopeck,5,1472.0
+Barbourmeade,5,1252.0
+Olympia Heights,3,13695.0
+Yadkin County,5,37198.0
+Avery County,3,17747.0
+Rosemont,3,24343.0
+Dennisville,3,877.0
+Saunders County,4,22008.0
+Mastic,3,15576.0
+Altadena,3,43384.0
+Point Pleasant Beach,4,4748.0
+Benton Harbor,4,9171.0
+Shackle Island,4,3552.0
+McGraw,2,1331.0
+Norton Center,3,2627.0
+Litchfield County,4,185175.0
+Sells,3,2323.0
+Ship Bottom,3,1000.0
+Poquoson,5,12382.0
+Bull Mountain,3,9545.0

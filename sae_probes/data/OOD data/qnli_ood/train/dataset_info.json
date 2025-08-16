@@ -1,0 +1,63 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "default",
+  "dataset_size": 33544870,
+  "description": "",
+  "download_checksums": {
+    "/yanglinyi/new_codes_cluster/qnli_data/qnli_ood.json": {
+      "num_bytes": 39138050,
+      "checksum": "80b03a53d9a240de6185d81c825cf955336c66c73192f40811d2c644e0a7404d"
+    }
+  },
+  "download_size": 39138050,
+  "features": {
+    "id": {
+      "dtype": "int64",
+      "id": null,
+      "_type": "Value"
+    },
+    "sid": {
+      "dtype": "string",
+      "id": null,
+      "_type": "Value"
+    },
+    "question": {
+      "dtype": "string",
+      "id": null,
+      "_type": "Value"
+    },
+    "sentence": {
+      "dtype": "string",
+      "id": null,
+      "_type": "Value"
+    },
+    "label": {
+      "dtype": "string",
+      "id": null,
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "post_processed": null,
+  "post_processing_size": null,
+  "size_in_bytes": 72682920,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 33544870,
+      "num_examples": 119525,
+      "dataset_name": "json"
+    }
+  },
+  "supervised_keys": null,
+  "task_templates": null,
+  "version": {
+    "version_str": "0.0.0",
+    "description": null,
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

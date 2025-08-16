@@ -1,0 +1,5001 @@
+prompt,prompt_len,target
+Irvine,3,33.6772
+Muenster,4,33.6586
+Texhoma,3,36.5054
+Paxton Hotel,4,41.2572
+Portales,3,34.1754
+Rincon Valley,4,32.1101
+Apalachin,4,42.0639
+New Port Richey East,6,28.2605
+Western Illinois University,4,40.4704
+Reedley College,4,36.605408
+Plymouth State University,4,43.7589
+Port Morris,3,40.9061
+Babbie,3,31.3022
+Pasadena Park,4,38.711
+Hollywood Sign,3,34.1341
+Elkton,3,39.6066
+Calumet County,4,44.0816
+Anza,3,33.5678
+South Sioux City,4,42.4627
+Solar Energy Generating Systems,5,35.0316
+Basilica of the National Shrine of the Assumption of the Blessed Virgin Mary,15,39.2944
+Tun Tavern,3,39.9471
+Arcadia University,4,40.0917
+Longport,3,39.3136
+Cherry Hill Mall,4,39.9384
+Channel Islands Beach,4,34.1625
+Toledo Academy of Beauty,5,41.6385
+Montreal,2,46.4312
+Altoona,3,40.5082
+Tumbling Shoals,5,35.5472
+Bushnell University,4,44.047
+Washington State University College of Veterinary Medicine,8,46.72805556
+South Hill,3,47.1198
+Eureka Mill,3,34.718
+Woman Lake,3,46.9519
+Plattsville,4,41.226
+Alburtis,4,40.509
+Tillmans Corner,4,30.5819
+Yalobusha County,6,34.0282
+Science Hill,3,37.1741
+Pacific University,3,45.521111111
+Nowata County,4,36.7985
+Baiting Hollow,4,40.9582
+Herrington Lake,4,37.7366
+Hutchinson County,4,35.84
+Needville,3,29.3957
+Champaign County,3,40.1401
+Lone Oak,3,35.2007
+Pasadena Playhouse,4,34.1451
+Cle Elum,4,47.1943
+Bladensburg,4,38.9424
+Collinwood,4,35.1746
+Patterson School of Diplomacy and International Commerce,8,38.0385
+Stuarts Draft,4,38.0188
+Stallion Springs,4,35.0922
+Yoe,3,39.9096
+Gonzales County,4,29.4567
+Ida Grove,3,42.3439
+Texanna,3,35.3572
+Calvin University,3,42.930277777
+Kendall Park,3,40.4135
+Medina,3,41.1358
+Trimble County,4,38.613
+New Tazewell,5,36.4381
+Clary Sage College,5,36.117
+Gayle Mill,4,34.7023
+East Vandergrift,5,40.5973
+Aspermont,4,33.1405
+Dardenne Prairie,5,38.7565
+Pasquotank County,5,36.2955
+Sutton Lake (West Virginia),7,38.662
+Cobb County,4,33.9415
+Coulterville,4,38.185
+Alcester,3,43.0278
+Greeley Hill,4,37.7505
+Bladenboro,4,34.5407
+Bolivar Peninsula,4,29.486
+East Tawakoni,5,32.9011
+Matthews,3,35.1195
+Douglasville,3,33.7384
+Earlysville,4,38.1579
+John Glenn School of Public Affairs,7,39.9992
+Bryson City,4,35.4262
+Wake County,3,35.7903
+"Sacred Heart Cathedral (Davenport, Iowa)",11,41.5303
+Rosenhayn,4,39.4787
+Balcones Heights,4,29.4899
+Almedia,3,41.0144
+Oklahoma Baptist University,4,35.3597
+Epworth,3,42.4465
+"Cathedral Church of St. John (Albuquerque, New Mexico)",15,35.0823
+Hondo,3,29.3531
+North Decatur,3,33.8074
+University of Houston System at Cinco Ranch,8,29.72037
+Sangre de Cristo Range,6,37.5772
+North Bay Village,4,25.8487
+Burnet,3,30.7496
+Strait of Georgia,5,49.2942
+Marseilles,4,41.3099
+Dufur,4,45.4531
+San Pablo,3,37.9629
+Van,2,32.5242
+Powder River County,4,45.395
+Chatham,3,39.6733
+Garden Plain,3,37.6627
+Eldon,3,38.3511
+Cathedral of Saint Paul (Minnesota),9,44.9469
+Lackawanna County,5,41.4367
+South Hempstead,4,40.6814
+Dadeville,3,32.8326
+"California State University, Bakersfield",6,35.350556
+Marshfield,3,44.6627
+Cooperstown,3,42.6996
+Kingfisher County,4,35.9454
+Shofuso Japanese House and Garden,8,39.9814
+Sauk Village,4,41.4906
+West Whittier-Los Nietos,7,33.9759
+Jennings Lodge,4,45.3927
+Horicon,3,43.4454
+Lott,3,31.206
+Roseau,3,48.8445
+Difficult Run,3,38.9016
+Casa Conejo,4,34.1848
+Ladera Ranch,4,33.5492
+Prairieville,3,30.3151
+Ivanpah Lake,4,35.5506
+Avenue B and C,5,32.7192
+West Babylon,3,40.7129
+Schley County,4,32.2617
+Nobles County,4,43.6742
+Bayside Gardens,4,45.7143
+Richgrove,3,35.7966
+Ranchester,3,44.9075
+Richboro,3,40.2262
+Francisco,2,38.3327
+Low Mountain,3,35.9481
+Metcalfe,3,33.4505
+Goodfield,3,40.6266
+North Plainfield,4,40.6209
+Gull Lake (Michigan),7,42.3998
+Bluffview,4,43.3641
+Cowlitz County,4,46.1932
+Grenloch,3,39.7825
+St. Robert,4,37.8244
+National Defense University,4,38.8659
+Galesburg,4,40.9506
+Royal Oak Music Theatre,5,42.4873
+Hiawassee,5,34.9495
+Laguna Heights,3,26.081
+Highland Acres,3,39.1163
+Crystal Lawns,4,41.5685
+Purdue University College of Agriculture,6,40.423398
+Bostonia,4,32.8189
+Norwood Young America,5,44.7721
+Lawson,3,39.4361
+Ouray,3,38.0276
+Lampasas,3,31.064
+Prairie du Chien,4,43.0429
+Rosemont,3,38.5478
+Baywood,3,40.7533
+Five Corners,3,45.6883
+Boca Raton,3,26.3752
+Pacific University,3,45.521111111
+Fishersville,4,38.105
+Berne,3,40.6572
+Mammy's Cupboard,7,31.4781
+Jones Valley,3,40.6999
+Wray,3,40.0802
+"Orpheum Theater (Flagstaff, Arizona)",11,35.1985
+Missaukee County,5,44.3374
+Pratt Institute,4,40.691111
+Coleraine,4,47.2639
+Whiskey Creek,3,26.5733
+Catalina Foothills,5,32.3046
+Sunman,3,39.2373
+Donaldsonville,4,30.0954
+Brick Presbyterian Church (New York City),9,40.7842
+North Crossett,4,33.1707
+Stafford Courthouse,4,38.4184
+Knowlton Hall,4,40.0035
+Slaughterville,4,35.091
+Godfrey,3,38.9577
+Detroit Beach,3,41.9314
+Amanda,2,39.6501
+Zion,2,42.4603
+Hamden,3,39.1592
+Viera East,4,28.2613
+Kingsbury,3,38.9909
+Culpeper,3,38.4704
+Whidbey Island Station,6,48.3387
+Saint Louis University College of Arts and Sciences,9,38.636497
+Coalfield,3,36.0219
+Illiopolis,4,39.8498
+Pass Christian,3,30.327
+Grapeview,3,47.3316
+Plantation,3,26.1259
+Troy Hills,3,40.8483
+Cowley County,4,37.2377
+Catawissa,4,40.9531
+Winterset,3,41.345
+Idabel,3,33.904
+Riverwood,3,38.2829
+Paxton,3,40.4563
+Rye Brook,3,41.0302
+Van Meter,3,41.5192
+Santo Domingo Pueblo,4,35.5175
+Third Lake,3,42.3709
+Aransas County,4,28.1249
+Cascade County,3,47.308
+Sun Lakes,3,33.2172
+Antigo,3,45.141
+Kings Park West,4,38.8151
+Cohutta,3,34.9539
+Chicot County,4,33.267
+Park Rapids,3,46.9169
+University of Southern California School of International Relations,9,34.021658
+Le Sueur,4,44.4702
+Andrew County,3,39.9835
+Vineland,3,39.4653
+Painted Hills,3,39.3963
+Payette County,4,44.0068
+Brightwaters,3,40.7193
+Mocksville,3,35.9007
+Huntingdon County,4,40.417
+Los Gatos,4,37.2304
+Nisqually Indian Community,6,47.0164
+Moravian Falls,4,36.1073
+Hargill,4,26.4423
+Gladstone,3,39.2134
+Avilla,3,41.3637
+Macopin,4,41.0336
+Lake Magdalene,3,28.0875
+Clearview,3,47.8292
+Georgia Institute of Technology College of Architecture,8,33.7761
+West Crossett,4,33.1488
+Ulm,3,47.4197
+Lake Bowen,3,35.1119
+Vandiver,3,33.4601
+Westby,3,43.653
+Lake Park,3,26.7998
+Pagosa Springs,4,37.2675
+Niobrara County,5,43.0564
+Wheaton Bible Church,5,41.912
+University of South Florida St. Petersburg,8,27.763111111
+Pleasant Ridge,3,42.4715
+San Mateo,3,37.5522
+North Cape May,4,38.9804
+White Mills,3,41.535
+Sebastian,2,27.7822
+Ellinwood,4,38.3574
+Vanguard University of Southern California,6,33.663
+Scribner,3,41.6651
+Moultrie,4,31.1591
+Williston Highlands,4,29.3336
+Sea Bright,3,40.3653
+Cochran,3,32.3875
+Barbee Lake,4,41.285
+DeBordieu Colony,5,33.3707
+Verden,3,35.0833
+Rolette County,4,48.7725
+Boles Acres,4,32.8198
+Saints Peter and Paul Cathedral (Indianapolis),9,39.7853
+Rose Wagner Performing Arts Center,6,40.7631
+West Ocean City,4,38.3466
+Resaca,3,34.5789
+North Tonawanda Barrel Organ Factory,8,43.0611
+Lake Sherwood,3,34.134
+West Allis,4,43.0068
+Iosco County,4,44.3559
+Otter Tail Lake,4,46.4004
+Eighth & Main,5,43.6161
+West Texas A&M University,7,34.984419
+Donalsonville,5,31.0404
+Huntington Woods,4,42.4816
+Strawn,3,32.551
+Lake Villa,3,42.4184
+Holgate,3,41.2493
+Fords Prairie,4,46.7459
+Boring,2,45.4304
+Vine Grove,3,37.8134
+Basye,3,38.8182
+Birdsboro,3,40.2619
+Wanamassa,4,40.2366
+Lake Forest Park,4,47.7574
+University of South Alabama,5,30.69588
+Belle Chasse,3,29.8558
+Dalworthington Gardens,5,32.6937
+Grand Isle County,4,44.7981
+Walden University,4,44.981111
+Manassas Park City,5,38.7709
+Elgin,3,42.0383
+Rainy Lake,3,48.6536
+Colleges@ASU,5,34.473
+Wittmann,3,33.7749
+Oxoboxo River,5,41.4441
+McNeese State University,6,30.1798
+Lenoir,4,35.9094
+East Camden,3,34.2687
+Woman Lake,3,46.9519
+Sunset Valley,3,30.2258
+Mohrsville,4,40.4781
+University of Delaware,4,39.679111111
+Weleetka,4,35.3401
+Sanders County,3,47.6748
+Cave Spring,3,37.2254
+Yellow Springs,3,39.7987
+Cadyville,4,44.6977
+Enola,3,40.2908
+Hood County,3,32.4299
+Yorba Linda,4,33.889
+Abbottstown,3,39.8843
+Cadyville,4,44.6977
+Coram,3,40.8812
+Abraham Lincoln University,4,34.0614
+Chemung County,4,42.1413
+Sunfish Lake,4,44.8722
+Hillsboro,3,45.5273
+Salina,3,38.8136
+Staunton,3,38.1593
+Montverde,3,28.5971
+Sangre de Cristo Range,6,37.5772
+Western Kentucky University-Owensboro,8,37.7177
+Etna,3,40.4975
+Sawyer County,4,45.88
+Cedar Crest,3,42.0764
+Groves,3,29.9457
+Ferron,3,39.0914
+Grayhawk,3,37.931
+Vineyard Haven,4,41.4572
+Beauregard Parish,5,30.6486
+Bell Hill,3,48.055
+Aventura,3,25.9566
+South Miami,3,25.7079
+Danbury,3,41.4015
+Victoria,2,28.8287
+Lake Del Valle,4,37.5983
+Lake Arrowhead,4,34.2531
+Ranger,2,32.4693
+Rosharon,4,29.35
+Atlas,2,40.7974
+Burien,3,47.4762
+Washingtonville,3,41.4297
+Honaker,3,37.0156
+Garnet,3,33.9179
+Mount Carroll,3,42.0948
+West Virginia University Institute of Technology,7,38.179444444
+Dickenson County,4,37.1258
+Garrettsville,4,41.2844
+Vineyards,3,26.2279
+Judson University,4,42.0664
+Mill City,3,44.752
+Leith-Hatfield,6,39.8772
+Wake Village,3,33.4238
+Roslyn Harbor,4,40.8158
+Lonoke County,5,34.7542
+Ozona,3,30.7074
+Prinsburg,4,44.9349
+Oak Leaf,3,32.5138
+Groveland,3,28.6098
+Lake Wateree,4,34.4111
+Millen,3,32.8071
+Wartburg,3,36.1038
+Douglasville,3,33.7384
+Candlewood Lake,4,40.6214
+Lonoke County,5,34.7542
+Calabash,4,33.8957
+Cortland,3,42.6004
+Marlboro Meadows,5,38.8374
+Kenmare,3,48.6729
+La Vista,3,41.1816
+Diaz Lake,3,36.5594
+Parkside,3,39.8674
+Napa County,4,38.5065
+Inglis,3,29.0323
+Holtsville,4,40.8124
+Honeoye,4,42.7885
+Travis Ranch,3,32.8015
+Mariposa County,4,37.5815
+Wilkesboro,4,36.1424
+Branford,3,29.9623
+Loma Linda,4,34.045
+Effingham,3,39.1205
+Summitville,3,40.3359
+Brightwood,3,38.4132
+Haymarket,3,38.8121
+Breesport,4,42.1816
+Schram City,4,39.1631
+Myers Corner,3,41.5864
+Burneyville,4,33.9043
+Louisiana State University at Eunice,6,30.47472222
+Rancho Santa Fe,5,33.024
+Verdigris,4,36.2536
+Potters Hill,4,34.9645
+Bay Hill,3,28.4559
+Simonton Lake,4,41.7478
+Cincinnati,2,39.1413
+Raysal,3,37.3367
+Governors State University,5,41.4486
+Lambertville,3,41.7484
+Christian Brothers University,4,35.127376
+Louisiana State University Business Education Complex,7,30.407222222
+Beattystown,4,40.8222
+Spearville,3,37.8481
+Ladera Ranch,4,33.5492
+Moenkopi,4,36.1125
+Airport Drive,3,37.1405
+Maricopa Colony,5,33.3626
+Portal,2,32.5383
+Crown Point,3,41.4143
+Cuyahoga Heights,5,41.435
+Cherry Tree,3,35.7454
+Dinwiddie County,5,37.0759
+Miles City,3,46.4059
+Society Hill Towers,4,39.9455
+Basin City,3,46.589
+Oronogo,4,37.1917
+Las Palmas II,4,26.2032
+Concord,2,37.9722
+Lenoir County,5,35.2388
+Ida Grove,3,42.3439
+Hardin–Simmons University,6,32.477
+Old Jefferson,3,30.3776
+Asotin County,4,46.1918
+Ralston College,4,32.070833333
+Darmstadt,3,38.0938
+Widener University,4,39.8607
+Florida National University,4,25.8616695
+East Meadow,3,40.7197
+Twitchell Reservoir,5,34.998
+Challenge-Brownsville,6,39.4646
+Wyandanch,4,40.7496
+Silverado Resort,4,38.3536
+Nassau County,3,40.7328
+Hill City,3,39.367
+Wading River,4,40.9464
+Lake Kampeska,5,44.9315
+O'Neill,4,42.461
+Osceola County,5,28.0627
+Phillips County,3,34.4274
+Arcadia University,4,40.092
+Howell County,4,36.774
+Syracuse University School of Education,6,43.04133
+Shoals,3,38.6669
+Georgia College & State University,6,33.081388888
+Prosser,3,46.2068
+Rocky Fork Point,4,39.1878
+O'Brien,4,42.0702
+Antioch University Santa Barbara,6,34.423
+Stone Mountain,3,33.8035
+Lamoni,3,40.6201
+Houghton,3,47.1118
+St. Helens,4,45.8572
+"First African Baptist Church (Savannah, Georgia)",10,32.0814
+Wright Patman Lake,5,33.3047
+Gramercy,3,30.061
+Alta,2,42.6717
+Furman,3,32.6813
+Waynetown,3,40.088
+Pickens,3,34.8856
+Opal,2,38.6201
+Gothenburg,3,40.9242
+Piltzville,5,46.8582
+Roseburg,3,43.2231
+Covina,3,34.0903
+Fort Stewart,3,31.8811
+Fox Crossing,3,44.2228
+Ducktown,3,35.036
+Lakeside Park,4,39.0339
+Sheridan County,4,44.79
+Augsburg University,4,44.9659
+Willmar,3,45.1216
+Palmer Lake,3,39.1153
+Farmers Branch,3,32.9272
+Barker Heights,4,35.3104
+South Shore,3,38.7224
+Kaukauna,4,44.2773
+Lake Jackson,3,29.0516
+Flagler Estates,4,29.6441
+South Barrington,3,42.0881
+Hendersonville,3,36.3063
+Hooker County,4,41.916
+Greenock,4,40.3125
+Cascade-Chipita Park,6,38.9433
+Eureka Springs,3,36.4105
+Blawnox,4,40.4922
+Chelan County,4,47.8692
+New Germany,3,44.8861
+Coleytown,4,41.1742
+Florida Polytechnic University,4,27.996825
+Boone Lake,4,36.4403
+Humansville,3,37.7952
+Conejos County,4,37.2007
+St. Francisville,5,30.7852
+Cleora,3,36.5738
+Elkins Park,4,40.0775
+Hurstbourne Acres,5,38.2201
+Cohoes,3,42.7732
+Rocky Ford,3,38.0499
+Painted Hills,3,39.3963
+LaMoure,4,46.3574
+Archer City,3,33.5938
+Calvary Church of Santa Ana,7,33.7541
+Smith Valley,3,38.8109
+Excelsior Springs,4,39.339
+Mount Clay,3,44.2852
+Ringling,3,34.1772
+Glen Dale,3,39.9466
+Richton Park,4,41.4816
+Bernville,3,40.4334
+Mary Allen Seminary,4,31.32742866
+West Elmira,4,42.0879
+Dimondale,3,42.6484
+Ogle County,4,42.0426
+Old Dominion University POD,5,36.8859494
+Saratoga,3,37.2684
+Port Lavaca,4,28.6181
+Watergate,3,26.3359
+Wilhoit,4,34.4082
+Oyster Bay Cove,5,40.8569
+Basilica of the Sacred Heart (Notre Dame),11,41.7026
+Clanton,3,32.8444
+Kensico Reservoir,4,41.0861
+West Farmington,3,41.391
+King and Queen County,5,37.7186
+Talbotton,4,32.6773
+Teachey,3,34.7705
+Valley Green,3,40.1567
+Ravensdale,4,47.3589
+Larksville,4,41.2639
+Tatoosh Range,5,46.745
+Patten University,4,37.7863
+Rapids,3,43.0976
+Fairchilds,3,29.4399
+Kendall West,3,25.7065
+West Okoboji Lake,6,43.3844
+Clay,2,33.6951
+Transylvania County,4,35.2021
+Park Performing Arts Center,5,40.7739
+Shasta Lake,4,40.679
+Bal Harbour,3,25.8935
+Malott,3,48.2918
+La Poudre Pass Lake,6,40.4733
+"Christ Church Cathedral (Lexington, Kentucky)",9,38.0486
+Fort Walton Beach,4,30.4255
+West Palm Beach,4,26.7469
+Keshena,3,44.8697
+Otsego County,4,42.6338
+Shell Ridge,3,37.906
+Santo Domingo Pueblo,4,35.5175
+Mazomanie,4,43.1731
+Georgia Southern University,4,32.4194
+New Castle Northwest,4,41.0221
+Spotsylvania County,4,38.185
+Wilmington,3,34.2099
+Douglass Hills,4,38.2367
+Crimora,4,38.1618
+Fort Washington,3,38.7339
+Saybrook Manor,4,41.2825
+Kirksville,4,40.1986
+San Manuel,3,32.6091
+Idamay,4,39.493
+Uniformed Services University of the Health Sciences,10,39.0012
+Lake Land'Or,5,38.017
+Rockbridge County,4,37.8145
+Hookerton,3,35.4228
+Chowan County,4,36.1508
+Caddo Valley,4,34.1898
+Grand Coulee Dam,5,47.9558
+Pittsburg County,5,34.9239
+Iron Mountain,3,45.8275
+Cuyahoga County,5,41.4243
+Western Illinois University,4,40.4704
+Teton,3,43.8871
+Angola on the Lake,5,42.655
+Helena Valley West Central,5,46.6634
+East Bernstadt,4,37.1923
+Meggett,4,32.6968
+Mills College at Northeastern,5,37.780555555
+Trevose,4,40.1509
+Burke,2,38.7773
+Myerstown,4,40.3722
+Box Elder County,4,41.521
+Haslett,3,42.7525
+St. Martinville,5,30.1263
+Fort Polk South,4,31.0512
+Mamou,3,30.6349
+Cache County,3,41.7224
+Liberty Lake,3,47.6686
+Saranac,4,42.9294
+Stonewood,3,39.2502
+Ouray County,4,38.1555
+Light Oak,3,35.2867
+American Lake,3,47.13
+Callaway County,4,38.8355
+Cheriton,3,37.2919
+Bloomville,3,41.0514
+Parker,2,39.5084
+West Orange,3,30.0791
+Barrett,2,29.8671
+Montverde,3,28.5971
+Light Oak,3,35.2867
+Florida National University,4,25.8616695
+Lyndhurst,4,41.5172
+Lake Wissota,5,44.922
+Brickerville,3,40.2226
+Simsbury Center,4,41.8808
+Chisago County,5,45.5025
+Madeira Beach,4,27.7985
+"Wilma Theatre (Missoula, Montana)",10,46.8689
+Marvell,3,34.5563
+Barry University,3,25.878836111
+Sag Harbor,3,40.9971
+Colleyville,4,32.8913
+Stem,2,36.1963
+Box Elder,3,44.112
+Eagleview,3,40.0598
+Ogdensburg,4,44.7088
+Bigfork,3,48.0852
+Harrisonburg,3,38.4362
+East Newark,3,40.751
+Lincoln College,3,40.156972
+Simmesport,4,30.9806
+Fobes Hill,4,47.9392
+Lynden,3,48.9502
+Falls Church,3,38.8847
+Aspinwall,4,40.4929
+Dorr,3,42.727
+Jonesburg,3,38.8546
+East Freedom,3,40.3552
+Ironwood,3,46.4522
+Tavares,3,28.792
+Boone Lake,4,36.4403
+Mountain Lake Park,4,39.4004
+Emmetsburg,4,43.1145
+Lake Wallenpaupack,7,41.4131
+Reedley,3,36.5988
+Lone Oak,3,35.2007
+Low Mountain,3,35.9481
+Gwinner,3,46.2358
+State University of New York at Old Westbury,10,40.796001
+Bellevue University,4,41.1506
+Peterstown,3,37.3991
+Rampart Reservoir,4,38.975
+Pine Haven,3,44.3534
+Eupora,3,33.5435
+Williamsport,3,41.2399
+Peninsula,3,41.2379
+Black Lake (Louisiana),6,31.9574
+Kennewick,4,46.1978
+Astor Theatre (New York City),9,40.758
+Glens Falls,4,43.3109
+Scribner,3,41.6651
+Mount Sidney,3,38.2586
+North Apollo,3,40.5938
+Silicon Valley University,4,37.400276
+Oral Roberts University,4,36.05056
+Bluffton University,5,40.896
+Chesaning,3,43.1851
+Carlton County,3,46.5924
+Sauk County,4,43.4267
+Prentiss County,4,34.6183
+Russell Gardens,3,40.7809
+Pocono Ranch Lands,5,41.1747
+Laurel Park,3,35.3118
+Travis County,3,30.3344
+St. Libory,5,38.3634
+Cankton,4,30.3455
+Carpendale,4,39.6278
+Kirkwood,3,38.5788
+Claypool,3,33.4061
+Canal Winchester,3,39.8437
+Winnfield,4,31.924
+Redmond,3,47.6763
+New Deal,3,33.7322
+Reedsburg,4,43.5348
+Henderson,2,36.0133
+Southwest City,3,36.5205
+Kennesaw State University College of Science & Mathematics,11,34.038
+Mildred Elley,5,42.68073
+Kronenwetter,4,44.8164
+Kinston,3,35.2747
+Eighth & Main,5,43.6161
+Fresno Pacific University,5,36.726
+Tioga Terrace,5,42.0508
+Redstone Arsenal,4,34.6645
+Cuba,2,38.0671
+Civic Center Music Hall,5,35.469
+Meigs,3,31.0714
+"St. Agnes Cathedral (Rockville Centre, New York)",13,40.6598
+Lumberport,4,39.3741
+Kekoskee,4,43.5019
+Cedarville,3,39.7471
+Drexel Hill,5,39.9495
+Ashdown,3,33.6746
+Eccles Theater,3,40.7664
+Elim,3,40.2989
+Burr Ridge,4,41.7485
+Bawcomville,5,32.4702
+Navesink Highlands,5,40.3996
+Rossmoyne,4,39.2153
+Greensville County,4,36.6759
+Mayacamas Mountains,5,38.6693
+Lake Osakis,4,45.8967
+Oswego County,4,43.4269
+Troup,3,32.145
+Ola,2,35.031
+Palos Hills,4,41.6986
+Cleone,3,39.4928
+Brevard,3,35.2438
+Mount Ayr,3,40.7141
+Okaloosa County,5,30.6913
+Summit,2,40.7154
+Sultana,4,36.5455
+Agate Lake,4,42.4108
+Frankton,3,40.221
+Madrid,2,41.8757
+Sagadahoc County,5,43.9598
+Skyland Estates,4,38.9329
+Hartrandt,4,42.8836
+Mounds View,4,45.1071
+Zillah,3,46.4084
+Southwest Baptist University,4,37.6019
+Downers Grove,4,41.7949
+South Euclid,3,41.524
+Kinston,3,35.2747
+City University of Seattle,5,47.61745
+Wind River Range,4,43.1844
+Shorewood Forest,4,41.4598
+Traer,3,42.1895
+Lake Hiawatha,6,40.8816
+Estill County,4,37.6924
+Lincoln Center,3,39.043
+Rouzerville,4,39.7341
+Colstrip,3,45.8943
+Inyokern,4,35.6546
+Mesilla,3,32.2693
+Coker,3,33.2446
+Lathrop,4,37.809
+Shreveport,4,32.4653
+Hopatcong,4,40.9541
+Aiken,3,33.5303
+Kettle Falls,4,48.6055
+Fredericksburg City,5,38.2992
+Detroit Lake,3,44.6933
+Texico,3,34.3897
+Kulpsville,4,40.244
+Makanda,3,37.621
+Bend,2,44.0563
+Gibson City,3,40.4665
+Scottsmoor,4,28.768
+Valliant,3,34.0058
+Beaver Falls,3,40.7619
+Traer,3,42.1895
+Wacousta,5,42.8202
+Washington Parish,3,30.8533
+Leola,3,40.0915
+Blackshear,3,31.2954
+University of Arkansas Grantham,6,34.776272155
+Allegan County,4,42.5913
+Spokane Valley,4,47.6626
+Griggstown,4,40.44
+Zayante,4,37.0892
+Los Alamitos,4,33.7971
+Cortland County,4,42.595
+Neosho County,4,37.5585
+Hampshire County,4,42.3402
+Coal Creek,3,39.9071
+"Pyramid Lake (Los Angeles County, California)",10,34.6442
+Pinesdale,4,46.3339
+Coralville,3,41.699
+"Immanuel Presbyterian Church (Los Angeles, California)",11,34.0615
+Massillon,3,40.7838
+Farmer City,3,40.248
+Mount Holly Springs,4,40.1126
+Awendaw,4,32.9661
+Casselton,4,46.8973
+Monte Sereno,4,37.2405
+Yellowstone County,4,45.9373
+Dunellen,3,40.5903
+Whitney,2,36.1008
+Raymondville,3,26.4759
+Lenoir–Rhyne University,8,35.7402349
+Pippa Passes,4,37.3342
+Pacolet,3,34.9102
+USC Roski School of Fine Arts and Design,10,34.019614717
+Antioch,3,37.9787
+Azle,3,32.8955
+Terramuggus,5,41.6343
+Coal City,3,41.2772
+West Puente Valley,4,34.0513
+Stuart,2,27.1959
+Tallassee,4,32.5315
+Roessleville,4,42.6969
+Alexandria City,3,38.8185
+Conway,2,35.0753
+Orpheum Theatre (Los Angeles),9,34.0427
+Edwardsville,3,38.7922
+Sebeka,4,46.6292
+Progress Village,3,27.8831
+Bowdon,3,33.5378
+New York University Graduate School of Arts and Science,10,40.7314
+Wilkes County,4,36.2062
+Bertha,3,46.2671
+Westby,3,43.653
+Chenequa,4,43.1229
+Rib Lake,3,45.3195
+National Louis University,4,41.8804
+The Class of 1959 Chapel,10,42.366
+Camp Swift,3,30.1885
+Wheatley Heights,4,40.7624
+Port Clinton,3,41.5094
+Red Chute,4,32.5732
+Cutlerville,4,42.8403
+West Mifflin,3,40.3581
+Dell Medical School at The University of Texas at Austin,11,30.275313
+Allenton,3,43.4218
+Mascot,3,36.0673
+DuPont,3,47.1079
+Monroe City,3,39.6542
+"California State University, Stanislaus",7,37.525
+Hartshorne,5,34.8392
+Grandview Heights,4,39.9793
+Grand Coulee Dam,5,47.9558
+Georgia Military Institute,4,33.915278
+Haw River,3,36.0926
+Lexington Reservoir,3,37.1893
+Mayking,3,37.1336
+100 Eleventh Avenue,6,40.7461
+North Troy,3,44.9963
+Tuckerman,3,35.7259
+Grants,2,35.1538
+Providence County,3,41.8721
+Haslett,3,42.7525
+University of Wisconsin–Marshfield/Wood County,10,44.66547
+Starke,3,29.9474
+Alpaugh,4,35.889
+Shoemakersville,4,40.5004
+Whitinsville,4,42.1146
+Point Park University,4,40.438611111
+Wexford County,5,44.3383
+Verona,3,42.9892
+Berkeley Repertory Theatre,5,37.8711
+Eddington,3,40.0865
+Buckingham,3,26.6613
+Redstone Arsenal,4,34.6645
+Dimmitt,3,34.5324
+Paducah,4,37.0711
+Benkelman,4,40.0468
+Jordan,2,44.6648
+Etna,3,40.4975
+San Diego Bay,4,32.65
+Macedonia,3,41.3147
+Wesley Hills,3,41.1578
+Marmora,3,39.2594
+Accomack County,5,37.7643
+Breathitt County,4,37.5216
+Minaret Lake,4,37.6597
+Oriental Theatre (Milwaukee),6,43.0597
+Paragon,3,39.395
+Napa,3,38.2975
+Hide-A-Way Lake,7,30.574
+Carthage,3,37.1503
+Sun City,3,33.6165
+Blackwood,3,39.7982
+Brookfield,3,43.064
+Prague,2,35.499
+Toquerville,4,37.2666
+Pine Island,3,44.1968
+Tetherow,4,44.0389
+Mount Monroe,3,44.2556
+Bass Lake,3,41.2304
+Codington County,4,44.9779
+Raynham Center,5,41.9327
+Pond Creek,3,36.6679
+Manasquan Reservoir,5,40.1788
+Concordia Seminary,4,38.6382
+Goodfield,3,40.6266
+Wisconsin School of Professional Psychology,6,43.105389
+Orcutt,3,34.8691
+Lake Village,3,33.3287
+Fruitland Park,4,28.8599
+Burr Ridge,4,41.7485
+Hazel Green,3,34.9236
+Belle Rose,3,30.0422
+Bennington County,4,43.0354
+Waconda Lake,4,39.4908
+Quake Lake,4,44.8528
+Osage Beach,4,38.1353
+Kane,2,41.6631
+Freedom Plains,3,41.6695
+Thoreau,4,35.4251
+Blue Hills,3,41.8133
+Ramblewood,4,39.9322
+Anita,2,41.4437
+Presque Isle County,5,45.3401
+Grand Canyon University,4,33.5125
+Evansdale,3,42.4635
+University of South Carolina Beaufort,6,32.436388888
+Hoopers Creek,5,35.448
+Beacon Hill,3,46.177
+Yamhill,3,45.3409
+Sylvester,3,31.53
+Texas A&M College of Science,8,30.613181
+Glenn Cunningham Lake,4,41.3511
+Kansas Wesleyan University,4,38.8136
+Central,2,30.5593
+Long County,3,31.7526
+Shellsburg,4,42.0929
+Warrick County,4,38.0922
+"Cathedral of Saint Augustine (Tucson, Arizona)",11,32.2194
+Ellerslie,4,32.6341
+Grand America Hotel,4,40.7575
+Many Farms,3,36.3532
+Grinnell,3,41.7359
+Senath,3,36.134
+East Grand Rapids,4,42.9464
+Sunrise,2,26.1547
+Konterra,3,39.0774
+Swanton,3,41.5839
+Warr Acres,4,35.5285
+Lincoln Park,3,42.2432
+Glasco,3,42.0454
+Woodlyn,3,39.8774
+Lake Yosemite,3,37.3764
+Bonita Springs,4,26.3558
+Good Hope,3,33.7706
+Trinity University,3,29.463794
+Barren County,4,36.9656
+Point of Rocks,4,39.2782
+Cut Off,3,29.5164
+Scappoose,5,45.7582
+Doe Valley,3,37.9745
+Lordship,4,41.1533
+Fort Belknap Agency,5,48.4278
+Irion County,4,31.3039
+Carle Place,4,40.7499
+Taylortown,3,35.2146
+Jackson Parish,3,32.302
+Harlan County Reservoir,5,40.0708
+Robert M. La Follette School of Public Affairs,11,43.076222
+East Flat Rock,4,35.2802
+Gallia County,4,38.8247
+North Hartsville,4,34.401
+New Hempstead,4,41.1488
+Palatine,3,42.118
+Platte City,4,39.3574
+Roseland,4,40.8208
+St. Augustine College,5,41.972139
+Basin City,3,46.589
+South Patrick Shores,4,28.202
+"National Theatre (Washington, D.C.)",10,38.8963
+Conover,3,35.7154
+Muldrow,4,35.404
+Bucyrus,4,40.8054
+Langley Park,4,38.9897
+Beckley,3,37.7877
+Vinita,3,36.6375
+Rio Rancho,3,35.2873
+Paul Quinn College,4,32.677097
+Urbancrest,3,39.9017
+St. Louis Park,5,44.9488
+South Hooksett,4,43.0331
+Wexford County,5,44.3383
+Cross Mountain,3,29.6559
+Embassy Theatre (Fort Wayne),8,41.0756
+St. Mary Parish,5,29.7206
+Georgetown County,4,33.4342
+Myers Corner,3,41.5864
+Southern New Hampshire University,5,43.0397
+Attleboro,4,41.9311
+Meadows School of the Arts,7,32.841
+Beavertown,3,40.7522
+Knights Landing,3,38.798
+Alice Lloyd College,4,37.3359
+Swift Reservoir,3,46.05
+Tolleson,4,33.4484
+Kelso,3,46.1236
+Powellton,3,38.0941
+Lac Vieux Desert,4,46.13
+St. Jo,4,33.695
+Oaklawn-Sunview,6,37.6084
+Santa Ana Pueblo,4,35.3495
+Levan,3,39.5561
+Tokeneke,4,41.0619
+Barrington Hills,4,42.1399
+Driggs,4,43.7299
+Birchwood Lakes,4,41.2513
+Dixie County,3,29.6082
+Aguanga,3,33.4522
+Graves County,3,36.7231
+Stewart County,3,36.5012
+Puxico,3,36.9507
+Goodwell,3,36.5948
+Forrest County,3,31.1889
+Ward,2,35.0117
+Brooklyn,2,40.6501
+Magoffin County,5,37.7065
+Henry,2,41.1172
+Davisboro,3,32.9826
+Southern California Institute of Architecture,6,34.046
+Radcliffe,3,42.3177
+Lake Brownwood,4,31.8176
+Washington Heights,3,41.4692
+Lake Avenue Congregational Church,5,34.1518
+Queen Valley,3,33.2831
+Gresham,4,45.5021
+Earlysville,4,38.1579
+Spring Valley,3,36.0952
+Iraan,3,30.9129
+Panguitch,4,37.8236
+Stansbury Mountains,5,40.4595
+Harold Washington Cultural Center,5,41.8093
+Novi,3,42.4786
+Tuttletown,4,38.0003
+Oktibbeha County,6,33.425
+Fish Hawk,3,27.8511
+Union Star,3,39.9794
+Saginaw Valley State University,6,43.5141
+Cape Colony,3,36.0211
+Fifth Ward,3,31.1207
+Cullman County,4,34.1319
+Walker Valley,3,41.6399
+University of Wisconsin–Marinette,7,45.072222
+Coweta County,5,33.3534
+Hartville,3,40.9618
+Morris County,3,40.862
+Madison Avenue Presbyterian Church,5,40.7725
+Erie County,4,42.764
+West Haverstraw,4,41.2063
+Coral Gables,3,25.7037
+Mason,2,39.3571
+Albert Lea,3,43.6548
+West Plains,3,36.7377
+Walnut,2,34.0334
+Watchung,3,40.6431
+Bluffs,3,39.7494
+Knippa,3,29.3076
+Churchville,3,40.1922
+Owings Mills,4,39.4115
+Onida,3,44.7049
+Burnt Mills,3,39.034
+House Range,3,39.3881
+Chualar,4,36.5711
+Man,2,37.7522
+Bastyr University,4,47.7304
+Presidio,3,29.5603
+Sand Ridge,3,43.2553
+Odessa,3,31.8801
+Chicago Heights,3,41.51
+Dilworth,3,46.8795
+Blythe,3,33.6219
+Whitmire,3,34.5041
+Stevens County,3,48.3991
+Quasqueton,5,42.3945
+Waynetown,3,40.088
+Mount Holly,3,35.3136
+Kanabec County,5,45.9452
+Sedalia,3,38.7059
+Neshanic Station,5,40.5291
+Pageland,3,34.772
+Middlebury Institute of International Studies at Monterey,9,36.5997
+Bay Area Medical Academy,5,37.7908
+Southern Illinois University Edwardsville,6,38.7934
+"Cathedral of St. Joseph (Manchester, New Hampshire)",13,42.9933
+Tower Lakes,3,42.2315
+Lower Brule,4,44.0742
+Sequim,3,48.0746
+Ursa,3,40.0742
+Tribes Hill,4,42.9479
+Artondale,3,47.3021
+San Bruno,3,37.6256
+Cosby,3,35.7952
+Braceville,3,41.228
+La Palma,3,33.8504
+St. Charles County,5,38.782
+Mountainair,3,34.5212
+Otter Creek Reservoir,4,38.1694
+Northvale,3,41.0101
+Moreno Valley,4,33.9244
+Kenyon,3,44.2726
+Taylors Falls,4,45.4121
+Energy,2,37.774
+Catawissa,4,40.9531
+South Hutchinson,3,38.0278
+Parkersburg,3,39.2623
+Washington University in St. Louis,8,38.648
+Suffield Depot,4,41.9843
+Petaluma Center,5,38.2506
+Narrows,3,37.3316
+Rigby,3,43.6734
+Altamaha Technical College,6,31.6217
+North Carolina Blumenthal Performing Arts Center,8,35.2271
+Northampton,3,42.3266
+Kimmell,3,41.3949
+Herculaneum,5,38.2579
+Oaksterdam University,4,37.807617
+Wahneta,3,27.9574
+Basilica of the National Shrine of the Assumption of the Blessed Virgin Mary,15,39.2944
+Dillonvale,4,39.2173
+Chouteau County,5,47.8806
+Sisseton,4,45.6625
+Hawke Castle,4,37.6463
+Ashburn,3,39.0277
+"Cathedral of All Souls (Asheville, North Carolina)",13,35.5657
+The Fletcher School of Law and Diplomacy,8,42.407662
+Reese,2,43.4528
+Skokie Lagoons,5,42.1017
+Robstown,3,27.794
+Moodus,3,41.5047
+Haverford College,5,40.009722222
+South Duxbury,4,42.0203
+Timothy Lake,3,45.121
+Claverack-Red Mills,7,42.2264
+Turners Falls,4,42.5975
+Swepsonville,5,36.0285
+"Pyramid Lake (Los Angeles County, California)",10,34.6442
+Patterson,2,37.4758
+Natchitoches,5,31.7315
+Galliano,3,29.447
+Point,2,32.9302
+Stigler,3,35.257
+Mission Bend,3,29.6948
+Gravette,3,36.4291
+Bodega Bay,4,38.325
+Hudson Lake,3,41.7174
+Pana,3,39.3829
+Cajah's Mountain,6,35.8508
+University of Michigan–Dearborn,7,42.319722222
+Challis,3,44.5055
+Lincoln Parish,3,32.6016
+Findlay,3,41.0469
+Bloomfield,3,36.7401
+North Troy,3,44.9963
+Holstein,2,42.487
+Dows,3,42.6592
+Lauderdale Lakes,5,26.1682
+Vermont Technical College,4,43.93861111
+Willowick,3,41.6342
+Mortons Gap,4,37.2402
+Safety Harbor,3,28.008
+Toulon,3,41.0935
+San Rafael,3,37.9905
+Martin County,3,27.0775
+Post Oak Bend City,5,32.633
+Duluth,3,46.7756
+Sadsburyville,4,39.983
+West Freehold,3,40.2324
+Indio Hills,4,33.8411
+Bentleyville,3,40.1178
+Ridgetop,3,36.4044
+Tribes Hill,4,42.9479
+Carpendale,4,39.6278
+Kensington Park,4,27.3578
+San Luis Obispo County,5,35.3871
+Stanly County,4,35.3119
+Holly,2,42.7987
+Sharpes,3,28.4381
+Klamath,3,41.5442
+North Perry,3,41.8
+Grain Valley,3,39.0171
+Millen,3,32.8071
+Port Gibson,3,31.9558
+Munfordville,4,37.2795
+"Loon Lake (Lake County, Illinois)",10,42.453
+Niota,3,35.5171
+Waldo County,4,44.5028
+Bright,2,39.2254
+"Lost Lake (Santiam Pass, Linn County, Oregon)",13,44.4326
+Nova Southeastern University,4,26.0779
+Bellmawr,4,39.8666
+Lucerne Valley,4,34.4427
+Yucaipa,4,34.0336
+Yell County,4,35.0025
+Colonial Heights City,4,37.265
+Claysburg,4,40.2915
+Coeburn,4,36.9444
+Alfred University,3,42.255555555
+Leitchfield,3,37.4863
+Waldo County,4,44.5028
+Tyro,3,35.7997
+Midland Park,4,40.9952
+Will County,3,41.445
+Tallassee,4,32.5315
+Beaufort County,4,32.3855
+University of Bridgeport,4,41.16586
+Lauderdale Lakes,5,26.1682
+La Puerta,3,26.3468
+Plover,3,44.4615
+Bonneau,3,33.3081
+Grizzly Flats,4,38.6358
+Mount Baker Theatre,4,48.7522
+DeVry University Decatur Campus,7,33.775092
+Chilton County,4,32.8479
+Maywood Park,4,45.5524
+Rockwell Place,4,35.0422
+Hoschton,4,34.0853
+Waxhaw,3,34.9363
+Moscow,2,46.7308
+University of Maine at Fort Kent,7,47.25
+Bridgewater State University,5,41.988622
+Mountain View,3,37.4001
+Orangeburg,3,33.4928
+Samoset,3,27.4764
+Bayou Cane,4,29.6243
+Mesquite Creek,4,34.9607
+Blue Ridge Manor,4,38.2434
+Deerfield,3,42.1654
+Charter Oak,3,34.1025
+McDade,3,30.2817
+Gloverville,4,33.5274
+Natrona County,4,42.9621
+Dimmitt,3,34.5324
+Calexico,4,32.6849
+Towson University,4,39.392777777
+Steiner Ranch,4,30.3654
+Old Brookville,4,40.8332
+Navarre,3,30.4174
+Stanford University,3,37.4275
+Marrowstone,4,48.057
+Mississippi College,3,32.335833333
+Cache,2,34.6294
+Gleneagle,3,39.0453
+Texas Tech University College of Education,7,33.580205
+New Tazewell,5,36.4381
+McGovern,3,40.2362
+Loris,3,34.0578
+Sutter,3,39.1556
+Vigo County,4,39.4306
+Northwest Technical College,4,47.452222222
+Oilton,3,36.0827
+Sherburne County,4,45.444
+La Feria,3,26.1544
+Cascade Locks,3,45.6763
+Luthersville,4,33.2096
+Thief River Falls,4,48.1108
+Cheverly,3,38.9254
+Yankeetown,4,29.0334
+University of Pittsburgh School of Social Work,8,40.444167
+Longport,3,39.3136
+Sioux City,4,42.4959
+Claflin University,5,33.4984
+Fennimore,5,42.9794
+West Peoria,3,40.697
+Laguna Heights,3,26.081
+Trident University International,5,33.806762
+Lakeside Park,4,39.0339
+Necedah,3,44.0233
+Hattiesburg,4,31.3074
+Rainbow Lakes Estates,4,29.158
+Redwood City,4,37.5025
+Karlstad,3,48.578
+Delta,2,38.756
+Lake Norman,3,35.4833
+Fries,2,36.714
+Alsip,3,41.6701
+White Pine,3,36.1087
+Vine Hill,3,38.007
+Yonkers,3,40.9466
+Coplay,3,40.671
+Sterling Heights,3,42.5809
+Hockinson,4,45.7302
+Whitehorn Cove,4,35.9936
+St. Johns Twin Cinema,6,45.5906
+Beaver Meadows,3,40.9299
+Pennington County,4,44.0037
+Hawthorne,3,33.9147
+Purdue University College of Agriculture,6,40.423398
+Desoto Acres,4,27.3823
+Flourtown,3,40.1039
+Alvernia University,5,40.31
+Lilydale,3,44.9095
+Fresno Pacific University,5,36.726
+Bayou Country Club,5,29.7796
+Conecuh County,5,31.4292
+Jasmine Estates,3,28.293
+Mount Angel,3,45.0695
+Columbia,2,34.0378
+Victory Gardens,3,40.8762
+Readlyn,3,42.7037
+South San Jose Hills,5,34.0123
+Hamtramck,4,42.3954
+Brookside Village,4,29.5908
+Saint Mary's University of Minnesota,8,44.044753
+Walhalla,3,34.7705
+"St. Mary's of the Barrens Catholic Church (Perryville, Missouri)",18,37.7267
+Rawlins,3,41.7849
+Roslyn,3,40.1311
+Dallas City,3,40.6353
+Cherry Hill Mall,4,39.9384
+Keno,3,42.1309
+Bude,3,31.463
+Northern Oregon Coast Range,5,45.6647
+St. Lawrence County,5,44.4964
+Stony Brook,4,40.9061
+Anaheim,3,33.839
+Music Hall Center for the Performing Arts,8,42.3372
+New Mexico Institute of Mining and Technology,8,34.0668
+Coachella,3,33.6905
+"University of California, Merced",6,37.366
+Paragon,3,39.395
+Eldersburg,3,39.4041
+St. John's University,7,40.721944
+Havelock,3,34.9078
+Hilshire Village,5,29.7908
+Everett,3,47.9525
+Wahneta,3,27.9574
+Boulder,2,40.0248
+New Kensington,3,40.5712
+Lake Whitney (Connecticut),6,41.352
+Crooked River Ranch,5,44.4242
+Faison,3,35.1164
+Manistique Lake,4,46.2347
+Kewaunee County,5,44.5161
+Rancho Alegre,4,27.7392
+Samson,2,31.1124
+Clayhatchee,4,31.2434
+Liberty Hill,3,30.6638
+Runnemede,4,39.8522
+Porter,2,41.6257
+Citrus,2,34.116
+Stamping Ground,4,38.2697
+Chesnee,3,35.1461
+Bartow,3,27.8868
+Leoti,3,38.4834
+Blackwells Mills,4,40.4773
+McComb,3,31.2442
+Stevens Institute of Technology,5,40.744906
+Lake Talquin,4,30.3886
+Mount Holly Springs,4,40.1126
+Southwest College of Naturopathic Medicine,8,33.408384
+Waldorf,3,38.6085
+Leighton,3,34.6941
+National American University,4,44.150408
+Seagoville,4,32.653
+Price County,3,45.6804
+Wheaton College,4,41.9683
+Iranistan,3,41.174
+Eldon,3,38.3511
+Blairs,3,36.6958
+Fordland,3,37.1556
+Clarendon Hills,4,41.7981
+Brockway,3,41.2472
+La Plata County,4,37.2866
+Golden City,3,37.3931
+Copper Mountain Solar Facility,5,35.7833
+Harrison Opera House,4,36.8583
+Rancho Mirage,4,33.7635
+Alton,3,38.9037
+Central Garage,3,37.7458
+Cabell County,4,38.4203
+Canadian Lakes,3,43.5815
+Balm,3,27.7542
+Loma Rica,4,39.3204
+Pittsburgh Playhouse,3,40.4396
+Riverlea,3,40.0804
+La Poudre Pass Lake,6,40.4733
+Mississippi Valley State University,5,33.5172
+Galax City,3,36.666
+Ellington,3,37.2364
+Hickory,3,35.741
+Schwana,3,46.8214
+Paramus,3,40.9455
+Addis,3,30.3652
+Otoe County,4,40.6485
+Meadowdale,4,47.8583
+French Settlement,3,30.3156
+Nueces County,4,27.7254
+Crofton,3,39.0144
+Winterset,3,41.345
+Marietta-Alderwood,6,48.7934
+Warner Grand Theatre,4,33.7386
+Antigo,3,45.141
+Clendenin,4,38.4859
+Lake Roesiger,5,47.9837
+Poquott,4,40.9529
+La Habra,4,33.9282
+Willcox,3,32.2515
+Kendallville,3,41.4441
+Miamitown,4,39.217
+Joseph,2,45.3525
+Hidden Springs,3,43.7201
+Desert Palms,3,33.7789
+Three Bridges,3,40.5205
+Rogers,2,36.317
+"College of Liberal Arts and Sciences, Wayne State University",11,42.35505556
+Basilica and Shrine of Our Lady of Perpetual Help,11,42.3326
+Sioux Center,4,43.0748
+Fifth Street,3,29.5982
+West Sand Lake,4,42.6402
+Chickamauga,4,34.8753
+Birch Run,3,43.2503
+Goochland,4,37.6974
+Mount Ephraim,3,39.8805
+Bacon County,3,31.5537
+Pensacola Station,4,30.3541
+Duck,2,36.1836
+Dodge City,3,37.7611
+Gibson City,3,40.4665
+East York,3,39.9687
+Kingsbury County,4,44.3696
+Castalian Springs,4,36.4012
+Laurel University,3,35.9943
+Bear Lake County,4,42.2848
+Baidland,4,40.1888
+Nicollet,4,44.2746
+Tama County,3,42.0798
+Southern Wesleyan University,4,34.7243
+Vina,3,34.3757
+North Fond du Lac,5,43.8107
+Graford,3,32.9374
+Charleston County,3,32.8346
+Fowlkes,4,35.972
+Miles City,3,46.4059
+Marco Island,3,25.933
+Ovid,3,43.0031
+Green Cove Springs,4,29.9904
+Olmsted Falls,5,41.3657
+Lawnside,3,39.8673
+Steilacoom,5,47.1703
+Hilton,2,43.29
+Chewelah,4,48.293
+Grand Isle,3,29.2135
+Shasta College,4,40.625
+Noble County,3,41.3986
+West Buechel,5,38.195
+New Freedom,3,39.7353
+Perry Lake (Kansas),6,39.1772
+Lefors,3,35.4396
+Coleman University,3,32.8217
+Westbrook Center,4,41.2811
+Pink Hill,3,35.0562
+Pinetop Country Club,5,34.1164
+Keys,2,35.8022
+Ochiltree County,5,36.2784
+Lithonia,3,33.7129
+University of the Ozarks,7,35.4773
+Lenoir County,5,35.2388
+Russellton,3,40.6081
+Shamokin,4,40.7881
+Pattison,3,29.8184
+Menasha,3,44.2125
+Yankeetown,4,29.0334
+"St. Laurentius Parish, Philadelphia",8,39.9767
+Kasota,3,44.2916
+Carpentersville,4,42.1227
+Cleburne Building,4,40.8011
+Indiana University Fort Wayne,5,41.118822
+Sedgwick,3,37.918
+The Rockefeller University,4,40.7625
+Hazel Crest,3,41.5732
+South Connellsville,5,39.9946
+Wheaton College,4,41.9683
+Aldan,3,39.9224
+Clancy,3,46.4493
+Greenock,4,40.3125
+Valley Mills,3,31.6582
+Zavalla,4,31.1584
+Marrowstone,4,48.057
+Pottsville,4,40.6798
+Salmon River Mountains,4,44.5749
+San Francisco State University,5,37.723333333
+Booth Theatre,3,40.7584
+Christmas Mountains (Texas),6,29.4253
+Youngtown,3,33.5846
+Ventress,3,30.6825
+Pine Island,3,44.1968
+Teton Village,4,43.5907
+Everman,3,32.6296
+Glenmont,3,39.0698
+North Beach,3,38.708
+Peña Blanca Lake,5,31.4003
+East Feliciana Parish,5,30.8451
+Traverse County,3,45.7722
+Tucker County,3,39.1136
+Mignon,3,33.1948
+Bellflower,3,33.888
+Harbor Hills,3,39.9366
+Carpinteria,4,34.3962
+Rosaryville,4,38.7672
+Arapaho,4,35.5778
+Montrose County,4,38.4022
+Gridley,3,39.3622
+Leonardo,2,40.419
+Niota,3,35.5171
+Balsam Lake,5,45.4585
+Warm Mineral Springs,4,27.0472
+California Baptist University,4,33.93
+Fish Springs,3,38.9536
+Tullahoma,4,35.3721
+Olton,3,34.1802
+State University of New York at Albany,8,42.686193
+Loogootee,5,38.6756
+Freeman,2,43.3475
+Pink Hill,3,35.0562
+Groesbeck,4,39.229
+LaSalle County,4,41.344
+Cherryland,3,37.6792
+Copper Mountain Solar Facility,5,35.7833
+Lolita,3,28.8326
+Portage Lakes,4,41.0034
+Chaska,3,44.8164
+Glenwood Generating Station,5,40.8275
+Athens Technical College,4,33.9894
+Coburg,3,44.1394
+National American University,4,44.150408
+Laughlin AFB,4,29.3568
+East Pasadena,3,34.1378
+Vanleer,3,36.2358
+Middleton,3,43.1064
+Colville,3,48.5454
+Lake Dallas,3,33.1279
+Kingston Springs,3,36.0842
+Kosciusko,4,33.0585
+Oklahoma County,3,35.5515
+Holy Name Cathedral (Chicago),7,41.8959
+Ladera Ranch,4,33.5492
+Varnville,4,32.8521
+Roby,3,32.746
+New Madrid,3,36.5878
+Brockport,3,43.2137
+Cicero,3,41.8445
+Eatons Neck,4,40.9324
+Fessenden,4,47.6494
+Cinco Bayou,3,30.4222
+Brainerd,4,46.3553
+Chilchinbito,5,36.5027
+Green Harbor,3,42.068
+Herlong,3,40.1417
+Kendall,2,25.6697
+Flippin,4,36.2773
+Milton,2,34.1353
+Olive Hill,3,38.3037
+Aitkin County,5,46.6082
+Deport,3,33.5291
+Timber Lakes,3,40.4733
+Lunenburg County,4,36.9462
+Chesapeake,3,36.6778
+John F. Kennedy University,6,37.956694444
+Milesburg,3,40.9426
+Cataula,3,32.6566
+Tuscarawas,5,40.3932
+University of South Carolina Beaufort,6,32.436388888
+Manderson-White Horse Creek,7,43.235
+Wheelersburg,3,38.7383
+Jennerstown,4,40.1635
+Lower Grand Lagoon,4,30.1444
+Governors Club,4,35.8437
+Navajo,4,35.9024
+Obetz,3,39.8671
+The Lakes,3,44.1359
+Dash Point,3,47.313
+Miami Lakes,3,25.9125
+North Irwin,3,40.3389
+Madison Center,3,41.2794
+Duluth,3,46.7756
+Otero County,4,32.6132
+Wheaton Bible Church,5,41.912
+Victoria Theatre (Hammerstein's),10,40.7561
+East Branch Clarion River Lake,6,41.5894
+Barker Meadow Reservoir,5,39.9653
+Gisela,3,34.1015
+Welcome,2,34.8203
+Genetti Hotel,4,41.241
+Wagner,2,43.0768
+University of Montevallo,6,33.102778
+Uniformed Services University of the Health Sciences,10,39.0012
+Daufuskie Island,6,32.1181
+Bowie,3,38.9549
+Lake Mary,3,28.7592
+Red Bay,3,34.4357
+Starke,3,29.9474
+Visalia,3,36.3276
+Baltimore County,3,39.4627
+Gadsden County,5,30.5795
+Edwards,2,39.6215
+Pittsfield,4,42.4517
+Twin Grove,3,40.4857
+Matinecock,4,40.864
+Blanco County,3,30.2664
+Guymon,3,36.6903
+Holly,2,42.7987
+Kidron,3,40.744
+Dubuque,3,42.5002
+Blountville,4,36.533
+Fort Pierre,3,44.368
+Dover Beaches South,4,39.9539
+Carlsborg,4,48.0842
+Gamerco,3,35.5699
+Garibaldi,4,45.5607
+Vermont Technical College,4,43.93861111
+Cusseta,4,32.347
+Firebaugh,3,36.8533
+Gang Mills,3,42.1534
+Otoe County,4,40.6485
+Moriarty,3,35.0034
+Rogers,2,36.317
+Hayward,3,37.6328
+Stoutsville,4,39.6049
+Paxton,3,40.4563
+Pink Hill,3,35.0562
+La Veta,4,37.5085
+McDade,3,30.2817
+Fanning Springs,4,29.5873
+Mooringsport,4,32.6824
+Glen Elder,3,39.5001
+Golden Hills,3,35.1409
+Ridgebury,3,41.357
+Guy,2,35.3273
+Bristol County,3,41.7972
+Newaygo County,5,43.5542
+Oshkosh,4,44.0227
+St. Augustine South,5,29.8449
+Baraga,3,46.7766
+Maltby,4,47.8027
+Silver Bay,3,47.2941
+"Cathedral of Saint Andrew (Grand Rapids, Michigan)",12,42.958
+New Port Richey East,6,28.2605
+Fort Peck Dam,4,48.0028
+Twin Rivers,3,40.2631
+Startup,2,47.8673
+South Holston Lake,5,36.5242
+Parkin,3,35.2629
+Fairhope,3,30.5209
+Swartzville,4,40.2287
+Cannelton,4,37.9106
+Lutz,2,28.1396
+Rutland,3,43.6092
+Port Orange,3,29.1085
+Eastover,3,35.0959
+Coke County,3,31.8886
+Burnt Store Marina,4,26.7645
+Six Mile Run,4,40.473
+Byram Center,4,40.9325
+Astatula,4,28.7065
+Gammage Memorial Auditorium,5,33.4163
+Walnut Ridge,3,36.0848
+Lahoma,3,36.3874
+Gruver,3,36.2562
+Obetz,3,39.8671
+Saranac,4,42.9294
+Newark Symphony Hall,4,40.7278
+Trumann,3,35.677
+Miracle Valley,3,31.3829
+Garnet Lake,4,43.5254
+South Kensington,3,39.0188
+Laramie County,4,41.307
+Flagler,3,39.2948
+Smoky Mountains (Idaho),7,43.8219
+Macon County,4,39.86
+Globe University/Minnesota School of Business,8,44.945468
+Heron Lake,4,43.7981
+Charlestown,3,38.427
+Safford,3,32.8335
+Chiloquin,4,42.5764
+Oregon Coast Range,4,44.5044
+Belterra,3,30.1885
+Ty Ty,3,31.472
+Teton Dam,4,43.9097
+South Browning,3,48.5459
+Pinebluff,4,35.1088
+Antlers,3,34.2329
+Queenstown,3,38.9868
+Roanoke County,4,37.2693
+Sumner County,4,36.4694
+Council Grove Lake,4,38.6997
+Englewood Cliffs,4,40.8823
+Jefferson City,3,38.5676
+Campobello,3,35.126
+Mar-Mac,4,35.3345
+Mandel School of Applied Social Sciences,8,41.510573
+Pilot Point,3,33.3949
+Roseburg North,4,43.2662
+Medley,3,25.8647
+Green Knoll,3,40.6047
+Jack County,3,33.2335
+Wylandville,4,40.2099
+Morning Sun,3,41.0941
+DeVry University Decatur Campus,7,33.775092
+Media,2,39.9199
+White House,3,36.4648
+Leeton,3,38.5834
+Desert Edge,3,33.9223
+Faribault County,5,43.6739
+Southeast Kentucky Community and Technical College,7,36.966
+Wilton Manors,5,26.1593
+Dakota City,3,42.4184
+Le Center,3,44.3866
+Zavalla,4,31.1584
+Coffeeville,5,33.9764
+Blue Earth County,4,44.0346
+De Motte,4,41.1988
+Solon Springs,4,46.3495
+Medford Lakes,4,39.8581
+Doon,3,43.279
+McKinley Heights,4,41.186
+Loch Lomond (California),7,37.1031
+Hood River,3,45.7092
+Bay Springs,3,31.9772
+San Ygnacio,5,27.048
+Dunwoody,3,33.9418
+Roper,3,35.8786
+Middleville,3,42.7138
+Tuskegee University,5,32.430278
+Elk Rapids,3,44.8949
+Hopeland,3,40.2337
+Florida National University,4,25.8617
+Vernon Parish,3,31.1083
+Page,2,36.9426
+Quantico Base,4,38.5228
+Winkler County,4,31.8501
+Laurys Station,5,40.7232
+Brazos County,4,30.6608
+Moores Hill,4,39.1129
+Warner Centre,3,40.4401
+Braceville,3,41.228
+Gallatin County,4,45.5404
+North Zanesville,5,39.9905
+Interlachen,4,29.6203
+Bond County,3,38.8868
+Pinetop-Lakeside,6,34.1486
+Meridian,3,43.6116
+Bay Head,3,40.0701
+"National Theatre (Washington, D.C.)",10,38.8963
+Ames Lake,3,47.6346
+Fairfield Bay,4,35.605
+Oakboro,3,35.2283
+Science Hill,3,37.1741
+Sterrett,3,33.449
+Harrison County,3,30.5122
+Luna Lake (Arizona),6,33.8291
+Lake Butler,3,28.4862
+Cahokia,4,38.565
+Halls,3,36.0817
+Chatham,3,39.6733
+Kent,2,47.3887
+Hominy,4,36.4219
+Gilcrest,3,40.2841
+Wyomissing,4,40.3317
+Tuttle,3,35.3068
+Charles Mix County,4,43.2079
+Fountain County,3,40.1209
+Belews Lake,4,36.299
+Reno Beach,3,41.6607
+Rocky Ripple,3,39.8484
+Jessamine County,4,37.8721
+Blawnox,4,40.4922
+Keeler Farm,4,32.3161
+West Yellowstone,3,44.6627
+Weber City,3,36.6236
+Pittsburgh Institute of Aeronautics,5,40.350833
+Chamita,3,36.0706
+Oregon Coast Range,4,44.5044
+North Kingsville,4,41.9188
+Upton County,4,31.3688
+Stonecrest,4,33.6842
+Alhambra,4,34.084
+Lawrenceville,3,33.9523
+Naval Postgraduate School,4,36.5979
+Delhi Hills,3,39.0871
+Reisterstown,4,39.455
+Vincennes,3,38.6759
+Anaconda Range,4,45.95
+Marshfield,3,44.6627
+Deschutes County,5,43.915
+Paradise Hills,3,35.1981
+Normal,2,40.5217
+Mokelumne Hill,5,38.3057
+Mascoutah,4,38.5192
+Meiners Oaks,4,34.4553
+Cut Off,3,29.5164
+Rector,3,36.2642
+Collingdale,4,39.9151
+Carnegie,3,40.408
+Coldwater,3,41.9465
+Eagle Mountain,3,40.3137
+Brightwood,3,38.4132
+Chuluota,4,28.638
+Knightsen,3,37.9633
+Tacna,3,32.7004
+Cathedral Basilica of the Sacred Heart (Newark),11,40.7549
+Ovens Auditorium,4,35.2036
+Coleman University,3,32.8217
+St. Georges,4,39.5606
+Chattahoochee,6,30.6977
+Dunean,3,34.8203
+Apache,2,34.8937
+Minerva,3,40.7306
+Chickasaw Point,5,34.5363
+Media,2,39.9199
+North Riverside,3,41.8461
+Milton,2,34.1353
+Narrows,3,37.3316
+Springdale,3,36.1901
+Okawville,4,38.4344
+Zilwaukee,4,43.4809
+Farmerville,3,32.7752
+Walnut Creek,3,37.9024
+Lubbock County,4,33.6102
+"Seventeenth Church of Christ, Scientist",8,41.8871
+Heartland,3,32.6748
+Mahnomen County,5,47.3253
+Lovelady,4,31.1279
+Hanley Hills,4,38.6856
+South Miami,3,25.7079
+Federal Heights,3,39.8651
+Finderne,3,40.5626
+Mariposa County,4,37.5815
+Dakota County,3,44.6719
+North Industry,3,40.7362
+Schuylerville,5,43.1015
+Katy,2,29.7905
+"Cathedral of the Incarnation (Nashville, Tennessee)",12,36.1508
+Turbotville,4,41.1019
+Baxter Village,4,35.028
+Middleburg,3,30.0502
+Tuolumne County,5,38.0276
+Vincennes,3,38.6759
+Grant Park,3,41.2429
+Woodson Terrace,4,38.7286
+Alexander City,3,32.9229
+Johnson & Wales University,5,41.819953
+Svensen,3,46.1543
+Woxall,4,40.3118
+Allamakee County,5,43.2843
+Allgood,3,33.9064
+Valentine,2,42.8758
+Spencer,2,43.1468
+California Institute of Technology,5,34.1375
+Brook Highland,3,33.4359
+Candlewood Lake,4,40.6214
+Lewis College of Business,5,42.36111111
+Prineville,4,44.2985
+Tilghman Island,5,38.7008
+North Myrtle Beach,4,33.8232
+Hialeah,4,25.8696
+Canon,2,34.3455
+Branch County,3,41.9161
+Watson School of Biological Sciences,6,40.85793
+Florida Gulf Coast University,5,26.4625
+Waleska,3,34.3172
+Schaller,3,42.4965
+Kenner,3,30.0109
+MacDonnell Heights,4,41.7165
+St. Francis de Sales Oratory (St. Louis),13,38.6042
+Morris Performing Arts Center,5,41.6783
+Duncansville,5,40.4263
+Belleair,3,27.9365
+Spring Lake,3,35.1843
+Brooklyn Heights,3,41.418
+Gumlog,3,34.495
+Netarts,3,45.4356
+Eagle Pass,3,28.7125
+Pelican Marsh,4,26.2545
+Pebble Creek,4,28.1583
+Watauga,4,32.8719
+Warden,3,46.9672
+Flagstaff,3,35.1872
+Sudley,3,38.7878
+Jarvis Christian College,5,32.589192
+Peery's Egyptian Theater,7,41.2218
+Lorena,3,31.3818
+Show Low Lake,4,34.185
+Yellow Medicine County,4,44.7163
+Brenau University,4,34.304
+Lynn County,3,33.1768
+Ahtanum,4,46.5573
+Carter,2,32.9139
+Exira,3,41.5919
+Byrdstown,4,36.5737
+Belleview,3,29.0608
+Doña Ana,4,32.394
+Menan,3,43.7218
+La Mesilla,4,35.9461
+Conneautville,4,41.7577
+Hollywood Sign,3,34.1341
+Hickory Flat,4,34.616
+Offerman,3,31.4088
+Columbus County,3,34.2656
+Holden Heights,4,28.5013
+Shawano Lake,4,44.81
+Larchwood,4,43.4547
+John F. Kennedy University,6,37.956694444
+Triadelphia,5,40.0483
+Greenbrier County,5,37.9469
+Oxnard,3,34.1964
+Saxtons River,5,43.139
+Penns Grove,4,39.7275
+Hyrum,4,41.6325
+Brookside Village,4,29.5908
+New Berlinville,4,40.3451
+Waretown,3,39.7896
+Wolcottville,4,41.5255
+"Blackstone Hotel (Fort Worth, Texas)",10,32.7536
+Desha,3,35.7305
+Cameron University,3,34.6087
+Basilica of St. Joseph Proto-Cathedral,11,37.8108
+Cedar Point,3,34.6861
+Cheval,3,28.1459
+Wisconsin Dells,4,43.6336
+St. Timothy Catholic Church (Los Angeles),10,34.0628
+Zellwood,4,28.7294
+Sharpes,3,28.4381
+Apple Creek,3,40.7486
+Moville,3,42.4903
+University of Florida Southwest Recreation Center,7,29.638416666
+Mascotte,3,28.611
+Bellefonte Nuclear Plant,5,34.7086
+Cayce,3,33.9459
+Jamesville-DeWitt High School,8,43.0194
+Stacy,2,45.3841
+Double Springs,3,34.1502
+Brownville Junction,4,45.3488
+Grand Terrace,3,34.0312
+McAlisterville,5,40.6381
+Alliance,2,40.9107
+Gwynn,3,37.4984
+Peculiar,4,38.7306
+Port Neches,4,29.9765
+Jeffersonville,3,38.3376
+Montgomery Village,3,39.1788
+Rib Mountain,3,44.9195
+Haileyville,4,34.8542
+Henderson,2,36.0133
+"Cathedral of the Holy Angels (Gary, Indiana)",12,41.5989
+Newkirk,3,36.8817
+Union Mill,3,38.7978
+Kingsford,3,45.8061
+Simpson,2,41.5945
+Point Pleasant,3,40.0772
+Lakeside City,4,33.8292
+Eleanor,2,38.5371
+Fowler,3,36.6243
+Brinkley,4,34.89
+Tamaqua,3,40.8033
+San Ysidro,5,32.3568
+Volusia County,5,29.0584
+University of New Haven,5,41.2919
+Wenona,3,41.0487
+Roy,2,41.1714
+Gordon Heights,3,40.8645
+Philmont,3,42.2478
+Switzerland County,3,38.8262
+The Hills,3,40.6561
+South Berwick,3,43.2321
+Honesdale,4,41.5774
+West Brow,3,34.9148
+Seven Fields,3,40.6868
+Manasota Key,5,26.9226
+Zephyrhills South,5,28.2152
+Ducor,3,35.8927
+Spencer,2,43.1468
+Dobbs Ferry,4,41.0127
+Dilkon,3,35.3606
+Arvada,3,39.832
+Cornville,3,34.7389
+Wallburg,3,36.0088
+Shady Hollow,3,30.1645
+Pecatonica,4,42.3086
+Howell County,4,36.774
+West DeLand,4,29.0162
+Brandywine Bay,5,34.7384
+Lake Memphremagog,7,45.005
+Suncrest,3,47.8297
+Topton,3,40.5031
+South Lancaster,3,42.4373
+Severance,3,40.5265
+Our Lady of the Wayside Church,8,37.3839
+Carthage,3,37.1503
+Glenrock,3,42.8565
+Siesta Acres,4,28.7564
+Ellicott,4,38.8256
+Longview Heights,4,46.1794
+Marlin,3,31.3085
+Phenix City,4,32.4585
+Krum,3,33.2655
+Saylorsburg,4,40.8998
+St. Bernard Parish,5,29.8692
+South Yarmouth,3,41.6692
+Wilkshire Hills,5,40.636
+Simsboro,3,32.5323
+Carolina University of Theology,5,38.63505
+Oakes,3,46.1397
+West Hamburg,3,40.5524
+Tontitown,4,36.1642
+Apex,2,35.7237
+Seminole County,5,28.717
+North Redington Beach,5,27.8213
+Madeira Beach,4,27.7985
+Stanislaus County,5,37.5591
+Havelock,3,34.9078
+Yancey County,4,35.8989
+Glenvar Heights,4,25.709
+Lakehead,3,40.9007
+Hot Spring County,4,34.3177
+Dane County,3,43.0673
+Oshkosh,4,44.0227
+Sabine County,3,31.3432
+Three Way,3,35.772
+Arden,3,39.8114
+Rural Retreat,3,36.901
+Alfred University,3,42.255555555
+Mowbray Mountain,5,35.2751
+West Marion,3,35.6525
+Davidson,2,35.484
+Elma Center,4,42.8282
+Ozark County,4,36.6493
+Anson,2,32.755
+Calvert Beach,4,38.4728
+Faribault County,5,43.6739
+Southern Virginia University,4,37.740277777
+Auxier,3,37.7356
+Tubac,3,31.6111
+Chepachet,4,41.9104
+Claysville,4,40.1199
+Euharlee,4,34.1441
+Low Mountain,3,35.9481
+Pomme de Terre Lake,6,37.9017
+Garden Acres,3,37.9637
+North Fairfield,3,41.1045
+Odell,3,45.6354
+Roseau,3,48.8445
+Flourtown,3,40.1039
+Blue Berry Hill,4,28.3855
+Polonia,3,44.5756
+Sanborn County,4,44.0234
+Nances Creek,4,33.8588
+Slippery Rock University of Pennsylvania,7,41.062
+Manassas Park,4,38.7709
+Fort Hunt,3,38.7361
+Florida State University College of Arts and Sciences,9,30.442055555
+Graeagle,3,39.7572
+Fermi 1,4,41.9606
+Sunrise Lake,3,41.3135
+Vanleer,3,36.2358
+Aulander,4,36.228
+Westlake Corner,4,37.1249
+Wamego,4,39.2054
+Murrysville,4,40.4456
+Cache County,3,41.7224
+Slope County,3,46.4472
+Dalzell,3,34.0189
+Velva,3,48.0582
+Mahnomen,4,47.3147
+Van Buren,3,35.4483
+Hildale,4,37.017
+St. Anne,4,41.023
+Vermilion County,5,40.1834
+Siena Heights University,5,41.90566667
+John Golden Theatre,4,40.7588
+Hamler,3,41.2281
+"Basilica of Saints Cyril and Methodius (Danville, Pennsylvania)",15,40.9627
+Cannon Beach,3,45.8884
+Huntersville,4,35.406
+Delft Colony,4,36.5137
+Louisville,2,38.1663
+Lake Murray of Richland,5,34.1209
+Grundy Center,4,42.3637
+Dane County,3,43.0673
+Glenrock,3,42.8565
+St. Nicholas Collegiate Reformed Protestant Dutch Church,9,40.7575
+Morton Grove,4,42.0423
+Mount Joy,3,40.1106
+Callery,3,40.7393
+Butte Creek Canyon,5,39.7489
+Conchas Lake,4,35.38
+Mecosta County,4,43.6408
+Miller High Life Theatre,5,43.0418
+Tunica County,4,34.6507
+Myton,3,40.1933
+Pioneer Junction,3,48.3157
+Nashwauk,4,47.3805
+McKinley,3,40.0839
+Lilydale,3,44.9095
+Granada,2,38.063
+Nesco,3,39.638
+Slaughterville,4,35.091
+Grant City,3,40.4858
+Radford,3,37.1229
+Choteau,3,47.8137
+Port Matilda,3,40.8002
+Sangre de Cristo Mountains,6,37.5775
+Carolina University of Theology,5,38.63505
+Lake Pocotopaug,6,41.596
+University of Arizona Global Campus,6,41.851
+Ozawkie,4,39.2354
+Colmesneil,4,30.9097
+Averett University,4,36.5789
+East Gull Lake,4,46.3948
+Ajo,3,32.3923
+Yadkin College,5,35.8766
+Cheatham County,4,36.2611
+McKenzie,3,36.1372
+Carbonville,3,39.6268
+Mount Holly Springs,4,40.1126
+Doctor Phillips,3,28.4474
+La Presa,4,32.711
+The Dalles,4,45.6053
+Three Rivers,3,41.947
+Sunset Beach,3,33.892
+Anamosa,3,42.1091
+Hindman,3,37.335
+Peabody,3,42.5335
+Marysville,4,48.0809
+Seco Mines,4,28.7467
+East Bank,3,38.2153
+St. Gabriel,4,30.2536
+Shasta College,4,40.625
+Harvest,2,34.8558
+American Lake,3,47.13
+Plant City,3,28.014
+Swansea,3,38.5507
+Hinds County,4,32.2667
+Thornport,3,39.921
+Plainville,3,39.2341
+Brushy Creek,4,30.5128
+Fullerton,3,33.8841
+Warroad,3,48.9168
+Mustang,2,35.3917
+Yoe,3,39.9096
+Moultrie County,5,39.6415
+Allenport,3,40.3686
+Pine Flat Dam,4,36.8322
+Masonville,3,37.6718
+Rio Pinar,4,28.5271
+Bellmead,3,31.6026
+Williamsburg County,4,33.6199
+Huntingburg,3,38.301
+Doerun,3,31.3218
+Sedro-Woolley,6,48.5112
+Sisco Heights,4,48.118
+Ozawkie,4,39.2354
+Bonsall,3,33.2764
+Mermentau,4,30.1874
+Camp Verde,3,34.569
+Eldridge,3,41.639
+Black River Falls,4,44.2981
+Aurora,2,39.7083
+Thorofare,4,39.8515
+Ruthven,3,43.13
+Ingalls Park,4,41.5204
+Sunfish Lake,4,44.8722
+Bowling Green,3,36.9716
+Rockingham,4,34.9386
+Mount Clay,3,44.2852
+Swifton,4,35.8245
+Tolland County,4,41.855
+Willis,3,30.4314
+Rio Linda,3,38.6875
+Hooven,3,39.1864
+Emigsville,5,40.0077
+Tahoma,2,39.064
+Lometa,4,31.2168
+Griggs County,4,47.4573
+Overland Park,4,38.887
+Carl Junction,3,37.1668
+San Castle,3,26.5652
+Allendale County,4,32.9881
+Harlan County,4,36.8569
+Lemon Cove,3,36.3809
+Castleton-on-Hudson,7,42.5332
+Dallas Theater Center,4,32.7901
+Franconia Range,4,44.1608
+University of Houston–Downtown,6,29.765931
+Blair,2,41.5416
+Courtdale,4,41.2849
+Ethridge,3,35.3218
+Tallassee,4,32.5315
+Sandy Oaks,3,29.1821
+Blue Springs,3,39.0124
+Star Lite Motel,4,46.8769
+Katonah,4,41.256
+Red Lake Falls,4,47.8837
+Skidway Lake,5,44.1918
+Sandy Level,3,36.5645
+Beach Haven West,4,39.6703
+Pewamo,3,43.002
+Hudsonville,3,42.8632
+Inola,3,36.1321
+Oroville,3,39.4999
+Essex Fells,4,40.8271
+Pettis County,4,38.7283
+Fanwood,3,40.6417
+Odenton,4,39.0661
+Port Morris,3,40.9061
+Anson,2,32.755
+Hanna Theatre,3,41.5003
+University of the Sciences,5,39.9461
+Blooming Grove,4,32.0924
+Kennesaw,4,34.026
+La Crescent,3,43.83
+Elloree,3,33.5301
+Reidland,3,37.0085
+Dukes County,4,41.3961
+Shawneeland,4,39.1968
+Abita Springs,4,30.4761
+Winnemucca,4,40.9645
+Tualatin,4,45.3772
+Redway,3,40.1208
+Murphys,3,38.1371
+Tropical Park,3,28.3805
+East Branch Clarion River Lake,6,41.5894
+Somers,3,42.6411
+Lorain,3,41.4409
+Mount Carroll,3,42.0948
+Willow Street,3,39.981
+Poteau,4,35.0282
+Huntington Beach,4,33.696
+Madrid,2,41.8757
+Gilbertown,4,31.8663
+Esmont,4,37.8284
+Avon-by-the-Sea,8,40.1913
+"All Saints Episcopal Church (Pasadena, California)",11,34.148
+Marionville,3,37.002
+Remlap,3,33.8049
+Bradenton Beach,4,27.4651
+La Crosse County,4,43.9066
+Alhambra,4,34.084
+Union Gap,3,46.5566
+Craighead County,4,35.8308
+Salinas,3,36.6883
+Dharma Realm Buddhist University,6,39.1324
+Oklahoma County,3,35.5515
+Stillwater Reservoir,4,43.9126
+Meadow Vista,4,39.0029
+Mounds View,4,45.1071
+Du Quoin,4,38.0019
+Coconut Creek,3,26.2803
+Mount Arlington,3,40.919
+Clarks Summit,4,41.4902
+Oxon Hill,4,38.7884
+Centenary,4,34.0258
+Crystal Lakes,3,39.8861
+Schurz,3,38.9673
+Roslyn Heights,4,40.7788
+Lee County,3,26.5779
+Latimer,3,30.4974
+Orchards,4,45.689
+River Forest,3,41.895
+Schenectady County,5,42.8181
+Washingtonville,3,41.4297
+Illinois Wesleyan University,4,40.490555555
+Golden Grove,3,34.7324
+Pine Bush,3,41.6093
+Bronxville,4,40.9395
+Botsford,3,41.3589
+Yellville,4,36.2289
+Kent State University at East Liverpool,7,40.617
+Bayshore,4,34.2893
+Olive Branch,3,34.961
+Many,2,31.566
+White Hall,3,34.2741
+Muskingum University,5,39.995278
+Rose Lodge,3,45.0187
+Oklahoma Panhandle State University,6,36.593055555
+Bremer County,4,42.7746
+Allen County,3,41.0909
+Highwood,3,42.206
+Canadian,2,35.9096
+West Yarmouth,3,41.6496
+Attapulgus,5,30.7495
+Concord,2,37.9722
+Waldron,3,34.9022
+Aynor,4,34.0002
+Avila University,4,38.9126
+North Eastham,4,41.8539
+East Orange,3,40.7651
+Lake Superior State University,5,46.493333
+Pangburn,3,35.4261
+Saxonburg,3,40.7509
+Stonecrest,4,33.6842
+University of South Florida St. Petersburg,8,27.763111111
+Bayles Lake (Illinois),7,40.5291
+Poplar Hills,4,38.178
+La Croft,3,40.6469
+Ninnekah,4,34.964
+Butler Beach,3,29.798
+Amelia County,3,37.336
+Point Lookout,3,40.5906
+South Uniontown,4,39.8939
+Holy Rosary Church (Manhattan),7,40.7973
+Jericho,3,40.7875
+Virginia,2,47.5168
+Trevorton,3,40.7841
+Altheimer,4,34.3241
+Oro Valley,3,32.4208
+Mildred Elley,5,42.68073
+Santa Clara County,4,37.2318
+Monroe County,3,43.1464
+Kronenwetter,4,44.8164
+Montello,3,43.794
+La Plata,3,38.5352
+Flint Creek,3,36.1765
+PennWest Clarion,4,41.209
+Grassflat,3,41.0031
+Patrick Springs,3,36.6343
+Beaverton,3,45.4779
+Moorcroft,3,44.2645
+Boaz,3,34.1985
+Mohave Valley,4,34.9008
+Pennwyn,3,40.2895
+St. John Fisher University,6,43.116111111
+Florence-Graham,4,33.9682
+La Croft,3,40.6469
+Woodstown,3,39.6503
+Romancoke,3,38.8872
+Lake Forest Park,4,47.7574
+Mableton,4,33.8133
+Westernport,3,39.488
+Terre Hill,3,40.1592
+Blue Earth County,4,44.0346
+"Blackstone Hotel (Fort Worth, Texas)",10,32.7536
+University of Florida Center for Latin American Studies,9,29.649277777
+Orange City,3,28.9348
+Denison,3,33.7672
+Montana State University,4,45.668333333
+Sodus Point,4,43.264
+Arroyo Grande,5,35.1241
+Terry,2,32.1047
+Cortland County,4,42.595
+Opelika,4,32.6612
+University of New England,5,43.458333333
+Laguna Vista,3,26.1097
+California Pacific University,4,33.12611111
+East Massapequa,5,40.6742
+Heyburn,3,42.5599
+Murrells Inlet,5,33.556
+Fenton,3,42.7994
+Paradise Garage,3,40.7279
+Sharon,2,41.234
+Tuttle,3,35.3068
+Rossiter,3,40.899
+Clarks Hill,4,40.2472
+University of Florida Alumni Association,6,29.64833
+Jesup,3,31.5992
+University of Florida Cancer and Genetics Research Complex,9,29.637861111
+Leslie County,3,37.0941
+Lake Dunlap,3,29.6683
+Beggs,3,35.7768
+Yucca Valley,4,34.1234
+Parke County,4,39.7736
+Neptune Beach,3,30.3165
+Arthur,2,39.7144
+Bonita Springs,4,26.3558
+Cayuga County,4,42.9175
+Camino Tassajara,6,37.7909
+Saint Davids,3,40.0385
+Tribes Hill,4,42.9479
+West Hills College Lemoore,6,36.2924
+Chase,2,41.2801
+Saugatuck,4,41.1143
+Betsy Layne,4,37.5541
+Suncook,3,43.1382
+Parker University,3,32.879639
+Eddyville,3,37.0759
+Berkeley Lake,3,33.9805
+North Fort Lewis,4,47.1222
+Wapello County,5,41.0306
+Shippensburg University,5,40.0618
+Okmulgee County,5,35.6466
+Mangonia Park,4,26.7586
+Polkton,4,35.0031
+Shakopee,4,44.7745
+Lawson,3,39.4361
+Wyoming State Capitol,4,41.1403
+Shueyville,4,41.8462
+Wild Horse Reservoir,4,41.6668
+New York State Capitol,5,42.6526
+Judson,3,34.8335
+Dare County,3,35.7805
+Bellair-Meadowbrook Terrace,8,30.1796
+Weakley County,4,36.2983
+Lutherville,3,39.424
+Bingham County,4,43.2166
+Brooklyn Heights,3,41.418
+Union County,3,40.6601
+Barry,2,39.6982
+"Cathedral of Saint Jude the Apostle (St. Petersburg, Florida)",15,27.7778
+Aitkin,4,46.5262
+Frederica,4,39.0081
+Gibraltar Dam,4,34.5269
+Moosehead Lake,4,45.6333
+Abbeville,4,29.9751
+Wixom,4,42.5243
+South Brooksville,4,28.5243
+Collinsburg,3,40.2196
+Tensas Parish,4,32.0018
+Hebgen Lake,4,44.7822
+Fort McKinley,3,39.8027
+Hodges University,4,26.275861111
+DuPage County,4,41.852
+Dickson City,4,41.4684
+Fort Beauregard,5,31.7744
+Granger,3,41.7374
+Norman County,3,47.3265
+Pelzer,3,34.6433
+Wimauma,4,27.6964
+Belcourt,3,48.8417
+Frontier County,3,40.5301
+East Glenville,4,42.8648
+College of Coastal Georgia,5,31.1842
+Riva,3,38.9448
+Fort Lewis College,4,37.275
+Des Allemands,4,29.8162
+Cross Roads,3,33.2291
+Daingerfield,4,33.0306
+Claxton,3,32.1613
+Woodsburgh,3,40.6216
+New Bern,3,35.0955
+St. Augusta,4,45.4498
+Texas Tech University at Abilene,7,32.468669
+Amarillo,3,35.1984
+Reno,2,39.5497
+Kanosh,3,38.8014
+Shady Hollow,3,30.1645
+Lone Star,3,32.9392
+Coyne Center,4,41.4006
+Ball Ground,3,34.3426
+Hilmar-Irwin,6,37.4045
+Cornell Tech,3,40.740922
+Leonardtown,3,38.3039
+Greencastle,3,39.6432
+Hawthorn Woods,4,42.2313
+Juarez,3,26.2009
+Shady Point,3,35.1276
+Worthing,3,43.33
+Claiborne,4,32.5379
+Immokalee,4,26.4253
+Tinton Falls,4,40.2708
+Jackson School of Geosciences,6,30.285827
+Finderne,3,40.5626
+Great Neck Plaza,4,40.7869
+Kaplan,3,30.006
+Lorenzo,2,33.6703
+Shawsville,4,37.1707
+Fox Crossing,3,44.2228
+Hugoton,3,37.1745
+Mount Pulaski,3,40.0102
+Owens Cross Roads,5,34.5845
+University of Saint Joseph,5,41.781111111
+Pearl Beach,3,42.6295
+Matlacha,4,26.6303
+Mullan,3,47.4687
+Ingleside on the Bay,7,27.8303
+Hapeville,4,33.6609
+Schenectady,4,42.8025
+Tomales Bay,4,38.1486
+Cobb County,4,33.9415
+Saratoga County,4,43.1074
+Pawtucket,4,41.8744
+Saguaro Lake,5,33.5656
+Eatonton,3,33.3258
+Vincent,2,34.0983
+South Pottstown,4,40.2367
+Yankton County,5,43.009
+Roma,2,26.4166
+Nassau Bay,3,29.5448
+70 Vestry,5,40.7229
+Pecan Grove,4,29.6235
+Chain O' Lakes,5,44.3318
+La Honda,3,37.3182
+Loch Lomond,4,38.7812
+Lakewood Park,4,27.539
+Levy County,3,29.3184
+Saint Francis University,4,40.5061
+Tarpon Springs,4,28.1493
+Lake Granbury,4,32.3739
+Orangevale,3,38.6881
+Galeville,3,43.0868
+Sheatown,3,41.1938
+Elysian,3,44.2067
+Ahoskie,4,36.2842
+Ball State University,4,40.1983
+Caro,2,43.4891
+Asharoken,4,40.9381
+Olivia,2,44.777
+Spanish Fort,3,30.7254
+Home Gardens,3,33.8783
+Pike Creek Valley,4,39.7294
+Heber Springs,4,35.4995
+Wheatland County,4,46.4663
+Waukomis,5,36.2842
+Dormont,3,40.3941
+Lexington County,3,33.9023
+Biggs,3,39.4102
+University of Wisconsin–River Falls,7,44.8534
+Glasco,3,42.0454
+Wallowa,4,45.5704
+Montesano,4,47.0102
+East Village,3,41.3612
+Hyndman,4,39.8207
+Brown Memorial Presbyterian Church,5,39.3067
+The Chicago School of Professional Psychology,7,41.8883
+Bluffdale,4,40.4744
+Wyandotte,4,42.2113
+Corcoran,3,36.0841
+Jermyn,3,41.5273
+Battle Mountain,3,40.6299
+Buchanan Dam,4,30.7807
+King of Prussia,4,40.0963
+Pinon,3,36.0992
+Hebbronville,4,27.3251
+North Lauderdale,3,26.2113
+Brigantine,3,39.4138
+Terre du Lac,4,37.9042
+North Kansas City,4,39.1396
+Shipshewana,4,41.6743
+Pine Castle,3,28.4651
+Maurertown,4,38.9325
+De Pere,3,44.4308
+Stone Hill Church of Princeton,6,40.3838
+East Sonora,3,37.9774
+Westhaven-Moonstone,7,41.0447
+Silverton,3,45.003
+Morgandale,4,41.267
+Montana Technological University,4,46.012222222
+North Webster,3,41.3239
+Goodfield,3,40.6266
+Gloucester County,5,39.7173
+Manheim,3,40.163
+Shingle Springs,4,38.6665
+Campbell,2,37.2802
+Solar Star,3,34.8306
+Lake Namakagon,5,46.2157
+East Newnan,4,33.3461
+Comedy Theatre (New York City),8,40.7544
+Leming,3,29.0683
+Trimble County,4,38.613
+Guernsey,3,42.2656
+Loyola University New Orleans,6,29.935
+Spring Hill,3,28.4798
+Wickenburg,4,33.9837
+Sunrise Lake,3,41.3135
+Bantam,3,41.7247
+Horicon,3,43.4454
+Pymatuning Reservoir,5,41.4983
+Treynor,4,41.232
+Salisbury,3,38.3756
+Gulf Breeze,3,30.3684
+Fort Gaines,3,31.6238
+Towson,3,39.3944
+Shelter Island Heights,4,41.0661
+Yatesville,4,41.3038
+West Canton,3,35.5384
+Powhatan County,4,37.5502
+Marissa,3,38.2501
+Albers,3,38.5452
+Atlanta University Center,4,33.749
+Loving,2,32.2862
+Eustis,4,28.8563
+Prosper,3,33.2394
+Monroe City,3,39.6542
+Lake of the Woods,5,49.2497
+Oakland City University,4,38.3399
+Kasson,3,44.0333
+Virginia Tech,3,37.225
+Palouse,3,46.9104
+Higginson,4,35.1968
+Indiana State University,4,39.4695
+Renaissance at Monroe,4,40.2634
+Lanett,3,32.8577
+Lakewood Park,4,27.539
+Knowlton Hall,4,40.0035
+Massac County,4,37.2189
+Irvona,3,40.7737
+Dogtown,3,38.2096
+Wanakah,4,42.7435
+Blountstown,4,30.443
+Ellis,2,38.9346
+Cambridge Springs,3,41.802
+Keithsburg,3,41.1004
+Holden,3,38.7136
+Cornerstone University,4,42.979444444
+Crest Theatre,3,38.5793
+Pottsboro,4,33.7708
+Finneytown,4,39.2159
+Shelter Island Heights,4,41.0661
+North Haven,3,41.023
+Caraway,3,35.7597
+Hettinger,3,46.0034
+Alleghenyville,4,40.2327
+Coulee City,4,47.6122
+Franklin Parish,3,32.1333
+Woodland Park,3,38.9985
+Bressler,4,40.2319
+Bermuda Dunes,3,33.7435
+American Lake,3,47.13
+Sunflower County,3,33.6023
+Gig Harbor,3,47.3352
+Somis,3,34.2652
+New York County,4,40.7785
+Oroville,3,39.4999
+Hidden Springs,3,43.7201
+Richardson County,3,40.125
+Stewartville,3,43.8606
+Branson,3,36.6509
+Linton,3,39.0354
+Bay Minette,4,30.893
+University of the People,5,34.142
+Nance County,4,41.3973
+Waynesfield,4,40.6024
+Katonah,4,41.256
+La Luz,3,32.9698
+Texas A&M College of Liberal Arts,9,30.610278
+Slippery Rock University,5,41.0647
+Finzel,3,39.7018
+Snake Mountain (Vermont),6,44.0614
+Hilton,2,43.29
+Weston Lakes,4,29.6627
+Gloucester Courthouse,5,37.4053
+Citrus Springs,3,28.9931
+East Pasadena,3,34.1378
+North Lewisburg,4,40.2205
+222 Building (Appleton),9,44.262
+Massachusetts Institute of Technology,5,42.359722222
+Woodbury County,4,42.3897
+Fort Leonard Wood,4,37.7562
+Woodall,3,35.8246
+Sugar Land,3,29.5935
+Ruskin,3,27.7065
+Gulfport,3,30.4274
+Glen Ridge,3,40.8041
+Santa Susana,3,34.2586
+Westchester County,4,41.1624
+"Newman University, Wichita",5,37.6722
+Pratt Institute,4,40.691111
+Green Spring,3,38.3163
+El Valle de Arroyo Seco,7,35.9526
+La Palma,3,33.8504
+Del Mar,3,32.9635
+North Newton,3,38.0766
+Almont,3,42.9206
+Kaufman,3,32.5766
+Gilcrest,3,40.2841
+Yuma County,4,32.7695
+St. Mary of the Woods,7,39.5123
+Douglas City,3,40.6529
+Queen Anne,3,38.9021
+Clarke County,3,33.9512
+Muniz,3,26.2578
+Kerkhoven,4,45.1925
+Eatons Neck,4,40.9324
+Wonderland Homes,4,44.2029
+Eastmont,3,47.8968
+Hornbeck,3,31.3266
+Stetson University,4,29.034972
+Port Salerno,3,27.1461
+Muldrow,4,35.404
+Marysvale,4,38.4384
+Noxubee County,5,33.1102
+Gamerco,3,35.5699
+Stonecrest,4,33.6842
+South Oroville,4,39.4767
+Novi,3,42.4786
+East Berlin,3,39.9368
+Calvert,3,30.9791
+Cullom,3,40.8784
+Covington City,4,37.7785
+Strongsville,4,41.3128
+Scarsdale,4,40.9902
+Eastern Michigan University,4,42.250154
+Macksville,4,37.9572
+Angustura,4,36.7138
+East Renton Highlands,5,47.4718
+Bellmawr,4,39.8666
+Germanton,3,36.2587
+Ransomville,4,43.2396
+Brawley,4,32.9783
+Riverside County,3,33.7436
+Dumbarton,3,37.613
+Ledgewood,4,40.8769
+Arizona Christian University,4,33.5959
+Lincoln College,3,40.156972
+Grove City,3,39.8654
+Micro,2,35.5624
+McRoberts,3,37.2132
+Springmont,3,40.3274
+Sag Harbor,3,40.9971
+Girard,3,41.1665
+Port Angeles East,4,48.1041
+Bondurant,3,41.6985
+University of Houston System at Cinco Ranch,8,29.72037
+Delta,2,38.756
+Jupiter Farms,3,26.9222
+Oral Roberts University,4,36.05056
+Sinking Spring,4,40.3242
+Portales,3,34.1754
+Shanor-Northvue,6,40.9104
+Paradise Park,3,37.0062
+The Institute for Clinical Social Work,7,41.886103
+Monona,3,43.054
+Barnwell County,4,33.2661
+Merrydale,3,30.4998
+Abita Springs,4,30.4761
+Henryville,3,38.5394
+South Gate,3,33.9447
+Bend,2,44.0563
+Anderson Creek,3,35.2657
+Friendly,2,38.7601
+Inman Mills,4,35.0408
+North Puyallup,5,47.2015
+Cedaredge,4,38.8941
+Whiteland,3,39.5505
+Lucas Valley-Marinwood,6,38.0405
+Hurlburt Field,6,30.4289
+Sallisaw,4,35.4606
+Catalina Foothills,5,32.3046
+Little Flock,3,36.3853
+Maple Plain,3,45.0088
+Greens Fork,3,39.8917
+McElhattan,4,41.1543
+Volga,3,44.3219
+Spring Hope,3,35.9441
+Romancoke,3,38.8872
+Roseman University of Health Sciences,7,36.073214
+Bay Harbor Islands,4,25.8877
+Plandome Heights,5,40.8021
+Pocono Mountain Lake Estates,6,41.1567
+Endwell,3,42.1184
+Spring Glen,3,39.6561
+Lake Barrington,3,42.2121
+Otsego,3,45.266
+Lake Denton,3,27.5562
+Red Corral,3,38.4121
+Flagtown,3,40.5232
+Rockingham County,5,42.9875
+Nashua,3,42.7491
+Hillsdale Lake,4,38.6567
+Kittanning,5,40.8279
+Barnhill,3,40.4497
+College Station,3,30.5852
+Shamokin Dam,5,40.8547
+Conchas Lake,4,35.38
+Plum Creek,3,37.1267
+Diablo,2,37.8408
+University of Denver,4,39.678333333
+Annawan,3,41.3958
+Roseboro,3,34.9551
+Tehaleh,4,47.1165
+Coke County,3,31.8886
+Bridgeview,3,41.7403
+Eldorado at Santa Fe,6,35.5273
+Jeannette,3,40.3277
+Talmage,3,39.1314
+Cascades,3,39.0464
+Alverno College,5,42.983
+Mooringsport,4,32.6824
+Corvallis,3,44.5698
+New Orleans,3,30.0687
+Livingston County,4,42.6029
+Elverson,3,40.1559
+Lake Elsinore,5,33.6847
+Cochranton,3,41.5191
+Bottineau,4,48.8248
+Orange County Courthouse (Florida),7,28.5481
+Broomes Island,5,38.4203
+Florida City,3,25.4418
+Runnels County,4,31.8311
+Richland-Chambers Reservoir,6,31.9519
+Denver,2,39.762
+Branford Center,4,41.278
+Taylor University,3,40.458055555
+Jellico,3,36.5651
+Albert Einstein College of Medicine,6,40.850852
+Weeping Water,4,40.8691
+Day Heights,3,39.1755
+Cadyville,4,44.6977
+Lake Bosworth,4,48.0553
+Clary Sage College,5,36.117
+East Mountain,3,32.6008
+Norris Canyon,4,37.7457
+Wheeler,2,35.4411
+Pinckney,4,42.4543
+Weedpatch,3,35.2369
+Cressona,4,40.6304
+Ellsinore,5,36.9328
+Sunol,3,37.59
+Huntington University,4,40.8975
+St. Croix County,5,45.034
+Okeene,3,36.1171
+Trucksville,4,41.31
+University of La Verne,5,34.10129
+Modjeska,4,33.7091
+Appleton City,4,38.1906
+Helper,2,39.6898
+Auburn University,3,32.603374
+McLean County,4,40.4909
+George Fox University,4,45.303629
+Montmorency County,5,45.0276
+Avella,3,40.2737
+Inverness Highlands South,5,28.8007
+Toppers,3,35.9656
+Whitney Point,3,42.3303
+Larned,3,38.1833
+Webberville,4,42.6643
+Silver Creek,3,42.5427
+Tulelake,4,41.9533
+Lubbock,3,33.5657
+Spanish Lake,3,38.7884
+Dumas,3,35.8613
+"State Theatre (Cleveland, Ohio)",8,41.5008
+Doniphan,4,36.6234
+Rehoboth Bay,5,38.6641
+Tangipahoa Parish,6,30.6266
+Institute for Doctoral Studies in the Visual Arts,9,43.654001
+Harvey's Lake (Vermont),8,44.3047
+Governors Club,4,35.8437
+East Mountain,3,32.6008
+Tellico Village,4,35.6984
+South Whittier,3,33.9336
+Columbia,2,34.0378
+Warden,3,46.9672
+Wauchula,4,27.5469
+De Pue,3,41.328
+Adelanto,3,34.5814
+Mikes,3,26.3147
+Merion Station,4,40.0035
+Straz Center for the Performing Arts,8,27.9515
+Twin Rivers,3,40.2631
+Wishek,3,46.2554
+Quinebaug,5,42.0107
+Bonadelle Ranchos,6,36.9688
+Upton County,4,31.3688
+Eden Isle,3,30.2268
+Buffalo Gap,3,32.2834
+McCook,3,40.2046
+Harbor,2,42.0385
+Smith College,3,42.3175
+Dearborn County,4,39.1452
+Fort Myers,3,26.6194
+Eagle County,3,39.6279
+Meredosia,4,39.8308
+Berry,2,33.6623
+Tacoma,3,47.2431
+St. Paul the Apostle Church and School,9,34.0558
+Rantoul,3,40.3031
+Tombstone,3,31.7234
+Ashland County,4,40.846
+Essexville,3,43.6123
+Kent City,3,43.2202
+Parker Canyon Lake,4,31.4269
+Pearl Beach,3,42.6295
+Valley Cottage,3,41.1162
+Austin Peay State University,6,36.5323
+Manitowoc County,6,44.1199
+University of Montana Western,5,45.2083
+Rodman Reservoir,4,29.5072
+Cascades,3,39.0464
+North Adams,3,42.6844
+Ringwood,3,41.1065
+Jetmore,3,38.0301
+Little Goose Dam,4,46.587
+Sharonville,3,39.2825
+Chocowinity,4,35.5148
+Murray,2,40.6498
+Benton County Wind Farm,6,40.6861
+Union Star,3,39.9794
+Tellico Reservoir,4,35.7778
+Nevada City,3,39.2607
+Sylvan Beach,4,43.2061
+Endwell,3,42.1184
+Prescott,3,34.5849
+Hockinson,4,45.7302
+Stone Mountain,3,33.8035
+Second Baptist Church Houston,5,29.7577
+Hannahs Mill,4,32.9369
+Cleora,3,36.5738
+Robert Lee,3,31.8955
+Post Falls,3,47.7213
+Midland University,4,41.4374
+Cordoba University,4,39.0491
+Ludington,3,43.9573
+Moline,3,41.4821
+Irvine Lake,4,33.7769
+Powhatan Point,4,39.8625
+Avoyelles Parish,5,31.0763
+Lac Courte Oreilles,6,45.8833
+Eldon,3,38.3511
+Parkers Settlement,4,38.044
+Larue County,4,37.5458
+North Vernon,3,39.0171
+Plymouth County,3,41.9512
+Peery's Egyptian Theater,7,41.2218
+Desha County,4,33.8309
+Lockland,3,39.2279
+Farrell,3,41.2112
+South Henderson,3,36.3033
+Littleton Common,4,42.5352
+Lionville,3,40.0524
+Texas Tech University College of Media & Communication,9,33.581921
+Sleepy Hollow Lake,4,42.3034
+Lochbuie,3,40.0118
+West Haverstraw,4,41.2063
+Lake Morton-Berrydale,6,47.3325
+University of New Haven,5,41.2919
+Kulpmont,4,40.7954
+Roslyn,3,40.1311
+June Lake (California),6,37.7885
+Funeral Mountains,3,36.3917
+Dresser,3,45.3616
+Larch Way,4,47.8429
+Hampton,2,37.0551
+Manteca,4,37.7927
+Lake Apopka,5,28.6206
+Gibsonia,3,40.6322
+Licking County,4,40.0916
+Weldon School of Biomedical Engineering,7,40.42218
+Broadview Park,4,26.0978
+Fairport Harbor,4,41.7475
+Macon County,4,39.86
+Cos Cob,3,41.0513
+Bayfield,3,37.234
+Happy,2,34.7416
+Cosmopolis,4,46.954
+McCone County,4,47.6452
+Person County,3,36.39
+Downtown Presbyterian Church (Nashville),7,36.163
+Augusta State University,5,33.4768
+Bradfordville,3,30.5735
+Claryville,4,38.914
+Aspen,2,39.1951
+Sunset Valley,3,30.2258
+Belle Rose,3,30.0422
+Wautoma,4,44.0668
+Lake Dunlap,3,29.6683
+Lealman,4,27.8197
+Elkhart,3,41.6916
+Sand Lake,3,44.3276
+Ashland County,4,40.846
+Syosset,4,40.8157
+Union Hill-Novelty Hill,7,47.6788
+Bala Cynwyd,4,40.0116
+Brunswick,2,41.2465
+Lake Chelan,4,47.8411
+On Top of the World Designated Place,8,29.1058
+Guthrie County,5,41.6837
+Biola University,4,33.9056
+Hacienda Heights,5,33.997
+Shinnston,4,39.3923
+Mount Clemens,3,42.5977
+Bechtelsville,5,40.371
+Piqua Nuclear Generating Station,6,40.1323
+Alpena County,4,45.0348
+St. John,4,41.4429
+Circle Pines,3,45.1409
+Miami-Dade County,5,25.615
+Griffy Lake,4,39.2
+Syracuse,2,43.0407
+Whitaker,3,40.4007
+Lake Murray (South Carolina),7,34.0658
+Ronceverte,4,37.7503
+Queens Gate,3,39.9406
+Petaluma Center,5,38.2506
+Green River,3,41.5127
+Rock Island,3,41.4699
+Stanford,2,37.4252
+Chemung County,4,42.1413
+Dale County,3,31.4318
+Fountain Hill,3,40.6029
+Tangerine,3,28.759
+Stevens Institute of Technology,5,40.744906
+Brooten,4,45.5001
+West Brow,3,34.9148
+Williamsport,3,41.2399
+Flovilla,3,33.2524
+UCLA Institute for Research on Labor and Employment,9,34.064
+University of New Orleans,5,30.0275
+East Pepperell,4,42.6654
+Gleed,3,46.6594
+Forrest Theatre,3,39.9486
+Lowry City,4,38.1401
+Ladoga,3,39.9167
+Collier County,4,26.1108
+Choudrant,4,32.5503
+Giddings,4,30.1833
+Dimmit County,4,28.4226
+Slatedale,4,40.7438
+Graton,3,38.4375
+Somerville,3,42.3908
+Raleigh,2,35.8324
+Dell Medical School at The University of Texas at Austin,11,30.275313
+Laurie,2,38.208
+Tullahoma,4,35.3721
+Montcalm County,4,43.311
+Kingman County,4,37.5589
+Towns County,3,34.9167
+Laona,3,45.5597
+Vermont Technical College,4,43.93861111
+South Riding,3,38.912
+Wake Village,3,33.4238
+Clute,3,29.0256
+Bethel University,4,45.057027777
+Bristol City,3,36.618
+Sawtooth Range (Idaho),7,44.1415
+Weaubleau,4,37.8915
+Freeborn County,4,43.6738
+Underwood-Petersville,6,34.877
+Kingsville,3,27.5094
+Nicholas County,3,38.2917
+Gaines County,4,32.7407
+Shields,3,43.4211
+Remlap,3,33.8049
+Garnett,3,38.2845
+Northampton County,4,40.7542
+Lehighton,4,40.8306
+Sauk County,4,43.4267
+Dickey County,4,46.1102
+Bradner,3,41.3237
+"Cathedral of the Immaculate Conception (Tyler, Texas)",12,32.3464
+Kiowa County,4,34.9164
+Gretna,3,29.9101
+Reeseville,3,43.3062
+Woburn,4,42.4869
+Plain View,3,35.2457
+Coldwater,3,41.9465
+Apollo Beach,3,27.7618
+Yucaipa,4,34.0336
+Mount Washington,3,38.043
+Point Lookout,3,40.5906
+Day County,3,45.3671
+Ojai,3,34.4488
+Lake of the Woods,5,49.2497
+Olde Stockdale,5,35.3476
+Oregon County,3,36.6866
+Oran,3,37.0855
+Morrill County,4,41.716
+Eastpointe,3,42.4657
+Urania,3,31.8639
+Glenaire,3,39.2197
+Gasquet,3,41.8429
+Woxall,4,40.3118
+Wilkesboro,4,36.1424
+Madison Center,3,41.2794
+Cactus,2,36.0444
+Depew,3,42.9118
+University of the Incarnate Word,7,29.4669
+Joppatowne,6,39.4181
+Hamer,3,34.4741
+Howard Lake,3,45.0606
+Oldham County,4,38.3994
+Centreville,3,38.839
+Stevensville,3,38.9745
+Fort Meade,3,39.1061
+Irrigon,4,45.8958
+Fort Washington,3,38.7339
+High Ridge,3,38.4608
+Stantonsburg,5,35.6053
+Clermont,3,28.5325
+Mount Blanchard,3,40.8986
+Potomac,4,39.0141
+Prowers County,5,37.9552
+Santa Margarita,3,35.3895
+Wormleysburg,4,40.2604
+Tribune,2,38.472
+Mermentau,4,30.1874
+Tustin,3,33.7311
+Saratoga County,4,43.1074
+Rutland,3,43.6092
+Rush City,3,45.6875
+Robbinsville,4,35.3217
+Cresaptown,4,39.5944
+Little Squam Lake,5,43.7222
+Barber County,3,37.2289
+University of Florida Alumni Association,6,29.64833
+Lake Blalock,5,35.075
+Beverly Beach,3,29.5166
+Autauga County,5,32.5349
+Montana State University Billings,5,45.796666666
+Marcus Hook,3,39.8131
+Salem City,3,37.2864
+Faribault County,5,43.6739
+Big Pine Key,4,24.6893
+Boston Heights,3,41.2539
+Carrolltown,3,40.6048
+Southwood Acres,4,41.9582
+Edinburgh,2,39.3509
+Towaco,4,40.9263
+Baltimore,2,39.3051
+Sedona,3,34.8581
+Scottsboro,4,34.6438
+Jarvis Christian College,5,32.589192
+Jamul,3,32.7184
+Eagle County,3,39.6279
+Cabarrus County,5,35.3868
+Moodus,3,41.5047
+Pleasant Hill,3,37.9539
+Mineral Point,3,42.8632
+Perryman,3,39.4632
+Schuylkill Haven,6,40.6283
+Patterson Springs,3,35.2335
+Fortuna Foothills,5,32.6616
+Nez Perce County,5,46.3268
+Guy,2,35.3273
+Noxubee County,5,33.1102
+Zillah,3,46.4084
+Fillmore County,4,43.674
+Bel-Ridge,4,38.7129
+Acworth,3,34.0566
+Willits,3,39.4047
+Tyler,2,32.3184
+Emmitsburg,4,39.7051
+Muscatine,4,41.4195
+Twitchell Reservoir,5,34.998
+Freelandville,4,38.8653
+Elizabeth Lake,3,34.6589
+Dilkon,3,35.3606
+Tufts University School of Engineering,8,42.406
+University of Mississippi Medical Center School of Dentistry,9,32.329088
+University of Houston–Clear Lake,7,29.5776
+Long Grove,3,42.1967
+Koochiching County,6,48.2454
+Lindenwold,3,39.8173
+Methuen Town,4,42.734
+Basilica of the National Shrine of the Assumption of the Blessed Virgin Mary,15,39.2944
+Sturgeon Bay,4,44.8228
+Meagher County,4,46.5982
+Bluffview,4,43.3641
+Glenn Dale,3,38.9833
+Our Lady of the Wayside Church,8,37.3839
+Grand Terrace,3,34.0312
+Heath Springs,3,34.5933
+Jupiter Island,3,27.0451
+Glasgow Village,3,38.7578
+Widener University,4,39.8607
+Meriwether County,6,33.0405
+Erda,3,40.6028
+Rockfish,3,34.9902
+Spotsylvania County,4,38.185
+Franklin Lakes,3,41.0086
+Palos Park,4,41.6679
+Secaucus,4,40.781
+Jourdanton,4,28.9141
+Hutchinson County,4,35.84
+Metzger,4,45.4493
+Mechanicstown,3,41.4472
+Francis Marion University,4,34.191358
+Greenacres,3,26.627
+Arcadia University,4,40.092
+Rehoboth Beach,5,38.7172
+National University of Health Sciences,6,41.860029
+Rio Pinar,4,28.5271
+Channel Lake,3,42.483
+Malad City,4,42.1899
+Toll House Inn,4,42.0709
+Road Runner,3,33.483
+"All Saints Episcopal Church (Pasadena, California)",11,34.148
+Purcell,3,35.0231
+Metzger,4,45.4493
+Kingston Estates,3,39.9188
+Richlandtown,4,40.4724
+Hillandale,3,39.0249
+Philadelphia,2,40.0077
+Hopatcong,4,40.9541
+Green Meadows,3,39.8672
+La Habra Heights,5,33.9603
+Cowley,3,44.8834
+Camel's Hump,5,44.3197
+Claflin University,5,33.4984
+Northern Michigan University,4,46.55901
+Blair,2,41.5416
+Kenbridge,3,36.9609
+McKee,3,37.43
+East Providence,3,41.8065
+Hallstead,3,41.9616
+East Rancho Dominguez,4,33.8949
+Pecan Hill,4,32.4907
+Lake Whitney (Texas),6,31.8669
+Cedarhurst,3,40.6252
+Washington Technology University,4,47.6121692
+McElhattan,4,41.1543
+Jarrettsville,4,39.6031
+Mountain View Acres,4,34.4976
+Yucca Valley,4,34.1234
+Grand Forks County,4,47.9219
+Swisher,3,41.8442
+Oxford Junction,3,41.9838
+Camanche,4,41.7923
+Francesville,3,40.9853
+Fountain Hill,3,40.6029
+Hawk Run,3,40.9228
+Post Oak Bend City,5,32.633
+Soddy-Daisy,5,35.2571
+Creighton,3,42.4649
+Pitman,3,39.7335
+Woodinville,4,47.757
+Blackwater,3,33.0396
+Whitewater,3,42.8372
+San Juan Capistrano,6,33.5008
+Charleston,2,32.8168
+Texas Southern University,4,29.7222
+Airport,2,37.6337
+Ashtabula,4,41.8805
+Lake Waynoka,5,38.9401
+Jeanerette,4,29.9157
+Royal Palm Beach,4,26.7038
+Shawnee County,4,39.0415
+Tiger,2,34.8458
+Glen Rock,3,40.9601
+Phil Campbell,3,34.3519
+Cache County,3,41.7224
+Dumas,3,35.8613
+Colonial Pine Hills,4,44.0141
+East Barre,3,44.15
+Brush Prairie,3,45.725
+Benton Harbor,4,42.1159
+Blairs,3,36.6958
+"Baldwin Lake (Los Angeles County, California)",10,34.1419
+Whitney Peak Hotel,4,39.528
+Hot Spring County,4,34.3177
+Tonkawa,3,36.6769
+Reedurban,3,40.7979
+Pushaw Lake,4,44.933
+Minnesota Lake,3,43.8409
+Hartland,3,43.1029
+DuBois,3,41.1223
+Never Summer Mountains,4,40.4241
+Blythewood,4,34.2121
+Marist College,4,41.7222
+Fort Rucker,4,31.3428
+Bloomer,3,45.1033
+"Oregon Institute of Technology, Wilsonville",8,45.321
+Center Point,3,33.6447
+Callahan County,4,32.2976
+Indiana University Fort Wayne,5,41.118822
+Virginia Tech,3,37.225
+Everman,3,32.6296
+Penndel,3,40.1551
+Patterson Tract,3,36.3795
+Oakes,3,46.1397
+Davis,2,38.5553
+North Rock Springs,4,41.6698
+Mark Twain Lake,4,39.5059
+Biddeford,4,43.4673
+White Lake,3,34.6418
+Paramount,3,33.8977
+Sunsites,3,31.941
+Washington Adventist University,4,38.986111111
+Orion,2,41.3514
+National Synchrotron Light Source II,7,40.8654
+Morris County,3,40.862
+Elmsford,3,41.0541
+Live Oak County,4,28.3514
+Belle Rose,3,30.0422
+Sangamon County,4,39.7582
+Darlington,3,34.3015
+Dubuque,3,42.5002
+Reston Town Center,5,38.9586
+Grayslake,4,42.3405
+McCook County,4,43.6743
+Fairburn,3,33.5496
+Winslow,3,35.0243
+Sudan,2,34.0665
+Shadow Lake,3,47.4017
+Copenhagen,3,43.8934
+Sacaton,3,33.0793
+Barview,3,43.347
+Hyde Park,3,41.8008
+Taft Mosswood,5,37.9139
+Palenville,4,42.1773
+Poplar Plains,4,41.1714
+Edmonds,3,47.8115
+Hartselle,3,34.4391
+Robertsdale,3,30.5535
+Meadow Bridge,4,37.8613
+Brooten,4,45.5001
+Delcambre,4,29.9516
+Hennepin County,5,45.0045
+Roman Forest,3,30.1811
+American Islamic College,4,41.955
+Earlysville,4,38.1579
+"Cathedral of the Blessed Sacrament (Sacramento, California)",12,38.579
+Goulding,4,30.4396
+Baxter,3,46.3426
+East Mountain,3,32.6008
+McCartys Village,5,35.0614
+White Salmon,3,45.7283
+Tacoma,3,47.2431
+Finderne,3,40.5626
+Cross Keys,3,40.4458
+Point Baker,3,30.6855
+Indian Mountain Lake,4,41.0003
+Nuckolls County,6,40.1764
+Lawson Heights,4,40.2938
+Evansburg,3,40.1898
+Lake Ripley,3,43.0045
+Science Hill,3,37.1741
+Bear River,3,41.3858
+Minnetrista,4,44.9356
+Fort White,3,29.9224
+Mayesville,4,33.9849
+Kanopolis Lake,4,38.6328
+Brasher Falls,4,44.8096
+Zapata County,4,27.0008
+Log Cabin,3,32.223
+Wesley Chapel,3,28.2106
+Fort Pierce North,4,27.4736
+Whitefish Bay,4,43.1131
+Moores Mill,4,34.8491
+Tucson Estates,3,32.1792
+Lasara,3,26.4635
+Saybrook-on-the-Lake,9,41.8669
+Delaware Water Gap,4,40.975
+Masury,3,41.2083
+Poole College of Management,6,35.78853
+Wolf Creek,3,41.3253
+Ellinwood,4,38.3574
+Ozette Lake,4,48.0945
+Rockwall,3,32.9169
+Federal Way,3,47.3091
+Brown College,3,44.865
+Normandy,3,38.7071
+Scottsdale,4,33.6872
+Life Pacific University,4,34.0993
+Florida State College at Jacksonville,6,30.334722222
+Kershaw,4,34.5462
+Moorestown-Lenola,7,39.9659
+Port Norris,3,39.2521
+Scotland County,3,34.8409
+Custer,3,43.7668
+Lutz,2,28.1396
+Braddock Heights,4,39.4117
+Julian,2,33.0735
+White Cloud,3,43.5541
+Rouse,3,37.6196
+Patoka Lake,4,38.4347
+Steinhatchee,4,29.6795
+Appalachian State University,6,36.213843
+Sequoyah County,5,35.4953
+South Valley,3,35.0093
+Stillwater Reservoir,4,43.9126
+Deale,3,38.791
+Lake Delton,4,43.6003
+Seffner,4,27.9981
+Herscher,3,41.0493
+Round Hill,3,39.1319
+University City,3,38.6657
+Diablo,2,37.8408
+Bonham,3,33.588
+Black Mountain,3,35.6144
+Thomas University,3,30.816
+Schuyler,3,41.4497
+Granville South,4,40.0521
+Vassar,3,43.3719
+South Jacksonville,3,39.7025
+El Valle de Arroyo Seco,7,35.9526
+Lattimore,3,35.3153
+Mazon,3,41.2417
+University of North Florida,5,30.2619
+Noxubee County,5,33.1102
+Baker Lake (Washington),6,48.7289
+Galesburg,4,40.9506
+St. Michael,4,45.2014
+Manhasset,4,40.7884
+National City,3,32.6654
+Blanco County,3,30.2664
+Bergenfield,3,40.9236
+Lake Clarke Shores,4,26.6461
+Antioch University New England,6,42.9319
+Lanier County,4,31.0379
+Larchwood,4,43.4547
+Melbourne Beach,3,28.0668
+Page,2,36.9426
+Worcester,3,42.2705
+North Creek,3,43.6923
+Canute,3,35.4219
+West Marion,3,35.6525
+Oklahoma City,3,35.4676
+Woodland Beach,3,41.9419
+Sonoma County,4,38.5289
+Lake Holm,3,47.2985
+Minnesota Life College,4,44.867083333
+Pine Lake,3,33.7906
+Kewaskum,4,43.5177
+Edgeworth,3,40.5546
+Woodcreek,3,30.0266
+North York,3,39.978
+St. Stanislaus Kostka Church (Chicago),11,41.9059
+Fort Valley,3,32.552
+Ferriday,4,31.6343
+South Venice,3,27.0444
+Acton,3,34.4956
+Rancho Santa Margarita,5,33.6318
+Severance,3,40.5265
+Mahnomen County,5,47.3253
+Antrim County,4,44.9991
+Half Moon,3,34.8297
+Conning Towers Nautilus Park,6,41.385
+California Miramar University,5,32.779216
+Tortugas,3,32.2697
+Buxton,3,35.2511
+Santa Ana Pueblo,4,35.3495
+Oberlin,3,41.286
+Maltby,4,47.8027
+Kingsport,3,36.5224
+National Sylvan Theater,4,38.8883
+Grenloch,3,39.7825
+McColl,3,34.6665
+Harwick,3,40.5562
+Mebane,4,36.0852
+Magalia,3,39.8228
+Cokeburg,3,40.1
+Scotland Neck,3,36.1308
+Pawcatuck,4,41.3774
+Haubstadt,4,38.2039
+Hardwood Acres,4,44.7213
+Peachtree City,5,33.3942
+Oneida County,4,43.2418
+Calhoun City,4,33.8588
+Williams Bay,3,42.5788
+Banks Lake,3,47.62
+Lebanon,2,40.3412
+Marina del Rey,4,33.9765
+New Columbia,3,41.0424
+First Mesa,3,35.8389
+Sherburn,3,43.6549
+Southwest City,3,36.5205
+Laredo,3,27.5625
+Ellettsville,5,39.2322
+New Haven,3,41.3113
+Red Bluff Diversion Dam,5,40.1536
+Watauga Lake,5,36.3328
+Duryea,4,41.3533
+Wallowa Mountains,5,45.245
+Gammage Memorial Auditorium,5,33.4163
+Dunnellon,4,29.0572
+Isola,3,33.2634
+Dawson,2,31.7721
+Susquehanna Trails,4,39.7584
+La Paloma,3,26.0518
+Queensland,2,38.8019
+Lemoore Station,4,36.2633
+Clay,2,33.6951
+Lake Kerr,3,29.3575
+Gulf Park Estates,4,30.3802
+Mertzon,4,31.262
+University of New Haven,5,41.2919
+Mendocino County,4,39.4402
+Pittsburg County,5,34.9239
+Manns Harbor,4,35.894
+Cheyenne Wells,4,38.8192
+Hazel Park,3,42.4619
+Grandview,3,38.8802
+Wytheville,4,36.953
+Arabi,3,29.9562
+Waelder,3,29.6943
+Archuleta County,5,37.1935
+Stonewall,3,32.2716
+Jackson Lake (Georgia),6,33.368
+Chamberino,3,32.0364
+Tulare County,4,36.2202
+Tome,2,34.739
+Cody,2,44.5213
+Darby,3,39.921
+Santa Claus,3,38.1168
+Jackpot,3,41.9797
+Howell,3,42.6078
+Shakopee,4,44.7745
+Johnson Park,3,40.9212
+Knox County,3,35.9932
+Friday Harbor,3,48.5324
+Doraville,3,33.9073
+Tiltonsville,4,40.1721
+Village of the Branch,5,40.8523
+Blauvelt,4,41.0689
+Fairport Harbor,4,41.7475
+DuPage County,4,41.852
+Pasadena Hills,4,28.2881
+Hartville,3,40.9618
+Dakota Wesleyan University,4,43.698611
+Locust Fork,4,33.8957
+Naytahwaush,5,47.2703
+Kaysville,4,41.029
+Vine Grove,3,37.8134
+Cocoa,2,28.382
+Papillion,3,41.1511
+Yanceyville,4,36.4101
+Laurel Bay,3,32.4599
+Custer City,4,35.6638
+Redwood City,4,37.5025
+Connerton,4,28.3022
+Saxon,2,34.9616
+Post University,3,41.5352
+Mary Allen Seminary,4,31.32722222
+King Arthur Park,4,45.6663
+Sardinia,4,39.0071
+Waukomis,5,36.2842
+Wapato,4,46.4437
+Copper Mountain Solar Facility,5,35.7833
+Clovis,3,36.8278
+Pine Grove Mills,4,40.7315
+Bienville Parish,4,32.3473
+Mims,3,28.6929
+New Town,3,47.989
+Pilot Mountain,3,36.3853
+Waconia,4,44.8422
+Warner Centre,3,40.4401
+Gower,3,39.6129
+Cannon Beach,3,45.8884
+Woodside East,4,39.0676
+North Salt Lake,4,40.8439
+William Penn University,4,41.309
+Port Gibson,3,31.9558
+Rexburg,3,43.8226
+Marble Hill,3,37.3032
+Lucky Peak Dam,4,43.5283
+Canyon Lake (California),6,33.6876
+Williamsdale,3,39.4421
+Los Lunas,4,34.8115
+Lynnewood Hall,4,40.0752
+Melbourne Beach,3,28.0668
+Bellwood,3,41.8829
+Garrett County,3,39.5289
+Riverbank,3,37.726
+Teller County,4,38.8824
+Yoe,3,39.9096
+East Newark,3,40.751
+Blowing Rock,4,36.1298
+Marine,2,38.7868
+Moores Hill,4,39.1129
+Eminence,3,38.3637
+Plattsburg,4,39.5644
+Foscoe,3,36.1535
+Satsop,4,47.0223
+Franconia Range,4,44.1608
+Hot Sulphur Springs,4,40.0748
+Manville,3,40.542
+Diablo Grande,3,37.4009
+Red Springs,3,34.8046
+Williamsdale,3,39.4421
+Grove,2,36.5928
+"Newman University, Wichita",5,37.6722
+Oretta,3,30.5289
+Catheys Valley,5,37.4308
+Nashua,3,42.7491
+Fessenden,4,47.6494
+Ledgewood,4,40.8769
+Mocanaqua,4,41.1407
+Monte Alto,3,26.3744
+Tarkio,4,40.443
+Hubbard Lake,4,44.8042
+Braselton,4,34.1087
+South River,3,40.4455
+Bonneau Beach,4,33.3229
+South Beloit,4,42.4825
+"St. Mary Church (Grand Street, Manhattan)",11,40.7157
+Oilton,3,36.0827
+Marlinton,4,38.2245
+Frankston,3,32.0561
+Gillett,3,44.8897
+Estelle,3,29.8447
+New Columbia,3,41.0424
+Peoria County,4,40.788
+Wind Lake,3,42.8239
+Oconto Falls,4,44.8738
+Virginia City,3,39.3074
+Mountaineer Wind Energy Center,7,39.184
+Glenn County,3,39.5981
+Moss Beach,3,37.5184
+Woods Hole,3,41.5303
+The Villages,3,28.9034
+North Port,3,27.0576
+Craigmont,3,46.2422
+Blackduck,3,47.7263
+Watergate,3,26.3359
+Ohio Northern University,4,40.7669
+Shreveport,4,32.4653
+Benkelman,4,40.0468
+Draper,3,40.4957
+Zelienople,5,40.7886
+Canal Lewisville,4,40.299
+Plymouth County,3,41.9512
+Norris City,4,37.979
+Williston Park,4,40.7587
+Rome City,3,41.4893
+New Lisbon,3,43.8781
+Sheatown,3,41.1938
+Bushyhead,4,36.4596
+Surprise,2,33.6815
+Decherd,4,35.2156
+Hettinger,3,46.0034
+Swedeland,4,40.0882
+Fort Hood,3,31.1357
+Holy Cross Church (Chicago),7,41.8108
+Mountlake Terrace,4,47.7921
+Selmer,3,35.1708
+Quogue,3,40.8215
+Pelzer,3,34.6433
+American Sports University,4,34.1063
+Sewanee: The University of the South,9,35.203055555
+Kaneville,3,41.8332
+Redwood County,4,44.4037
+Ruffin,3,36.4428
+Minnehaha County,5,43.6742
+Willow Street,3,39.981
+Fruitdale,3,37.3116
+Coal Fork,3,38.3185
+Cranston,3,41.7658
+Moore County,3,35.3106
+River Forest,3,41.895
+Duck Hill,3,33.6316
+Kirtland AFB,5,35.0497
+Mexico,2,39.1625
+Southeastern Louisiana University,5,30.513888888
+Lemont,3,41.6695
+Martin Lake,3,45.3824
+Cloverport,3,37.8311
+Erath,3,29.9586
+Whitefish Bay,4,43.1131
+Reeseville,3,43.3062
+"Cathedral Church of St. John (Albuquerque, New Mexico)",15,35.0823
+Trojan Nuclear Power Plant,6,46.0383
+Iosco County,4,44.3559
+Sans Bois Mountains,4,35.032
+Villa Ridge,3,38.4676
+Silt,3,39.5483
+Thompson,2,47.7752
+Brushy,3,35.5578
+Carrollton,3,32.989
+Disputanta,4,37.1236
+Biloxi,3,30.4426
+West Conshohocken,5,40.0702
+Sonoma County,4,38.5289
+Royal City,3,46.9018
+Garrett County,3,39.5289
+Swansea,3,38.5507
+Akron,3,41.0798
+Moose Lake,3,46.4442
+Dell Medical School at The University of Texas at Austin,11,30.275313
+Dakota Ridge,3,39.6192
+Verdigris,4,36.2536
+Sligo,3,41.1081
+Hudson Lake,3,41.7174
+Stillwater,3,36.1317
+Southwestern Oklahoma State University,6,35.5344
+Lakemoor,4,42.3396
+Coral Gables,3,25.7037
+Watergate,3,26.3359
+Arroyo Colorado Estates,6,26.1864
+Rivanna,3,37.9945
+Clayhatchee,4,31.2434
+Corinna,3,44.9223
+Gresham Park,5,33.7053
+Blue Lake,3,40.8814
+Kathleen,2,28.1224
+Weleetka,4,35.3401
+North Eastham,4,41.8539
+Jones Creek,3,28.9752
+Stow,3,41.1765
+Calvert,3,30.9791
+Tyrrell County,4,35.8172
+Pierz,3,45.9772
+Green Knoll,3,40.6047
+Elm City,3,35.8044
+Flat Top Mountain,4,35.3319
+East Palo Alto,4,37.4671
+Asheboro,3,35.7158
+Donner Lake,4,39.3228
+Ehrenberg,4,33.6175
+Shasta Lake,4,40.679
+Colusa County,4,39.1775
+Bellefontaine,3,40.3627
+East Tawas,4,44.2884
+West Lebanon,3,40.2724
+Liberty University,3,37.35242
+Waterloo,2,42.4918
+Radisson,3,43.1824
+"Ten Mile Lake (Cass County, Minnesota)",10,46.97
+Sidell,3,39.9097
+Port St. Lucie,5,27.2796
+Dadeville,3,32.8326
+Cherry Hills Village,4,39.6375
+Fort Towson,4,34.0243
+Seelyville,4,39.4936
+Rapides Parish,4,31.1986
+Furman University,4,34.925833333
+Lumpkin,4,32.0487
+Monett,3,36.9218
+Saxonburg,3,40.7509
+Allegheny County,4,40.4688
+Callender Lake,4,32.3675
+Mason Neck,3,38.6556
+Montgomery Village,3,39.1788
+Algoma,3,44.6058
+Lealman,4,27.8197
+Phoenix,2,33.5722
+Post,2,33.191
+Williamstown,3,39.6874
+North Las Vegas,4,36.2883
+South Weldon,3,36.4135
+Keystone,3,28.1312
+California Intercontinental University,5,33.9789
+Pottawatomie County,6,35.2066
+Anahuac,4,29.7649
+Balboa Theatre,4,32.7139
+Prospect Heights,3,42.1039
+Viera East,4,28.2613
+Hanover Park,4,41.9818
+North Corbin,3,36.9649
+Cathedral Basilica of the Immaculate Conception (Denver),11,39.7403
+Battlefield,2,37.1194
+Algood,3,36.2
+Arco,2,43.6316
+Forrest Theatre,3,39.9486
+Tucson,2,32.1541
+Gaiety Theatre (New York City),9,40.7585
+Lampasas County,4,31.1962
+Marfa,3,30.3107
+Wingate,3,34.9859
+Adirondack Lake,5,43.7893
+Peculiar,4,38.7306
+Wood Dale,3,41.9668
+Lake Wissota,5,44.9466
+West Virginia University Institute of Technology,7,38.179444444
+Morrow,3,33.5815
+Itta Bena,5,33.5003
+Bull Run,3,38.7802
+Lake Moultrie,5,33.3
+Springfield,2,42.1155
+North Plains,3,45.5974
+Sargent County,4,46.1078
+Black Hawk County,4,42.4701
+Kansas City,3,39.1238
+Pima County,4,32.0974
+Shenandoah Heights,4,40.8319
+Loyall,3,36.8527
+Dakota City,3,42.4184
+Fort Ashby,3,39.4973
+St. Augusta,4,45.4498
+Andrew W. Mellon Auditorium,6,38.8926
+San Buenaventura,4,34.2741
+Mount Baker Theatre,4,48.7522
+Mechanicstown,3,41.4472
+Brainerd,4,46.3553
+Tippecanoe County,6,40.3886
+Weyauwega,5,44.324
+Morgantown,3,39.6383
+St. Andrews University,5,34.7454
+Nuckolls County,6,40.1764
+Vinita Park,4,38.6888
+Yountville,4,38.3963
+St. Lawrence University,5,44.592777777
+Avis,2,41.1858
+Tufts University School of Engineering,8,42.406
+Tulelake,4,41.9533
+Beattystown,4,40.8222
+Cherry Hills Village,4,39.6375
+Roanoke,3,37.2785
+Webster City,3,42.4622
+Dodge County,3,43.4163
+Schaller,3,42.4965
+Big Spirit Lake,4,43.4739
+Harmon County,3,34.7441
+Collinwood,4,35.1746
+Topanga,3,34.0965
+Blue Ash,3,39.248
+Roseburg North,4,43.2662
+New Hope Baptist Church (Newark),8,40.7461
+Orland,3,39.7461
+Baroda,3,41.9541
+Eastern Connecticut State University,5,41.7195
+Sapphire Mountains,3,46.0633
+Ellicott,4,38.8256
+Mississippi Valley State University,5,33.5172
+Bell Buckle,3,35.5908
+Woodsdale,4,39.4331
+Cecilton,3,39.4047
+Shell Ridge,3,37.906
+Goshen County,4,42.0879
+Shoal Creek Drive,5,37.037
+Cape Girardeau,5,37.3109
+Bloomville,3,41.0514
+Straits of Mackinac,6,45.8139
+Nicoma Park,4,35.4913
+Hubbard Lake,4,44.8108
+Iyanbito,4,35.516
+Tatamy,3,40.7409
+Pasatiempo,4,37.0034
+Ball State University,4,40.1983
+Madison Center,3,41.2794
+Lockesburg,4,33.9716
+Des Moines University,4,41.584
+Tonganoxie,5,39.1088
+Nacogdoches County,6,31.616
+Macomb,3,40.4709
+Tate County,3,34.6503
+Bethel Island,4,38.0289
+Darke County,4,40.1333
+Rockdale,3,30.6543
+Wapello,4,41.1773
+New Braunfels,4,29.6994
+Piperton,3,35.0512
+Lampasas County,4,31.1962
+Gold Hill,3,42.4358
+Safford,3,32.8335
+Borrego Springs,4,33.241
+Graves County,3,36.7231
+East Riverdale,3,38.96
+Providence,2,41.823
+Radisson,3,43.1824
+Mott,3,46.3744
+Headland,3,31.3501
+Loudon County,4,35.7348
+Robin Glen-Indiantown,6,43.4618
+Gearhart,3,46.0289
+Zimmerman,3,45.4416
+Pine Flat Lake,4,36.8325
+Eden Prairie,3,44.8488
+Normal,2,40.5217
+Grass Lake,3,42.2511
+Guardian Angel Cathedral,4,36.1306
+Star Prairie,3,45.1975
+Lake Gaston,3,36.5096
+Buffalo City,3,44.2203
+Curlew Lake,4,48.7311
+Arlington Heights,3,42.0955
+Norman,2,35.2335
+Smiths Grove,4,37.0503
+Yarrow Point,4,47.6492
+Meadow,3,33.3377
+New Vienna,3,39.3255
+Aspen,2,39.1951
+East Rancho Dominguez,4,33.8949
+Turners Falls,4,42.5975
+Brecksville,4,41.3079
+Holdrege,4,40.4394
+Port Sanilac,5,43.4275
+Ilchester,3,39.2187
+Wakulla County,4,30.1673
+Paguate,3,35.1473
+University of St. Francis,6,41.533
+Tangerine,3,28.759
+Pacific University Health Professions Campus,6,45.5208
+Hotel Texas,3,32.7525
+University of Virginia Center for Politics,7,38.0475
+Claxton,3,32.1613
+Plattsville,4,41.226
+Zillah,3,46.4084
+Mountain Park,3,33.8458
+Coudersport,4,41.7758
+Tustin,3,33.7311
+Copper Mountain Solar Facility,5,35.7833
+Palo Alto County,4,43.0821
+Lake Namakagon,5,46.2157
+Scotland Neck,3,36.1308
+Vista Santa Rosa,4,33.6226
+Sharpsville,4,41.2595
+University of Wisconsin–Marshfield/Wood County,10,44.66547
+Clary Sage College,5,36.117
+Cedar Glen West,4,40.0418
+Phillips County,3,34.4274
+Mercer University,4,32.829166666
+Mountainside,3,40.6811
+Belen,3,34.7115
+Berthold,3,48.317
+Oglala,4,43.1849
+Marlboro Village,5,38.8307
+Winfall,3,36.2105
+Belfair,3,47.4495
+New York Institute of Technology,6,40.8080625
+Gasquet,3,41.8429
+Forest Oaks,3,35.9889
+Hunters Creek Village,5,29.7715
+Lincoln Christian University,4,40.156944
+Mechanicstown,3,41.4472
+Oblong,3,39.0022
+Hallandale Beach,4,25.9854
+Yardley,3,40.2408
+Fossil,2,44.9981
+Grove,2,36.5928
+Carlsborg,4,48.0842
+Dallesport,4,45.6316
+Climax,3,42.2383
+Savona,3,42.283
+Northgate,3,39.2533
+Citrus Heights,3,38.6948
+Burnett County,4,45.8627
+Converse,2,29.5091
+Leonardtown,3,38.3039
+McKean County,5,41.8076
+Solon Springs,4,46.3495
+Prairieville,3,30.3151
+Geary,3,35.5923
+Prescott,3,34.5849
+Centennial Park,4,36.9538
+Texas A&M College of Agriculture and Life Sciences,11,30.605731
+Lakehead,3,40.9007
+Grayson College,4,33.706106
+Shady Shores,3,33.1632
+Danube,3,44.791
+Saukville,4,43.3847
+Emmitsburg,4,39.7051
+Selmont-West Selmont,7,32.3784
+Jacobus,3,39.8825
+University of Houston System at Cinco Ranch,8,29.72037
+Merrimac,4,37.1902
+Deep Creek Lake,4,39.5095
+Coyote Acres,3,27.7132
+Sycamore,3,41.9957
+Seven Fields,3,40.6868
+Muskogee,4,35.7432
+Quiogue,4,40.8202
+Copake Lake,4,42.1416
+El Rio,3,34.2453
+Fort Salonga,4,40.9068
+Radcliff,3,37.8204
+Bad Axe,3,43.8043
+Birch Run,3,43.2503
+Fresno County,4,36.7582
+Boise,3,43.6005
+Norborne,3,39.3024
+Cowan Lake (Ohio),7,39.3886
+Orrick,3,39.2133
+West Pasco,4,46.2498
+Sussex,3,43.1346
+Broken Arrow,3,36.038
+Sellersburg,4,38.4028
+St. Nicholas Cathedral (Chicago),8,41.897
+Midland Park,4,40.9952
+Gallia County,4,38.8247
+Maben,3,33.5544
+Saginaw Valley State University,6,43.5141
+Beaumont,3,30.0849
+Overbrook,3,38.7794
+Eugene Applebaum College of Pharmacy and Health Sciences,10,42.34902778
+Mukilteo,4,47.9096
+Central Falls,3,41.8901
+Rainbow Lake (Arizona),6,34.1499
+Mosheim,3,36.1955
+Yemassee,4,32.6733
+Silver Ridge,3,39.9621
+Prosser,3,46.2068
+Herington,4,38.6862
+Misquah Hills,5,47.98
+Industry,2,40.6595
+Fort Cobb,3,35.1042
+Ludington,3,43.9573
+Fostoria,4,41.16
+Sayreville,4,40.4656
+Oakville,3,38.4479
+Chester Hill,3,40.8903
+Country Club,3,25.9407
+Watterson Park,4,38.189
+Apollo,2,40.5848
+Frio County,4,28.8678
+Dauphin Island,4,30.2525
+Port Edwards,3,44.3484
+Monmouth Junction,4,40.3754
+Kleberg County,4,27.4337
+Hewitt,3,31.452
+Sagadahoc County,5,43.9598
+Houck,3,35.2714
+Arthurtown,3,33.9644
+Payne,3,41.0797
+Rothsville,4,40.1532
+San Martin,3,37.0829
+High Springs,3,29.807
+Cashmere,3,47.5175
+Potters Hill,4,34.9645
+Mountain City,3,36.4696
+Posey County,4,38.0218
+Rancho Mesa Verde,5,32.5944
+Trappe,3,40.1991
+Jasonville,3,39.1622
+Germania,2,39.5088
+Fields Landing,3,40.7249
+Fobes Hill,4,47.9392
+Parrish,3,33.7323
+Oconee Fall Line Technical College,8,32.9981
+Belleview,3,29.0608
+Belmont Estates,4,38.4464
+Navarre,3,30.4174
+Old Cadet Chapel (West Point),8,41.3986
+Rosendale,3,43.808
+Wollochet,4,47.2828
+Cowen,3,38.411
+Sandoval County,5,35.6886
+Nicholas County,3,38.2917
+Keansburg,4,40.4469
+Wellman,3,41.4693
+Texas Lutheran University,4,29.574
+Montezuma,3,32.2997
+Warfield Theatre,4,37.7827
+Greeneville,3,36.168
+Brushy Creek,4,30.5128
+Sandy Level,3,36.5645
+Bohemia,3,40.7717
+Sibley,3,43.4015
+Howland Center,4,41.2482
+Fallon County,4,46.334
+Pownal,4,42.7653
+Edgecombe County,4,35.9129
+Lauderhill,4,26.1605
+Mikes,3,26.3147
+Walker,2,42.9853
+Tilghman Island,5,38.7008
+Lake Casa Blanca,4,27.5336
+Emlenton,4,41.1806
+Stillwater County,4,45.669
+Silver Creek,3,42.5427
+Key Biscayne,5,25.6908
+Austin,2,30.3005
+North Tonawanda,5,43.0457
+Cobb Island,4,38.2647
+Reisterstown,4,39.455
+Bostonia,4,32.8189
+Morrison County,3,46.0126
+Gordo,3,33.3221
+Keizer,3,45.0028
+Manassa,3,37.1738
+Weeping Water,4,40.8691
+Palos Heights,4,41.6637
+Lambertville,3,41.7484
+Vigo County,4,39.4306
+California Lutheran University,4,34.224722222
+Carbonado,3,47.0806
+Wallowa Mountains,5,45.245
+Pacific University Health Professions Campus,6,45.5208
+Siltcoos Lake,6,43.8817
+Lake Como,3,40.1706
+Strafford,4,37.2689
+Burt,2,43.2358
+Dupont,3,41.3238
+Upson County,4,32.8813
+Kaplan,3,30.006
+Manly,3,43.2883
+Ridgemark,3,36.8082
+Holiday Hills,3,42.2978
+Roma,2,26.4166
+Midland College,4,32.029123
+Ruhenstroth,5,38.8913
+"National Theatre (Washington, D.C.)",10,38.8963
+Westbrook Center,4,41.2811
+North Fort Lewis,4,47.1222
+Glade Spring,4,36.7899
+Farmer City,3,40.248
+Boston Heights,3,41.2539
+Mamou,3,30.6349
+Peculiar,4,38.7306
+Bellefonte,3,40.9141
+Pocahontas,3,36.2635
+Crownsville,4,39.0224
+Lake Murray (South Carolina),7,34.0658
+Pleasant Hope,3,37.465
+Mickleton,3,39.7921
+Long Wharf Theatre,4,41.2941
+Ariton,4,31.5978
+Quogue,3,40.8215
+Keys,2,35.8022
+Byram Center,4,40.9325
+Dubuque County,4,42.4688
+Sunrise Manor,3,36.1783
+Buena Vista University,4,42.6426
+Jarales,3,34.6147
+Ravenna,3,41.1612
+Lovingston,3,37.7605
+Victory Lakes,3,39.6305
+Boca Raton,3,26.3752
+Moody Church,3,41.9117
+Stata Center,4,42.3616
+Shiremanstown,5,40.2224
+Alpharetta,3,34.0704
+Vermontville,3,42.627
+Le Sueur,4,44.4702
+Molalla,3,45.1502
+Akins,3,35.5043
+Belle Center,3,40.509
+Hallam,3,40.0024
+San Perlita,4,26.501
+Franklin City,3,36.6831
+South Highpoint,4,27.9086
+Shell Rock,3,42.7126
+Golden's Bridge,5,41.2878
+Wabash,4,40.8034
+The Fletcher School of Law and Diplomacy,8,42.407778
+Seven Mile Ford,4,36.8139
+Bunch-of-Grapes,7,42.359
+Harrisburg University of Science and Technology,8,40.2619
+White House,3,36.4648
+New City,3,41.1542
+Joliet,3,41.5188
+Missouri University of Science and Technology,7,37.955544
+Satsop,4,47.0223
+Moscow Mills,3,38.94
+Ellsinore,5,36.9328
+Sawgrass,3,30.19
+Alamosa East,4,37.4766
+Hinds County,4,32.2667
+Northampton County,4,40.7542
+Utah County,3,40.1199
+New California,3,40.1503
+Arena,2,43.1636
+Valley City,3,46.9222
+Glassport,3,40.3261
+Solano County,4,38.27
+Parker University,3,32.879639
+Genetti Hotel,4,41.241
+Woodland Heights,3,41.4108
+Fallon,3,39.4737
+Lake Wisconsin,3,43.3739
+Rutland County,4,43.5802
+Uintah,3,41.1428
+San Leandro,3,37.7074
+Charter Oak State College,5,41.6881
+Moss Beach,3,37.5184
+Rockfish,3,34.9902
+Idaho City,3,43.8281
+Cherry Valley,3,33.9797
+Lordstown,3,41.1684
+Parker School,3,48.2468
+Nelliston,3,42.9318
+Lehi,3,40.4136
+Terrebonne,3,44.3533
+Roanoke City,4,37.2785
+Summerlin South,4,36.1242
+Center Ossipee,5,43.7542
+Lake Tomahawk,4,40.7638
+Ashland County,4,40.846
+Ellicott,4,38.8256
+Gaylord,3,45.0208
+Gardnerville Ranchos,6,38.8957
+Somervell County,5,32.2222
+Waite Park,4,45.5313
+Meraux,3,29.9284
+Waterville,3,44.5441
+North Salem,3,39.86
+Eighty Four,4,40.1777
+East Herkimer,5,43.0316
+Westernport,3,39.488
+North Valley,3,35.1736
+Dillon Reservoir,4,39.6074
+"Ohio State University, Lima Campus",7,40.7383
+Wilkinsburg,4,40.4442
+Margaretville,3,42.1458
+Fort Pierce,3,27.4255
+Larue County,4,37.5458
+Nambe,3,35.8984
+"Minnesota State University, Mankato",7,44.146111111
+Sudan,2,34.0665
+Cove Creek,4,36.2763
+White Pine,3,36.1087
+National City,3,32.6654
+International Falls,3,48.5884
+Sullivan's Island,5,32.7684
+Seaboard,3,36.4907
+Nassau Village-Ratliff,6,30.5108
+Maricopa,4,33.0408
+Red Lodge,3,45.1933
+Margaret,2,33.6734
+University of Wisconsin-Superior,6,46.7181
+Magnolia Springs,3,30.4003
+Stillmore,3,32.441
+Comal County,4,29.8082
+Early County,3,31.3228
+"Cathedral of Saint Peter (Wilmington, Delaware)",12,39.7428
+Temperance,3,41.7653
+New York,3,40.6943
+Edmonson County,5,37.2088
+Black Butte Lake,4,39.8058
+University of Saint Francis,5,41.0873
+Kalamazoo County,4,42.2455
+Yacolt,3,45.8652
+Knoxville,3,35.9692
+Stonewall,3,32.2716
+Kiowa County,4,34.9164
+Washington,2,38.9047
+Tuolumne City,5,37.9615
+Gallaudet University,6,38.907222222
+Progreso,3,26.0962
+Thomson,2,33.4679
+Tallapoosa,4,33.7335
+Aquia Harbour,4,38.4598
+Lake Hiawatha,6,40.8816
+Faribault County,5,43.6739
+Tatamy,3,40.7409
+Allegan County,4,42.5913
+Priest Lake,3,48.5667
+University of Massachusetts Amherst,5,42.388888888
+Verndale,3,46.3969
+Portia,3,36.0848
+Mattawan,3,42.2165
+North Lauderdale,3,26.2113
+Arco,2,43.6316
+Camdenton,4,38.0121
+Browns Point,4,47.3036
+Selah,3,46.6481
+Ankeny,3,41.7288
+Champaign,2,40.1142
+Mikes,3,26.3147
+Wanamingo,4,44.3026
+Phantasy Theater,4,41.4839
+Pueblo County,4,38.1735
+University of Florida Center for African Studies,8,29.649277777
+Lamberton,3,44.2306
+Myrtle,3,34.5605
+Texas A&M College of Education and Human Development,11,30.610278
+Ridgemark,3,36.8082
+Springport,3,42.3783
+Church of the Guardian Angel (Manhattan),9,40.7467
+Divernon,4,39.5707
+Weaver,2,33.7601
+Blackstone,3,37.0822
+Herriman,3,40.4899
+Cumberland,3,39.6515
+Cetronia,4,40.5856
+Harvard,2,42.4296
+Eastern New Mexico University,5,34.176944
+Sheppton,4,40.8964
+Rayville,3,32.4707
+Delcambre,4,29.9516
+Delaware,2,40.2851
+Claiborne County,5,36.4859
+Tift County,4,31.4574
+Mira Monte,3,34.4312
+University,2,28.0771
+125 Greenwich Street,6,40.7092
+Kersey,3,40.391
+Creswell,3,43.9212
+James R. Thompson Center,6,41.8853
+Kings Bay Base,4,30.7985
+Dormont,3,40.3941
+Prestonsburg,4,37.6819
+Briaroaks,4,32.4958
+Elma,3,47.0055
+Lake Casa Blanca,4,27.5336
+Vermont Technical College,4,43.93861111
+Pine Beach,3,39.9359
+Carrboro,3,35.9259
+Patoka Lake,4,38.4347
+Governors Club,4,35.8437
+Sabine Lake,3,29.875
+Ceresco,3,41.058
+Shaw University,3,35.7712
+Short Pump,3,37.6549
+Shaw Heights,3,39.8566
+Grove,2,36.5928
+Sansom Park,4,32.8027
+Lewis College of Business,5,42.36111111
+Sand Ridge,3,43.2553
+Zuni Pueblo,4,35.0693
+Wayne County,3,42.2819
+Bettendorf,3,41.5657
+Francis Creek,3,44.2006
+Crofton,3,39.0144
+Penns Grove,4,39.7275
+Brewster Hill,4,41.4229
+Dermott,2,33.5271
+Switzerland County,3,38.8262
+Westover Hills,5,32.7437
+Clary Sage College,5,36.117
+Cherryland,3,37.6792
+Winterstown,3,39.8408
+Rodney Bingenheimer's English Disco,9,34.0981
+Birmingham,2,33.5279
+Boscobel,4,43.1437
+Auburn Lake Trails,4,38.8916
+Vails Gate,4,41.4588
+Payette,3,44.0788
+Indiana State University,4,39.4695
+Binoculars Building,5,33.9953
+Keizer,3,45.0028
+Island County,3,48.163
+Jasmine Estates,3,28.293
+Newtown Grant,4,40.2619
+Baton Rouge,4,30.442
+Sylacauga,5,33.178
+McConnellstown,4,40.4643
+Goodland,3,39.3489
+Funkstown,3,39.6068
+Dickinson State University,5,46.882777777
+Trego,3,48.6558
+Blue Jay,3,39.2308
+Pacific Tarn,3,39.4197
+Westfield State University,5,42.1314
+Dover Beaches North,4,39.9921
+Belhaven,3,35.5428
+Lake Milton,3,41.096
+"The Tower (Fort Worth, Texas)",9,32.7532
+Orderville,3,37.254
+Double Oak,3,33.0633
+Hemingway,3,33.7534
+Golden Gate,3,26.1844
+Yancey County,4,35.8989
+Wolfdale,3,40.1979
+Brook,2,40.8664
+Merrill,3,45.182
+"St. Mary Basilica, Natchez",8,31.5586
+Heath Springs,3,34.5933
+Alamogordo,4,32.8837
+Whitewater,3,42.8372
+Carolina,2,41.4625
+Chester Gap,3,38.8534
+Endicott,4,42.098
+Pickensville,4,33.2336
+Light Oak,3,35.2867
+Pismo Beach,4,35.1487
+Cottonwood,3,34.7195
+Medicine Lodge,3,37.2851
+La Plata Mountains,4,37.4517
+Evarts,4,36.8645
+Centre County,3,40.9193
+Thornville,3,39.8944
+Lake Agnes (Colorado),6,40.4817
+Blue Island,3,41.6578
+Old Bethpage,4,40.7558
+Four Lakes,3,47.5576
+Roachdale,4,39.8491
+Zeigler,4,37.9066
+Framingham,3,42.3085
+Owensville,4,38.3491
+Shinglehouse,4,41.9662
+Manheim,3,40.163
+Navajo County,5,35.3996
+Roachdale,4,39.8491
+Mundys Corner,4,40.4431
+Stetson University,4,29.034972
+Villa Grove,3,39.8645
+Magee,3,31.873
+Kendall West,3,25.7065
+Wolfhurst,3,40.069
+Anderson Ranch Dam,4,43.3575
+Green Acres,3,48.8381
+"Flatiron Building (Fort Worth, Texas)",10,32.7503
+Belmont Estates,4,38.4464
+Polo,2,41.9847
+Nances Creek,4,33.8588
+Schertz,3,29.565
+Yorkville,3,41.6563
+Saugerties South,5,42.0606
+Airport Drive,3,37.1405
+University of Georgia,4,33.9558
+Black Hills,3,43.9833
+Bayou Blue,4,29.6341
+Central Oregon Coast Range,5,44.5044
+Wild Rose,3,44.1788
+Blountville,4,36.533
+Herndon,3,38.9699
+Drew University,3,40.761
+City University of Seattle,5,47.61745
+Sylvan Lake,4,42.6172
+Summers County,4,37.6559
+Merton,3,43.1416
+Goodview,3,44.0692
+Avonmore,3,40.5272
+Veer Towers,4,36.1074
+Union Valley,3,32.9351
+Todd Creek,3,39.9797
+Marvell,3,34.5563
+Layhill,3,39.0871
+Goodyear,3,33.2614
+Walterboro,3,32.901
+Dooly County,4,32.1572
+McCulloch County,5,31.1989
+Talbotton,4,32.6773
+Castro County,3,34.5299
+Placer County,4,39.0634
+Buena Vista Lake,4,35.1919
+Clara City,3,44.9576
+Wallington,3,40.8536
+South St. Paul,5,44.8877
+The Village,3,35.5706
+Browns Valley,4,45.5947
+Church of Our Lady of Mount Carmel (Manhattan),11,40.7948
+Northwestern University,4,42.0564594
+Blanchardville,4,42.8094
+Holly Grove,3,34.6003
+Farrell,3,41.2112
+Marcus Hook,3,39.8131
+Osage County,4,36.6292
+Willows,3,39.5149
+Quinton,3,35.1265
+Heidlersburg,5,39.9471
+Paradis,3,29.868
+Highland Springs,3,37.5516
+Orinda,3,37.8808
+North Sarasota,3,27.3592
+Woodstown,3,39.6503
+Black River Falls,4,44.2981
+McDonald Chapel,3,33.519
+Selden,3,40.8714
+White Cloud,3,43.5541
+Vevay,4,38.7427
+Goldsby,4,35.1308
+Atlantic City,3,39.3797
+Mishawaka,4,41.6742
+Mars Hill,3,35.8283
+"Bubble Houses (Hobe Sound, Florida)",10,27.0564
+Amelia,2,39.0269
+Privateer,3,33.8169
+La Rue,3,40.578
+Glen Ellyn,4,41.8666
+Churchill County,4,39.5809
+Canyon Lake (California),6,33.6876
+Alderson,3,37.7277
+Twentynine Palms,6,34.1478
+Kendall West,3,25.7065
+Escalante,3,37.765
+Hilbert,3,44.1415
+Tonasket,3,48.7075
+Clarks Summit,4,41.4902
+Silver Bow County,4,45.9024
+St. Paul,4,44.9478
+Mohnton,3,40.2872
+Weber County,3,41.2698
+Boykins,3,36.5779
+Elgin,3,42.0383
+Kearney County,5,40.5067
+Bay Pines,3,27.8139
+Hall County,3,34.3169
+Newburgh,3,37.9494
+Bruce,2,33.9909
+Valley Hill,3,35.2958
+Brigantine,3,39.4138
+Berry Hill,3,36.1196
+St. Gabriel,4,30.2536
+Theresa,2,43.5164
+Charlton County,4,30.7817
+Lake Whitney (Connecticut),6,41.352
+Canadian,2,35.9096
+Swartzville,4,40.2287
+Veblen,4,45.862
+Hayes County,3,40.5248
+South Weldon,3,36.4135
+St. Bernard Parish,5,29.8692
+South Lebanon,3,39.3672
+Brookfield Center,4,41.2384
+Cherry Hill,3,38.5696
+Kendall County,3,41.5906
+Hendersonville,3,36.3063
+Beauxart Gardens,5,29.9585
+Texas A&M College of Education and Human Development,11,30.610278
+Nazlini,3,35.9155
+Tashua,4,41.2761
+Ohioville,3,40.6872
+Sharptown,4,38.5381
+Helena Valley Northwest,4,46.7289
+Quinter,3,39.0666
+Highfill,3,36.2767
+Colleton County,4,32.8636
+University of Kentucky,4,38.0325
+Hamshire,4,29.857
+Presidential Towers,3,41.8814
+Southside,3,33.9007
+Northwest Harwich,4,41.6917
+Lacomb,3,44.5844
+Pepin County,4,44.5829
+New Madison,3,39.9671
+Ritter Range,4,37.6938
+Dharma Realm Buddhist University,6,39.1324
+Mount Clay,3,44.2852
+Lake Caroline,3,37.9856
+Green Meadows,3,39.8672
+Wofford Heights,5,35.7127
+Brown Memorial Presbyterian Church,5,39.3067
+Fife,3,47.2329
+Midwestern Baptist College,5,42.71222222
+Beatrice,2,40.2736
+Wyoming,2,42.8908
+Clarksville,4,36.5692
+Branson West,4,36.7023
+Yeshiva University,4,40.850555555
+South Bradenton,5,27.4612
+Cornish,3,43.8005
+North Liberty,3,41.7438
+Shoreacres,3,29.6203
+Mango,2,27.9914
+Tamms,3,37.2416
+Carlstadt,3,40.8247
+Mineshaft (gay club),7,40.7406
+Heflin,4,33.647
+Lillington,4,35.4001
+Braddock Heights,4,39.4117
+"Long Lake (Thurston County, Washington)",10,47.0181
+"Basilica of the Sacred Hearts of Jesus and Mary (Southampton, New York)",17,40.8839
+Brownville Junction,4,45.3488
+Blue Springs,3,39.0124
+Hacienda Heights,5,33.997
+Ben Bolt,3,27.6659
+Vista Santa Rosa,4,33.6226
+Crookston,4,47.7747
+Mississippi University for Women,5,33.4931
+Pueblo of Sandia Village,7,35.2536
+Swannanoa,5,35.6009
+Suffern,3,41.1138
+Pueblo,3,38.2701
+Mountlake Terrace,4,47.7921
+Chesnee,3,35.1461
+Tulsa Performing Arts Center,6,36.1542
+Orrick,3,39.2133
+Bressler,4,40.2319
+Hidden Hills,3,34.1637
+Alderton,3,47.1728
+Bouse,3,33.8984
+Kentwood,3,42.8852
+Glen Lyon,3,41.1806
+Maryland City,3,39.1016
+Spencerport,3,43.1882
+La Cygne,4,38.3479
+"California State University, Dominguez Hills",7,33.864722222
+Odell Lake (Oregon),7,43.5728
+Catoosa County,5,34.9036
+Kasota,3,44.2916
+Clemson,3,34.6837
+Beaver Meadows,3,40.9299
+Franconia,3,38.7682
+Black Hills,3,43.9833
+Cane Creek Friends Meeting,5,35.8894
+Parmer County,4,34.5301
+Vinita,3,36.6375
+Notre Dame de Namur University,6,37.517
+Theatre Building Chicago,4,41.9395
+New Ellenton,4,33.4199
+Shenandoah Farms,4,38.9752
+Dodge City,3,37.7611
+Kettleman City,5,36.0089
+Kansas City,3,39.1238
+Cataula,3,32.6566
+Fairchild AFB,4,47.6187
+New Britain,3,41.6759
+Berne,3,40.6572
+Ocala,3,29.178
+La Honda,3,37.3182
+Knob Noster,5,38.7674
+Mack,2,39.1492
+Wyocena,4,43.4931
+South Floral Park,4,40.7135
+Hudson Falls,3,43.3042
+Broad Creek,3,34.7304
+Brainerd,4,46.3553
+Glen Ullin,4,46.812
+Chase City,3,36.7998
+Burns Flat,3,35.3547
+Colonia,3,40.5926
+Rosemead,3,34.0689
+Hillsdale County,4,41.8878
+Reinhardt University,4,34.319
+Marsh Chapel,3,42.3507
+"Cathedral of Saint Joseph (Jefferson City, Missouri)",12,38.5917
+Mountain View Ranches,5,35.2335
+Rural Valley,3,40.7991
+Collegedale,3,35.0526
+Schwana,3,46.8214
+Mukilteo,4,47.9096
+St. Mary of the Woods,7,39.5123
+Glascock County,4,33.2293
+Ellwood City,4,40.8619
+Aurora,2,39.7083
+Bexar County,5,29.4489
+North Merritt Island,4,28.4585
+Elm City,3,35.8044
+Minong,3,46.0978
+Mountain House,3,37.7673
+Yucca Valley,4,34.1234
+Toombs County,4,32.1216
+Cedar City,3,37.6834
+Elk Creek,3,38.117
+Taunton,3,41.9036
+Savoy,3,40.06
+Cordes Lakes,4,34.3103
+Tipp City,3,39.9644
+Grawn,3,44.6611
+Rivergrove,3,45.3851
+Lyndon Baines Johnson Department of Education Building,10,38.8867
+College of Lake County,5,42.3544
+William Carey International University,5,34.1722282
+Lead,2,44.3528
+Lake Wildwood,4,39.2349
+Elkins Park,4,40.0775
+Mount Franklin (New Hampshire),7,44.2495
+Langston,3,35.9308
+North Tonawanda,5,43.0457
+Florin,3,38.4832
+Mannington,3,39.5274
+Church of Our Lady of Mount Carmel (Manhattan),11,40.7948
+Concrete,2,48.537
+Cedarhurst,3,40.6252
+Lopatcong Overlook,6,40.6971
+Renova,3,33.7805
+Islip Terrace,4,40.7503
+MacDonnell Heights,4,41.7165
+Chepachet,4,41.9104
+Sawyer County,4,45.88
+Lynchburg,3,37.4003
+Bouquet Reservoir,4,34.5819
+Bulls Gap,4,36.2615
+Ridgemark,3,36.8082
+Towaco,4,40.9263
+Weld County,3,40.5548
+Ogden,3,41.2279
+Stokesdale,3,36.2318
+Trumbull Center,5,41.2415
+Trappe,3,40.1991
+Pacifica,3,37.6113
+Helena West Side,4,46.5966
+Durango,3,37.2659
+La Paloma-Lost Creek,6,27.7195
+Lake Helen,3,28.983
+International Falls,3,48.5884
+Bemiss,3,30.9318
+Ethel,3,33.122
+Wathena,4,39.7602
+North Oaks,3,45.1002
+Jefferson Heights,3,42.2361
+Stannards,4,42.0741
+Comer,2,34.0625
+Toccoa,4,34.581
+Clay,2,33.6951
+Oakville,3,38.4479
+Star Valley,3,34.2611
+Lewisport,3,37.9309
+Madison Center,3,41.2794
+Sulphur Springs,4,33.1421
+Hickory County,4,37.9408
+Onset,3,41.7481
+Tallmadge,4,41.1023
+Erwinville,3,30.541
+Poplar-Cotton Center,6,36.0577
+Rapids,3,43.0976
+Herculaneum,5,38.2579
+Lake Wazeecha,5,44.3696
+Center for Latin American Studies – University of Pittsburgh,10,40.444167
+Pennington County,4,44.0037
+Corralitos,4,36.9941
+Mukwonago,4,42.857
+University of Texas at Arlington College of Engineering,9,32.732423
+Victoria,2,28.8287
+Glenrock,3,42.8565
+Double Springs,3,34.1502
+Harleyville,3,33.213
+Kleberg County,4,27.4337
+Saginaw Bay,4,43.9167
+Wonderland Homes,4,44.2029
+Wanaque,4,41.044
+Owsley County,5,37.4192
+Geneseo,4,41.4509
+Watsonville,3,36.9206
+Moorestown-Lenola,7,39.9659
+Fowler,3,36.6243
+Smock,3,39.9997
+South Eliot,3,43.1287
+Eldora,3,42.3605
+Verdunville,4,37.8532
+Tolland County,4,41.855
+McAdenville,4,35.2652
+Golden Meadow,3,29.3876
+Eccles Theater,3,40.7664
+Grandview,3,38.8802
+Richmond West,3,25.6105
+Dumbarton,3,37.613
+Gardena,3,33.8943
+Castle Pines Village,4,39.4418
+Cranesville,4,41.904
+Bay Springs,3,31.9772
+Tichigan,3,42.8087
+East Hills,3,40.7958
+Casey County,3,37.3223
+Lake Talquin,4,30.3886
+Lake Wateree,4,34.4111
+Saranac Lake,5,44.3252
+Lamesa,4,32.7333
+Ponce de Leon,5,30.7234
+Savanna,3,42.0904
+Boulder County,3,40.0925
+Shelburn,3,39.1791
+Golden Gate Theatre,4,37.7822
+Glenolden,3,39.8996
+Walden University,4,44.981111
+Swissvale,3,40.4206
+Perquimans County,5,36.2059
+Buckhorn,3,38.4548
+Grandy,3,36.2341
+Bermuda Dunes,3,33.7435
+Lake DeFuniak,6,30.7169
+Pine Ridge,3,28.933
+East Harwich,4,41.7081
+Lake Tahoma,4,35.7269
+Adirondack Lake,5,43.7893
+Blandinsville,4,40.554
+Pine Hill,3,39.7879
+Phoenix Lake,3,38.0076
+Faribault County,5,43.6739
+Homer City,3,40.5403
+Hampton University,3,37.0225
+"Cathedral of Saint Paul (Worcester, Massachusetts)",12,42.2616
+Spring Lake Heights,4,40.1521
+Belhaven,3,35.5428
+Cohasset,3,47.2389
+University of Texas–Pan American,7,26.3062
+Posen,3,41.629
+Lenoir,4,35.9094
+Bowdoin College,4,43.908611111
+Siesta Acres,4,28.7564
+Fort Gay,3,38.1201
+Vermillion County,4,39.8538
+Alpha,2,40.6598
+Cluster Springs,3,36.6128
+Napoleon,2,41.3977
+Red Oak,3,32.5212
+Gardere,3,30.3582
+Quinby,3,34.2282
+Justice,2,41.7495
+Gatlinburg,4,35.725
+Annapolis,3,38.9706
+Panora,3,41.6911
+Susanville,3,40.4206
+Shawnee County,4,39.0415
+Toro Canyon,3,34.4354
+Muscoda,3,43.1872
+Maeser,3,40.4718
+Pacific County,3,46.5557
+Wacousta,5,42.8202
+Caldwell Parish,5,32.0925
+Julesburg,3,40.9849
+Sweetwater County,4,41.6595
+Manitowoc County,6,44.1199
+Beach City,3,29.7269
+Depew,3,42.9118
+Pepperdine University,4,34.0422
+Saugatuck,4,41.1143
+Fennimore,5,42.9794
+Hopelawn,4,40.5286
+Pine Harbor,3,32.7716
+Crooked Lake Park,5,27.8293
+Wickliffe,3,41.6072
+Aptos,3,36.9912
+Channel Lake,3,42.483
+Holiday City South,4,39.9533
+Shaver Lake,4,37.126
+Oreland,3,40.115
+Westhampton Beach,5,40.8081
+Littlefield,3,33.9192
+Gananda,3,43.1274
+Oakville,3,38.4479
+Sunland Park,4,31.8201
+Riverside,2,33.9381
+Blairsville,4,40.4326
+Edgemoor,3,39.7547
+Manhasset,4,40.7884
+Bluford,3,38.3257
+Franklin Farm,3,38.9133
+Euclid,3,41.5903
+Garden View,3,41.2567
+Woodbury Center,4,41.5439
+Vandenberg AFB,5,34.7477
+Benns Church,4,36.937
+Tellico Village,4,35.6984
+Calpella,4,39.2323
+Wapakoneta,4,40.5664
+Ralston,3,41.2005
+Pine Knot,3,36.6648
+Clifton Forge,4,37.8232
+Ducktown,3,35.036
+Oskaloosa,5,41.2922
+Kinsey,3,31.2926
+Oak Trail Shores,4,32.4885
+Villisca,3,40.9298
+Tres Arroyos,5,35.6799
+Hammonton,3,39.6572
+Berkeley,2,37.8722
+Piñon Hills,4,34.4437
+Portage County,4,41.1677
+Ai,2,41.6272
+Cheriton,3,37.2919
+The University of Virginia's College at Wise,10,36.9734
+Kure Beach,4,34.0004
+Heber Springs,4,35.4995
+Robertson County,3,36.5255
+Mooresburg,4,36.3531
+Grey Forest,3,29.6171
+St. Ann Highlands,5,39.9873
+University of Northern Virginia,5,38.8319
+Williams Acres,3,35.4969
+Sierra Vista,3,31.563
+Grass Valley,3,39.2238
+New Hempstead,4,41.1488
+Matthews,3,35.1195
+National Hispanic University,4,37.3591
+Derby Center,3,44.9549
+Ellerslie,4,32.6341
+Bon Aqua Junction,4,35.9281
+Oceanside,3,33.2247
+Claysburg,4,40.2915
+Westphalia,4,38.8356
+Barry University,3,25.878836111
+Emeryville,4,37.8382
+Arden on the Severn,6,39.0677
+Au Gres,3,44.0432
+Woodhull,3,41.1784
+Crown College,3,44.8847
+Aspen Hill,3,39.0927
+Shokan,3,41.9809
+Lake San Marcos,4,33.1197
+Carnuel,3,35.0609
+Soddy-Daisy,5,35.2571
+Elroy,3,35.3308
+El Dorado Hills,4,38.675
+Horse Thief Lake,4,43.8942
+Apollo Theater Chicago,4,41.9278
+Groesbeck,4,39.229
+Bay St. Louis,5,30.3281
+Auburn University,3,32.603374
+Walla Walla,3,46.0671
+Slope County,3,46.4472
+Elk City,3,35.3862
+Chisago City,5,45.3473
+Hamilton College,3,43.0527
+Bonneauville,4,39.8105
+San Antonio Heights,4,34.1573
+Rendon,3,32.5789
+Lamont,3,35.2659
+Edgerton,3,42.8385
+Komatke,4,33.2953
+Van Meter,3,41.5192
+Allentown,3,40.5961
+Yeagertown,4,40.6413
+Brusly,3,30.3943
+River Rouge,3,42.2731
+"Cathedral of Saint Jude the Apostle (St. Petersburg, Florida)",15,27.7778
+James R. Thompson Center,6,41.8853
+Attalla,3,34.005
+Swanton,3,41.5839
+Ocala Estates,4,29.2018
+Van Wert County,4,40.8554
+Keith County,3,41.1988
+Darlington County,4,34.3325
+Menomonee Falls,5,43.1487
+Gibbon,3,40.7461
+Boyes Hot Springs,5,38.3126
+Silver Springs Shores East,5,29.0496
+Millville,3,39.3903
+Manns Harbor,4,35.894
+Kent State University at East Liverpool,7,40.617
+Mauriceville,3,30.2187
+New Hartford Center,4,41.8802
+Mountainaire,3,35.0921
+Seven Corners,3,38.8658
+Langhorne,4,40.1777
+Haddon Heights,4,39.8792
+University of the Ozarks,7,35.4773
+Belleair Bluffs,4,27.9198
+San Diego Central Library,5,32.7089
+Effingham,3,39.1205
+Panama City Beach,4,30.237
+Larchmont,4,40.9258
+Carteret,3,40.5849
+Lake Stanley Draper,4,35.3413
+East Vineland,4,39.4805
+Lipscomb,3,33.426
+Solana Beach,4,32.9943
+Georgia Military College,4,33.0792
+Hebron Estates,4,38.0501
+Union Springs,3,32.1395
+River Falls,3,44.8609
+Ojai,3,34.4488
+El Centro Naval Air Facility,6,32.8252
+Cape Neddick,5,43.1706
+Holiday Shores,3,38.9222
+Roselle Park,4,40.6653
+Medina County,4,41.1176
+Colonial Heights,3,37.265
+Dimondale,3,42.6484
+Hubbard County,4,47.1086
+Kane County,3,41.9388
+Fountain Green,3,39.6281
+Belding,3,43.0968
+Murrells Inlet,5,33.556
+Charlotte Park,3,26.9032
+Mifflinburg,4,40.9202
+Fort Carson,3,38.7095
+Chowan University,4,36.4353
+Wauconda,4,42.2749
+LaBelle,3,26.7219
+Katy,2,29.7905
+Elburn,3,41.8852
+Lampasas County,4,31.1962
+East Branch Clarion River Lake,6,41.5894
+Wittmann,3,33.7749
+John Sevier,4,36.038
+Lucerne Mines,4,40.5559
+South Gate,3,33.9447
+National Hispanic University,4,37.3591
+Eudora,4,38.9345
+New City,3,41.1542
+Blue Ridge Shores,4,38.1091
+Lambertville,3,41.7484
+Hilton Head Island,4,32.1896
+East Lexington,3,37.8009
+James Island,3,32.7353
+McDonough County,5,40.4562
+Woodbourne,3,40.2017
+Santa Margarita,3,35.3895
+Newport News,3,37.1051
+Discovery Bay,3,37.9063
+Talty,3,32.6944
+Meridian Station,4,32.5484
+North St. Paul,5,45.0137
+Highspire,3,40.2085
+Bunnlevel,4,35.31
+Lake Sharpe,3,44.0517
+Chehalem Mountains,5,45.3961
+Sunday Lake,3,48.2265
+Verandah,4,26.6973
+Clark Mills,3,43.0895
+Aquasco,3,38.5913
+Durfee Hall,4,41.3096
+Flossmoor,4,41.5391
+Pekin,3,40.5678
+Loch Sheldrake,5,41.7702
+Dunwoody College of Technology,6,44.9725
+Coalmont,3,35.3458
+San Jose Center for the Performing Arts,8,37.33
+Kinston,3,35.2747
+Fairfield Plantation,4,33.6457
+Presque Isle,4,46.6868
+Dawsonville,3,34.4362
+Lincoln Group of Schools,5,40.795263
+Lincroft,3,40.3391
+Shueyville,4,41.8462
+Norwood Court,4,38.7141
+Mount Shasta,3,41.3206
+Cherry Valley,3,33.9797
+Valley,2,32.8088
+Piggott,3,36.3858
+Alanson,3,45.4425
+La Huerta,3,32.4489
+"Washington State University College of Agricultural, Human, and Natural Resource Sciences",14,46.7315041
+Penn Farms,3,40.416
+Timberlane,3,29.8781
+Cary,2,35.7819
+South Browning,3,48.5459
+Hunter College,3,40.768538
+Philadelphia University,3,40.023
+Pinckney,4,42.4543
+Harris Theater (Pittsburgh),6,40.443
+Lowesville,4,35.4193
+Perquimans County,5,36.2059
+Walford,3,41.8799
+Shannondale,4,39.2123
+Hidden Valley,3,39.1672
+Tangent,2,44.5477
+Cactus Flats,3,32.7642
+Biscoe,3,35.3585
+Watkinsville,4,33.861
+Saganashkee Slough,6,41.694
+Cornwells Heights,4,40.0771
+Chino Hills,4,33.9508
+Griggs University,4,41.9583
+Holden Beach,4,33.9121
+Port Clinton,3,41.5094
+Kewaunee County,5,44.5161
+Saegertown,4,41.7165
+Williamsburg City,4,37.2693
+Ahtanum,4,46.5573
+Taft Southwest,4,27.9711
+George Bush Center for Intelligence,6,38.9517
+Park Hill,3,35.8417
+Valley Park,3,38.5513
+Vermont State University Castleton (Castleton University),11,43.608022
+Santa Clara Pueblo,4,35.9726
+Rogers State University,4,36.3192
+Lake Mary,3,28.7592
+Big Sky,3,45.2592
+Truro,3,41.2098
+Adairsville,4,34.3709
+Bennettsville,5,34.6303
+La Cresta,4,35.3972
+Lizard Pond (New York),7,43.5114
+Lytle,3,29.2342
+South Kensington,3,39.0188
+Accomack County,5,37.7643
+Nellysford,5,37.9132
+Shanty Hollow Lake,5,37.1508
+Lake Moraine (New York),8,42.856
+McCloud,3,41.2541
+Webber International University,5,27.8398
+One St. Petersburg,5,27.7711
+Licking County,4,40.0916
+Elkhorn,4,42.6713
+Yeadon,4,39.9325
+West Carroll Parish,4,32.7885
+Cheshire County,4,42.9193
+Swansboro,4,34.6957
+Lake Sarasota,3,27.2948
+Castalian Springs,4,36.4012
+Roseboro,3,34.9551
+Paragon Estates,4,39.9802
+Hilldale,3,41.2869
+Drexel Hill,5,39.9495
+Lake Francis Case,4,43.0597
+Wagener,3,33.6512
+Leetonia,4,40.8785
+Lewis College of Business,5,42.36111111
+Lakehurst,3,40.0133
+280 Broadway,5,40.7142
+Shady Spring,3,37.7032
+Whitewright,3,33.5108
+Shoshone,4,42.9369
+Beatrice,2,40.2736
+Carthage,3,37.1503
+Olmito,3,26.0233
+Dawsonville,3,34.4362
+Summersville,4,38.2864

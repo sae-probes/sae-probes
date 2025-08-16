@@ -1,0 +1,1001 @@
+prompt,prompt_len,target
+Morrow,3,0
+Curtice,3,0
+Moody AFB,3,0
+Annawan,3,0
+California Intercontinental University,5,1
+Ector County,4,0
+Lanark,3,0
+Texas A&M College of Agriculture and Life Sciences,11,0
+West Park,3,0
+Academy of Chinese Culture and Health Sciences,8,1
+Quaker City,4,0
+Mono Lake,3,1
+Boothwyn,3,0
+Jackson Lake (Georgia),6,0
+Experiment,2,0
+Texas Tech University College of Human Sciences,8,0
+Castaic,4,1
+Elon University,3,0
+Panama City,3,0
+Riverbank,3,1
+Potters Hill,4,0
+Knights Landing,3,1
+"California State University, Monterey Bay",7,1
+Orange Grove,3,0
+Douglas City,3,1
+Stevenson Ranch,4,1
+Santa Maria,3,1
+King Mountain Wind Farm,5,0
+Saranac Lake,5,0
+Hanover Park,4,0
+Running Springs,3,1
+West Modesto,3,1
+Weston Mills,4,0
+Sun Village,3,1
+Bing Concert Hall,4,1
+Biola,3,1
+"Cathedral Church of St. Luke (Orlando, Florida)",13,0
+Carlock,3,0
+Bulloch County,4,0
+Solar Star,3,1
+El Verano,4,1
+Palm Desert,3,1
+Foothill Farms,5,1
+Momence,3,0
+Scotts Valley,4,1
+Rancho Santa Margarita,5,1
+Terrace Park,4,0
+Pompano Beach,5,0
+Bing Concert Hall,4,1
+Wescosville,4,0
+Indian River,3,0
+Tulia,3,0
+Cameron Park,3,1
+Cridersville,4,0
+Mayacamas Mountains,5,1
+Sultana,4,1
+Ford Heights,3,0
+Hilmar-Irwin,6,1
+Mayfair,3,1
+Fair Plain,3,0
+Lake Riverside,3,1
+Hollister,3,1
+Winnie,2,0
+Lake Avenue Congregational Church,5,1
+Yates City,4,0
+East Conemaugh,5,0
+Thornville,3,0
+Roseboro,3,0
+Pasatiempo,4,1
+Fort Hood,3,0
+New Melones Lake,5,1
+La Palma,3,1
+Icard,3,0
+Minoa,3,0
+Mayflower Village,4,1
+Big Pine,3,1
+Lee,2,0
+Daly City,4,1
+Isle of Hope,4,0
+Upper Lake,3,1
+Florida National University,4,0
+Loma Rica,4,1
+Temescal Mountains,4,1
+Brandman University,4,1
+Trabuco Canyon,5,1
+Barnardsville,4,0
+"Florida State University College of Motion Picture, Television and Recording Arts",13,0
+Clarke County,3,0
+Grandville,3,0
+Lynwood,3,1
+Del Mar,3,1
+Biola,3,1
+Tribeca Flashpoint Media Arts Academy,8,0
+Hemet,3,1
+Ubly,3,0
+Needles,3,1
+Palm Springs North,4,0
+Santa Paula,3,1
+Pittsburg,4,1
+Yardley,3,0
+Bee County,3,0
+Mark Taper Forum,5,1
+Savannah,2,0
+Clovis,3,1
+Volusia County,5,0
+Belle Center,3,0
+Hazel Crest,3,0
+Mexico Beach,3,0
+Plumas County,4,1
+Carleton,3,0
+University of Houston–Victoria,6,0
+Roslyn Estates,4,0
+Albany Technical College,4,0
+Walton Park,4,0
+Aguanga,3,1
+Buena Park,3,1
+Irvine,3,1
+Braidwood,4,0
+North Sarasota,3,0
+Coto de Caza,6,1
+Laurel University,3,0
+Mariposa,3,1
+Hawkinsville,4,0
+"California State University, San Bernardino",7,1
+West Sacramento,3,1
+Widener University,4,0
+New York County,4,0
+Mountain Gate,3,1
+Navarro County,4,0
+Wellston,3,0
+Factoryville,3,0
+Wexford County,5,0
+Westley,3,1
+Hillman,3,0
+Almont,3,0
+Somis,3,1
+West Puente Valley,4,1
+California State University San Marcos,6,1
+Leona Valley,4,1
+Taft Mosswood,5,1
+Guerneville,4,1
+West Carson,3,1
+Kerens,3,0
+Sunnyvale,3,1
+Mexia,3,0
+Fox Chapel,3,0
+McDonough,4,0
+California South Bay University,5,1
+Juniata Gap,4,0
+Casa Conejo,4,1
+Penbrook,3,0
+Soulsbyville,4,1
+Glasford,3,0
+Antioch University Santa Barbara,6,1
+Texas Woman's University,6,0
+Tuolumne County,5,1
+East Foothills,4,1
+Narberth,4,0
+Planada,3,1
+Chatham County,4,0
+Broxton,3,0
+Sarasota Springs,5,0
+Island Lake,3,0
+East Cleveland,3,0
+Crafton,3,0
+Glenview,3,0
+California Intercontinental University,5,1
+South Weldon,3,0
+Mesa Verde,3,1
+South San Gabriel,4,1
+Fox Performing Arts Center,5,1
+Red Bluff Diversion Dam,5,1
+Lassen County,4,1
+Philipsburg,3,0
+Del Rey,3,1
+Coastland University,4,1
+Fuller Acres,3,1
+Concord,2,1
+Roslyn Heights,4,0
+"School of International and Public Affairs, Columbia University",10,0
+Yermo,3,1
+Winfall,3,0
+Royce Hall,3,1
+Universal City,3,0
+Dollar Bay,3,0
+Mentone,3,1
+Cathedral Basilica of St. Joseph (San Jose),12,1
+Lexington Reservoir,3,1
+Tresckow,4,0
+Gouldsboro,5,0
+Holden Heights,4,0
+Dawsonville,3,0
+New Chapel Hill,4,0
+Lake Sherwood,3,1
+Lassen County,4,1
+Fullerton,3,1
+Seaside,3,1
+Lake Casitas,4,1
+Birch Run,3,0
+Ridgecrest,3,1
+Crest Theatre,3,1
+Vinings,3,0
+Scottdale,3,0
+Cheboygan County,5,0
+La Pryor,3,0
+Inkster,3,0
+Santa Paula,3,1
+Chaires,3,0
+University of La Verne,5,1
+Xavier University,3,0
+Ojai,3,1
+Twain Harte,5,1
+Greilickville,5,0
+West Melbourne,3,0
+Cleves,3,0
+Sausalito,4,1
+Lincoln University,3,0
+Oaksterdam University,4,1
+Eastman,3,0
+Raoul,3,0
+Marin City,3,1
+Watsontown,3,0
+Conover,3,0
+Corona,2,1
+Northville,3,0
+Agoura Hills,4,1
+Gamewell,3,0
+Blackhawk,3,1
+Romeoville,4,0
+Bidwell,3,0
+Signal Hill,3,1
+Mableton,4,0
+Apple University,3,1
+Browntown,3,0
+Cypress,2,1
+Big Bear Lake,4,1
+Loma Rica,4,1
+Bay Shore,3,0
+Rowland Heights,4,1
+Banning,3,1
+Yermo,3,1
+New Hogan Lake,4,1
+Maumee,4,0
+Wyandotte,4,0
+Soma San Diego,4,1
+California Miramar University,5,1
+Del Rey Oaks,4,1
+Bret Harte,4,1
+Lynwood,3,1
+Anaheim University,4,1
+Rialto,4,1
+Hooven,3,0
+Cataula,3,0
+Lon Morris College,4,0
+Healdsburg,4,1
+Knights Landing,3,1
+Amelia,2,0
+Olivarez,3,0
+SUNY Downstate College of Medicine,8,0
+Granite Hills,3,1
+Trufant,3,0
+Lemoore,3,1
+Arvin,3,1
+Lucas Valley-Marinwood,6,1
+Monterey County,4,1
+Alpena County,4,0
+Williamsdale,3,0
+Del Rey,3,1
+Stanly County,4,0
+Acton,3,1
+Golden Gate University,4,1
+San Martin,3,1
+Catoosa County,5,0
+San Gabriel,3,1
+Ronda,3,0
+Mark Taper Forum,5,1
+Hawthorne,3,1
+Seville,3,0
+Valle Vista,3,1
+Hainesville,4,0
+Medley,3,0
+Yellow Springs,3,0
+Mark Taper Forum,5,1
+Squirrel Mountain Valley,4,1
+Mark Taper Forum,5,1
+West Hurley,3,0
+Fountain Valley,3,1
+Vanguard University of Southern California,6,1
+Santa Rosa Valley,4,1
+Wayne County,3,0
+Laurel University,3,0
+Pfeiffer University at Charlotte,6,0
+HERE Arts Center,4,0
+Ione,3,1
+Camino,3,1
+Temple City,3,1
+Flint,2,0
+Capitola,3,1
+Penn Valley,3,1
+Henley-Putnam University,7,1
+Savannah State University,4,0
+Valinda,3,1
+Bodega,3,1
+Santa Fe Springs,4,1
+Swartz Creek,4,0
+Sarasota,4,0
+Humboldt County,5,1
+Grace Church (Manhattan),6,0
+Seneca Knolls,5,0
+New Concord,3,0
+Chocowinity,4,0
+Marquette County,4,0
+Putnam Lake,4,0
+Thomas University,3,0
+Santa Ynez,4,1
+Wasco,3,1
+Fox Performing Arts Center,5,1
+La Habra Heights,5,1
+Gamewell,3,0
+Hidden Hills,3,1
+California Baptist University,4,1
+Walnut Creek,3,1
+Wrights Lake,4,1
+Peninsula,3,0
+Clarkson University,4,0
+Revloc,3,0
+Hermosa Beach,4,1
+Five Branches University,4,1
+Grayling,3,0
+Stanford University,3,1
+Bemiss,3,0
+Shasta Dam,4,1
+East Randolph,3,0
+Chaires,3,0
+Warfield Theatre,4,1
+Rainbow,2,1
+Biltmore Forest,5,0
+Fulton Theatre,4,0
+Williamsdale,3,0
+Franklin College of Arts and Sciences,7,0
+Nevada County,3,1
+McKinleyville,4,1
+San Clemente,3,1
+Pepperdine University,4,1
+California City,3,1
+Pacific Design Center,4,1
+Coweta County,5,0
+Dauberville,4,0
+Terra Bella,3,1
+North Great River,4,0
+Pomona,3,1
+San Diego Central Library,5,1
+Conneaut,3,0
+East San Gabriel,4,1
+Concordia University Irvine,5,1
+Inyokern,4,1
+Westmorland,4,1
+Valley Springs,3,1
+La Presa,4,1
+Grizzly Flats,4,1
+Antioch University Santa Barbara,6,1
+Century,2,0
+Alkali Lakes (California),7,1
+Rouse,3,1
+Arcadia,3,1
+Elfin Forest,4,1
+Byham Theater,4,0
+Cathedral Basilica of St. Joseph (San Jose),12,1
+Sonoma,3,1
+Carolina Meadows,3,0
+Carlsbad,4,1
+Sharon Center,3,0
+Tustin,3,1
+Mill Valley,3,1
+Woodland,2,1
+Windermere,4,0
+Calimesa,4,1
+Crescent City,4,1
+"Florida State University College of Visual Arts, Theatre and Dance",12,0
+Nazareth University,4,0
+Golden Gate University,4,1
+Los Banos,4,1
+Plain View,3,0
+Upland,3,1
+Mammoth Lakes,4,1
+Jan Phyl Village,5,0
+Burgaw,3,0
+Black Point-Green Point,6,1
+Navarre Beach,4,0
+Fritch,3,0
+Woodland,2,1
+Bertsch-Oceanview,6,1
+Castle Hayne,4,0
+Honey Lake,3,1
+Crystal Beach,3,0
+Newman,2,1
+Madera Community College,5,1
+Montalvin Manor,5,1
+State University of New York at Canton,8,0
+Sea Ranch Lakes,4,0
+Suisun City,5,1
+Hawaiian Gardens,3,1
+West Peoria,3,0
+Buffalo Gap,3,0
+Mildred Elley,5,0
+West Bay Shore,4,0
+Lake Winfield Scott,4,0
+Cathedral City,4,1
+Golden Gate University,4,1
+Country Knolls,4,0
+Dearborn Heights,4,0
+Valley Cottage,3,0
+River Rouge,3,0
+Needles,3,1
+Byham Theater,4,0
+North Fort Myers,4,0
+Glen Head,3,0
+Griggs University,4,0
+Mill Neck,3,0
+El Cerrito,4,1
+Woodcrest,3,1
+North Barrington,3,0
+Irvine Lake,4,1
+St. Nicholas Collegiate Reformed Protestant Dutch Church,9,0
+Rosamond,3,1
+Aliso Viejo,4,1
+Terra Bella,3,1
+Del Mar,3,1
+Carrboro,3,0
+Santa Maria,3,1
+Tuolumne County,5,1
+Carpinteria,4,1
+Calexico,4,1
+Palo Alto University,4,1
+Diamond Springs,3,1
+Redway,3,1
+Los Osos,4,1
+San José State University,5,1
+Kendall,2,0
+Lake Buckhorn,4,0
+Del Rey Oaks,4,1
+Cypress Landing,3,0
+Ardsley,4,0
+Rowan County,3,0
+Montura,3,0
+Kent County,3,0
+Callender Lake,4,0
+California Polytechnic State University,5,1
+Fairport,3,0
+Pymatuning Reservoir,5,0
+Yadkin College,5,0
+Chatham County,4,0
+Descanso,3,1
+Meyers,3,1
+Cherry Lake,3,1
+Wortham,3,0
+Palm Beach County,4,0
+Scenic Oaks,4,0
+La Quinta,3,1
+Escondido,3,1
+Anaheim University,4,1
+Calimesa,4,1
+Kalamazoo County,4,0
+Belleair,3,0
+Middlebury Institute of International Studies at Monterey,9,1
+Bodfish,3,1
+Paradise Park,3,1
+Indio,3,1
+James R. Thompson Center,6,0
+Lost Hills,3,1
+Bret Harte,4,1
+Kennedy,2,1
+Poulan,3,0
+Kettleman City,5,1
+Lake Del Valle,4,1
+Jamaica Beach,3,0
+Choctaw Lake,5,0
+Dock Junction,3,0
+Connellsville,4,0
+Sylvester,3,0
+Dallastown,4,0
+Santa Barbara County,4,1
+Pine Canyon,3,1
+Riverside County,3,1
+Ellerbe,3,0
+Cotati,3,1
+Banning,3,1
+Big Bear Lake,4,1
+Jacumba,3,1
+Shasta Lake,4,1
+Pen Mar,3,0
+Bellview,3,0
+Stonecrest,4,0
+Bouquet Reservoir,4,1
+Linda,2,1
+Lomita,3,1
+Puente Hills,4,1
+Lockeford,3,1
+Milledgeville,4,0
+North Braddock,4,0
+Willow Springs,3,0
+Chapman University,3,1
+Rogers Dry Lake,4,1
+East Atlantic Beach,4,0
+North Industry,3,0
+Kinmundy,4,0
+Harold Washington Library,4,0
+Forest Meadows,3,1
+Burgaw,3,0
+Bidwell,3,0
+Arden-Arcade,5,1
+Whitmore Lake,4,0
+Fontana,3,1
+Anderson Lake (California),6,1
+Lake Palmdale,5,1
+Bradford Woods,3,0
+Washoe House,4,1
+Covina,3,1
+Bell Acres,3,0
+Baywood Park,4,1
+Canyon Lake (California),6,1
+Richlandtown,4,0
+De Leon,3,0
+San Carlos,3,1
+Lake Nacimiento,4,1
+Echols County,4,0
+Muskegon,4,0
+Shingletown,4,1
+Tuscola,3,0
+Auberry,4,1
+Mulberry Grove,4,0
+War Memorial Opera House,5,1
+King,2,0
+Mendocino County,4,1
+Screven County,4,0
+Willows,3,1
+Lompico,4,1
+Acton,3,1
+Medina,3,0
+Pine Mountain Lake,4,1
+Turlock,3,1
+Lawndale,3,1
+San Jacinto,3,1
+Del Aire,3,1
+Dana Point,3,1
+Johnston City,3,0
+Macclenny,4,0
+Rebersburg,4,0
+Flora,2,0
+Santa Clara County,4,1
+Riverside County,3,1
+Buckhorn,3,1
+Lakewood Club,4,0
+Day Valley,3,1
+New York Theatre Workshop,5,0
+Parchment,4,0
+La Habra,4,1
+Granite Bay,3,1
+Cotati,3,1
+San Andreas,3,1
+Bay Point,3,1
+Mogadore,3,0
+Ogle County,4,0
+Porterdale,3,0
+Silverado Resort,4,1
+USC Rossier School of Education,7,1
+Brinckerhoff,4,0
+California Polytechnic State University,5,1
+"Cathedral of Saint Francis de Sales (Oakland, California)",13,1
+Bithlo,4,0
+San Diego Central Library,5,1
+Citrus Heights,3,1
+Crisp County,4,0
+Cathedral City,4,1
+Huntington Park,4,1
+Presidential Towers,3,0
+Tulare Lake,4,1
+Kennedy,2,1
+Rosemead,3,1
+Salunga,3,0
+San Bernardino,3,1
+Cleone,3,1
+Argenta,3,0
+Remerton,3,0
+Bagwell College of Education,6,0
+Fowler,3,1
+Bridgeview,3,0
+Round Lake Beach,4,0
+Phoenix Lake,3,1
+Yosemite Lakes,5,1
+Bootjack,3,1
+Mount Sinai,3,0
+Anderson Creek,3,0
+Holiday,2,0
+Joliet,3,0
+Acalanes Ridge,5,1
+Azusa,3,1
+Rowan County,3,0
+Okeechobee County,5,0
+West Bay Shore,4,0
+Temblor Range,5,1
+Bertsch-Oceanview,6,1
+Clearlake Oaks,4,1
+Avocado Heights,3,1
+Katy,2,0
+Jacobus,3,0
+St. Paul the Apostle Church and School,9,1
+Torrance,3,1
+Caseyville,3,0
+McCullom Lake,5,0
+Coachella,3,1
+Almaden Reservoir,4,1
+Fordham Graduate School of Arts and Sciences,9,0
+Hilliard,3,0
+Hamtramck,4,0
+Darien,3,0
+Poplar Grove,4,0
+St. Clair Shores,5,0
+Rhine,3,0
+Boronda,3,1
+Newaygo County,5,0
+Homeland,3,1
+Carolina Meadows,3,0
+Benicia,3,1
+Redding,3,1
+Dongola,3,0
+"Saint Joseph Parish (Mountain View, California)",10,1
+Hudson Bend,3,0
+Mount Holly Springs,4,0
+Meigs,3,0
+North Chicago,3,0
+Bing Concert Hall,4,1
+Sacramento,2,1
+Port Carbon,3,0
+Landen,3,0
+San Luis Obispo,4,1
+Shell Ridge,3,1
+Bergholz,4,0
+West Puente Valley,4,1
+Rochester Institute of Technology,5,0
+Cal Poly San Luis Obispo College of Architecture and Environmental Design,12,1
+Fort Jones,3,1
+Salinas,3,1
+Atlanta Symphony Hall,4,0
+Rolling Hills Estates,4,1
+Anderson Lake (California),6,1
+Lake Gaston,3,0
+Snyder County,4,0
+Hartville,3,0
+Point Park University,4,0
+San Miguel,3,1
+Lone Star,3,0
+Flovilla,3,0
+Hancock,3,0
+Lake Alfred,3,0
+Fordham Graduate School of Arts and Sciences,9,0
+Mexico Beach,3,0
+Bellmead,3,0
+Fort Irwin,3,1
+Lambertville,3,0
+Pleasure Point,4,1
+Gregg County,3,0
+La Salle Extension University,5,0
+Coffeen,4,0
+Buttonwillow,3,1
+Collins Lake,3,1
+Jefferson Heights,3,0
+California Polytechnic State University,5,1
+Hidden Valley Lake,4,1
+Kingston University LA,4,1
+Belding,3,0
+Monaca,3,0
+Haywood County,4,0
+Rougemont,3,0
+Monte Rio,3,1
+Granite Bay,3,1
+El Granada,3,1
+Tamalpais-Homestead Valley,8,1
+Alpena County,4,0
+Mariposa,3,1
+Center Moriches,4,0
+South Farmingdale,4,0
+Gibsonton,4,0
+McCallum Theatre,4,1
+Ai,2,0
+West Carson,3,1
+Brooktrails,3,1
+College of Coastal Georgia,5,0
+Queen Anne Hotel,4,1
+Ridgemark,3,1
+Bailey County,3,0
+Pittsburgh,2,0
+Dooly County,4,0
+Miami University Middletown,4,0
+Sherman,2,0
+Ojai,3,1
+Crainville,4,0
+Dharma Realm Buddhist University,6,1
+Garnet,3,1
+El Verano,4,1
+University of St. Francis,6,0
+Tequesta,3,0
+Porters Neck,4,0
+Illinois State University,4,0
+Blackshear,3,0
+North Auburn,3,1
+Crescent City,4,1
+Denair,3,1
+Thomas County,3,0
+Attapulgus,5,0
+Royal Oak Music Theatre,5,0
+Glen St. Mary,5,0
+Wilton,3,1
+Napa County,4,1
+Skyline Church,4,1
+Kentfield,3,1
+Fortuna,3,1
+Lake Fenton,3,0
+Johnston County,3,0
+Old Fig Garden,4,1
+Denton,3,0
+The Beverly Hills Hotel,5,1
+Lefors,3,0
+Sunset Reservoir,3,1
+Loyola,3,1
+Hayfork,3,1
+St. Thomas the Apostle Catholic Church (Los Angeles),12,1
+Bakersfield Country Club,6,1
+International Technological University,4,1
+Westley,3,1
+East Bakersfield,3,1
+Azusa Pacific University,5,1
+Laurinburg,4,0
+Albemarle,4,0
+Ithaca,3,0
+Mertztown,4,0
+Pandora,2,0
+New Exchequer Dam,4,1
+Watson School of Biological Sciences,6,0
+Golden Hills,3,1
+Old Westbury,4,0
+Doral,3,0
+La Grulla,4,0
+Twin Lake,3,0
+Costa Mesa,3,1
+Palm Valley,3,0
+Paxton,3,0
+Hardwick,3,0
+Bethalto,4,0
+Glenolden,3,0
+Balcones Heights,4,0
+Bucyrus,4,0
+Brevard County,4,0
+Cathedral Basilica of St. Joseph (San Jose),12,1
+West Chicago,3,0
+Kenwood,3,0
+Elk Grove,3,1
+Woodridge,3,0
+New Melones Dam,5,1
+San Diego Central Library,5,1
+Home Gardens,3,1
+Ridgway,3,0
+Merced County,4,1
+Toccoa,4,0
+Cliffside,3,0
+Oriole Beach,4,0
+St. Paul's Cathedral (San Diego),11,1
+Philmont,3,0
+Howland Center,4,0
+Temescal Mountains,4,1
+North Valley Stream,4,0
+Wilkesboro,4,0
+Graduate Theological Union,4,1
+Spring Lake,3,0
+Castro Valley,3,1
+Orland Hills,4,0
+Tinley Park,4,0
+Foster City,3,1
+Bay Point,3,1
+"Loon Lake (Lake County, Illinois)",10,0
+Highwood,3,0
+Hoschton,4,0
+Stanford,2,1
+Daly City,4,1
+Santa Cruz,3,1
+Moss Beach,3,1
+Wyoming,2,0
+Long Grove,3,0
+Emeryville,4,1
+Frenchman's Tower,6,1
+Kaser,3,0
+Campbelltown,3,0
+University of Atlanta,4,0
+Granite Shoals,4,0
+Scioto County,5,0
+East Pittsburgh,3,0
+Echols County,4,0
+Ashmore,3,0
+Tiger,2,0
+Indian Springs,3,0
+Congerville,3,0
+Manhasset Hills,5,0
+Titus County,3,0
+Fort Salonga,4,0
+Fillmore,3,1
+Antelope,3,1
+Grosse Pointe Park,5,0
+Northwestern Polytechnic University,5,1
+Panther Creek Wind Farm,5,0
+Napa County,4,1
+Hershey,3,0
+Home Gardens,3,1
+Caro,2,0
+South Beach,3,0
+The Chicago School of Professional Psychology,7,0
+Villa Grove,3,0
+Lake Lure,3,0
+Clarcona,3,0
+Bret Harte,4,1
+Stokes County,3,0
+Lake Isabella,3,1
+Saline,3,0
+Sterling County,3,0
+East Hampton North,4,0
+Spring Valley Lake,4,1
+Wake County,3,0
+Lucama,3,0
+Dharma Realm Buddhist University,6,1
+Arbuckle,3,1
+Jekyll Island,4,0
+Lake Sherwood,3,1
+Zanesville,4,0
+Vander,2,0
+Catheys Valley,5,1
+Redondo Beach,4,1
+Dobbs Ferry,4,0
+South Miami,3,0
+St. Leo,4,0
+Bryn Athyn,5,0
+Hatteras,4,0
+Augusta State University,5,0
+South Floral Park,4,0
+Belpre,3,0
+Tracy,2,1
+Burnt Store Marina,4,0
+Lake Crabtree,4,0
+Lake Travis,3,0
+Lawndale,3,1
+Emsworth,4,0
+Pine Flat Dam,4,1
+Wrightwood,3,1
+Siler City,4,0
+Beach Park,3,0
+Copperopolis,3,1
+Camarillo,4,1
+University of West Los Angeles,6,1
+East Patchogue,4,0
+Morada,3,1
+Kern County,3,1
+Marquette,3,0
+Prunedale,3,1
+Arvin,3,1
+American Canyon,3,1
+Florida Atlantic University,4,0
+Parksdale,3,1
+Round Lake Park,4,0
+Arbuckle,3,1
+Valley Springs,3,1
+Foster City,3,1
+Ridgecrest,3,1
+Addison,2,0
+Santa Paula,3,1
+South Palm Beach,4,0
+Golconda,3,0
+North Bellport,4,0
+Pfeiffer University,4,0
+Gerber,3,1
+Sayville,3,0
+Lexington Reservoir,3,1
+San Andreas Lake,4,1
+Fremont,3,1
+"Our Lady of Sorrows Church (Santa Barbara, California)",13,1
+McKinleyville,4,1
+Altadena,3,1
+George West,3,0
+Calimesa,4,1
+Waynesburg University,5,0
+Mammoth Pool Reservoir,5,1
+The Towers (Ohio State),7,0
+Healdsburg,4,1
+Cross City,3,0
+Upper Saranac Lake,5,0
+Trafford,3,0
+Graton,3,1
+Chumuckla,5,0
+San Andreas Lake,4,1
+Augusta State University,5,0
+Petaluma,4,1
+Belden Place,4,1
+St. Augustine South,5,0
+Freeburg,3,0
+Carrollton,3,0
+Gridley,3,1
+University of California-Davis,6,1
+Lindsay,2,1
+Pettus,4,0
+Bendersville,4,0
+Madera Ranchos,5,1
+Watervliet,4,0
+Hollywood Sign,3,1
+University of South Florida,5,0
+Washington Avenue Immigration Station,5,0
+California Coast University,4,1
+University of Austin,4,0
+Racetrack Playa,5,1
+Fall River Mills,4,1
+Seadrift,4,0
+Dacula,4,0
+East Brady,3,0
+Lake Sherwood,3,1
+Desert Edge,3,1
+South Lake Tahoe,4,1
+Northwest Ithaca,3,0
+Camp County,3,0
+"University of California, San Francisco",7,1
+Tahoma,2,1
+Geyserville,4,1
+Academy of Chinese Culture and Health Sciences,8,1
+D–Q University,5,1
+Port Huron,3,0
+Cove Creek,4,0
+Day Valley,3,1
+Donna,2,0
+Carmel Valley Village,5,1
+San Joaquin,3,1
+California Polytechnic State University,5,1
+Bacliff,3,0
+Bonsall,3,1
+Newman,2,1
+San Diego,3,1
+Mackinaw City,4,0
+Ionia County,4,0
+Chappaqua,4,0
+Bell County,3,0
+South Gate,3,1
+LaFayette,4,0
+Chadds Ford,4,0
+Music Hall Center for the Performing Arts,8,0
+UCLA Luskin School of Public Affairs,8,1
+Swepsonville,5,0
+Onondaga County,5,0
+Groveland,3,0
+Guernsey County,4,0
+Vanguard University of Southern California,6,1
+Texas Tech University at Abilene,7,0
+Candler County,4,0
+Nicasio Reservoir,5,1
+St. John's University,7,0
+Wilkshire Hills,5,0
+Dinuba,3,1
+Red Bluff,3,1
+Hinsdale,4,0
+Fish Hawk,3,0
+Pine Mountain,3,0
+Costa Mesa,3,1
+El Dorado County,4,1
+San Simeon,3,1
+Carmichael,3,1
+Parklawn,3,1
+Cuddeback Lake,5,1
+Safety Harbor,3,0
+Cherry Lake,3,1
+Seeley,3,1
+Hannahs Mill,4,0
+Lake Mathews,3,1
+West Bishop,3,1
+Twain Harte,5,1
+Terrace Park,4,0
+"California State University, Bakersfield",6,1
+Landis,3,0
+Lassen County,4,1
+Ridley Park,4,0
+Wake Village,3,0
+Simi Hills,4,1
+El Cerrito,4,1
+Bonsall,3,1
+Piedmont University,4,1
+Avocado Heights,3,1
+Bertsch-Oceanview,6,1
+Alabama Hills,3,1
+Bear Valley Springs,4,1
+Elburn,3,0
+Le Grand,3,1
+South Lansing,3,0
+Denair,3,1
+Ladera Heights,4,1
+Twitchell Reservoir,5,1
+Ahoskie,4,0
+Cypress,2,1
+Mountain View,3,1

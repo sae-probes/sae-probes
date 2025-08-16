@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Poetry
+.venv/
+poetry.lock
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Pytest
+.pytest_cache/
+.coverage
+
+# Data and Results (runtime generated)
+results/
+test_cache/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+probing
+data/*
+!data/probing_datasets_MASTER.csv
+!data/consolidated_probing_gemma-2-9b/

@@ -1,0 +1,5001 @@
+prompt,prompt_len,target
+Plumstead railway station,5,United_Kingdom
+"Toms River (CDP), New Jersey",9,United_States
+Sappada,3,Italy
+City Road tube station,5,United_Kingdom
+San Lucido,4,Italy
+Sancreed,4,United_Kingdom
+Maiori,3,Italy
+Lurgan,3,United_Kingdom
+Oodnadatta Track,7,Australia
+"Cathedral of Saint Peter (Belleville, Illinois)",12,United_States
+Nottingham Contemporary,3,United_Kingdom
+Meltham,3,United_Kingdom
+Bichkunda,5,India
+Kinnaur district,5,India
+Credenhill,4,United_Kingdom
+Nambla,4,India
+"Church of St Mary the Blessed Virgin, Sompting",11,United_Kingdom
+North Sheen railway station,5,United_Kingdom
+"Cecina, Tuscany",5,Italy
+"Queensbury, West Yorkshire",6,United_Kingdom
+Ranga Shankara,5,India
+Mattinata,3,Italy
+Penmaenmawr,6,United_Kingdom
+Penukonda,4,India
+Sandridge,3,United_Kingdom
+"Baytown, Texas",5,United_States
+Vergato,3,Italy
+"Rosebud, Victoria",5,Australia
+Bojano,3,Italy
+Goshamahal Baradari,6,India
+Bawdeswell,5,United_Kingdom
+"Eaglehawk, Victoria",5,Australia
+Bilsi,3,India
+Tuebrook,3,United_Kingdom
+"Catlettsburg, Kentucky",7,United_States
+"Stickle Tarn, Langdale",7,United_Kingdom
+Woodenbong,3,Australia
+Thotlavalluru mandal,7,India
+Croscombe,3,United_Kingdom
+"Bridgewater Township, New Jersey",7,United_States
+Pacific Motorway (Sydney–Newcastle),9,Australia
+Garhakota,4,India
+"Bland, Virginia",4,United_States
+Municipality of Kiama,6,Australia
+Cassola,3,Italy
+"Blairstown, New Jersey",7,United_States
+"Lincoln Parish, Louisiana",5,United_States
+Franzensfeste,4,Italy
+Tilak Nagar (Delhi),7,India
+"Clare, South Australia",5,Australia
+"Lowell, Massachusetts",5,United_States
+Saundatti,4,India
+"Glenfield, Leicestershire",5,United_Kingdom
+Potenza Picena,5,Italy
+City of Greater Bendigo,6,Australia
+Gopsall,4,United_Kingdom
+Lyme Regis,4,United_Kingdom
+"Quincy, California",5,United_States
+Sothuparai Dam,6,India
+City of Greater Taree,6,Australia
+Anguillara Sabazia,7,Italy
+San Sebastiano al Palatino,7,Italy
+"Brown County, Texas",5,United_States
+Long Buckby,4,United_Kingdom
+Santi Vincenzo e Anastasio a Trevi,10,Italy
+"Larrimah, Northern Territory",7,Australia
+Vasto,3,Italy
+Hosur taluk,5,India
+Stamford Hill,4,United_Kingdom
+Sakoli,3,India
+Puckeridge,4,United_Kingdom
+"Basilica of Our Lady Help of Christians, Turin",11,Italy
+"Cotham, Bristol",5,United_Kingdom
+"Tippecanoe County, Indiana",8,United_States
+"Bateau Bay, New South Wales",8,Australia
+Isola del Giglio,6,Italy
+Cliffsend,3,United_Kingdom
+"Cathedral of St. Joseph (Manchester, New Hampshire)",13,United_States
+Stratford station,4,United_Kingdom
+Masudpur,4,India
+Condover,4,United_Kingdom
+"Cairns City, Queensland",6,Australia
+Rura,3,India
+"Mitchell County, Georgia",5,United_States
+280 Broadway,5,United_States
+Peralasseri,5,India
+"Upton, Merseyside",5,United_Kingdom
+Ryme Intrinseca,6,United_Kingdom
+San Pellegrino in Vaticano,6,Italy
+"Third Lake, Illinois",5,United_States
+"Denning, New York",6,United_States
+Galliate,4,Italy
+"Sacred Heart Cathedral (Rochester, New York)",10,United_States
+"Mountain, Wisconsin",4,United_States
+Cherrybrook Technology High School,6,Australia
+"Strathbogie, Victoria",7,Australia
+"Castlemartin, Pembrokeshire",8,United_Kingdom
+"Bells Beach, Victoria",6,Australia
+University City (Charlotte neighborhood),7,United_States
+Santa Maria del Popolo,6,Italy
+"Ontario County, New York",6,United_States
+Bivona,4,Italy
+Minaret Lake,4,United_States
+"Montecarlo, Tuscany",5,Italy
+Osterley tube station,5,United_Kingdom
+"Berkshire Park, New South Wales",9,Australia
+Ockendon railway station,6,United_Kingdom
+Malout,3,India
+"Ouse, Tasmania",5,Australia
+Stroud Green,4,United_Kingdom
+Bordighera,5,Italy
+Gradisca d'Isonzo,9,Italy
+"Slaton, Texas",6,United_States
+"Hamilton, Victoria",4,Australia
+"Pinellas County, Florida",6,United_States
+East Khasi Hills district,6,India
+"Luddenham, New South Wales",8,Australia
+Earlswood railway station (Surrey),9,United_Kingdom
+"Toot Hill, Essex",6,United_Kingdom
+Singanallur Lake,6,India
+Bangarupalem mandal,6,India
+Caersws,4,United_Kingdom
+San Vendemiano,5,Italy
+Madonna della Ceriola,5,Italy
+Barpeta,3,India
+Brabourne,4,United_Kingdom
+"Glinton, Cambridgeshire",6,United_Kingdom
+Walmer Bridge,4,United_Kingdom
+Ulliyeri,4,India
+"Avoca Beach, New South Wales",8,Australia
+Mid-Western Regional Council,6,Australia
+Baucina,3,Italy
+"Aberdeen, New South Wales",6,Australia
+Kutch district,4,India
+Bath Abbey,3,United_Kingdom
+Searles Lake,4,United_States
+Castiglione del Lago,6,Italy
+Girasole,3,Italy
+Presteigne,4,United_Kingdom
+San Vito Chietino,6,Italy
+Gennargentu,5,Italy
+"Tarago, New South Wales",7,Australia
+"Barwon Heads, Victoria",6,Australia
+Gadag-Betageri,6,India
+Ystradgynlais,6,United_Kingdom
+Bhattu Kalan,6,India
+"Inglewood, Queensland",5,Australia
+Ledston,3,United_Kingdom
+Enna,3,Italy
+"Cibola County, New Mexico",7,United_States
+Shepherd's Bush railway station,7,United_Kingdom
+USCGC Escanaba (WPG-77),13,United_States
+Pharenda,3,India
+Vazhapadi,5,India
+St Mary Moorfields,5,United_Kingdom
+Bellano,3,Italy
+"Beerburrum, Queensland",6,Australia
+Pytchley,4,United_Kingdom
+41 Cooper Square,5,United_States
+Catterick Garrison,5,United_Kingdom
+"Govindgarh, Rajasthan",6,India
+Trapani,3,Italy
+Shipston-on-Stour,8,United_Kingdom
+Harris Theater (Pittsburgh),6,United_States
+Mannum,3,Australia
+Lisvane,3,United_Kingdom
+"Englewood, Florida",5,United_States
+Province of Biella,5,Italy
+"Collinsville, Illinois",5,United_States
+"Maranoa, Queensland",6,Australia
+"Colquitt, Georgia",6,United_States
+Weston Creek,4,Australia
+"Georgetown, California",5,United_States
+"Naco, Arizona",5,United_States
+Banmankhi,4,India
+Corato,3,Italy
+Borth,3,United_Kingdom
+Vellakoil,5,India
+"Dennington, Victoria",5,Australia
+Uranquinty,4,Australia
+"Beeston, Leeds",5,United_Kingdom
+Macarthur Wind Farm,5,Australia
+"Tootgarook, Victoria",7,Australia
+Patepur,4,India
+Balamau,3,India
+Ranchi district,4,India
+Gore Hill Freeway,4,Australia
+"Rochelle, Illinois",5,United_States
+Carate Brianza,5,Italy
+Campodimele,4,Italy
+Montalbano Elicona,7,Italy
+Wimmera,3,Australia
+"Forbes, New South Wales",6,Australia
+Castlewellan,4,United_Kingdom
+Lewis Smith Lake,4,United_States
+Lancaster Gate tube station,5,United_Kingdom
+Mohammadpur Umri,5,India
+Vastral,3,India
+South Acton railway station (England),8,United_Kingdom
+Stacksteads,4,United_Kingdom
+Thodupuzha,5,India
+Sassoferrato,5,Italy
+Rajsamand Lake,5,India
+"De Soto, Iowa",5,United_States
+Gattinara,4,Italy
+Mullaghbawn,6,United_Kingdom
+Santa Maria dell'Anima,6,Italy
+Yowah,4,Australia
+Anfield (suburb),7,United_Kingdom
+Sainthia,3,India
+"Carbonera, Veneto",5,Italy
+"Lemon Tree Passage, New South Wales",8,Australia
+Houghton Regis,4,United_Kingdom
+"Mount Torrens, South Australia",7,Australia
+Lake Bowen,3,United_States
+Modigliana,4,Italy
+Santa Maria dell'Anima,6,Italy
+Sankrail (community development block),9,India
+"Wallington, London",5,United_Kingdom
+Llan Ffestiniog,6,United_Kingdom
+Aradeo,4,Italy
+Crews Hill,4,United_Kingdom
+Beacon of Light,4,United_Kingdom
+San Fili,3,Italy
+Slaidburn,4,United_Kingdom
+Pulford,3,United_Kingdom
+Province of Agrigento,6,Italy
+"San Lorenzo, Calabria",5,Italy
+City of Greater Bendigo,6,Australia
+Malappuram district,5,India
+"Donald, Victoria",4,Australia
+Casalvieri,5,Italy
+"Clay County, Georgia",5,United_States
+Viringili (Maliku Atoll),10,India
+Great Yarmouth,3,United_Kingdom
+Port Pirie Regional Council,6,Australia
+"Glenorie, New South Wales",7,Australia
+Blagdon,4,United_Kingdom
+Lower Swell,4,United_Kingdom
+Examination Schools,3,United_Kingdom
+Upperthong,3,United_Kingdom
+"Silvan, Victoria",5,Australia
+Majholi,3,India
+Northern Expressway,3,Australia
+Apollo Bay,3,Australia
+"Turvey, Bedfordshire",6,United_Kingdom
+"Coasters Retreat, New South Wales",8,Australia
+Trescore Balneario,6,Italy
+Bishop's Itchington,7,United_Kingdom
+"Garfield, Victoria",5,Australia
+"Newnes, New South Wales",7,Australia
+British Museum Reading Room,5,United_Kingdom
+Eastern Freeway (Melbourne),6,Australia
+"Bowen Mountain, New South Wales",8,Australia
+"Caulfield, Victoria",6,Australia
+Banasura Hill Resort,6,India
+Aireys Inlet,4,Australia
+"San Siro, Como",5,Italy
+"Crows Nest, New South Wales",8,Australia
+Lowton,3,United_Kingdom
+"Lubec, Maine",5,United_States
+"Hosford-Abernethy, Portland, Oregon",11,United_States
+Preci,3,Italy
+Ginosa,3,Italy
+"Bonneville County, Idaho",6,United_States
+"Margate, Tasmania",5,Australia
+Piacenza Cathedral,5,Italy
+Lyminge,4,United_Kingdom
+"Unicoi County, Tennessee",7,United_States
+Cirò Marina,4,Italy
+Nalkheda,4,India
+"Culberson County, Texas",7,United_States
+Montefalco,4,Italy
+Beldanga I,5,India
+Montan,3,Italy
+"Livermore, New Hampshire",6,United_States
+Province of Cosenza,6,Italy
+Butera,3,Italy
+"Applethorpe, Queensland",5,Australia
+San Luca,3,Italy
+Menfi,3,Italy
+Shire of Towong,6,Australia
+"Shippensburg, Pennsylvania",6,United_States
+Mount Lofty Ranges,5,Australia
+Farfa Abbey,4,Italy
+Gradisca d'Isonzo,9,Italy
+Cavarzere,4,Italy
+Icchampally Project,6,India
+Woomargama,4,Australia
+Poynton,4,United_Kingdom
+"Dixie County, Florida",5,United_States
+Phansidewa,4,India
+"Hussainabad, Jharkhand",7,India
+American Lake,3,United_States
+Pavaratty,4,India
+"St. Thomas Cathedral, Mumbai",7,India
+"Skillman, New Jersey",6,United_States
+"Silvan, Victoria",5,Australia
+San Miniato al Monte,6,Italy
+Sitamau,4,India
+Waltham Cross railway station,6,United_Kingdom
+"Forsayth, Queensland",6,Australia
+"Oombulgurri Community, Western Australia",10,Australia
+Jenks Lake,4,United_States
+Benton County Wind Farm,6,United_States
+Corryong,4,Australia
+"Walpack Township, New Jersey",7,United_States
+Satara district,4,India
+"Berriedale, Tasmania",6,Australia
+"Parkes, New South Wales",7,Australia
+"Lilydale, Tasmania",5,Australia
+"Little Mountain, Queensland",5,Australia
+"Belvoir, Leicestershire",5,United_Kingdom
+"Caerau, Cardiff",6,United_Kingdom
+Mangalore,3,India
+Bledlow Ridge,5,United_Kingdom
+"Bordentown Township, New Jersey",7,United_States
+Sanguem,4,India
+Tatiara District Council,6,Australia
+Sassoferrato,5,Italy
+"Aztalan, Wisconsin",6,United_States
+Wyre Forest District,5,United_Kingdom
+Thiruverumbur,6,India
+Gilmorton,4,United_Kingdom
+Samalkha,4,India
+Vadakarai Keezhpadugai,9,India
+Sisua village,4,India
+"Stirling, South Australia",6,Australia
+"Tremont, Illinois",5,United_States
+Pattingham,3,United_Kingdom
+Sant'Elpidio a Mare,8,Italy
+Shipton Bellinger,5,United_Kingdom
+"Strathtulloh, Victoria",7,Australia
+"Croughton, Northamptonshire",7,United_Kingdom
+"Mount Nathan, Queensland",5,Australia
+Jemez Mountains,4,United_States
+Lake Stanley Draper,4,United_States
+"Glenlyon, Victoria",5,Australia
+New Eltham railway station,6,United_Kingdom
+"Cocking, West Sussex",6,United_Kingdom
+Anuppur district,5,India
+Gozaria,4,India
+Revò,3,Italy
+"Horsley Park, New South Wales",8,Australia
+Lindisfarne,5,United_Kingdom
+Casacalenda,4,Italy
+St Pancras railway station,6,United_Kingdom
+Gangabal Lake,4,India
+Wiebbe Hayes Stone Fort,6,Australia
+Morigaon district,5,India
+Sasni,3,India
+Callala Beach,4,Australia
+Tipaimukh Dam,6,India
+Orpington railway station,6,United_Kingdom
+"Derby Line, Vermont",5,United_States
+"Tailem Bend, South Australia",7,Australia
+Battipaglia,5,Italy
+Ceva,3,Italy
+"Heywood, Victoria",5,Australia
+"Bear Creek, Alaska",5,United_States
+Garbagnate Milanese,6,Italy
+"Mount Eliza, Victoria",5,Australia
+"Charlevoix County, Michigan",7,United_States
+Shirala,3,India
+"Surat, Queensland",4,Australia
+Bisaccia,3,Italy
+Tre Cime di Lavaredo,7,Italy
+Codroipo,4,Italy
+"Visitacion Valley, San Francisco",7,United_States
+Mundubbera,4,Australia
+"El Dorado Hills, California",6,United_States
+Crowthorne,3,United_Kingdom
+Gazole (community development block),8,India
+Madanpur Rampur,6,India
+Clynderwen,5,United_Kingdom
+"Brendale, Queensland",5,Australia
+"Delacombe, Victoria",5,Australia
+"St Mary's Church, Hendon",9,United_Kingdom
+"Mulgoa, New South Wales",7,Australia
+Pathanamthitta district,6,India
+Castiglione di Sicilia,6,Italy
+"Bangor, County Down",6,United_Kingdom
+Aldwych tube station,5,United_Kingdom
+Priverno,4,Italy
+Pathapatnam,5,India
+Bugbrooke,3,United_Kingdom
+Dungarpur district,4,India
+Ukai,3,India
+Umbertide,4,Italy
+Department of Lands building,5,Australia
+Bodicote,4,United_Kingdom
+"Tisbury, Wiltshire",5,United_Kingdom
+Carpenter Rocks,3,Australia
+Grosvenor Chapel,4,United_Kingdom
+"Holly Hills, Colorado",5,United_States
+"Nacogdoches County, Texas",8,United_States
+Tatura,3,Australia
+"Warren County, Pennsylvania",5,United_States
+Valavanur,4,India
+"Stirling, South Australia",6,Australia
+Visnagar,3,India
+Udvada,3,India
+Sambuca di Sicilia,6,Italy
+Barsana,3,India
+Santa Fiora,4,Italy
+Gorizia,3,Italy
+Pentney,3,United_Kingdom
+"Belvedere, California",5,United_States
+"Amphitheatre, Victoria",5,Australia
+"Truro, Iowa",5,United_States
+"Malancha, Basirhat",8,India
+Booligal,4,Australia
+"Glen Alpine, North Carolina",6,United_States
+"Aurangabad, Bulandshahr",9,India
+Behat,3,India
+"Emley, West Yorkshire",6,United_Kingdom
+Canberra Central,4,Australia
+Potenza Picena,5,Italy
+"Hyampom, California",6,United_States
+Morar Cantonment,5,India
+Province of South Sardinia,5,Italy
+"I Gesuiti, Venice",7,Italy
+Mentana,3,Italy
+Kota district,3,India
+Funtington,4,United_Kingdom
+Gravina in Puglia,5,Italy
+Prakasam district,4,India
+"Sturmer, Essex",6,United_Kingdom
+"Cervo, Liguria",6,Italy
+Theni Allinagaram,7,India
+Uniara,3,India
+Mrs. A. V. N. College,10,India
+"Manning Point, New South Wales",8,Australia
+Mahadevpur,4,India
+"Coral Terrace, Florida",5,United_States
+"Beverley Park, New South Wales",8,Australia
+Battersea Power Station tube station,7,United_Kingdom
+"General Post Office, Kolkata",6,India
+Gadchiroli,4,India
+Lodine,3,Italy
+Goodspeed Musicals,5,United_States
+Sabathu,4,India
+Province of Asti,5,Italy
+"Hillsborough County, Florida",6,United_States
+"Montgomery County, Texas",5,United_States
+"Branksome, Dorset",6,United_Kingdom
+Nakhatrana,4,India
+"Crawford, Mississippi",4,United_States
+Church Minshull,4,United_Kingdom
+"Bentley, South Yorkshire",5,United_Kingdom
+Civita Castellana,5,Italy
+Riffe Lake,4,United_States
+"Valley Heights, New South Wales",7,Australia
+"Hokendauqua, Pennsylvania",7,United_States
+Catfield,3,United_Kingdom
+"Cheboygan County, Michigan",7,United_States
+"Kleberg County, Texas",6,United_States
+Castiglion Fiorentino,6,Italy
+Society Hill Towers,4,United_States
+Rupnarayanpur,5,India
+"Barmer, Rajasthan",5,India
+Marche,3,Italy
+Morena,3,India
+Buchireddypalem,6,India
+Rende,3,Italy
+Sant'Agata Bolognese,7,Italy
+Makhu,3,India
+Mullaghbawn,6,United_Kingdom
+"Oconee County, Georgia",7,United_States
+"Furnace Creek, California",6,United_States
+"Canungra, Queensland",6,Australia
+"Seminole County, Georgia",7,United_States
+"Torpa, India",5,India
+Kewaunee Power Station,6,United_States
+"Shipley, West Yorkshire",6,United_Kingdom
+"Stone House, Ooty",6,India
+"Stradella, Lombardy",6,Italy
+Sri Muktsar Sahib district,7,India
+Bank and Monument stations,5,United_Kingdom
+Malltraeth,4,United_Kingdom
+Linch,3,United_Kingdom
+"Fingal, Victoria",6,Australia
+Scopwick,4,United_Kingdom
+"Marion County, Texas",5,United_States
+Bristol Lake,3,United_States
+"Sandhurst, Berkshire",5,United_Kingdom
+"Debra, Paschim Medinipur",8,India
+Claverley,3,United_Kingdom
+Wadsley,4,United_Kingdom
+"Lincoln County, Kentucky",5,United_States
+Marettimo,4,Italy
+Nagayalanka mandal,6,India
+Breaston,3,United_Kingdom
+Triad Theatre,4,United_States
+Vilpatti,4,India
+"Woolbrook, New South Wales",7,Australia
+"Corindi Beach, New South Wales",8,Australia
+"Aransas County, Texas",6,United_States
+"Cranbourne, Victoria",5,Australia
+"Mitchelton, Queensland",6,Australia
+"Glen Ridge, New Jersey",6,United_States
+"Millthorpe, New South Wales",7,Australia
+Bathford,3,United_Kingdom
+Verinag,4,India
+Riverway Stadium,4,Australia
+Liverpool Range,3,Australia
+Bharatpur II,5,India
+City of St Kilda,6,Australia
+Northwick Park tube station,6,United_Kingdom
+Beaumont House,4,Australia
+Province of Arezzo,5,Italy
+Little Wittenham,4,United_Kingdom
+"Stone Lake, Wisconsin",5,United_States
+Sarsina,4,Italy
+Cavarzere,4,Italy
+Valguarnera Caropepe,6,Italy
+Venkatachalam mandal,6,India
+"Bowdon, Greater Manchester",6,United_Kingdom
+Kavaratti,4,India
+Bandikui,4,India
+Conversano,3,Italy
+Montemarano,5,Italy
+Rocca di Papa,5,Italy
+"Bilaspur, Himachal Pradesh",7,India
+Petts Wood railway station,6,United_Kingdom
+"Samba, Jammu and Kashmir",7,India
+Tawang district,4,India
+Times Square Church,4,United_States
+East Suffolk District,4,United_Kingdom
+Tonteg,4,United_Kingdom
+"Smithton, Illinois",5,United_States
+Holyhead,3,United_Kingdom
+Watchem,3,Australia
+"Bow Bowing, New South Wales",8,Australia
+"Carlton, Selby",4,United_Kingdom
+Lecco,3,Italy
+Uxbridge,3,United_Kingdom
+Valguarnera Caropepe,6,Italy
+Eucumbene Dam,5,Australia
+Pathanamthitta district,6,India
+"Sahebganj, Muzaffarpur",9,India
+Gunbarrel Highway,4,Australia
+Roscigno,4,Italy
+Thiruppanandal,5,India
+"Braidwood, New South Wales",8,Australia
+"Clayton, Victoria",4,Australia
+"Brooktrails, California",5,United_States
+"Maui County, Hawaii",5,United_States
+Torri del Benaco,7,Italy
+Osterley tube station,5,United_Kingdom
+"Camden, Delaware",5,United_States
+Apecchio,4,Italy
+"Thornton, Colorado",5,United_States
+Mursan,4,India
+Tripuranthakam,5,India
+Mitchell Highway,3,Australia
+"Rushton, Northamptonshire",6,United_Kingdom
+Udupi,4,India
+"Lake Bolac, Victoria",6,Australia
+Monte Castello di Vibio,6,Italy
+"M.E.S. Ponnani College, Ponnani",13,India
+Shofuso Japanese House and Garden,8,United_States
+Snetterton,5,United_Kingdom
+"Walla Walla, New South Wales",7,Australia
+Biddulph,5,United_Kingdom
+"Eastland County, Texas",6,United_States
+Ballaugh,4,United_Kingdom
+Marble Arch tube station,5,United_Kingdom
+"Brillion, Wisconsin",5,United_States
+Munger division,4,India
+Aragonda,4,India
+"Bradford, Manchester",4,United_Kingdom
+Wood Green tube station,5,United_Kingdom
+"Benambra, Victoria",6,Australia
+Crystal Lake Recreation Area,5,United_States
+Dowleswaram Barrage,7,India
+Silea,3,Italy
+"Capel, Surrey",5,United_Kingdom
+Pengam,3,United_Kingdom
+"Mira, Veneto",4,Italy
+Santarcangelo di Romagna,6,Italy
+"Capodimonte, Lazio",6,Italy
+Mayannur,4,India
+Tatiara District Council,6,Australia
+Steeple Claydon,6,United_Kingdom
+Mutitjulu,5,Australia
+Cotronei,4,Italy
+"Ben Hill County, Georgia",6,United_States
+Gibson Dam,3,United_States
+Appleton Thorn,4,United_Kingdom
+Goldington,3,United_Kingdom
+"Andrew, Iowa",4,United_States
+Paradise Garage,3,United_States
+"Jackson County, Oklahoma",5,United_States
+"Williamson County, Texas",6,United_States
+Thikkodi,4,India
+"Clay County, Texas",5,United_States
+"Pambula, New South Wales",7,Australia
+"Fayette County, Indiana",6,United_States
+Mordiford,4,United_Kingdom
+Mattinata,3,Italy
+"Parmer County, Texas",6,United_States
+Thiruvananthapuram,6,India
+Biramitrapur,6,India
+"Holywell, Flintshire",6,United_Kingdom
+Stourton with Gasper,7,United_Kingdom
+Katni district,4,India
+Ciampino,4,Italy
+"Upshur County, Texas",6,United_States
+"Morrisonville, Illinois",5,United_States
+"Big Spring, Texas",5,United_States
+Santaldih,5,India
+Manchester City Region,4,United_Kingdom
+"Brownstown, Indiana",5,United_States
+Towyn,3,United_Kingdom
+Lituya Bay,5,United_States
+Bachhrawan,4,India
+Charaideo district,4,India
+"Ben Hill County, Georgia",6,United_States
+"Meadowbrook, Queensland",6,Australia
+"Henderson County, North Carolina",6,United_States
+Saxmundham,4,United_Kingdom
+Royal Wootton Bassett,6,United_Kingdom
+Canowindra,4,Australia
+"Pitt County, North Carolina",6,United_States
+Catahoula Lake,5,United_States
+Rosignano Marittimo,6,Italy
+"Scala, Campania",4,Italy
+Rotherhithe,4,United_Kingdom
+Port Fairy,3,Australia
+Embassy Theatre (London),7,United_Kingdom
+"Skipton, Victoria",5,Australia
+Blackrod,3,United_Kingdom
+Lisburn,3,United_Kingdom
+San Giovanni Rotondo,5,Italy
+"Bithlo, Florida",6,United_States
+Codogno,3,Italy
+Sagar Cantonment,5,India
+Saran division,4,India
+Landfall Island,4,India
+Moresco,3,Italy
+Quindici,4,Italy
+St Mary Bourne,4,United_Kingdom
+"Appleton, Oxfordshire",5,United_Kingdom
+"Clunes, Victoria",5,Australia
+Numinbah Valley,5,Australia
+"Townsend, Wisconsin",5,United_States
+Trottiscliffe,5,United_Kingdom
+Cantalupo in Sabina,6,Italy
+Santi Cosma e Damiano,7,Italy
+"Joyner, Queensland",5,Australia
+Pencoed,4,United_Kingdom
+San Pietro in Vincoli,6,Italy
+"Pearl River, Louisiana",5,United_States
+Thrikkakkara,6,India
+Lucca Sicula,5,Italy
+Rottingdean,4,United_Kingdom
+Ganjam,3,India
+"Stockholm, Wisconsin",4,United_States
+Rowland's Castle,6,United_Kingdom
+"Cornwall, New York",6,United_States
+Boconnoc,4,United_Kingdom
+Civita Castellana,5,Italy
+Ickenham tube station,6,United_Kingdom
+Nadiad,3,India
+San Donato Milanese,5,Italy
+Vivonne Bay (South Australia),8,Australia
+Stintino,4,Italy
+"Beatrice, Nebraska",4,United_States
+Lake Agnes (Colorado),6,United_States
+Province of Salerno,4,Italy
+Sydney Gateway,3,Australia
+Rura,3,India
+"Larrimah, Northern Territory",7,Australia
+Mumbai City district,4,India
+Cantiano,4,Italy
+Vercelli,3,Italy
+"Mintabie, South Australia",7,Australia
+Sangre de Cristo Mountains,6,United_States
+"St. Raphael's Cathedral (Dubuque, Iowa)",13,United_States
+"Lees, Greater Manchester",5,United_Kingdom
+Parkes Shire,4,Australia
+Wandsworth,3,United_Kingdom
+Saronno,4,Italy
+"Briscoe County, Texas",6,United_States
+Liddington,3,United_Kingdom
+Province of Rimini,4,Italy
+Tlabung,4,India
+Cesa,3,Italy
+Llanbedr,5,United_Kingdom
+Valdagno,4,Italy
+Grant USA Tower,4,United_States
+Buja,3,Italy
+"Rockland County, New York",7,United_States
+Visavadar,4,India
+Burhar,3,India
+Laurel River Lake,4,United_States
+St Margaret Lothbury,5,United_Kingdom
+"Sitapur, Chhattisgarh",5,India
+Dhenkanal district,5,India
+"St. Clair County, Michigan",7,United_States
+Tramin an der Weinstraße,7,Italy
+Anthoor,4,India
+Avalon Regal Theater,5,United_States
+Gangadharpur,5,India
+Sarmathura,4,India
+Manyana,3,Australia
+Cles,3,Italy
+Chungathara,4,India
+Neasden tube station,6,United_Kingdom
+"McClure, Illinois",6,United_States
+Thirunagar,4,India
+Long Crendon,4,United_Kingdom
+Shire of Barcoo,6,Australia
+Bisacquino,4,Italy
+Glaston,3,United_Kingdom
+San Bonaventura al Palatino,7,Italy
+Boothby Graffoe,5,United_Kingdom
+Umbertide,4,Italy
+"Batchtown, Illinois",5,United_States
+West Coast Council,4,Australia
+"Hopewell Township, Mercer County, New Jersey",10,United_States
+Thotapalli Barrage,7,India
+"Lawrence County, Ohio",5,United_States
+Denver Federal Center,4,United_States
+Thirukattupalli,7,India
+Madavoor-Pallickal,8,India
+Moniaive,4,United_Kingdom
+"Campbellfield, Victoria",5,Australia
+"St Thomas, Exeter",5,United_Kingdom
+"Homebush, New South Wales",7,Australia
+"Castel del Monte, Abruzzo",8,Italy
+Sundridge Park railway station,6,United_Kingdom
+Cascina,3,Italy
+Santi Sergio e Bacco,6,Italy
+Palamu district,4,India
+City of Prospect,4,Australia
+Knoll Lake,4,United_States
+City of Broken Hill,5,Australia
+Vellalore,4,India
+Sonitpur district,5,India
+"Barkot, Uttarakhand",5,India
+Province of Carbonia-Iglesias,8,Italy
+Batemans Bay,5,Australia
+Guthega Power Station,6,Australia
+"Beaconsfield, Iowa",6,United_States
+Amethi district,4,India
+"Badarpur, Assam",5,India
+Frosinone,4,Italy
+Cleethorpes,5,United_Kingdom
+Dausa district,4,India
+"Inverloch, Victoria",5,Australia
+Hayward Gallery,4,United_Kingdom
+Pacific Motorway (Sydney–Newcastle),9,Australia
+Luino,3,Italy
+Carnmoney,3,United_Kingdom
+Dera Baba Nanak,6,India
+Harrow-on-the-Hill station,10,United_Kingdom
+"Mount Evelyn, Victoria",5,Australia
+Climping,3,United_Kingdom
+Province of Viterbo,5,Italy
+Monfalcone,4,Italy
+"Chewton, Victoria",6,Australia
+"Casterton, Victoria",5,Australia
+Province of Prato,4,Italy
+Singur Dam,4,India
+Sands End,4,United_Kingdom
+"Tuggerah, New South Wales",8,Australia
+Nahan,3,India
+Hailakandi district,6,India
+Biaora,3,India
+Lumezzane,5,Italy
+Cambiago,4,Italy
+"Aviston, Illinois",5,United_States
+Swan Bay,3,Australia
+"Palazzo della Ragione, Milan",7,Italy
+Bagasara,4,India
+Bromborough,3,United_Kingdom
+English Bicknor,4,United_Kingdom
+Blackheath railway station,5,United_Kingdom
+"Rockhampton, Gloucestershire",5,United_Kingdom
+Gomati district,4,India
+Vado Ligure,5,Italy
+"New Haven County, Connecticut",6,United_States
+Flinders Island,4,Australia
+Gundagai,4,Australia
+Dera Bassi,4,India
+Bodh Gaya,4,India
+Manek Burj,5,India
+Koo Wee Rup,4,Australia
+Bagno a Ripoli,6,Italy
+"Unionville, Chester County, Pennsylvania",8,United_States
+Uttara Kannada,5,India
+Bhadrak district,5,India
+Massanjore Dam,5,India
+Belsand,4,India
+Gizzeria,3,Italy
+Tiruvarur district,6,India
+Ulundurpettai,6,India
+Quarto d'Altino,7,Italy
+"Miramar Beach, Florida",6,United_States
+Morena district,4,India
+Tuensang district,5,India
+Katamatite,4,Australia
+City of Essendon,5,Australia
+"Mount Riverview, New South Wales",8,Australia
+Hoylake,3,United_Kingdom
+"Sami, Gujarat",4,India
+"Barhi, Hazaribagh",8,India
+Thirumullavaram,6,India
+Puliyoor,5,India
+Calvisano,4,Italy
+Great Haseley,4,United_Kingdom
+"Broadway, Worcestershire",4,United_Kingdom
+Badoda,3,India
+"Toowoon Bay, New South Wales",9,Australia
+"Salisbury North, South Australia",7,Australia
+San Miniato,4,Italy
+Mir Alam Tank,4,India
+"Riseley, Bedfordshire",6,United_Kingdom
+"Forster, New South Wales",7,Australia
+Glemsford,4,United_Kingdom
+Ankapur,4,India
+Mayabunder,4,India
+Sant'Elpidio a Mare,8,Italy
+Tittakudi,4,India
+Petralia Soprana,6,Italy
+Banarhat,4,India
+"Brooklyn Park, South Australia",6,Australia
+Sennen Cove Lifeboat Station,7,United_Kingdom
+Mascali,3,Italy
+Bitonto,3,Italy
+"Bardwell Park, New South Wales",8,Australia
+Ludham,3,United_Kingdom
+Lake Phalen,4,United_States
+Bulford,3,United_Kingdom
+"Caboolture, Queensland",6,Australia
+Gioia del Colle,5,Italy
+Stamford Brook tube station,6,United_Kingdom
+"Bethlehem Township, New Jersey",7,United_States
+"Russellville, Kentucky",5,United_States
+Buntingford,4,United_Kingdom
+"Ringstead, Northamptonshire",6,United_Kingdom
+Cowra Shire,4,Australia
+"Washington County, Indiana",5,United_States
+Capel-le-Ferne,8,United_Kingdom
+"Bradfield, Berkshire",5,United_Kingdom
+"Crystal Lake, Iowa",5,United_States
+"Frisco, Colorado",5,United_States
+Wycheproof,4,Australia
+"Rockhampton, Gloucestershire",5,United_Kingdom
+Peddapalli,5,India
+Tuljapur Tahsil,6,India
+"Estill County, Kentucky",6,United_States
+Hubli,3,India
+Tockenham,4,United_Kingdom
+Fraser Island,3,Australia
+Zola Predosa,5,Italy
+Deniliquin,4,Australia
+"Upper Saddle River, New Jersey",7,United_States
+Aputula,4,Australia
+San Quirico d'Orcia,8,Italy
+Torre Pellice,4,Italy
+"Rushall, West Midlands",6,United_Kingdom
+Hnahthial,5,India
+"Walkerville, South Australia",6,Australia
+Vicopisano,4,Italy
+Ridgemont (Pittsburgh),6,United_States
+"Bega, New South Wales",7,Australia
+Patrica,3,Italy
+Sanduru,3,India
+Cappella Sansevero,6,Italy
+"Waitpinga, South Australia",7,Australia
+Bing Concert Hall,4,United_States
+Shishuvinahala,6,India
+Whyteleafe railway station,6,United_Kingdom
+Celle di San Vito,6,Italy
+Bolzano,3,Italy
+Avalon Regal Theater,5,United_States
+San Antonio,3,United_States
+Mamit district,4,India
+Elumalai,4,India
+Badia Polesine,5,Italy
+"Bagdah, North 24 Parganas",11,India
+House of Loreius Tiburtinus,8,Italy
+Visakhapatnam,5,India
+"Two Wells, South Australia",6,Australia
+Bacoli,3,Italy
+"Hooker County, Nebraska",6,United_States
+Carpenders Park,5,United_Kingdom
+Brondesbury Park,5,United_Kingdom
+Nago–Torbole,6,Italy
+Bandikui,4,India
+"Perquimans County, North Carolina",8,United_States
+Baduria,3,India
+"Clifton, York",5,United_Kingdom
+Campagna,3,Italy
+"Mortdale, New South Wales",7,Australia
+"Madrid, Alabama",4,United_States
+"Salem, Utah",4,United_States
+Welling railway station,5,United_Kingdom
+Mackay Region,4,Australia
+"Albert, New South Wales",6,Australia
+"Valley Center, California",5,United_States
+Riddells Creek,5,Australia
+Greccio,3,Italy
+"Shoal Bay, New South Wales",8,Australia
+Capoliveri,4,Italy
+Canning I,4,India
+"Harrow, Victoria",5,Australia
+"Pilliga, New South Wales",8,Australia
+Llandrindod Wells,6,United_Kingdom
+Coimbatore district,5,India
+"Toorak, Victoria",5,Australia
+"Broome, Western Australia",6,Australia
+Praia a Mare,5,Italy
+Romagnano al Monte,6,Italy
+Giridih block,6,India
+Cinquefrondi,5,Italy
+Burton in Lonsdale,5,United_Kingdom
+Gagret,3,India
+Snaresbrook tube station,6,United_Kingdom
+Tinsukia district,6,India
+"Coomera, Queensland",6,Australia
+Lake Misurina,4,Italy
+Ouyen,3,Australia
+"Jonesboro, Louisiana",5,United_States
+Maryland railway station,4,United_Kingdom
+"St Antholin, Budge Row",8,United_Kingdom
+Bhor,3,India
+Province of Barletta-Andria-Trani,11,Italy
+Biramitrapur,6,India
+"Canby, California",5,United_States
+Sant'Antonio dei Portoghesi,8,Italy
+"Eek, Alaska",5,United_States
+Thodupuzha,5,India
+Chingford railway station,5,United_Kingdom
+Zevio,4,Italy
+Tuscany,3,Italy
+Gangtok,3,India
+"Penns Grove, New Jersey",7,United_States
+"Wingham, New South Wales",7,Australia
+Crosia,3,Italy
+Verzuolo,4,Italy
+Prima Porta,3,Italy
+Image Lake,3,United_States
+"Lyng, Somerset",5,United_Kingdom
+United States Institute of Peace Headquarters,7,United_States
+Bonalbo,4,Australia
+"Queens Park, Bedford",5,United_Kingdom
+Snowy Mountains,3,Australia
+"Leven, East Riding of Yorkshire",7,United_Kingdom
+San Piero Patti,4,Italy
+Asan Barrage,5,India
+Sathankulam,5,India
+Vulcano,3,Italy
+"Arab, Alabama",4,United_States
+Anthoor,4,India
+Madhugiri,4,India
+Ukkadam Lake,5,India
+Santa Maria in Cosmedin,7,Italy
+Moncalieri Castle,5,Italy
+Gopiballavpur II,8,India
+"Begampur, India",6,India
+Cirié,3,Italy
+Ustica,3,Italy
+Modinagar,4,India
+"Miena, Tasmania",5,Australia
+Agatti Island,4,India
+Patan district,4,India
+Roscigno,4,Italy
+"Oatlands, Tasmania",5,Australia
+"Skelton, Cumbria",5,United_Kingdom
+Talbingo Dam,4,Australia
+Cassola,3,Italy
+Montichiari,5,Italy
+Bardonecchia,5,Italy
+"Booie, Queensland",5,Australia
+Roccacasale,5,Italy
+Stanmore,3,United_Kingdom
+"Bonnet Bay, New South Wales",8,Australia
+Skegness,4,United_Kingdom
+"Yigo, Guam",5,United_States
+Gilfach Goch,5,United_Kingdom
+"Rego Park, Queens",6,United_States
+"Montour County, Pennsylvania",6,United_States
+"Rowley, East Riding of Yorkshire",8,United_Kingdom
+"All Saints Episcopal Church (Pasadena, California)",11,United_States
+"Lincoln Village, California",5,United_States
+Pencoed,4,United_Kingdom
+Sibsey,3,United_Kingdom
+"Zapata, Texas",5,United_States
+"Ripponlea, Victoria",6,Australia
+Nallapadu,4,India
+Sutton Lake (West Virginia),7,United_States
+"Deagon, Queensland",5,Australia
+"Shortland, New South Wales",7,Australia
+"Coventry Township, Summit County, Ohio",9,United_States
+Torres Strait,3,Australia
+"Lang Lang, Victoria",5,Australia
+Badshahpur,4,India
+"Darraweit Guim, Victoria",8,Australia
+"Bass, Victoria",4,Australia
+"Barton, Preston",4,United_Kingdom
+"Delia, Sicily",5,Italy
+"Wombat, New South Wales",7,Australia
+Bommanahalli,4,India
+"Elmore, Victoria",5,Australia
+Caerano di San Marco,6,Italy
+"Moira, County Down",6,United_Kingdom
+"Tooma, New South Wales",7,Australia
+"Badger Creek, Victoria",5,Australia
+Broughton Gifford,4,United_Kingdom
+"Sister Bay, Wisconsin",5,United_States
+Mongalkote (community development block),9,India
+Civita Castellana,5,Italy
+"Thornhill, West Yorkshire",6,United_Kingdom
+Stratford International station,5,United_Kingdom
+"Pulaski, Illinois",5,United_States
+Province of Cosenza,6,Italy
+"Comptche, California",6,United_States
+Emilia-Romagna,5,Italy
+"Thornton, West Yorkshire",6,United_Kingdom
+"Penns Grove, New Jersey",7,United_States
+Santrampur,4,India
+Academy of Music (Philadelphia),7,United_States
+"Barauli, Bihar",6,India
+D'Albertis Castle,7,Italy
+Rescaldina,4,Italy
+Saughall Massie,6,United_Kingdom
+Ballykinler,5,United_Kingdom
+Hatton Cross tube station,6,United_Kingdom
+"Villa Grove, Illinois",5,United_States
+Strait of Messina,5,Italy
+Burnopfield,4,United_Kingdom
+Mandya,3,India
+"Campbell, Australian Capital Territory",6,Australia
+"Middlesex County, Connecticut",7,United_States
+"Grays, Essex",5,United_Kingdom
+Skipsea,3,United_Kingdom
+Vattappara,5,India
+"Bradwell, Norfolk",5,United_Kingdom
+Winslow Road railway station,6,United_Kingdom
+Santa Maria Capua Vetere,7,Italy
+Villa d'Este (Cernobbio),11,Italy
+Bhingar,4,India
+Chumar,3,India
+Nayagarh district,5,India
+Sidhi district,4,India
+Montagnana,4,Italy
+"Bargara, Queensland",5,Australia
+Savignano sul Rubicone,7,Italy
+Thodupuzha,5,India
+"Madison County, Nebraska",5,United_States
+San Quirico d'Orcia,8,Italy
+Wallerawang Power Station,6,Australia
+"Bouton, Iowa",5,United_States
+Province of Ferrara,4,Italy
+"Clark County, Ohio",5,United_States
+"Pusey, Oxfordshire",6,United_Kingdom
+Giugliano in Campania,6,Italy
+Birdham,3,United_Kingdom
+Puliyoor,5,India
+Glengormley,5,United_Kingdom
+"Petaluma, California",6,United_States
+Visnagar,3,India
+"Runnells, Iowa",6,United_States
+"Cass County, Indiana",5,United_States
+Axbridge,3,United_Kingdom
+"Frenchs Forest, New South Wales",8,Australia
+"Lexington, Illinois",4,United_States
+Bournemouth,3,United_Kingdom
+"El Arish, Queensland",6,Australia
+"Bundamba, Queensland",5,Australia
+"Gayton, Norfolk",5,United_Kingdom
+San Giovanni Valdarno,6,Italy
+Campoformido,4,Italy
+"Tucker, Georgia",4,United_States
+Ghitorni,4,India
+Avezzano,3,Italy
+Grand Hotel et des Palmes,7,Italy
+"Sassafras, Victoria",6,Australia
+"Puttur, Andhra Pradesh",6,India
+"Dang district, India",5,India
+Roundway,3,United_Kingdom
+"Braeside, Victoria",6,Australia
+Reading railway station,4,United_Kingdom
+Mainland Australia,4,Australia
+Cles,3,Italy
+"Bristol (village), Wisconsin",6,United_States
+"Ballarat East, Victoria",6,Australia
+"Malabar, New South Wales",7,Australia
+"Turnersville, New Jersey",7,United_States
+"Bushwick, Brooklyn",5,United_States
+"Peak Hill, New South Wales",7,Australia
+Boughton Malherbe,5,United_Kingdom
+East Suffolk District,4,United_Kingdom
+Memari,3,India
+"Traver, California",5,United_States
+"Valparaiso, Florida",5,United_States
+Bhavnagar district,5,India
+Strensall,4,United_Kingdom
+Malpur,3,India
+Malcesine,4,Italy
+Thikkodi,4,India
+Aragonda,4,India
+Motera,3,India
+Saptasajya,6,India
+Adaminaby,4,Australia
+Monselice,4,Italy
+Belmond Hotel Cipriani,6,Italy
+Cameley,3,United_Kingdom
+Simister,3,United_Kingdom
+Holiday Bowl (building),6,United_States
+"Ivanhoe, New South Wales",7,Australia
+Petralia Soprana,6,Italy
+Santa Maria degli Angeli e dei Martiri,9,Italy
+Mayiladuthurai,6,India
+Andhra Pradesh Secretariat,5,India
+Kern Lake (Kern County),7,United_States
+Steppenwolf Theatre Company,6,United_States
+"Elliott Heads, Queensland",5,Australia
+"Jefferson County, Georgia",5,United_States
+Thriplow,4,United_Kingdom
+"Cambria, Wisconsin",5,United_States
+Ventotene,4,Italy
+Minturno,3,Italy
+Montagnana,4,Italy
+Rockhampton,3,Australia
+"Kentucky, New South Wales",6,Australia
+Twerton,4,United_Kingdom
+"Ross County, Ohio",5,United_States
+"Briscoe County, Texas",6,United_States
+Pavagada,4,India
+"Bassett, Southampton",5,United_Kingdom
+San Donato Milanese,5,Italy
+New Empire Cinema (Kolkata),7,India
+"McDuffie County, Georgia",7,United_States
+Maesteg,4,United_Kingdom
+Honnavar Taluk,6,India
+"Lock, South Australia",5,Australia
+Province of Agrigento,6,Italy
+"Turi, Apulia",6,Italy
+"Ringsted, Iowa",5,United_States
+Montepulciano,4,Italy
+"Yandina, Queensland",5,Australia
+"Switzerland County, Indiana",5,United_States
+"Aviston, Illinois",5,United_States
+Lake Maggiore,3,Italy
+Bhongir,4,India
+"Loleta, California",6,United_States
+"King's Building, London",7,United_Kingdom
+Madanapalle mandal,5,India
+"Stanwell Tops, New South Wales",8,Australia
+St Peter le Poer,6,United_Kingdom
+"Bardwell Valley, New South Wales",8,Australia
+Tumbarumba,4,Australia
+San Giorgio in Velabro,6,Italy
+"Bellwood, Illinois",5,United_States
+Theni district,4,India
+"St. Joseph Church, Edinburgh of the Seven Seas",11,United_Kingdom
+"Coffee County, Georgia",5,United_States
+Province of Ascoli Piceno,7,Italy
+Province of Taranto,5,Italy
+Parkes Shire,4,Australia
+Circular Head Council,4,Australia
+Lower Subansiri district,6,India
+San Severino Marche,5,Italy
+Kamleshwar Dam,5,India
+"Prichard, Alabama",5,United_States
+Mistretta,3,Italy
+Budalur,4,India
+Santa Maria in Monserrato degli Spagnoli,11,Italy
+1040 Fifth Avenue,7,United_States
+"Granite Hills, California",5,United_States
+Mirchpur,4,India
+"Nowendoc, New South Wales",8,Australia
+"Camber, East Sussex",6,United_Kingdom
+Lake Tsomgo,5,India
+Valdobbiadene,6,Italy
+Balvano,3,Italy
+Skelton-in-Cleveland,7,United_Kingdom
+"Mount Warrigal, New South Wales",8,Australia
+"Madison County, Idaho",5,United_States
+"St Peter's Church, Walworth",9,United_Kingdom
+"Amphitheatre, Victoria",5,Australia
+Tirunelveli,5,India
+Calow,3,United_Kingdom
+Clement Town,3,India
+Croftfoot,4,United_Kingdom
+Borehamwood,4,United_Kingdom
+"Scarsdale, Victoria",6,Australia
+Thanjavur district,5,India
+San Donato Milanese,5,Italy
+"Bangor, New South Wales",7,Australia
+"Columbus County, North Carolina",6,United_States
+Linslade,4,United_Kingdom
+Umaid Bhawan Palace,6,India
+Mattanur,4,India
+Gatley,3,United_Kingdom
+"Belmont, New South Wales",7,Australia
+"Mifflin County, Pennsylvania",6,United_States
+Frigento,3,Italy
+Downtown Cincinnati,3,United_States
+Waranga Dam,4,Australia
+"Huron County, Ohio",6,United_States
+Nandakumar (community development block),8,India
+"Pennington, Cumbria",5,United_Kingdom
+San Giuseppe dei Falegnami,8,Italy
+Province of Avellino,5,Italy
+"Narooma, New South Wales",8,Australia
+Potton,3,United_Kingdom
+Banasura Hill Resort,6,India
+Bilston,3,United_Kingdom
+"Holme, Cambridgeshire",6,United_Kingdom
+"Thirupuvanam, Sivaganga",10,India
+Huzurabad,5,India
+"Wyee, New South Wales",7,Australia
+Bovalino,4,Italy
+"Forster, New South Wales",7,Australia
+Glenarm,3,United_Kingdom
+Peschici,4,Italy
+San Giuseppe Vesuviano,5,Italy
+"Prospect Heights, Brooklyn",5,United_States
+Thames Ditton railway station,7,United_Kingdom
+Rajnandgaon district,5,India
+"Broughton, Flintshire",6,United_Kingdom
+East Texas,3,United_States
+"Murud, Raigad",7,India
+Poplar DLR station,6,United_Kingdom
+"Christopher, Illinois",4,United_States
+"Patterson Lakes, Victoria",5,Australia
+"Clayton, Delaware",4,United_States
+"Boronia, Victoria",5,Australia
+"Lexington, Virginia",4,United_States
+British Museum Reading Room,5,United_Kingdom
+Cappella Sansevero,6,Italy
+"Glandore, South Australia",7,Australia
+"Wyandra, Queensland",5,Australia
+Mandello del Lario,7,Italy
+Surat district,3,India
+Budge Budge I,6,India
+Stoke Poges,5,United_Kingdom
+Calangute,4,India
+"Silvis, Illinois",5,United_States
+Bredbo,3,Australia
+Vidyapati Nagar,5,India
+"Mahwah, New Jersey",6,United_States
+Teatro Carlo Felice,4,Italy
+"Guadalupe County, New Mexico",7,United_States
+Emsworth,4,United_Kingdom
+Waltham St Lawrence,5,United_Kingdom
+Caserta,3,Italy
+Brean,3,United_Kingdom
+Mountnorris,4,United_Kingdom
+Thoothukudi,6,India
+Purulia Sadar West subdivision,8,India
+"Cape Tribulation, Queensland",6,Australia
+Consett,3,United_Kingdom
+"Santa Ynez, California",6,United_States
+Hamoaze,4,United_Kingdom
+"Geyserville, California",6,United_States
+"Ludford, Lincolnshire",5,United_Kingdom
+Lower East Side,4,United_States
+San Cesareo,4,Italy
+Perito,3,Italy
+Zafar Mahal (Mehrauli),9,India
+Cerreto di Spoleto,7,Italy
+Loppington,4,United_Kingdom
+Lake Tapps,4,United_States
+"Monroe County, Florida",5,United_States
+"Auglaize County, Ohio",7,United_States
+Hasdeo Thermal Power Station,6,India
+"Udaipur, Tripura",6,India
+"Viadana, Lombardy",7,Italy
+"Wynarka, South Australia",7,Australia
+Gulgong,4,Australia
+Debanandapur,5,India
+Bhagalpur,4,India
+"Calipatria, California",6,United_States
+"Steels Creek, Victoria",6,Australia
+Santa Maria sopra Minerva,5,Italy
+Northolt Park railway station,6,United_Kingdom
+Lake Arrowhead Reservoir,5,United_States
+"Wakerley, Queensland",6,Australia
+Bajana,3,India
+Cerreto Sannita,6,Italy
+"Lal Lal, Victoria",5,Australia
+Basna,3,India
+Cesa,3,Italy
+Namkhana,3,India
+Burlescombe,4,United_Kingdom
+"Bronte, Sicily",5,Italy
+"Evans Head, New South Wales",7,Australia
+"Port MacDonnell, South Australia",7,Australia
+Nainwa,4,India
+Castagneto Carducci,6,Italy
+"Cabramurra, New South Wales",8,Australia
+Snowy Monaro Regional Council,6,Australia
+Dharoi dam,5,India
+Don Pedro Reservoir,4,United_States
+"Moreh, India",5,India
+"Miami-Dade County, Florida",7,United_States
+"Hurstbridge, Victoria",6,Australia
+"Jonesborough, County Armagh",7,United_Kingdom
+Serchhip district,5,India
+Bayshore (Miami Beach),8,United_States
+Ugley,3,United_Kingdom
+Robbio,3,Italy
+Devizes,3,United_Kingdom
+"Washington County, New York",6,United_States
+"Pakenham Upper, Victoria",7,Australia
+Santo Stefano in Aspromonte,7,Italy
+Valledolmo,5,Italy
+"Primrose, Wisconsin",5,United_States
+Baroon Pocket Dam,5,Australia
+Casalpusterlengo,6,Italy
+Province of Como,4,Italy
+Great Brickhill,4,United_Kingdom
+Tomerong,4,Australia
+Peschiera del Garda,6,Italy
+Barcellona Pozzo di Gotto,8,Italy
+Coxwold,3,United_Kingdom
+"Elliott Heads, Queensland",5,Australia
+"Victoria Point, Queensland",5,Australia
+Stoneleigh railway station,5,United_Kingdom
+"Toormina, New South Wales",8,Australia
+"Carbrook, Queensland",5,Australia
+Province of Benevento,5,Italy
+Santi Vincenzo e Anastasio a Trevi,10,Italy
+Lawngtlai district,5,India
+"Beltsville, Maryland",6,United_States
+"Colfax, Louisiana",5,United_States
+Verona,3,Italy
+Owyhee Reservoir,5,United_States
+Castelmezzano,5,Italy
+Quattro Castella,5,Italy
+Calvisano,4,Italy
+"Amity, Queensland",5,Australia
+Firozpur district,5,India
+"Raj Mandir Cinema, Jaipur",7,India
+San Severo,4,Italy
+Udaipurwati,5,India
+Bartlett Lake,4,United_States
+Hilton Manchester Deansgate,5,United_Kingdom
+"Columbia, Connecticut",4,United_States
+Thiruporur,5,India
+Municipality of Ashfield,6,Australia
+Monterchi,3,Italy
+Bhadresar,4,India
+Southern Moreton Bay Islands (Redland City),11,Australia
+"Cato, Wisconsin",5,United_States
+Longarone,4,Italy
+Dungarpur district,4,India
+Saiyad Raja,4,India
+West Wyalong,5,Australia
+Lake Iseo,4,Italy
+Coonoor,4,India
+Navajo Lake,5,United_States
+Aylesbury Vale,5,United_Kingdom
+Holmfirth,5,United_Kingdom
+"Elsmere, Delaware",5,United_States
+Purusottampur,6,India
+Sadri,3,India
+Bagno a Ripoli,6,Italy
+Barcombe,3,United_Kingdom
+San Miniato al Monte,6,Italy
+El Vado Lake,5,United_States
+"Crestwood Village, New Jersey",7,United_States
+Covo,3,Italy
+"Leon County, Texas",5,United_States
+Richmond station (London),6,United_Kingdom
+"Ausonia, Lazio",5,Italy
+Beechworth,4,Australia
+Santa Maria in Traspontina,7,Italy
+Cassowary Coast Region,6,Australia
+"Broadbeach, Queensland",5,Australia
+"Cranbourne North, Victoria",6,Australia
+"Yates County, New York",7,United_States
+Vicchio,3,Italy
+Somerhill House,4,United_Kingdom
+"Bayar, Kasaragod",7,India
+Lohardaga district,5,India
+Llangyfelach,6,United_Kingdom
+Lago di Varano,5,Italy
+Friuli Venezia Giulia,5,Italy
+"Thornton, Merseyside",5,United_Kingdom
+Madesimo,4,Italy
+"Lyndoch, South Australia",7,Australia
+St James Duke's Place,7,United_Kingdom
+"Girraween, New South Wales",8,Australia
+"Cherry County, Nebraska",5,United_States
+Ickenham tube station,6,United_Kingdom
+"Blaine, Maine",5,United_States
+Galsi I,4,India
+Province of Pordenone,6,Italy
+Coimbatore,4,India
+Vellalore,4,India
+St Mellion,4,United_Kingdom
+"Scarsdale, Victoria",6,Australia
+"Deephaven, Minnesota",5,United_States
+Isole Tremiti,5,Italy
+"Risdon, Tasmania",5,Australia
+Bhupalpally,5,India
+Certaldo,3,Italy
+Vigevano,4,Italy
+"Gopalganj, Bihar",6,India
+Torretta,3,Italy
+Bhainsa,3,India
+Supaul district,4,India
+Peddapalli,5,India
+"Baldwin, Wisconsin",4,United_States
+Velletri,4,Italy
+"Comboyne, New South Wales",8,Australia
+St Dionis Backchurch,6,United_Kingdom
+Georges River Council,4,Australia
+Khunti district,4,India
+"Frankston South, Victoria",6,Australia
+Upvan Lake,4,India
+Siddapur taluk,6,India
+"Bungonia, New South Wales",7,Australia
+St Benet Fink,5,United_Kingdom
+Barry Way,3,Australia
+Santo Stefano in Aspromonte,7,Italy
+Bakhtiarpur,5,India
+Elveden,3,United_Kingdom
+"Park View (Washington, D.C.)",10,United_States
+Cooma,3,Australia
+Thanneermukkom Bund,7,India
+Llandygai,5,United_Kingdom
+"Tranquillity, California",6,United_States
+Lake Amador,4,United_States
+Billinghay,3,United_Kingdom
+"Star Prairie, Wisconsin",5,United_States
+"Tuolumne City, California",7,United_States
+"Greenvale, Queensland",5,Australia
+Gleno Dam,4,Italy
+Carlton Miniott,5,United_Kingdom
+"Tullamarine, Victoria",6,Australia
+"Tornillo, Texas",5,United_States
+Gawan,3,India
+"Belmore, New South Wales",7,Australia
+Province of Vibo Valentia,7,Italy
+"Currie, Tasmania",5,Australia
+Capaci,3,Italy
+Carson Mansion,3,United_States
+"Rand, New South Wales",6,Australia
+Province of Parma,4,Italy
+"Morris Plains, New Jersey",6,United_States
+"Mount Beauty, Victoria",5,Australia
+Caggiano,4,Italy
+Millennium IT Towers,5,India
+Hunters Quay,4,United_Kingdom
+Buena Vista (Miami),6,United_States
+"Loha, Nanded district",7,India
+"Alpha, Queensland",4,Australia
+Udaipur,4,India
+Bhimavaram mandal,6,India
+Balurghat subdivision,5,India
+Jordanstown,3,United_Kingdom
+"De Beque, Colorado",6,United_States
+Thiene,3,Italy
+Quarrata,4,Italy
+"Risby, Suffolk",5,United_Kingdom
+Loders,3,United_Kingdom
+Rosignano Marittimo,6,Italy
+Shuklaganj,5,India
+Argentiera,4,Italy
+Point Lonsdale,4,Australia
+Verbania,4,Italy
+Bhojudih,6,India
+"Malabar, New South Wales",7,Australia
+"Sale, Greater Manchester",5,United_Kingdom
+Cento,3,Italy
+Peravoor,4,India
+Beacon of Light,4,United_Kingdom
+"Bluff Dale, Texas",6,United_States
+"Bexley, New South Wales",8,Australia
+Mandrayal,3,India
+San Giovanni Rotondo,5,Italy
+Upper Subansiri district,6,India
+"Creston-Kenilworth, Portland, Oregon",11,United_States
+Tirora,3,India
+Mount Kembla,4,Australia
+Renuka Lake,5,India
+"Skye, Victoria",4,Australia
+Treharris,3,United_Kingdom
+Santa Maria sopra Minerva,5,Italy
+"Rogers County, Oklahoma",5,United_States
+Contursi Terme,5,Italy
+"Cathedral of the Immaculate Conception (Burlington, Vermont)",13,United_States
+Cooma,3,Australia
+"Coleman, Florida",4,United_States
+Ukhrul,4,India
+"Mimili, South Australia",6,Australia
+"Presque Isle, Wisconsin",6,United_States
+Jandowae,5,Australia
+Bald Rock Hotel,4,Australia
+Dubbo Regional Council,5,Australia
+"Wantirna South, Victoria",7,Australia
+Southfields tube station,5,United_Kingdom
+"Hurstville, New South Wales",8,Australia
+Sarwar,3,India
+Tilouthu,4,India
+"Deagon, Queensland",5,Australia
+Deesa,3,India
+Condell Park,4,Australia
+"Irymple, Victoria",6,Australia
+"Perry, Iowa",4,United_States
+Mohanur,4,India
+Boat Harbour Beach,4,Australia
+Province of Palermo,4,Italy
+Pedakakani,5,India
+Baker Lake (Washington),6,United_States
+Collegno,3,Italy
+Bodeli,3,India
+Valenza,3,Italy
+Genoa,3,Italy
+"Bannockburn, Victoria",6,Australia
+Vagamon,4,India
+San Giuseppe Jato,5,Italy
+"Elliston, South Australia",6,Australia
+Rosslea,3,United_Kingdom
+"Carrum Downs, Victoria",6,Australia
+San Nicola in Carcere,6,Italy
+Como,2,Italy
+"Drouin, Victoria",6,Australia
+Great Sankey,4,United_Kingdom
+"Glenroy, Victoria",5,Australia
+"Nachna, Rajasthan",5,India
+Eppan an der Weinstraße,7,Italy
+Devanahalli,4,India
+"Cannonvale, Queensland",5,Australia
+Almora district,4,India
+"Huntleys Point, New South Wales",8,Australia
+"Deoli, Maharashtra",5,India
+"Coramba, New South Wales",7,Australia
+Trevignano Romano,4,Italy
+Majuli district,4,India
+"Smiths Lake, New South Wales",8,Australia
+Cradley Heath,5,United_Kingdom
+Mirik,3,India
+Lake Liddell,4,Australia
+Arnhem Land,4,Australia
+Traveston Crossing Dam,5,Australia
+"Rollingstone, Queensland",5,Australia
+"Yandina, Queensland",5,Australia
+Austwick,3,United_Kingdom
+"Grand Traverse County, Michigan",6,United_States
+Jingellic,4,Australia
+Monte Sant'Angelo,5,Italy
+Bulwell,3,United_Kingdom
+Piacenza Cathedral,5,Italy
+Muswell Hill railway station,6,United_Kingdom
+"Beecher City, Illinois",6,United_States
+Apulia,4,Italy
+"Ely, Cardiff",4,United_Kingdom
+Vinschgau,4,Italy
+"Clifton, Bristol",5,United_Kingdom
+Baskhari,4,India
+Wanstead Park railway station,7,United_Kingdom
+San Giovanni in Persiceto,7,Italy
+Uckfield,4,United_Kingdom
+Lake Accotink,5,United_States
+Kaushalya Dam,5,India
+Nabinagar,4,India
+Uttarkashi district,6,India
+West Brompton station,5,United_Kingdom
+"Broadbeach, Queensland",5,Australia
+"Salem, North Carolina",5,United_States
+Lago di Tenno,5,Italy
+"Oyster Cove, Tasmania",6,Australia
+Lewes,3,United_Kingdom
+"St Raphael's Church, Surbiton",10,United_Kingdom
+Cellular Jail,3,India
+Flaxley Abbey,5,United_Kingdom
+Shire of Livingstone,5,Australia
+"Roma, Queensland",4,Australia
+Nagireddypally,6,India
+Madukkarai,5,India
+Lake Oscawana,5,United_States
+Pendra,3,India
+Voltri,3,Italy
+"Grand County, Colorado",5,United_States
+Enfield Town railway station,6,United_Kingdom
+"Luxemburg, Wisconsin",5,United_States
+Rovato,3,Italy
+"Zearing, Iowa",5,United_States
+Apollo Bay,3,Australia
+"Crane County, Texas",5,United_States
+Port Macquarie,3,Australia
+Nagambie,4,Australia
+Vinovo,3,Italy
+"Pultneyville, New York",8,United_States
+Borgo a Mozzano,6,Italy
+Roundway,3,United_Kingdom
+Matrice,3,Italy
+"Bath, Maine",4,United_States
+"Tollette, Arkansas",5,United_States
+Ortiz Mountains,4,United_States
+Civiasco,3,Italy
+Ledbury,3,United_Kingdom
+"Tittybong, Victoria",6,Australia
+Clermont chain of lakes,6,United_States
+Castelnovo ne' Monti,7,Italy
+"Warburton, Victoria",5,Australia
+Derwent Bridge,4,Australia
+City of Glen Eira,6,Australia
+"Piti, Guam",5,United_States
+Ewen Maddock Dam,6,Australia
+Shustoke,4,United_Kingdom
+"Bookham, New South Wales",7,Australia
+Downtown Missoula,3,United_States
+"Sami, Gujarat",4,India
+Llandogo,4,United_Kingdom
+Pontoon Dock DLR station,7,United_Kingdom
+"Tomakin, New South Wales",7,Australia
+"Pedricktown, New Jersey",7,United_States
+Anthoor,4,India
+Dimapur district,5,India
+Monmouth,3,United_Kingdom
+Province of Chieti,5,Italy
+"Bucks County, Pennsylvania",5,United_States
+Denbigh,4,United_Kingdom
+Tremosine sul Garda,6,Italy
+Berceto,3,Italy
+Volturara Appula,6,Italy
+Santaldih Thermal Power Station,8,India
+Brownhills,3,United_Kingdom
+"Melaleuca, Tasmania",6,Australia
+Thiruppanandal,5,India
+San Nicola Arcella,5,Italy
+"Scales Mound, Illinois",5,United_States
+Bledington,4,United_Kingdom
+"DeSoto County, Florida",6,United_States
+"Blaine, Maine",5,United_States
+"Beatrice, Nebraska",4,United_States
+Basilica of Superga,6,Italy
+Province of Monza and Brianza,7,Italy
+"Gisborne, Victoria",5,Australia
+"Christ Church Cathedral (Lexington, Kentucky)",9,United_States
+San Fratello,4,Italy
+Villa Zeno,3,Italy
+"Sumter County, Georgia",6,United_States
+Koderma district,4,India
+Phagi,3,India
+"Corydon, Iowa",5,United_States
+"Gold Coast, Queensland",5,Australia
+"Bellerose Terrace, New York",8,United_States
+Raft River Mountains,5,United_States
+Lake Cushman,3,United_States
+Montecchio Maggiore,5,Italy
+Purathur,4,India
+Titabor,3,India
+"Lostant, Illinois",5,United_States
+Coleorton,3,United_Kingdom
+Biswanath Chariali,6,India
+Great Thurlow,4,United_Kingdom
+Patashpur I,5,India
+Gorbals,4,United_Kingdom
+Lake Thompson (South Dakota),7,United_States
+"Warragamba, New South Wales",8,Australia
+1040 Fifth Avenue,7,United_States
+"Tumby Bay, South Australia",7,Australia
+City of Port Augusta,5,Australia
+South Burnett Region,4,Australia
+Burgh le Marsh,5,United_Kingdom
+Lynn and Inner Dowsing Wind Farms,9,United_Kingdom
+Mandarmani,3,India
+Scartho,3,United_Kingdom
+Honeycrock Farm,5,United_Kingdom
+Tuttle Creek Lake,5,United_States
+Graveney,4,United_Kingdom
+"Traver, California",5,United_States
+"Santi Apostoli, Rome",6,Italy
+Thiruvedagam,5,India
+Bracciano,4,Italy
+Bosbury,3,United_Kingdom
+"Badia, South Tyrol",6,Italy
+Mount Lofty Ranges,5,Australia
+"Brill, Buckinghamshire",6,United_Kingdom
+"St Michael's Uniting Church, Melbourne",10,Australia
+Belmond Hotel Cipriani,6,Italy
+Garsington,4,United_Kingdom
+Pataliputra Housing Colony,6,India
+North Pine Dam,4,Australia
+Santaldih,5,India
+Macugnaga,4,Italy
+Regent Hall,4,United_Kingdom
+Potters Bar railway station,6,United_Kingdom
+"Hyde County, North Carolina",6,United_States
+"Jericho, Queensland",5,Australia
+Carasco,3,Italy
+Crevalcore,4,Italy
+"Scarborough, Queensland",5,Australia
+Galatina,3,Italy
+"Carlton, Selby",4,United_Kingdom
+"Deer Park, California",5,United_States
+"Waddington, Lincolnshire",5,United_Kingdom
+Lydbury North,4,United_Kingdom
+Brenchley,4,United_Kingdom
+Gorakhpur,4,India
+Peasemore,4,United_Kingdom
+McCarter Theatre,4,United_States
+"Blackwater, Arizona",5,United_States
+Tottenham Hale,3,United_Kingdom
+San Vito al Tagliamento,7,Italy
+Goffs Oak,4,United_Kingdom
+Mandapeta,4,India
+North Molton,4,United_Kingdom
+Ganeshwar,4,India
+"Empire, Colorado",4,United_States
+"St Mary's Bay, Kent",8,United_Kingdom
+Sant'Andrea della Valle,6,Italy
+Puthalapattu,6,India
+Mundulla,3,Australia
+"Gangapur, Bhilwara",7,India
+Black Butte Lake,4,United_States
+"Sale, Victoria",4,Australia
+Burano,3,Italy
+Crews Hill railway station,6,United_Kingdom
+"Cathedral Park, Portland, Oregon",8,United_States
+Azzano Decimo,5,Italy
+Bingley,3,United_Kingdom
+Blackfen,3,United_Kingdom
+Birmaharajpur,6,India
+Montebelluna,4,Italy
+"Dubois County, Indiana",6,United_States
+Bharatpur district,5,India
+"San Lorenzo, Florence",5,Italy
+"Grady County, Georgia",5,United_States
+Hodal,3,India
+"Crofton, West Yorkshire",6,United_Kingdom
+Busseto,4,Italy
+Banbasa,3,India
+Virar,3,India
+"McCoy, Colorado",5,United_States
+Great Lake (Tasmania),7,Australia
+Willow Springs Lake,4,United_States
+Parramatta Road,5,Australia
+Ballyhalbert,5,United_Kingdom
+Ukai Dam,4,India
+"St. Philomena's Cathedral, Mysore",10,India
+Montedoro,4,Italy
+Sterzing,3,Italy
+Blevio,4,Italy
+"Cecil Hills, New South Wales",7,Australia
+Englefield Green,5,United_Kingdom
+Paulerspury,5,United_Kingdom
+Moodabidri,5,India
+Hounslow East tube station,7,United_Kingdom
+Bhawani Mandi,5,India
+"Epping, Essex",5,United_Kingdom
+"Richton Park, Illinois",6,United_States
+"Stephens County, Oklahoma",6,United_States
+Friston,4,United_Kingdom
+Colleferro,3,Italy
+Wagait Beach,4,Australia
+City of Port Augusta,5,Australia
+Sangole,3,India
+Maccagno,4,Italy
+Cerami,3,Italy
+Bristol,2,United_Kingdom
+Mumbai City district,4,India
+"Gays, Illinois",5,United_States
+Barwani,3,India
+Montella,3,Italy
+Musiri,3,India
+"Mau, Bhind",5,India
+"Baychester, Bronx",5,United_States
+"Lurnea, New South Wales",7,Australia
+"Graeagle, California",5,United_States
+San Giorgio Piacentino,5,Italy
+Simala,3,Italy
+Coulby Newham,5,United_Kingdom
+Limassol Salt Lake,6,United_Kingdom
+Littledean,3,United_Kingdom
+Mid-Coast Council,5,Australia
+Yamunanagar district,5,India
+Cassino,3,Italy
+Adirondack Mountains,5,United_States
+Magnet Theater,3,United_States
+Chipstead railway station,5,United_Kingdom
+"Pennington, Cumbria",5,United_Kingdom
+Muzaffarnagar,6,India
+Delabole,4,United_Kingdom
+"Saunemin, Illinois",6,United_States
+"Ripley, Queensland",5,Australia
+Matera,3,Italy
+"Silvis, Illinois",5,United_States
+"Bonsall, California",5,United_States
+Sindkhed Raja,5,India
+Betws-y-Coed,8,United_Kingdom
+"Châtillon, Aosta Valley",8,Italy
+"Apache Junction, Arizona",5,United_States
+"Staverton, Northamptonshire",6,United_Kingdom
+"Kinney County, Texas",6,United_States
+Province of Gorizia,5,Italy
+Province of Verona,4,Italy
+Aquileia,4,Italy
+"Upper Township, New Jersey",6,United_States
+Lake Ballard,3,Australia
+"Jordan, Montana",4,United_States
+Lewisham,3,United_Kingdom
+Saint Anthony Cathedral Basilica,5,United_States
+Maiori,3,Italy
+Sant'Oreste,5,Italy
+"Yass, New South Wales",7,Australia
+Turville,3,United_Kingdom
+Magrahat II,4,India
+"Albany County, New York",6,United_States
+"William Creek, South Australia",6,Australia
+Malaj Khand,5,India
+"Bath, Somerset",4,United_Kingdom
+Datia district,4,India
+Collarenebri,5,Australia
+Kulgam district,4,India
+Botesdale,4,United_Kingdom
+King William Street tube station,6,United_Kingdom
+"Franklin County, New York",6,United_States
+Lake George (New South Wales),8,Australia
+"Cliffwood Beach, New Jersey",7,United_States
+Surendranagar district,6,India
+Samadhi of Bodhendra Saraswathi,10,India
+Maryland railway station,4,United_Kingdom
+Anjediva Island,5,India
+"Goodrich, Texas",5,United_States
+Goat Island (Port Jackson),7,Australia
+Vizzini,4,Italy
+Mamoiada,4,Italy
+"Lower Portland, New South Wales",7,Australia
+"Queens Park, New South Wales",7,Australia
+Mohanur,4,India
+"Church of Saint Francis, Kochi",7,India
+"Risdon, Tasmania",5,Australia
+Newcastle Inner City Bypass,5,Australia
+"Blairsden, California",6,United_States
+"Toms River (CDP), New Jersey",9,United_States
+Stocks House,3,United_Kingdom
+"Broadlands, Virginia",5,United_States
+Coryton Power Station,5,United_Kingdom
+Ceprano,3,Italy
+Colwall,3,United_Kingdom
+Hitchin,3,United_Kingdom
+Castiglione d'Orcia,8,Italy
+"Stratton, Colorado",5,United_States
+"Big Spring, Texas",5,United_States
+"Millthorpe, New South Wales",7,Australia
+Bhagawangola II,6,India
+Broughshane,5,United_Kingdom
+Treia,3,Italy
+Mississippi,2,United_States
+"Cockburn, South Australia",6,Australia
+Barkly Tableland,5,Australia
+Coimbatore,4,India
+Horton in Ribblesdale,7,United_Kingdom
+Blackpool,3,United_Kingdom
+Horncastle,3,United_Kingdom
+"Viroqua, Wisconsin",6,United_States
+Trebetherick,5,United_Kingdom
+Hackney Downs railway station,6,United_Kingdom
+"Beckham County, Oklahoma",6,United_States
+"Blackbutt, Queensland",5,Australia
+"Upper Mount Gravatt, Queensland",7,Australia
+Nadiad,3,India
+Corato,3,Italy
+Loreto Aprutino,6,Italy
+"Versailles, Pennsylvania",5,United_States
+Bhadohi,4,India
+Lake Varese,4,Italy
+Preganziol,4,Italy
+Ritchie's Archipelago,6,India
+Rockhampton Region,4,Australia
+Frizington,4,United_Kingdom
+Brandeston,3,United_Kingdom
+"Bellingen, New South Wales",8,Australia
+"Yarra Junction, Victoria",6,Australia
+"Black Rock, Victoria",5,Australia
+"St Margaret's Church, Barking",9,United_Kingdom
+"Weston, New South Wales",7,Australia
+Church of Santa Maria Primerana,7,Italy
+"Greta, Victoria",4,Australia
+Loppington,4,United_Kingdom
+Basilica of Superga,6,Italy
+"Moorestown, New Jersey",7,United_States
+Saltfleet,3,United_Kingdom
+Saundatti,4,India
+Bankstown,3,Australia
+Loxwood,4,United_Kingdom
+"Gosper County, Nebraska",6,United_States
+Narcondam Island,5,India
+"Bedford, Virginia",5,United_States
+Puncha (community development block),8,India
+Bhagalpur district,5,India
+Moyna (community development block),8,India
+Theodore Roosevelt Lake,4,United_States
+Roccella Ionica,5,Italy
+"Smyrna, Maine",6,United_States
+Beohari,4,India
+"Calverton, Nottinghamshire",6,United_Kingdom
+"Loch Sport, Victoria",5,Australia
+Castle Donington,4,United_Kingdom
+Barkston Ash,4,United_Kingdom
+"Hooe, East Sussex",6,United_Kingdom
+"Mascot, New South Wales",7,Australia
+Pavagada,4,India
+Rockport Reservoir,4,United_States
+Mistley,3,United_Kingdom
+Smoky Mountains (Idaho),7,United_States
+"Barwick, Somerset",5,United_Kingdom
+Crawley Down,4,United_Kingdom
+Coonabarabran,6,Australia
+Bradford,2,United_Kingdom
+Varappuzha,5,India
+"Santa Maria di Loreto, Rome",7,Italy
+"Yarrabah, Queensland",6,Australia
+"Melton West, Victoria",6,Australia
+Hounslow Central tube station,7,United_Kingdom
+"Woodford, New South Wales",7,Australia
+Cobram,3,Australia
+"Madhopur, Siwan",7,India
+"Kadina, South Australia",6,Australia
+"Kingfisher County, Oklahoma",6,United_States
+Thiruvananthapuram Taluk,8,India
+"Genoa, Victoria",5,Australia
+Madukkarai,5,India
+Goolgowi,4,Australia
+Gravedona ed Uniti,6,Italy
+Apethorpe,3,United_Kingdom
+"Thornton, Merseyside",5,United_Kingdom
+"Stony Creek, Victoria",6,Australia
+Canyon Ferry Lake,4,United_States
+Santi Cosma e Damiano,7,Italy
+Sapri,3,Italy
+Giugliano in Campania,6,Italy
+"Shorncliffe, Queensland",6,Australia
+Singleton Council,3,Australia
+Zungoli,4,Italy
+"Narooma, New South Wales",8,Australia
+"Rowville, Victoria",5,Australia
+Travagliato,4,Italy
+"Ki Ki, South Australia",6,Australia
+Andhra Pradesh Capital Region,6,India
+Cerea,3,Italy
+Samdari,3,India
+Valsad,3,India
+"Villa Grove, Illinois",5,United_States
+"Conrad, Iowa",4,United_States
+"Mitchellville, Maryland",5,United_States
+"Mullaley, New South Wales",7,Australia
+Rhosllanerchrugog,8,United_Kingdom
+Eccles Theater,3,United_States
+"Walton County, Florida",6,United_States
+"Church of Holy Trinity, Minories",8,United_Kingdom
+Pugal,3,India
+"Saint Francis Xavier Cathedral (Green Bay, Wisconsin)",11,United_States
+Cingoli,4,Italy
+"Harrietville, Victoria",5,Australia
+"Normanton, Queensland",5,Australia
+Burton Agnes,3,United_Kingdom
+Aurangabad division,5,India
+"Pekin, Illinois",5,United_States
+"Sevenhill, South Australia",6,Australia
+Lake Galena (Pennsylvania),7,United_States
+"Bramley, Hampshire",5,United_Kingdom
+Uppada,3,India
+Villa Saraceno,4,Italy
+Coalville,3,United_Kingdom
+Pattazhy,4,India
+Clun,3,United_Kingdom
+"Cathedral of the Immaculate Conception (Tyler, Texas)",12,United_States
+"Belgium (town), Wisconsin",6,United_States
+Christleton,3,United_Kingdom
+Lewes,3,United_Kingdom
+"Grandview, Missouri",5,United_States
+"Mundur, Palakkad",7,India
+Basilica of San Albino,7,United_States
+Sevier Lake,4,United_States
+Lake Oconee,5,United_States
+"Kosciusko County, Indiana",7,United_States
+"Bard, Aosta Valley",6,Italy
+"Cathedral of St. Raymond Nonnatus (Joliet, Illinois)",16,United_States
+"Rokewood, Victoria",6,Australia
+Blackley,3,United_Kingdom
+"Tohatchi, New Mexico",7,United_States
+Sathankulam,5,India
+"Freetown, Indiana",5,United_States
+Webster Lake (Indiana),6,United_States
+Sarroch,3,Italy
+Tower 49,5,United_States
+Cinisi,3,Italy
+Bracciano,4,Italy
+Denver Federal Center,4,United_States
+Purley railway station,5,United_Kingdom
+"El Paso County, Colorado",6,United_States
+"Bucks County, Pennsylvania",5,United_States
+City of Liverpool (New South Wales),9,Australia
+Holmbury St Mary,6,United_Kingdom
+Haldia Energy Power Station,6,India
+"Nagar, Rajasthan",5,India
+Sakleshpur,4,India
+Cathedral of Christ the King (Atlanta),10,United_States
+Nagayalanka mandal,6,India
+Ronciglione,5,Italy
+Wazirabad barrage,6,India
+"Underwood, Nottinghamshire",6,United_Kingdom
+Aldgate,3,United_Kingdom
+"Bagdah, North 24 Parganas",11,India
+Shottesbrooke,4,United_Kingdom
+"Meander, Tasmania",5,Australia
+Port Macquarie,3,Australia
+"Cathedral of the Holy Name, Mumbai",9,India
+Palo Verde Nuclear Generating Station,6,United_States
+Jashpur district,5,India
+Peschiera Borromeo,6,Italy
+Gradara,3,Italy
+High Island (Bronx),7,United_States
+Bexley railway station,6,United_Kingdom
+Lake Burragorang,5,Australia
+"Mangan, India",5,India
+"Catherine Field, New South Wales",7,Australia
+"Penne, Abruzzo",6,Italy
+Menaggio,3,Italy
+"Livingston, California",5,United_States
+Grenada Lake,4,United_States
+"San Lorenzo, Florence",5,Italy
+New Barnet railway station,5,United_Kingdom
+Anticoli Corrado,5,Italy
+Skipsea,3,United_Kingdom
+"Blairsden, California",6,United_States
+"Wadalba, New South Wales",8,Australia
+Lincoln Place (Pittsburgh),6,United_States
+Santa Maria della Scala,5,Italy
+Trovo,3,Italy
+"McLeansboro, Illinois",7,United_States
+Tikamgarh,4,India
+"Quakers Hill, New South Wales",8,Australia
+"Burney, California",5,United_States
+"Dover, Tasmania",4,Australia
+"Camp County, Texas",5,United_States
+Thirukkurungudi,7,India
+Rupanyup,4,Australia
+Vejalpur,4,India
+"Mount Vernon, New York",6,United_States
+"Minto, New South Wales",7,Australia
+Udaipur,4,India
+"Robbinston, Maine",6,United_States
+Burmantofts,5,United_Kingdom
+Vercelli,3,Italy
+"Kempsey, New South Wales",8,Australia
+"English College, Rome",5,Italy
+"Turner, Australian Capital Territory",6,Australia
+Priolo Gargallo,5,Italy
+Thirthahalli,4,India
+Riesi,3,Italy
+Great Dog Island (Tasmania),8,Australia
+Hunstanton,4,United_Kingdom
+Derwent Valley Council,5,Australia
+"Smiths Lake, New South Wales",8,Australia
+Paud,3,India
+"Gangapur, Maharashtra",5,India
+"Liberty Township, New Jersey",6,United_States
+Beed,3,India
+Sir Roden Cutler VC Memorial Interchange,8,Australia
+San Miniato al Monte,6,Italy
+Birdsville,3,Australia
+"Hollinwood, Greater Manchester",7,United_Kingdom
+Anghiari,4,Italy
+"Vinton County, Ohio",6,United_States
+"Garden Grove, Iowa",5,United_States
+Monteleone di Puglia,6,Italy
+Pazhayangadi,5,India
+"Bubble Houses (Hobe Sound, Florida)",10,United_States
+Skelton-in-Cleveland,7,United_Kingdom
+Katherine Region,3,Australia
+Thriplow,4,United_Kingdom
+Cambusbarron,5,United_Kingdom
+"Bonneville County, Idaho",6,United_States
+"Lucas, Victoria",4,Australia
+"Emerton, New South Wales",7,Australia
+St Pancras railway station,6,United_Kingdom
+"Bellmere, Queensland",5,Australia
+"Bomaderry, New South Wales",8,Australia
+Japonski Island,4,United_States
+Bremhill,4,United_Kingdom
+Preston Road tube station,5,United_Kingdom
+Lakhisarai district,5,India
+Washington Avenue Immigration Station,5,United_States
+Limone Piemonte,4,Italy
+Anston,3,United_Kingdom
+"Verona, Mississippi",5,United_States
+Goalpokhar II,5,India
+Lake Burragorang,5,Australia
+"Clayton, California",4,United_States
+"Correggio, Emilia-Romagna",8,Italy
+Ruislip Gardens tube station,7,United_Kingdom
+Vergato,3,Italy
+Medak Cathedral,4,India
+Upper Edmonton,3,United_Kingdom
+Province of Cagliari,4,Italy
+Biddenden,4,United_Kingdom
+Twerton,4,United_Kingdom
+Bopal,3,India
+Zirakpur,5,India
+Numinbah Valley,5,Australia
+"Peacock & Chinkara Breeding Centre, Jhabua",11,India
+"Richland, Mississippi",5,United_States
+Muthuthala,5,India
+"Paterson, New South Wales",7,Australia
+Cattolica,4,Italy
+"Bement, Illinois",5,United_States
+Bowthorpe,3,United_Kingdom
+Province of Rieti,5,Italy
+Palakkad district,5,India
+"Church Point, New South Wales",7,Australia
+Dal-Tex Building,5,United_States
+Kingston SE,3,Australia
+Molokai,4,United_States
+New Wine Church,4,United_Kingdom
+Tuvvur,4,India
+Rogerstone,3,United_Kingdom
+"Cass County, Michigan",5,United_States
+Thotapalli Barrage,7,India
+Gattinara,4,Italy
+"Coominya, Queensland",6,Australia
+"Preston, Texas",4,United_States
+Sabaudia,4,Italy
+"Munno Para, South Australia",7,Australia
+"Clontarf, New South Wales",8,Australia
+Dibrugarh district,5,India
+"Monte Vista, Colorado",5,United_States
+Borgo San Lorenzo,5,Italy
+Carters Lake (Blue Ridge Mountains),9,United_States
+Goa Velha,4,India
+Concesio,4,Italy
+"Bagor, Rajasthan",5,India
+Thenford,3,United_Kingdom
+Mayacamas Mountains,5,United_States
+Moresco,3,Italy
+Vattavada,4,India
+"Walnut Grove, California",5,United_States
+"Safety Beach, Victoria",5,Australia
+Castiglione d'Orcia,8,Italy
+"Tolmie, Victoria",5,Australia
+Sihora,4,India
+"Katherine, Northern Territory",5,Australia
+"St. Peter's Catholic Church (Charlotte, North Carolina)",14,United_States
+"Carson, Iowa",4,United_States
+"Scotland County, North Carolina",6,United_States
+Rocca Imperiale,5,Italy
+Birrong,3,Australia
+"Vincennes, Indiana",5,United_States
+"Trundle, New South Wales",8,Australia
+"Rodeo, New Mexico",6,United_States
+"Skye, Victoria",4,Australia
+Sant'Angelo in Pescheria,7,Italy
+Watford tube station,5,United_Kingdom
+Rourkela,4,India
+"Mount Louisa, Queensland",5,Australia
+Sands End,4,United_Kingdom
+Makrana,3,India
+Croxteth,4,United_Kingdom
+Hooghly Women's College,8,India
+Ramban district,4,India
+Tolentino,3,Italy
+Codogno,3,Italy
+"Cannonvale, Queensland",5,Australia
+"I Gesuiti, Venice",7,Italy
+"Boise County, Idaho",6,United_States
+Yambuk,3,Australia
+Khodiyar Dam,5,India
+Clusone,4,Italy
+Cherry Lake,3,United_States
+Gateley,3,United_Kingdom
+"Hugo, Colorado",4,United_States
+"Richmond County, Georgia",5,United_States
+Medicina,3,Italy
+Monterchi,3,Italy
+"Lincoln, California",4,United_States
+"Thorrur, Ranga Reddy district",9,India
+"Howell, Utah",5,United_States
+Furfura Sharif,5,India
+"Wyandra, Queensland",5,Australia
+North Harrow tube station,5,United_Kingdom
+Nalbari,4,India
+Saluzzo,3,Italy
+San Valentino in Abruzzo Citeriore,9,Italy
+"Macarthur, Victoria",5,Australia
+Kanpur Nagar district,5,India
+Barua Sagar Tal,5,India
+Lyonshall,4,United_Kingdom
+Jorhat district,4,India
+"Nundle, New South Wales",7,Australia
+"Hardee County, Florida",6,United_States
+"Clarksville, Virginia",6,United_States
+Boulder City Hospital,4,United_States
+Greater Lowell,3,United_States
+Basilica of Superga,6,Italy
+East Croydon station,4,United_Kingdom
+"Ripon, Wisconsin",5,United_States
+Greasbrough,4,United_Kingdom
+"Cathedral Church of St. Luke (Orlando, Florida)",13,United_States
+Bagheria,3,Italy
+Clapham South tube station,6,United_Kingdom
+Acton Central railway station,6,United_Kingdom
+Province of Agrigento,6,Italy
+Campogalliano,4,Italy
+Appleton Roebuck,5,United_Kingdom
+"Puttur, Andhra Pradesh",6,India
+Barrow upon Humber,5,United_Kingdom
+St Estevam,4,India
+Sambhal district,5,India
+Quartu Sant'Elena,7,Italy
+"Tiruppattur, Sivaganga",9,India
+North Tripura district,4,India
+Fall Lake (New York),7,United_States
+Craven Arms,4,United_Kingdom
+Church of St Mary Axe,6,United_Kingdom
+"Crescent Springs, Kentucky",6,United_States
+South Harrow tube station,5,United_Kingdom
+"Nairne, South Australia",7,Australia
+Peschiera del Garda,6,Italy
+"Perth, Tasmania",4,Australia
+Finchley Road & Frognal railway station,10,United_Kingdom
+"Stratford, New Jersey",6,United_States
+Lonate Pozzolo,6,Italy
+Casa del Fascio (Como),8,Italy
+"Bhadravati, Karnataka",6,India
+Trezzo sull'Adda,7,Italy
+"Milparinka, New South Wales",8,Australia
+Buja,3,Italy
+"St Andrew's Church, Rome",8,Italy
+Bordighera,5,Italy
+Giltbrook,4,United_Kingdom
+"Brownsville, Brooklyn",6,United_States
+Sassa,3,Italy
+Wallasey,3,United_Kingdom
+Phek district,4,India
+"Ron, Karnataka",4,India
+Walloon Lake,4,United_States
+Malltraeth,4,United_Kingdom
+Birchwood,3,United_Kingdom
+"Teton County, Idaho",6,United_States
+Ladakh Range,4,India
+"Cockfield, County Durham",6,United_Kingdom
+Lucignano,3,Italy
+East Croydon station,4,United_Kingdom
+Geography of Guam,4,United_States
+Bhimtal,5,India
+"Rego Park, Queens",6,United_States
+Chikkaballapura district,7,India
+Manachanallur,6,India
+Giannutri,3,Italy
+Viareggio,3,Italy
+St Bartholomew-by-the-Exchange,9,United_Kingdom
+"Taylors Arm, New South Wales",8,Australia
+"Townsville City, Queensland",6,Australia
+Siskiyou Mountains,5,United_States
+Shree Singaji Thermal Power Project,8,India
+Carasco,3,Italy
+"Avoca Beach, New South Wales",8,Australia
+"Vernon, Utah",4,United_States
+Caia Park,4,United_Kingdom
+Gunbarrel Highway,4,Australia
+"Great Bridge, West Midlands",6,United_Kingdom
+"Paddington tube station (Bakerloo, Circle and District lines)",14,United_Kingdom
+Anzio,3,Italy
+"Cardiff, Alabama",4,United_States
+Uttar Dinajpur district,7,India
+Bhandara district,5,India
+Sirhind-Fategarh,7,India
+Shivsagar Lake,5,India
+Holbeach,3,United_Kingdom
+Verwood,3,United_Kingdom
+"Balgownie, New South Wales",8,Australia
+Province of Crotone,5,Italy
+"Long County, Georgia",5,United_States
+"Cathedral Parish of Saint Patrick (El Paso, Texas)",13,United_States
+Quindici,4,Italy
+"Upwey, Victoria",5,Australia
+Kanpur Nagar district,5,India
+Sirmione,4,Italy
+"Dennisville, New Jersey",6,United_States
+Palkonda Hills,5,India
+"Beverley, South Australia",6,Australia
+Coriano,3,Italy
+Salaparuta,4,Italy
+Brigg,3,United_Kingdom
+Borough of Wokingham,6,United_Kingdom
+Wandsworth Town railway station,6,United_Kingdom
+"Banda, Uttar Pradesh",5,India
+"Glennallen, Alaska",5,United_States
+"Seisia, Queensland",5,Australia
+"Treasure Island, San Francisco",6,United_States
+Pleasants Power Station,5,United_States
+Strait of Messina,5,Italy
+"Balarampur, Purulia",8,India
+Cappella Sansevero,6,Italy
+Ri-Bhoi district,6,India
+"Poulton, Gloucestershire",5,United_Kingdom
+Celle Ligure,5,Italy
+Goring-by-Sea,7,United_Kingdom
+Numurkah,4,Australia
+"Winchelsea, Victoria",5,Australia
+Spa Road railway station,5,United_Kingdom
+Bondi Beach,4,Australia
+Bagnone,3,Italy
+Huliyurdurga,7,India
+"Castle Rock, Colorado",5,United_States
+"Home Hill, Queensland",5,Australia
+Lonato del Garda,5,Italy
+"Putnam County, New York",7,United_States
+Ujina,3,India
+Tortora,3,Italy
+Shire of Isis,5,Australia
+Riverway Stadium,4,Australia
+Loharu,3,India
+Capri,3,Italy
+Capurso,4,Italy
+Burrowbridge,4,United_Kingdom
+"Kalbar, Queensland",5,Australia
+Lago di Mezzola,5,Italy
+Lyminster,3,United_Kingdom
+Telangana Secretariat,4,India
+Tickenham,4,United_Kingdom
+Boudh,3,India
+"Sadorus, Illinois",6,United_States
+Barton Mills,3,United_Kingdom
+Vellanad,4,India
+"Terranora, New South Wales",8,Australia
+Gadag district,4,India
+Church Village,3,United_Kingdom
+"Loganlea, Queensland",5,Australia
+"Canal Point, Florida",5,United_States
+"Slab City, Wisconsin",5,United_States
+Chipping Norton Lake,5,Australia
+"Linton, Victoria",5,Australia
+Bhandara,4,India
+Santa Maria del Popolo,6,Italy
+Manbazar,4,India
+Thullur,4,India
+"Ghaziabad district, Uttar Pradesh",8,India
+Buscemi,4,Italy
+Udgir,4,India
+Armidale Regional Council,6,Australia
+Sassa,3,Italy
+Monte Argentario,4,Italy
+"Thornton, Merseyside",5,United_Kingdom
+Civitella del Tronto,7,Italy
+Santo Stefano Belbo,5,Italy
+Aosta Valley,4,Italy
+"Woodburn, New South Wales",7,Australia
+"Wake County, North Carolina",6,United_States
+Goulburn Mulwaree Council,8,Australia
+Bemetara district,5,India
+Civitella del Tronto,7,Italy
+Geography of the British Virgin Islands,7,United_Kingdom
+San Giorgio di Piano,5,Italy
+Great Baddow,5,United_Kingdom
+"Pickens County, Georgia",6,United_States
+Cowan Lake (Ohio),7,United_States
+"Decatur County, Tennessee",6,United_States
+Sangli district,4,India
+Manesar,3,India
+Lake Eyre basin,4,Australia
+"Littlefield, Texas",5,United_States
+San Quirico d'Orcia,8,Italy
+Catania,4,Italy
+"Gainesville, Georgia",6,United_States
+"Jamieson, Victoria",5,Australia
+"Cathedral of Saint Patrick (Harrisburg, Pennsylvania)",12,United_States
+"Ropes Crossing, New South Wales",8,Australia
+Moltrasio,4,Italy
+"Cato, Wisconsin",5,United_States
+"Sikka, India",5,India
+"Two Buttes, Colorado",6,United_States
+"Cooloola Cove, Queensland",7,Australia
+"Martin County, Florida",5,United_States
+Mathi,3,Italy
+Saidul Ajaib,5,India
+"Pultneyville, New York",8,United_States
+Shyampur II,5,India
+Dengie,4,United_Kingdom
+Brown Memorial Presbyterian Church,5,United_States
+"Parliament House, Hobart",5,Australia
+Carlton Colville,4,United_Kingdom
+"Bushnell, Florida",5,United_States
+"Wadi, Maharashtra",5,India
+Province of Viterbo,5,Italy
+Tuscany,3,Italy
+Malvan,3,India
+"Jordan, Montana",4,United_States
+Horndon-on-the-Hill,9,United_Kingdom
+"Leisure City, Florida",5,United_States
+El Dorado Lake,4,United_States
+Santa Maria dello Spasimo,6,Italy
+Sundergarh district,5,India
+"Montgomery County, Georgia",5,United_States
+"Aurangabad district, Bihar",7,India
+"Peapack-Gladstone, New Jersey",9,United_States
+"Rosary Cathedral (Toledo, Ohio)",9,United_States
+"Bridge Road, Melbourne",5,Australia
+Se Cathedral,3,India
+Baduria,3,India
+Sabarkantha district,5,India
+Mottola,3,Italy
+Centuripe,4,Italy
+Ukrah,3,India
+"Belden, California",5,United_States
+Gioiosa Ionica,5,Italy
+"Sugarmill Woods, Florida",7,United_States
+Campogalliano,4,Italy
+"Cooloola Cove, Queensland",7,Australia
+Varallo Sesia,5,Italy
+"Como, Colorado",4,United_States
+First African Methodist Episcopal Church of Los Angeles,9,United_States
+"Cooling, Kent",4,United_Kingdom
+Prizzi,3,Italy
+Macchiagodena,5,Italy
+Williams Tower,3,United_States
+Paud,3,India
+"Palazzo Giustiniani, Rome",7,Italy
+Skinningrove,4,United_Kingdom
+"Hartley, New South Wales",7,Australia
+"Bronte, New South Wales",7,Australia
+City of Adelaide,4,Australia
+"Sunny Corner, New South Wales",7,Australia
+Milford Lake,4,United_States
+"Mount Surprise, Queensland",5,Australia
+Pedakakani mandal,6,India
+"Rolleston, Queensland",5,Australia
+"Barringun, Queensland",6,Australia
+Library of Birmingham,4,United_Kingdom
+Breganze,4,Italy
+"Oxley, New South Wales",7,Australia
+Trino,3,Italy
+"Cobbitty, New South Wales",8,Australia
+Civitella del Tronto,7,Italy
+Banavara,4,India
+Province of Messina,4,Italy
+City of Gold Coast,5,Australia
+Clent,3,United_Kingdom
+Tennant Creek,4,Australia
+Sittingbourne,3,United_Kingdom
+Catania,4,Italy
+"Cody, Wyoming",4,United_States
+Sahuarita Lake,5,United_States
+Gazeley,3,United_Kingdom
+"Gumlu, Queensland",5,Australia
+Ballinamallard,5,United_Kingdom
+Liddington,3,United_Kingdom
+"Lyndoch, South Australia",7,Australia
+Bankstown,3,Australia
+Sagar Island,4,India
+"Epsom, Victoria",5,Australia
+Shivrajpur,4,India
+Bhoodan Pochampally,8,India
+"Glendenning, New South Wales",8,Australia
+Reggio Calabria,4,Italy
+Locri,3,Italy
+Trearddur,4,United_Kingdom
+Rhyl,3,United_Kingdom
+Corinaldo,3,Italy
+"Bloomington, Wisconsin",5,United_States
+San Giovanni Valdarno,6,Italy
+"Greene County, Tennessee",5,United_States
+Windy Hill Wind Farm,6,Australia
+"Lockhart River, Queensland",6,Australia
+"Centre Place, Melbourne",5,Australia
+Sant'Omobono,6,Italy
+"Santissima Trinità dei Pellegrini, Rome",9,Italy
+"Bourton, Dorset",5,United_Kingdom
+Bridge Theatre,3,United_Kingdom
+"Lafayette County, Florida",6,United_States
+Salur mandal,4,India
+Gajapathinagaram,8,India
+Galliate,4,Italy
+"Riverview, Queensland",5,Australia
+Gravesend,3,United_Kingdom
+Great Chart,3,United_Kingdom
+"Burnett Heads, Queensland",6,Australia
+Gopiganj,5,India
+"Running Springs, California",5,United_States
+Catenanuova,6,Italy
+Temora Shire,4,Australia
+"Warneet, Victoria",5,Australia
+San Nicola in Carcere,6,Italy
+Castelnuovo Rangone,6,Italy
+Malito,3,Italy
+"Vermillion, South Dakota",6,United_States
+Milan Cathedral,3,Italy
+"Lawrence County, Tennessee",5,United_States
+"Eumundi, Queensland",6,Australia
+Pugalur,4,India
+"Burla, India",5,India
+Trana,3,Italy
+Moena,3,Italy
+Santhu,3,India
+"Banda district, India",5,India
+Sicily,3,Italy
+"Multnomah, Portland, Oregon",8,United_States
+Montecchio Maggiore,5,Italy
+"Bangor Base, Washington",6,United_States
+Sauris,4,Italy
+"Mount Evelyn, Victoria",5,Australia
+Mugalkhod,4,India
+Muddenahalli,4,India
+"Bell Gardens, California",5,United_States
+Ayappakkam,5,India
+Meghraj,4,India
+Mazhuvannoor,6,India
+"Pennant Hills, New South Wales",8,Australia
+Stuart Highway,3,Australia
+Glaston,3,United_Kingdom
+Copper Coast Council,4,Australia
+Lake Eyre basin,4,Australia
+"Mirganj, Uttar Pradesh",6,India
+West Coast Council,4,Australia
+Church of St Mary Axe,6,United_Kingdom
+Santi Pietro e Paolo a Via Ostiense,10,Italy
+Regent Theatre (Sydney),7,Australia
+Patharpratima,5,India
+Silea,3,Italy
+"Basilica of Our Lady Help of Christians, Turin",11,Italy
+"Camp County, Texas",5,United_States
+Herrington Lake,4,United_States
+Glenavy,3,United_Kingdom
+"St Peter's Church, Huddersfield",8,United_Kingdom
+"Berriedale, Tasmania",6,Australia
+"Cape May Court House, New Jersey",8,United_States
+East Putney tube station,6,United_Kingdom
+Baglihar Dam,5,India
+"Galena Park, Texas",6,United_States
+Celle di Bulgheria,7,Italy
+Nabarangpur,4,India
+Raymond Terrace,3,Australia
+"Johnston, Pembrokeshire",6,United_Kingdom
+Scorzè,4,Italy
+Lake Granbury,4,United_States
+Torrumbarry,5,Australia
+"Tysons, Virginia",6,United_States
+Shadwell DLR station,6,United_Kingdom
+Avola,3,Italy
+In the Heart of the Beast Puppet and Mask Theatre,11,United_States
+White Bear Lake (Minnesota),7,United_States
+Shoolagiri,4,India
+Ganjam,3,India
+Capel Celyn,5,United_Kingdom
+Unsworth,3,United_Kingdom
+Zunheboto district,7,India
+"Manchester, Vermont",4,United_States
+"Ballard, California",5,United_States
+"Millaa Millaa, Queensland",8,Australia
+Sahaspur,4,India
+"White Island, Isles of Scilly",8,United_Kingdom
+Don Pedro Reservoir,4,United_States
+"Caulfield South, Victoria",7,Australia
+"Dean Park, New South Wales",7,Australia
+Clifton Court Forebay,6,United_States
+"Bradfield, Berkshire",5,United_Kingdom
+Gogri Jamalpur,5,India
+"Ulster County, New York",7,United_States
+Matrice,3,Italy
+"Armstrong County, Pennsylvania",5,United_States
+"Hermannsburg, Northern Territory",7,Australia
+"Siddapura, Uttara Kannada",8,India
+Medina Lake,4,United_States
+Thiruverumbur,6,India
+"Stanhope, New Jersey",6,United_States
+Gold Creek Dam,4,Australia
+"Smithton, Tasmania",5,Australia
+Tuffley,4,United_Kingdom
+"Gratiot County, Michigan",6,United_States
+Stoke-by-Clare,7,United_Kingdom
+Cascia,3,Italy
+"Calwa, California",5,United_States
+Navajo Lake (Utah),8,United_States
+"Nar Nar Goon, Victoria",7,Australia
+Valluvar Kottam,6,India
+Macherla mandal,5,India
+Strait Island,4,India
+Canada Water station,4,United_Kingdom
+"Nerriga, New South Wales",7,Australia
+Luton Airport Parkway railway station,7,United_Kingdom
+Gajendragad,6,India
+San Giuseppe Vesuviano,5,Italy
+"Mala, Kerala",4,India
+"Sampson County, North Carolina",7,United_States
+"Wallace, California",4,United_States
+Ushaw Moor,4,United_Kingdom
+Bannur,4,India
+Cascia,3,Italy
+Hay Shire,3,Australia
+Pittsburgh Playhouse,3,United_States
+Monte Sant'Angelo,5,Italy
+"Cranbury, New Jersey",6,United_States
+Penge West railway station,6,United_Kingdom
+Burton Bradstock,4,United_Kingdom
+Sanderstead,3,United_Kingdom
+"Cobbitty, New South Wales",8,Australia
+Shawano Lake,4,United_States
+"Virginia, Queensland",4,Australia
+"Bement, Illinois",5,United_States
+Copeland Islands,4,United_Kingdom
+Borgonovo Val Tidone,7,Italy
+"Garden City, New York",6,United_States
+Beddau,3,United_Kingdom
+"Tunnel City, Wisconsin",5,United_States
+"Shipley, West Yorkshire",6,United_Kingdom
+San Donà di Piave,7,Italy
+Quepem taluk,5,India
+Appleton Thorn,4,United_Kingdom
+Villa Rosebery,4,Italy
+Ramganga Dam,5,India
+Thiruparankundram Dargah,9,India
+Sathupalli,5,India
+"Gesù e Maria, Rome",7,Italy
+"Inner City Bypass, Brisbane",6,Australia
+Mukutmanipur,5,India
+Vikravandi,5,India
+Green Park tube station,5,United_Kingdom
+Gambellara,4,Italy
+"Standish, Greater Manchester",6,United_Kingdom
+"Lajamanu, Northern Territory",8,Australia
+Province of Taranto,5,Italy
+"Steeple, Essex",6,United_Kingdom
+"Nemaha County, Nebraska",6,United_States
+Club Fugazi,5,United_States
+"Barkhamsted, Connecticut",6,United_States
+"Wayne County, New York",6,United_States
+"Clayfield, Queensland",5,Australia
+"How, Wisconsin",4,United_States
+"Maida, Calabria",5,Italy
+MacDonnell Ranges,4,Australia
+"Belvidere, Illinois",6,United_States
+Garstang,3,United_Kingdom
+"Paulding County, Ohio",6,United_States
+Buttrio,3,Italy
+Veneto,3,Italy
+"Harris County, Georgia",5,United_States
+Vastral,3,India
+Sarnico,4,Italy
+Cocullo,3,Italy
+Lake Tyrrell,4,Australia
+Pentrefoelas,5,United_Kingdom
+San Felice del Benaco,7,Italy
+Nagamangala,5,India
+"Madha, Maharashtra",5,India
+"Callahan County, Texas",6,United_States
+Radlett railway station,5,United_Kingdom
+St. Aloysius Chapel,7,India
+"Corsicana, Texas",5,United_States
+"Bramley, Surrey",5,United_Kingdom
+Pathri,3,India
+"Coonawarra, South Australia",8,Australia
+Rovereto,4,Italy
+"Crook, County Durham",6,United_Kingdom
+Friuli Venezia Giulia,5,Italy
+Murgon,4,Australia
+"Carcoar, New South Wales",8,Australia
+"Strathalbyn, South Australia",8,Australia
+Hassan district,3,India
+"Geurie, New South Wales",7,Australia
+Bardhaman Sadar South subdivision,8,India
+Bisignano,3,Italy
+Santhal Pargana division,6,India
+Thorncombe,3,United_Kingdom
+Sothuparai Dam,6,India
+Robbio,3,Italy
+"Elderslie, New South Wales",8,Australia
+Theale,3,United_Kingdom
+Hampton railway station (London),7,United_Kingdom
+Georges Hall,3,Australia
+Shirur Anantpal,6,India
+"Heyfield, Victoria",5,Australia
+"Beckemeyer, Illinois",6,United_States
+Hampstead Heath railway station,6,United_Kingdom
+"Risby, Suffolk",5,United_Kingdom
+Bhilai,4,India
+"Cathedral of the Immaculate Conception (Memphis, Tennessee)",12,United_States
+Streatham Hill railway station,7,United_Kingdom
+"Montague County, Texas",6,United_States
+"Angourie, New South Wales",8,Australia
+Vembanad,4,India
+"Dover, Tasmania",4,Australia
+"Gardner, Illinois",4,United_States
+Province of Bari,4,Italy
+Westermost Rough Wind Farm,6,United_Kingdom
+Sileby,4,United_Kingdom
+Capenhurst,4,United_Kingdom
+Cilgerran,4,United_Kingdom
+"Goroke, Victoria",6,Australia
+Minsterley,4,United_Kingdom
+Cento,3,Italy
+Claverley,3,United_Kingdom
+"Canley Vale, New South Wales",8,Australia
+Aurangabad,4,India
+Campofelice di Roccella,7,Italy
+Adelaide Plains Council,4,Australia
+"Sugar City, Colorado",5,United_States
+"Brandywine, Maryland",6,United_States
+"Gaines County, Texas",6,United_States
+Calcinate,4,Italy
+"Stone Park, Illinois",5,United_States
+"Gatesville, North Carolina",6,United_States
+"Stanley, Falkland Islands",5,United_Kingdom
+"Carmel (hamlet), New York",9,United_States
+Choutuppal,5,India
+"Bear Creek, Alaska",5,United_States
+Rionero in Vulture,6,Italy
+"Blakeney, Norfolk",6,United_Kingdom
+Apice,3,Italy
+Gabicce Mare,5,Italy
+"Thirubuvanam, Thanjavur",9,India
+Siston,3,United_Kingdom
+Stowmarket,4,United_Kingdom
+"Bronte, Sicily",5,Italy
+"Engadine, New South Wales",7,Australia
+Narmada district,5,India
+Haggetts Pond,5,United_States
+"Hoppers Crossing, Victoria",6,Australia
+Skewen,3,United_Kingdom
+"Eastland County, Texas",6,United_States
+Castelnuovo Don Bosco,6,Italy
+Shivsagar Lake,5,India
+Purbasthali I,6,India
+Macugnaga,4,Italy
+Dillon Reservoir,4,United_States
+Costigliole d'Asti,9,Italy
+Palazzo Lancia,4,Italy
+King William Street tube station,6,United_Kingdom
+Torremaggiore,5,Italy
+"Vacy, New South Wales",7,Australia
+"Bent County, Colorado",5,United_States
+Thoubal,3,India
+"Breakwater, Victoria",5,Australia
+Wycheproof,4,Australia
+Appiano Gentile,4,Italy
+Bollate,4,Italy
+"20, Ashoka Road",7,India
+Villarosa,4,Italy
+San Pietro Vernotico,6,Italy
+Kearny Generating Station,6,United_States
+"Baryulgil, New South Wales",9,Australia
+Byham Theater,4,United_States
+"St Mary's Church, Hendon",9,United_Kingdom
+Rainbow Lake (Arizona),6,United_States
+"El Lago, Texas",5,United_States
+Mondragone,4,Italy
+Barauli Rao,5,India
+"Live Oak, Sutter County, California",8,United_States
+"Black Hill, Victoria",5,Australia
+Beawar,3,India
+Villafranca di Verona,6,Italy
+"Linville, Queensland",5,Australia
+Lake Stanley Draper,4,United_States
+"Deagon, Queensland",5,Australia
+Bisignano,3,Italy
+"Patonga, New South Wales",7,Australia
+"Coen, Queensland",5,Australia
+Cavarzere,4,Italy
+"Burleigh Waters, Queensland",6,Australia
+Bishop's Waltham,5,United_Kingdom
+Rouse Hill House,5,Australia
+Puckapunyal,4,Australia
+"Elanora, Queensland",6,Australia
+Bagnara Calabra,6,Italy
+Wandsworth Common railway station,6,United_Kingdom
+"Elkhart County, Indiana",6,United_States
+"Bella Vista, New South Wales",7,Australia
+Tonypandy,4,United_Kingdom
+Lopez Island,3,United_States
+Lake Como,3,Italy
+"Yeoval, New South Wales",8,Australia
+"Alexander County, North Carolina",6,United_States
+Thrikaripur,5,India
+"Deer Park, Texas",5,United_States
+Sirkazhi,4,India
+Penna Ahobilam,7,India
+Lowton,3,United_Kingdom
+"Mount Crosby, Queensland",5,Australia
+Wagait Beach,4,Australia
+"Patti, Uttar Pradesh",5,India
+Sanctuary Point,4,Australia
+Mondovì,4,Italy
+"Anakie, Victoria",5,Australia
+Loughgall,4,United_Kingdom
+"Hawker, South Australia",6,Australia
+"Branksome, Dorset",6,United_Kingdom
+Farook College,4,India
+"Ansonia, Connecticut",5,United_States
+Skewen,3,United_Kingdom
+"Clackamas, Oregon",6,United_States
+Muguru,3,India
+Huntspill,3,United_Kingdom
+Bawburgh,4,United_Kingdom
+"Sioux County, Nebraska",6,United_States
+"Mount Stuart, Tasmania",5,Australia
+Ben Chifley Dam,6,Australia
+Brompton Road tube station,6,United_Kingdom
+Huttons Ambo,5,United_Kingdom
+Anglesea Power Station,5,Australia
+New York Theatre Workshop,5,United_States
+Fourmile Lake (Oregon),7,United_States
+Perinaldo,3,Italy
+"Trevi, Umbria",6,Italy
+Apricale,3,Italy
+Peoplestown,4,United_States
+"Piccadilly, South Australia",6,Australia
+"Albert, New South Wales",6,Australia
+"Bokarina, Queensland",5,Australia
+"Quentin, Pennsylvania",4,United_States
+Monkton Combe,5,United_Kingdom
+"Oaklands, New South Wales",7,Australia
+Aalo,3,India
+Priolo Gargallo,5,Italy
+"Fyansford, Victoria",6,Australia
+Sanderstead,3,United_Kingdom
+Rende,3,Italy
+San Felice da Cantalice a Centocelle,11,Italy
+Cervinara,4,Italy
+"Cerulean, Kentucky",6,United_States
+"Pimba, South Australia",6,Australia
+Thrippunithura,7,India
+Manly Council,4,Australia
+"Brooksville, Florida",5,United_States
+Corigliano-Rossano,7,Italy
+Zone 3 of Milan,6,Italy
+"Purcellville, Virginia",6,United_States
+All Hallows Staining,5,United_Kingdom
+Valle di Cadore,5,Italy
+Mid-Coast Council,5,Australia
+Waidhan,4,India
+"Two Boats, Ascension Island",6,United_Kingdom
+Vanavasi,4,India
+Thengapattanam,6,India
+Zokhawthar,5,India
+East India DLR station,6,United_Kingdom
+Bon Air (Pittsburgh),6,United_States
+Province of Alessandria,5,Italy
+First Presbyterian Church (Tulsa),8,United_States
+Bagnacavallo,5,Italy
+Nakkapalle,4,India
+Caltagirone,5,Italy
+"Moorooduc, Victoria",6,Australia
+Holme-on-Spalding-Moor,11,United_Kingdom
+Jost Van Dyke,5,United_Kingdom
+"Verna, Goa",5,India
+"Versailles, Illinois",5,United_States
+Resolven,3,United_Kingdom
+"Meadow Heights, Victoria",6,Australia
+Monte Isola,3,Italy
+Main North Road,4,Australia
+Santa Balbina,4,Italy
+"Kiama, New South Wales",7,Australia
+Mundon,3,United_Kingdom
+Beldanga,4,India
+Maharana Pratap Sagar,6,India
+Santi Domenico e Sisto,6,Italy
+"Alpurrurulam, Northern Territory",9,Australia
+Tirunelveli district,6,India
+San Fele,4,Italy
+Jubilee Oval,4,Australia
+Lane Cove Council,4,Australia
+Rodd Point,4,Australia
+Crawley Down,4,United_Kingdom
+"Zarephath, New Jersey",8,United_States
+"Civic, Australian Capital Territory",6,Australia
+Lake Maumelle,4,United_States
+June Lake (California),6,United_States
+Sansepolcro,5,Italy
+Stadio Adriatico – Giovanni Cornacchia,10,Italy
+"Lowick, Northumberland",5,United_Kingdom
+Theni,3,India
+"Cook County, Georgia",5,United_States
+"Pomona, Queensland",5,Australia
+"Esperance, Western Australia",6,Australia
+Biancavilla,3,Italy
+"Livingston, California",5,United_States
+Melaghar,4,India
+Getalsud Dam,5,India
+"Collector, New South Wales",6,Australia
+Dalston Junction railway station,6,United_Kingdom
+Vadamadurai,5,India
+"Frenchs Forest, New South Wales",8,Australia
+"Calliano, Trentino",6,Italy
+"Brinkworth, Wiltshire",6,United_Kingdom
+"Poulton, Gloucestershire",5,United_Kingdom
+Gravina in Puglia,5,Italy
+"Baddaginnie, Victoria",7,Australia
+"Kilkivan, Queensland",6,Australia
+"Rockhampton City, Queensland",6,Australia
+Angostura Reservoir,5,United_States
+"Holy Trinity, Sloane Street",6,United_Kingdom
+"Castor, Cambridgeshire",6,United_Kingdom
+"Cardington, Bedfordshire",6,United_Kingdom
+"Yunta, South Australia",6,Australia
+Carisbrooke,4,United_Kingdom
+Nawada district,4,India
+Peringamala,5,India
+"Bensonhurst, Brooklyn",5,United_States
+Merstham railway station,6,United_Kingdom
+Tirhut division,4,India
+Loughguile,5,United_Kingdom
+"Calamvale, Queensland",6,Australia
+Giussano,4,Italy
+"Rubyvale, Queensland",5,Australia
+"Krambach, New South Wales",8,Australia
+"Macleod, Victoria",6,Australia
+Traralgon,4,Australia
+Lecce,3,Italy
+"St John the Baptist's Church, Clayton",10,United_Kingdom
+"Standish, Greater Manchester",6,United_Kingdom
+"Mustafabad, Delhi",6,India
+"Marlo, Victoria",5,Australia
+"Geneva, Florida",4,United_States
+"Vestal, New York",6,United_States
+Province of Gorizia,5,Italy
+"Grays, Essex",5,United_Kingdom
+Canning Town,4,United_Kingdom
+"Moonta, South Australia",6,Australia
+"Mount Pleasant, Wisconsin",5,United_States
+Brandeston,3,United_Kingdom
+Gannavaram,5,India
+Santa Pudenziana,5,Italy
+"San Lucas, California",5,United_States
+"Sami, Gujarat",4,India
+Lake Lahontan (reservoir),8,United_States
+City of Melton,4,Australia
+"Wyoming County, New York",6,United_States
+"Clifton, Bedfordshire",6,United_Kingdom
+Sahaswan,4,India
+"Harcourt, Victoria",5,Australia
+Zafferana Etnea,6,Italy
+"Lake Boga, Victoria",5,Australia
+"Bellagio, Lombardy",6,Italy
+"Capalaba, Queensland",6,Australia
+Prototype Fast Breeder Reactor,6,India
+Fulwell railway station,5,United_Kingdom
+"Boone, Colorado",5,United_States
+"College Point, Queens",5,United_States
+Bogangar,4,Australia
+St Stephen Walbrook,5,United_Kingdom
+Burano,3,Italy
+Morbi,3,India
+"Lugarno, New South Wales",7,Australia
+"Sisquoc, California",6,United_States
+City of Orange (New South Wales),9,Australia
+Lunkaransar,6,India
+"Vishnupuri, Nanded",7,India
+Caulonia,4,Italy
+London Waterloo station,4,United_Kingdom
+Loy Yang Power Station,5,Australia
+Strongoli,3,Italy
+"Glenrowan, Victoria",6,Australia
+Eluru,3,India
+Ururi,4,Italy
+Lago di Varano,5,Italy
+"Castleton, Derbyshire",5,United_Kingdom
+Montereale Valcellina,7,Italy
+"Broadmeadows, Victoria",6,Australia
+"Vineyard, New South Wales",7,Australia
+United States Institute of Peace Headquarters,7,United_States
+Lake Casa Blanca,4,United_States
+Maiori,3,Italy
+Province of Trieste,4,Italy
+Ukhrul,4,India
+Chipstead railway station,5,United_Kingdom
+"Gravity, Iowa",4,United_States
+Barcellona Pozzo di Gotto,8,Italy
+Lake Cleveland,3,United_States
+"Preston, Tyne and Wear",6,United_Kingdom
+Limone sul Garda,5,Italy
+Chatra district,4,India
+"Caves Beach, New South Wales",8,Australia
+City of Playford,5,Australia
+"Kendall, New South Wales",6,Australia
+Morigaon district,5,India
+Caloundra,4,Australia
+"Borden County, Texas",6,United_States
+Letchworth,4,United_Kingdom
+Muckhart,4,United_Kingdom
+"Russellville, Kentucky",5,United_States
+Mungra Badshahpur,7,India
+Periyapattinam,6,India
+"Lubbock, Texas",5,United_States
+Kaltukatjara,5,Australia
+Barry Way,3,Australia
+Gennargentu,5,Italy
+"Goombungee, Queensland",7,Australia
+City of Dubbo,5,Australia
+"Learmonth, Victoria",5,Australia
+"Blessed Sacrament Catholic Church, Hollywood",7,United_States
+"Yeoval, New South Wales",8,Australia
+Llay,3,United_Kingdom
+Moneglia,4,Italy
+Tiptur,4,India
+Rendlesham,4,United_Kingdom
+Barauni IOC Township,5,India
+Castelvecchio Calvisio,8,Italy
+Tajewala Barrage,6,India
+Mughalsarai,5,India
+Thingwall,3,United_Kingdom
+Minting,3,United_Kingdom
+"Martin County, Kentucky",5,United_States
+"Castro District, San Francisco",6,United_States
+"Collier County, Florida",6,United_States
+"Mount Gravatt East, Queensland",7,Australia
+Sironj,4,India
+"Boronia Heights, Queensland",6,Australia
+"Rochedale South, Queensland",7,Australia
+Vadipatti,5,India
+Gavardo,3,Italy
+"Graettinger, Iowa",6,United_States
+Upton Grey,4,United_Kingdom
+"Salem, Montserrat",4,United_Kingdom
+Gargnano,3,Italy
+Council Grove Lake,4,United_States
+"Horton, Berkshire",5,United_Kingdom
+Lake Ewauna,4,United_States
+Anderson Lake (California),6,United_States
+Province of Salerno,4,Italy
+"Caddo Parish, Louisiana",6,United_States
+Tidworth,3,United_Kingdom
+"Black Forest, South Australia",6,Australia
+Rogate,3,United_Kingdom
+"Monticello, Illinois",5,United_States
+Aravakurichi,6,India
+Sant'Atanasio,6,Italy
+"Carnaby, East Riding of Yorkshire",8,United_Kingdom
+Varazze,4,Italy
+"Carroll County, Georgia",5,United_States
+Maiden Newton,4,United_Kingdom
+Deiniolen,4,United_Kingdom
+Lake Wawasee,5,United_States
+"St. Mary's Syro-Malabar Cathedral Basilica, Ernakulam",18,India
+King's Road Chelsea railway station,8,United_Kingdom
+Mysore,3,India
+San Pietro in Cariano,6,Italy
+"Upton, Northamptonshire",6,United_Kingdom
+"Center Township, Marion County, Indiana",8,United_States
+"Brighton, Tasmania",4,Australia
+Tooborac,4,Australia
+Nizamabad district,6,India
+"Jones County, Georgia",5,United_States
+Magliano in Toscana,5,Italy
+Siena,3,Italy
+Province of Ascoli Piceno,7,Italy
+Studland,3,United_Kingdom
+"Giria, India",5,India
+Claviere,3,Italy
+"Elton, Cheshire",4,United_Kingdom
+"Angwin, California",5,United_States
+Mangalore,3,India
+"Loyola, California",5,United_States
+"Surat, Queensland",4,Australia
+Phayeng,4,India
+"Carmel-by-the-Sea, California",11,United_States
+Province of Naples,4,Italy
+"Deer Park, Wisconsin",5,United_States
+City of Willoughby,4,Australia
+Licodia Eubea,6,Italy
+820 Fifth Avenue,6,United_States
+"Ripley, Surrey",5,United_Kingdom
+Santa Maria in Monserrato degli Spagnoli,11,Italy
+Cassano Magnago,5,Italy
+Anguillara Veneta,7,Italy
+Dudhatoli,4,India
+Gatley,3,United_Kingdom
+Cinderford,4,United_Kingdom
+Andreas (parish),6,United_Kingdom
+Myrniong,4,Australia
+Bearsted,3,United_Kingdom
+Bansberia,3,India
+Pernambut,4,India
+Ganderbal,4,India
+Province of Carbonia-Iglesias,8,Italy
+Manchester Central Library,4,United_Kingdom
+"Mangonia Park, Florida",6,United_States
+"Vincentown, New Jersey",6,United_States
+"Mission Beach, Queensland",5,Australia
+Palazzo della Consulta,4,Italy
+Pawai,3,India
+Krishnagiri district,4,India
+"Bottesford, Leicestershire",6,United_Kingdom
+Tursi,3,Italy
+Starwood (nightclub),7,United_States
+"Castle Cove, New South Wales",7,Australia
+Balasore district,4,India
+"Weabonga, New South Wales",8,Australia
+Mathurapur II,5,India
+Niyamgiri,4,India
+Shirpur,3,India
+"Riverton, New Jersey",6,United_States
+"Sahuarita, Arizona",6,United_States
+"Bombo, New South Wales",7,Australia
+Mandi Gobindgarh,6,India
+Nyah,3,Australia
+Styal,3,United_Kingdom
+"Wantirna, Victoria",6,Australia
+"Connells Point, New South Wales",8,Australia
+Purulia Sadar West subdivision,8,India
+"Derby Line, Vermont",5,United_States
+"Bucknell, Shropshire",5,United_Kingdom
+Ford Rotunda,4,United_States
+"Sand City, California",5,United_States
+Galsi I,4,India
+Tower 49,5,United_States
+Stratford High Street DLR station,8,United_Kingdom
+Tricase,3,Italy
+Glanamman,5,United_Kingdom
+Stuart Highway,3,Australia
+Balesar,4,India
+"Lavaca County, Texas",6,United_States
+Giulianova,4,Italy
+City of Banyule,5,Australia
+Bangaon subdivision,5,India
+Brompton-on-Swale,8,United_Kingdom
+Loders,3,United_Kingdom
+Bagasara,4,India
+"Bonito, Campania",5,Italy
+"Mundur, Palakkad",7,India
+Trowbridge,4,United_Kingdom
+"Burpham, Surrey",5,United_Kingdom
+Machhlishahr,5,India
+"Davis, Illinois",4,United_States
+Sivaganga,4,India
+"Eighty Four, Pennsylvania",6,United_States
+"Tanilba Bay, New South Wales",9,Australia
+Bissam Cuttack,6,India
+Gunnersbury station,5,United_Kingdom
+Barjora (community development block),9,India
+Black Mountains (North Carolina),7,United_States
+Dolomites,4,Italy
+Liddington,3,United_Kingdom
+Bhattiprolu,6,India
+Shadwell DLR station,6,United_Kingdom
+Viterbo,4,Italy
+"Little Mountain, Queensland",5,Australia
+Conza della Campania,5,Italy
+Salaparuta,4,Italy
+Prinsep Ghat,4,India
+San Michele al Tagliamento,7,Italy
+"Grantham, Queensland",5,Australia
+"Wayne County, Nebraska",5,United_States
+Epsom,3,United_Kingdom
+Barbican tube station,5,United_Kingdom
+Gandhinagar district,5,India
+"Bauple, Queensland",5,Australia
+"Morgan County, Colorado",5,United_States
+Revò,3,Italy
+Sattal,4,India
+Gleno Dam,4,Italy
+Monte San Giovanni Campano,6,Italy
+Turnpike Lane tube station,6,United_Kingdom
+"Chester County, Tennessee",5,United_States
+Punpun,3,India
+Sofitel New York Hotel,6,United_States
+City of Broken Hill,5,Australia
+"Beerwah, Jammu and Kashmir",7,India
+"Holland Park West, Queensland",6,Australia
+Beaumont Leys,5,United_Kingdom
+Pulgaon,3,India
+"Yarck, Victoria",5,Australia
+Mazzin,4,Italy
+Matagorda Bay,5,United_States
+Hutton Rudby,5,United_Kingdom
+"Lopatcong Township, New Jersey",8,United_States
+Aldwych tube station,5,United_Kingdom
+Burnt Oak,3,United_Kingdom
+"Tantanoola, South Australia",8,Australia
+"Besthorpe, Norfolk",5,United_Kingdom
+Pattran,4,India
+"Peotone, Illinois",5,United_States
+"Dooly County, Georgia",6,United_States
+"Aztalan, Wisconsin",6,United_States
+"Franklin, Illinois",4,United_States
+"St. Lucie County, Florida",7,United_States
+"Lara, Victoria",4,Australia
+Sassuolo,3,Italy
+Santa Maria Consolatrice al Tiburtino,10,Italy
+Sardinia,4,Italy
+"Mochdre, Conwy",7,United_Kingdom
+Torre Pellice,4,Italy
+Trecastagni,5,Italy
+"Queen Street, Melbourne",5,Australia
+Borivali-Padgha,7,India
+"Samsi, Malda",6,India
+Croydon,3,United_Kingdom
+Mondragone,4,Italy
+The Goodsyard,5,United_Kingdom
+"Morven, Queensland",5,Australia
+"Rumson, New Jersey",6,United_States
+"Gallipoli, Apulia",7,Italy
+Jammu district,4,India
+"Bulahdelah, New South Wales",9,Australia
+West County Energy Center,5,United_States
+Tomatin,3,United_Kingdom
+No. 1 Deansgate,7,United_Kingdom
+"Blakeney, Gloucestershire",6,United_Kingdom
+"Velur, Thrissur",7,India
+Ryhall,3,United_Kingdom
+Byron Shire,3,Australia
+Vadodara district,5,India
+Province of Cosenza,6,Italy
+"Locust Point, Baltimore",6,United_States
+San Vito dei Normanni,6,Italy
+"Walkerston, Queensland",5,Australia
+"Geneseo, Illinois",6,United_States
+Castiglione della Pescaia,7,Italy
+Hackney Central railway station,6,United_Kingdom
+"Sarath, Deoghar",6,India
+"Yarra Junction, Victoria",6,Australia
+"Thornbury, Gloucestershire",5,United_Kingdom
+Canosa di Puglia,5,Italy
+"Yunta, South Australia",6,Australia
+"Collinsville, Illinois",5,United_States
+"Berrigan, New South Wales",7,Australia
+"Malua Bay, New South Wales",8,Australia
+Cercola,3,Italy
+"Mahoning County, Ohio",6,United_States
+Frosterley,4,United_Kingdom
+Thundersley,4,United_Kingdom
+Kynuna,4,Australia
+"Moonie, Queensland",5,Australia
+"St Mary's Church, Watford",8,United_Kingdom
+Blackhorse Road station,5,United_Kingdom
+"Hope, New Mexico",5,United_States
+K2 Leisure Centre,5,United_Kingdom
+"Belmont, Victoria",5,Australia
+Isleworth railway station,5,United_Kingdom
+"Boronia, Victoria",5,Australia
+Sizewell nuclear power stations,6,United_Kingdom
+"Home Hill, Queensland",5,Australia
+Gangavalli,4,India
+Denshaw,3,United_Kingdom
+Vejalpur,4,India
+Malur,3,India
+"Holladay, Utah",6,United_States
+"Gol Gol, New South Wales",7,Australia
+"Zion, Illinois",4,United_States
+Koderma district,4,India
+Matheran,4,India
+Burnopfield,4,United_Kingdom
+Saltora (community development block),8,India
+Great Wakering,4,United_Kingdom
+Tomerong,4,Australia
+Glacial Lake Wisconsin,5,United_States
+Pescara,3,Italy
+Basilica della Collegiata,6,Italy
+Stoke Poges,5,United_Kingdom
+"Steeple, Essex",6,United_Kingdom
+"Salem, New York",5,United_States
+"Three Bridges, New Jersey",6,United_States
+One Commerce Plaza,4,United_States
+"Horton, Northamptonshire",6,United_Kingdom
+"St Lawrence, Essex",5,United_Kingdom
+Bois Blanc Island (Michigan),7,United_States
+"Rubyvale, Queensland",5,Australia
+"Dunkeld, Victoria",5,Australia
+"Lutana, Tasmania",5,Australia
+"Holy Trinity, Sloane Street",6,United_Kingdom
+"Aonla, Uttar Pradesh",7,India
+Motta di Livenza,7,Italy
+Beaumaris,4,United_Kingdom
+"Cudgewa, Victoria",6,Australia
+Twitchell Reservoir,5,United_States
+Rozzano,3,Italy
+Sleemanabad,4,India
+Mehkar,3,India
+"Beeston, Norfolk",5,United_Kingdom
+House of Loreius Tiburtinus,8,Italy
+Chipstead railway station,5,United_Kingdom
+North Garo Hills district,6,India
+St Kilda Junction,5,Australia
+Valanchery,4,India
+"Hoddles Creek, Victoria",7,Australia
+Llanfair Talhaiarn,7,United_Kingdom
+"St Lawrence, Queensland",5,Australia
+"Moab, Utah",5,United_States
+"Howard, Queensland",4,Australia
+Bishnupur II,6,India
+"Clifton Beach, Tasmania",6,Australia
+San Mauro Pascoli,5,Italy
+Lake Massaciuccoli,6,Italy
+Papal Basilica of Saint Mary of the Angels in Assisi,12,Italy
+Udhna,4,India
+Googong Dam,5,Australia
+Simdega,3,India
+Bagnolo Mella,5,Italy
+"St. Anne's Church (Annapolis, Maryland)",13,United_States
+"Thorofare, New Jersey",7,United_States
+Castelvetrano,5,Italy
+Castelnuovo Don Bosco,6,Italy
+"Elberon, New Jersey",7,United_States
+Vakkom,3,India
+Brewarrina Shire,5,Australia
+"Thornton, Merseyside",5,United_Kingdom
+Praiano,3,Italy
+"Aquasco, Maryland",5,United_States
+"Longport, New Jersey",6,United_States
+Medstead,3,United_Kingdom
+Santa Maria dell'Anima,6,Italy
+Dhankar Lake,4,India
+"Trevi, Umbria",6,Italy
+Llanbedrog,5,United_Kingdom
+"Washington County, Nebraska",5,United_States
+"Scala, Campania",4,Italy
+"Bingil Bay, Queensland",6,Australia
+Mavli,3,India
+City of Brisbane,4,Australia
+"Samsula-Spruce Creek, Florida",9,United_States
+San Pietro in Ciel d'Oro,8,Italy
+"Broke, New South Wales",6,Australia
+"Thornton, Illinois",5,United_States
+Mugnano del Cardinale,5,Italy
+Tsundur,3,India
+Tockholes,4,United_Kingdom
+Curtis Culwell Center,5,United_States
+Tividale,4,United_Kingdom
+"Turvey Park, New South Wales",8,Australia
+Monks Eleigh,5,United_Kingdom
+Castello del Valentino,5,Italy
+"Tin Can Bay, Queensland",6,Australia
+"Gaston County, North Carolina",7,United_States
+Bempton,3,United_Kingdom
+"Coburg North, Victoria",6,Australia
+Australian Grains Genebank,6,Australia
+"Palazzo della Ragione, Milan",7,Italy
+Antilia (building),6,India
+Laxmangarh Fort,5,India
+Bellampalle,4,India
+Macclesfield,4,United_Kingdom
+Bahula,3,India
+"Pearl Beach, New South Wales",7,Australia
+Gympie Region,5,Australia
+"Glassboro, New Jersey",6,United_States
+"Carmel (hamlet), New York",9,United_States
+Magione,3,Italy
+Mahadevpur,4,India
+Tocumwal,4,Australia
+"Blyn, Washington",5,United_States
+Uttarlai,4,India
+"Bottesford, Leicestershire",6,United_Kingdom
+Loch na Keal,5,United_Kingdom
+Stoke Rochford,5,United_Kingdom
+Luserna,4,Italy
+"Manalapan Township, New Jersey",8,United_States
+Holmbury St Mary,6,United_Kingdom
+"St Mary of the Angels, Bayswater",9,United_Kingdom
+"Umina Beach, New South Wales",8,Australia
+Losal,3,India
+Tilehurst,3,United_Kingdom
+"Barhi, Katni",6,India
+"Burnside, Victoria",5,Australia
+Lake Lemon,3,United_States
+Satara (city),6,India
+"Tramonti, Campania",6,Italy
+"Terranora, New South Wales",8,Australia
+San Giuseppe dei Falegnami,8,Italy
+Tramin an der Weinstraße,7,Italy
+"Hokendauqua, Pennsylvania",7,United_States
+Bertinoro,4,Italy
+Lake Conroe,4,United_States
+"Carmel-by-the-Sea, California",11,United_States
+"Euston, New South Wales",8,Australia
+"Pen, India",4,India
+"Mount Burr, South Australia",6,Australia
+City of Hobsons Bay,7,Australia
+Loughgall,4,United_Kingdom
+"Los Alamos, California",5,United_States
+"Viadana, Lombardy",7,Italy
+Boree Creek,4,Australia
+"Levanto, Liguria",7,Italy
+Monte Sant'Angelo,5,Italy
+"Grangetown, North Yorkshire",7,United_Kingdom
+"Independent Presbyterian Church (Birmingham, Alabama)",9,United_States
+"Holbrook, New South Wales",7,Australia
+"Malana, Himachal Pradesh",6,India
+Lake Wister,4,United_States
+"Ryde, New South Wales",7,Australia
+"Bella, Basilicata",5,Italy
+Hotel Texas,3,United_States
+Bogangar,4,Australia
+Loughton tube station,5,United_Kingdom
+"Hudswell, North Yorkshire",6,United_Kingdom
+"Bella Vista, New South Wales",7,Australia
+Berhampore subdivision,5,India
+City of Whitehorse,5,Australia
+Mondovì,4,Italy
+Magione,3,Italy
+Colvale,3,India
+"Sandford, Tasmania",5,Australia
+"Collingsworth County, Texas",7,United_States
+"Conondale, Queensland",5,Australia
+"Nelligen, New South Wales",8,Australia
+Kanchipuram district,5,India
+Bhitarwar,4,India
+Port Macquarie-Hastings Council,7,Australia
+Province of Carbonia-Iglesias,8,Italy
+Luna Leederville,5,Australia
+Lochcarron,4,United_Kingdom
+Harold Wood railway station,5,United_Kingdom
+"Sturgis, South Dakota",6,United_States
+Hazelwood Power Station,5,Australia
+Zone 9 of Milan,6,Italy
+Visnagar,3,India
+Madonna della Ceriola,5,Italy
+Betchton,4,United_Kingdom
+"Gladysdale, Victoria",6,Australia
+Bayana,3,India
+Sturminster Marshall,5,United_Kingdom
+"Elaine, Victoria",4,Australia
+Province of Novara,5,Italy
+Caddington,3,United_Kingdom
+Sant'Antonio Abate,6,Italy
+Matool,4,India
+Snake Mountain (Vermont),6,United_States
+Bangaon (community development block),9,India
+Budawang Range,4,Australia
+Cambusbarron,5,United_Kingdom
+"Green Brook Township, New Jersey",7,United_States
+"Lucas County, Ohio",5,United_States
+"Lampasas County, Texas",6,United_States
+"Yan Yean, Victoria",6,Australia
+Monte Porzio Catone,6,Italy
+Nagina,3,India
+"Salem, Fulton County, Arkansas",7,United_States
+Sacile,3,Italy
+"Burra, New South Wales",7,Australia
+Ukrainian Catholic National Shrine of the Holy Family,9,United_States
+"Wantirna, Victoria",6,Australia
+"Merino, Victoria",5,Australia
+Courmayeur,4,Italy
+Sicily,3,Italy
+"Fleming County, Kentucky",6,United_States
+Boundary Pass,3,United_States
+Virginia–Highland,4,United_States
+Bhagabanpur I,6,India
+Province of Ancona,4,Italy
+Crowan,3,United_Kingdom
+Siwan district,4,India
+Penugonda,4,India
+"Likely, California",4,United_States
+"Santi Giovanni e Paolo, Venice",7,Italy
+"Devarapalle, West Godavari district",10,India
+"Creswick, Victoria",5,Australia
+Trimdon,4,United_Kingdom
+Cremona,3,Italy
+"Canterbury, Victoria",5,Australia
+"Austral, New South Wales",6,Australia
+"Wallington, London",5,United_Kingdom
+Torricella Peligna,7,Italy
+"Pedgaon, Ahmednagar",6,India
+"Sidney, Illinois",4,United_States
+Jindera,4,Australia
+Epping tube station,5,United_Kingdom
+"Cabras, Sardinia",5,Italy
+Tidmarsh,3,United_Kingdom
+Kokrajhar district,5,India
+Warrumbungles,6,Australia
+"Tylden, Victoria",5,Australia
+Salur mandal,4,India
+"Gateshead, New South Wales",7,Australia
+"El Arish, Queensland",6,Australia
+"Starke, Florida",5,United_States
+Cold Aston,3,United_Kingdom
+"Santan, Arizona",5,United_States
+Salekasa,3,India
+"Taylor County, Florida",5,United_States
+Triora,3,Italy
+Tithal,4,India
+Bagpat district,4,India
+"South Durras, New South Wales",8,Australia
+Castle Carrock,4,United_Kingdom
+Beaver Valley Nuclear Power Station,6,United_States
+"Gallia County, Ohio",6,United_States
+"Rosedale, California",6,United_States
+Shire of Southern Grampians,8,Australia
+Daund taluka,5,India
+Musabani,4,India
+"Ward, Colorado",4,United_States
+Queen's Park station (England),9,United_Kingdom
+Hugh Town,3,United_Kingdom
+"Murray Bridge, South Australia",6,Australia
+Stoney Stanton,4,United_Kingdom
+Purnia,3,India
+Canning Town station,5,United_Kingdom
+"Stamford Bridge, East Riding of Yorkshire",9,United_Kingdom
+Calitri,3,Italy
+"Stanley, Falkland Islands",5,United_Kingdom
+Wayanad district,5,India
+Calderdale,4,United_Kingdom
+"Hook, Hart",4,United_Kingdom
+Nampong,4,India
+Gannavaram mandal,6,India
+Bolsena,4,Italy
+Melapalayam,4,India
+Croydon,3,United_Kingdom
+Remenham,4,United_Kingdom
+Udupi,4,India
+Woomelang,4,Australia
+"Cathedral of Saint Jude the Apostle (St. Petersburg, Florida)",15,United_States
+"Lake Leake, Tasmania",6,Australia
+"Bagh, Dhar",4,India
+"Beachwood, New Jersey",6,United_States
+Satwas,3,India
+Rupnarayanpur,5,India
+Pentrefoelas,5,United_Kingdom
+Cowplain,3,United_Kingdom
+Locana,3,Italy
+"Maurice River Township, New Jersey",7,United_States
+"Roberts, Wisconsin",4,United_States
+"Stanwell Tops, New South Wales",8,Australia
+Bari Brahmana,4,India
+"Crescent Head, New South Wales",8,Australia
+"Lincoln County, New Mexico",6,United_States
+Skaneateles Lake,6,United_States
+"Descanso, California",5,United_States
+Mahilpur,4,India
+Kangra district,4,India
+National Synchrotron Light Source II,7,United_States
+Monterotondo,4,Italy
+Fourmile Lake (Oregon),7,United_States
+"Collinsville, Queensland",5,Australia
+San Miniato,4,Italy
+"Miramar, Florida",5,United_States
+Pyalong,4,Australia
+Torness nuclear power station,6,United_Kingdom
+"Stretton, Warrington",5,United_Kingdom
+"Suamico, Wisconsin",5,United_States
+Pattingham,3,United_Kingdom
+"Pukatja, South Australia",7,Australia
+Stoneycroft,4,United_Kingdom
+Mainpuri,3,India
+Mandrayal,3,India
+Nainital,4,India
+"Appling, Georgia",5,United_States
+Cinisi,3,Italy
+Province of Messina,4,Italy
+"Appleton, Wisconsin",5,United_States
+"Innisfail, Queensland",6,Australia
+"Fingal Head, New South Wales",9,Australia
+Croxley Green railway station,7,United_Kingdom
+"Vengara, Malappuram district",9,India
+Light Regional Council,4,Australia
+Mursan,4,India
+Lea-Hutaff Island,7,United_States
+Bulkeley,3,United_Kingdom
+"Lorton, Cumbria",5,United_Kingdom
+Bidston,3,United_Kingdom
+"Flinders Lane, Melbourne",6,Australia
+Zabarwan Range,5,India
+Alamagan,4,United_States
+Shravasti district,5,India
+Balehonnur,5,India
+"Travis County, Texas",5,United_States
+"Huntingdon County, Pennsylvania",6,United_States
+"Lode, Cambridgeshire",6,United_Kingdom
+"Hampshire County, Massachusetts",6,United_States
+"Burnside, Victoria",5,Australia
+"Batchelor, Northern Territory",7,Australia
+Sancreed,4,United_Kingdom
+Medicina,3,Italy
+"Banksia Beach, Queensland",6,Australia
+"Burke County, North Dakota",6,United_States
+"Einasleigh, Queensland",6,Australia
+"Bathurst, New South Wales",7,Australia
+Mullurkara,4,India
+San Fili,3,Italy
+Menaggio,3,Italy
+Dima Hasao district,6,India
+Lohaghat,4,India
+"Castro, Apulia",5,Italy
+Montelupo Fiorentino,6,Italy
+District Council of Mount Barker,6,Australia
+"Sadleir, New South Wales",8,Australia
+"Marion County, Ohio",5,United_States
+"Pipalyatjara, South Australia",8,Australia
+Murbad,3,India
+Burrum Heads,4,Australia
+Umbria,3,Italy
+Central railway station (London),7,United_Kingdom
+Hume Dam,4,Australia
+Dauan Island,4,Australia
+Gangarampur (community development block),10,India
+Ramban district,4,India
+Basirhat subdivision,5,India
+"Carbondale, Illinois",5,United_States
+Basavakalyan,6,India
+"Montmorency County, Michigan",7,United_States
+Frascati,4,Italy
+Varano de' Melegari,7,Italy
+Lake Ballard,3,Australia
+St Dunstan-in-the-West,10,United_Kingdom
+Birdsville,3,Australia
+"Coyote Lake (San Bernardino County, California)",10,United_States
+Buria,3,India
+Santhià,4,Italy
+Morbegno,4,Italy
+"Dunkeld, Victoria",5,Australia
+Caerano di San Marco,6,Italy
+"Shirur, Maharashtra",5,India
+Swanston Street,4,Australia
+City of Broken Hill,5,Australia
+Mudalur,4,India
+"Puna, Gujarat",5,India
+Canazei,3,Italy
+"St Cuthbert's Church, Edinburgh",8,United_Kingdom
+"Honeyville, Utah",5,United_States
+Sawtooth Range (Idaho),7,United_States
+Lonar Lake,4,India
+"Roane County, Tennessee",6,United_States
+Bickerton Island,5,Australia
+"Trundle, New South Wales",8,Australia
+Caprarola,4,Italy
+Stuyvesant Apartments,5,United_States
+"Mohan, Uttar Pradesh",6,India
+Golden Plains Shire,4,Australia
+Borgosesia,4,Italy
+Alappuzha district,6,India
+City of Moonee Valley,6,Australia
+Celle Ligure,5,Italy
+Peaslake,4,United_Kingdom
+Castiglione Falletto,6,Italy
+Cairns,3,Australia
+"Pine Creek, Northern Territory",6,Australia
+"Cottonwood, California",5,United_States
+Angera,3,Italy
+"Balmoral, Queensland",5,Australia
+Bokaro district,4,India
+Malmesbury Abbey,5,United_Kingdom
+"Creston, Iowa",5,United_States
+"Tirwa, Kannauj",6,India
+"Purchase, New York",5,United_States
+Bitton,3,United_Kingdom
+"Razorback, New South Wales",7,Australia
+City of Coffs Harbour,6,Australia
+Sasaram,3,India
+Toolern Vale,4,Australia
+Blackstone Library,4,United_States
+Tiswadi,3,India
+"Stansbury, South Australia",7,Australia
+Municipality of Woollahra,7,Australia
+Longsight,3,United_Kingdom
+"Ann Street, Brisbane",5,Australia
+Costigliole d'Asti,9,Italy
+"Harmon County, Oklahoma",5,United_States
+Arnos Grove tube station,6,United_Kingdom
+"Cowley, London",5,United_Kingdom
+"Penn Forest Township, Carbon County, Pennsylvania",9,United_States
+Barkingside tube station,6,United_Kingdom
+Boroughbridge,4,United_Kingdom
+Pragser Wildsee,5,Italy
+Dawley,3,United_Kingdom
+Huon Valley Council,5,Australia
+City of Mackay,4,Australia
+Bankura I,4,India
+"Hahndorf, South Australia",6,Australia
+"Clanfield, Oxfordshire",5,United_Kingdom
+Lake Purrumbete,5,Australia
+Sant'Anselmo all'Aventino,11,Italy
+"Kandanga, Queensland",5,Australia
+Bagnone,3,Italy
+Lonavala,4,India
+Trangie,3,Australia
+"Bayview, Northern Territory",6,Australia
+"Two Boats, Ascension Island",6,United_Kingdom
+Varangaon,4,India
+Lake Liddell,4,Australia
+Nadapuram,4,India
+"Halifax County, North Carolina",7,United_States
+"Balapur, Akola district",7,India
+"Bunbury, Cheshire",5,United_Kingdom
+Mount Gambier,4,Australia
+"Newhaven, Victoria",5,Australia
+Budrio,3,Italy
+Bland Shire,3,Australia
+"Hamblen County, Tennessee",6,United_States
+Mahim,3,India
+North Sydney Council,4,Australia
+"Bostonia, California",6,United_States
+"Holton, Suffolk",5,United_Kingdom
+Gangarampur (community development block),10,India
+"Belrose, New South Wales",7,Australia
+"Brooksville, Florida",5,United_States
+Sant'Alfio,5,Italy
+"Pentland, Queensland",5,Australia
+"Loha, Nanded district",7,India
+Colleferro,3,Italy
+St Tudy,4,United_Kingdom
+Bhiwandi,5,India
+"St Mary of the Angels Basilica, Geelong",9,Australia
+Longpi,3,India
+"Churdan, Iowa",6,United_States
+Fucecchio,4,Italy
+Wallsend,3,United_Kingdom
+Annahilt,4,United_Kingdom
+"Ringle, Wisconsin",5,United_States
+Biddulph,5,United_Kingdom
+Maduranthakam,5,India
+"Crosby County, Texas",6,United_States
+Schlanders,3,Italy
+Ghol,3,India
+"Salua, Paschim Medinipur",9,India
+Matterdale,3,United_Kingdom
+"Bonita, California",5,United_States
+San Pietro in Vincoli,6,Italy
+Hubbard Lake,4,United_States
+Gajapathinagaram,8,India
+Lodsworth,3,United_Kingdom
+"Kings Cross, New South Wales",7,Australia
+"Palazzo della Ragione, Milan",7,Italy
+Pett,3,United_Kingdom
+Meare,3,United_Kingdom
+Calascio,4,Italy
+Giltbrook,4,United_Kingdom
+"Gilberts, Illinois",5,United_States
+Blyton,3,United_Kingdom
+"Harrietville, Victoria",5,Australia
+Santa Marinella,4,Italy
+Watchung Mountains,4,United_States
+Putney Bridge tube station,6,United_Kingdom
+Balrampur,4,India
+"Pushmataha County, Oklahoma",7,United_States
+"Jordan Springs, New South Wales",7,Australia
+"Union County, Tennessee",5,United_States
+Pathapatnam,5,India
+Santa Balbina,4,Italy
+Erramala,4,India
+Graveney,4,United_Kingdom
+"Ulster County, New York",7,United_States
+Stilo,3,Italy
+Mistley,3,United_Kingdom
+"Sackville, New South Wales",7,Australia
+Tiruchanur,5,India
+"Lloyd, Florida",4,United_States
+Bhogpur,4,India
+Shire of Strathbogie,7,Australia
+Tradate,3,Italy
+"Cissna Park, Illinois",7,United_States
+Baberu,4,India
+San Cesario sul Panaro,7,Italy
+Carr Hill,3,United_Kingdom
+Tobermore,4,United_Kingdom
+Canbury,3,United_Kingdom
+Scansano,4,Italy
+Bhadran,4,India
+Llantrisant,5,United_Kingdom
+"Freehold Borough, New Jersey",7,United_States
+Perumbalam,5,India
+"Villa Grove, Illinois",5,United_States
+Joint Defense Facility Nurrungar,7,Australia
+Basugaon,4,India
+"Clear Island Waters, Queensland",6,Australia
+Sambuco,4,Italy
+Crossway Baptist Church,5,Australia
+"Montmorency County, Michigan",7,United_States
+"Tallong, New South Wales",7,Australia
+Great Shefford,4,United_Kingdom
+"Galax, Virginia",4,United_States
+Province of Arezzo,5,Italy
+St Peter's Italian Church,7,United_Kingdom
+Zocca,3,Italy
+Memari I,4,India
+San Bonaventura al Palatino,7,Italy
+Hurricane Ridge,3,United_States
+Ganapavaram mandal,7,India
+Buccinasco,5,Italy
+"Mooloolah Valley, Queensland",7,Australia
+Rashtrapati Niwas,7,India
+Montaione,3,Italy
+Gollaprolu,5,India
+"Carbondale, Colorado",5,United_States
+Limbdi,4,India
+Godshill,4,United_Kingdom
+"Bilinga, Queensland",6,Australia
+Tockenham,4,United_Kingdom
+"Hoonah–Angoon Census Area, Alaska",11,United_States
+280 Broadway,5,United_States
+Peraiyur,5,India
+Capel-y-ffin,7,United_Kingdom
+Symphony Space,3,United_States
+Melito di Porto Salvo,7,Italy
+"Arce, Lazio",5,Italy
+Nadol,3,India
+Mundford,3,United_Kingdom
+"Rockdale, Illinois",5,United_States
+Saluggia,4,Italy
+Tadworth railway station,5,United_Kingdom
+"Cathedral of Our Lady of Lourdes (Spokane, Washington)",14,United_States
+"Bilton, Harrogate",6,United_Kingdom
+"Augusta, Sicily",5,Italy
+"Mirganj, Uttar Pradesh",6,India
+PSG College of Arts and Science,7,India
+"Jollys Lookout, Queensland",7,Australia
+Courmayeur,4,Italy
+"Bali, Rajasthan",4,India
+"Myall Creek, New South Wales",8,Australia
+"Walla Walla, New South Wales",7,Australia
+Brescello,3,Italy
+"Commerce City, Colorado",5,United_States
+Sri Ganganagar district,6,India
+"Lilydale, Tasmania",5,Australia
+Llanbedr,5,United_Kingdom
+"Cambridge, Iowa",4,United_States
+Wandsworth Common railway station,6,United_Kingdom
+Theni,3,India
+Morcone,3,Italy
+Tongham,3,United_Kingdom
+Cameley,3,United_Kingdom
+Davanagere district,6,India
+Smoky Mountains (Idaho),7,United_States
+Basna,3,India
+Wardha district,4,India
+Mandalgarh,4,India
+"Grandchester, Queensland",5,Australia
+"Bhuvanagiri, Tamil Nadu",9,India
+Kurnool district,5,India
+"Stafford, Texas",5,United_States
+"Bay Point, California",5,United_States
+Pattuvam,4,India
+Luserna San Giovanni,6,Italy
+Murphy Theatre,3,United_States
+Praiano,3,Italy
+"Belton, North Lincolnshire",6,United_Kingdom
+Cannobio,4,Italy
+"Baxter Estates, New York",7,United_States
+San Gregorio Armeno,5,Italy
+"Belvidere, Illinois",6,United_States
+"Letcher County, Kentucky",6,United_States
+Carloway,3,United_Kingdom
+Bellaria – Igea Marina,7,Italy
+"Henty, New South Wales",7,Australia
+Ghatshila,5,India
+Anston,3,United_Kingdom
+"Sugar Land, Texas",5,United_States
+Barnes railway station,4,United_Kingdom
+"Doomadgee, Queensland",6,Australia
+Pathfinder Reservoir,4,United_States
+Basirhat I,5,India
+Homerton railway station,5,United_Kingdom
+"The Barley Mow, Clifton Hampden",7,United_Kingdom
+"Carter County, Tennessee",5,United_States
+Salmon Falls Dam,4,United_States
+Ouyen,3,Australia
+"Gorgonzola, Milan",6,Italy
+"Riverwood, New South Wales",7,Australia
+Sinalunga,4,Italy
+Friuli,3,Italy
+Welham Green railway station,6,United_Kingdom
+Thingwall,3,United_Kingdom
+"Cortland, Illinois",5,United_States
+Brescia,3,Italy
+City of Bayside,5,Australia
+Great Tew,3,United_Kingdom
+"Blaine County, Nebraska",6,United_States
+Lockerley,3,United_Kingdom
+Cliffsend,3,United_Kingdom
+Kannur district,4,India
+Aquileia,4,Italy
+ONGC Tripura Power Company,6,India
+Caldonazzo,5,Italy
+Sassoferrato,5,Italy
+Machilipatnam mandal,6,India
+Goldhawk Road tube station,6,United_Kingdom
+"Stewart County, Georgia",5,United_States
+Clyffe Pypard,7,United_Kingdom
+"Esk, Queensland",4,Australia
+San Pietro Infine,4,Italy
+Garbagnate Milanese,6,Italy
+"Boca Raton, Florida",5,United_States
+Morbi,3,India
+Santa Balbina,4,Italy
+Sakhinetipalli,7,India
+Holbeck,3,United_Kingdom
+Gangasagar,4,India
+Lake Wawasee,5,United_States
+"Fremont, Wisconsin",5,United_States
+Hunter Region,3,Australia
+"Campbell, Australian Capital Territory",6,Australia
+East Croydon station,4,United_Kingdom
+"Bellflower, Illinois",5,United_States
+"Wadley, Alabama",5,United_States
+Sakhinetipalli,7,India
+"Hamilton County, Ohio",5,United_States
+Tipaimukh Dam,6,India
+"Hawks Nest, New South Wales",7,Australia
+Sambuca di Sicilia,6,Italy
+"Bondi Junction, New South Wales",8,Australia
+"Minooka, Illinois",5,United_States
+"Jefferson County, Pennsylvania",5,United_States
+Catenanuova,6,Italy
+Ulundurpet taluka,7,India
+Mount Lindesay (Queensland),8,Australia
+"McDonough, Georgia",6,United_States
+"Moree, New South Wales",7,Australia
+Dausa district,4,India
+"Buchan, Victoria",5,Australia
+Lesbury,3,United_Kingdom
+"Moira, County Down",6,United_Kingdom
+Bamaga,4,Australia
+Furore,4,Italy
+"Mason, Wisconsin",4,United_States
+San Felice Circeo,5,Italy
+Montecristo,3,Italy
+Barano d'Ischia,7,Italy
+"Melrose, South Australia",6,Australia
+Timperley,4,United_Kingdom
+Prestine,3,Italy
+"Bayshore Gardens, Florida",7,United_States
+Thrikkodithanam,7,India
+Visavadar,4,India
+"San Bernardino, California",5,United_States
+"Friendly, Maryland",4,United_States
+"St Paul's Cathedral, Melbourne",8,Australia
+Leonforte,3,Italy
+Shivrajpur,4,India
+Avola,3,Italy
+"Barnhart, Texas",6,United_States
+Great Witcombe Roman Villa,6,United_Kingdom
+Torre Cajetani,5,Italy
+"Greendale, Victoria",5,Australia
+"Warragamba, New South Wales",8,Australia
+Bawtry,4,United_Kingdom
+"All Saints Anglican Church, Brisbane",7,Australia
+Verucchio,4,Italy
+District Council of Coober Pedy,8,Australia
+"Barrington, Cambridgeshire",6,United_Kingdom
+Lower Earley,4,United_Kingdom
+"Goongerah, Victoria",6,Australia
+Astor Place Theatre,5,United_States
+"Center Township, Vanderburgh County, Indiana",9,United_States
+"Mimili, South Australia",6,Australia
+"Belmont, County Durham",6,United_Kingdom
+Castelmola,4,Italy
+Kalterer See,4,Italy
+"Canarsie, Brooklyn",6,United_States
+Borgomanero,4,Italy
+Devanahalli,4,India
+"Bergen Beach, Brooklyn",5,United_States
+Aymanam,4,India
+Batemans Bay,5,Australia
+Ripon Building,4,India
+Belsand,4,India
+Hojai,3,India
+Vontimitta,5,India
+Paternò,4,Italy
+"Chrisman, Illinois",5,United_States
+"Dyer County, Tennessee",6,United_States
+Capua,3,Italy
+Pine Flat Lake,4,United_States
+Appleby-in-Westmorland,9,United_Kingdom
+Lake Georgetown,3,United_States
+Bikaner,4,India
+Pett,3,United_Kingdom
+Crawfordjohn,3,United_Kingdom
+"Colebrook, Connecticut",5,United_States
+Budalur,4,India
+Mole Creek,3,Australia
+"Cameron County, Pennsylvania",5,United_States
+Glenn Cunningham Lake,4,United_States
+Sant'Alfonso di Liguori,8,Italy
+Triggiano,4,Italy
+"Mahmudabad, India",6,India
+"Catheys Valley, California",7,United_States
+Inner West Council,4,Australia
+Rimbick,4,India
+"Ceduna, South Australia",6,Australia
+"Clarke County, Georgia",5,United_States
+St Mary Hoo,4,United_Kingdom
+"Silver Hill, Maryland",5,United_States
+"Barbaresco, Piedmont",6,Italy
+Mandvi,3,India
+Mark Lane tube station,5,United_Kingdom
+Rockport Reservoir,4,United_States
+Watson Pond,3,United_States
+Volturara Appula,6,Italy
+Roana,3,Italy
+"Loggerheads, Staffordshire",5,United_Kingdom
+Laknavaram Lake,6,India
+Harrison Opera House,4,United_States
+Alice Springs,3,Australia
+Puriton,3,United_Kingdom
+"Sheridan County, Nebraska",6,United_States
+Greenwich station,4,United_Kingdom
+"Sidney, Iowa",4,United_States
+Se Cathedral,3,India
+Milagres Church (Mangalore),8,India
+Rovato,3,Italy
+Wangford,3,United_Kingdom
+Shahdol district,5,India
+Tatoosh Range,5,United_States
+Patuli,3,India
+"Barningham, County Durham",7,United_Kingdom
+Bridge of Orchy,5,United_Kingdom
+"Golden Point, Victoria",5,Australia
+Province of Rovigo,5,Italy
+Maguiresbridge,5,United_Kingdom
+Rivello,3,Italy
+Dholpur district,5,India
+Moresco,3,Italy
+Cirò Marina,4,Italy
+"Nebo, Queensland",5,Australia
+"Bar Point, New South Wales",7,Australia
+General Holmes Drive,4,Australia
+Loro Ciuffenna,6,Italy
+"Eumundi, Queensland",6,Australia
+"Twain Harte, California",7,United_States
+"Beaconsfield, Victoria",6,Australia
+Belden Place,4,United_States
+Mentana,3,Italy
+Santa Balbina,4,Italy
+Berwick St John,5,United_Kingdom
+"Millgrove, Victoria",5,Australia
+Alkali Lake (Oregon),7,United_States
+Irvinebank,4,Australia
+Scotter,3,United_Kingdom
+Sanduru,3,India
+Quartz Mountains,3,United_States
+Kaltjiti,5,Australia
+"Twyford, Hampshire",6,United_Kingdom
+"Elizabeth Street, Melbourne",5,Australia
+Glynneath,4,United_Kingdom
+Uthamapalayam,6,India
+"Lomira, Wisconsin",5,United_States
+Bhuntar,4,India
+Avezzano,3,Italy
+"Thuringowa Central, Queensland",7,Australia
+San Sebastiano al Palatino,7,Italy
+Bhandup,4,India
+Samalkota,4,India
+"Lucas, Victoria",4,Australia
+Province of Rovigo,5,Italy
+"Jamestown, South Australia",6,Australia
+Casacalenda,4,Italy
+"Brooksville, Florida",5,United_States
+Lingwood and Burlingham,7,United_Kingdom
+Auraiya district,5,India
+Cherrybrook Technology High School,6,Australia
+"Cremorne, New South Wales",8,Australia
+Dunedoo,4,Australia
+Ganderbal district,5,India
+Tillydrone,4,United_Kingdom
+Gorizia,3,Italy
+Bellary district,4,India
+Udupi Power Plant,6,India
+Purakkad,5,India
+"Spencer County, Indiana",5,United_States
+Phiroze Jeejeebhoy Towers,9,India
+Catcliffe,3,United_Kingdom
+"Glendambo, South Australia",7,Australia
+Lentini,4,Italy
+North Sheen railway station,5,United_Kingdom
+"Elizabeth Town, Tasmania",5,Australia
+Rajouri district,4,India
+"William Street, Melbourne",5,Australia
+Shire of Livingstone,5,Australia
+"Bahrs Scrub, Queensland",6,Australia
+"St. Mary's Basilica, Bangalore",9,India
+"Silsbee, Texas",6,United_States
+Vrindavan,4,India
+"Glen Park, San Francisco",6,United_States
+Rural City of Murray Bridge,6,Australia
+Tolpuddle,4,United_Kingdom
+Prad am Stilfser Joch,9,Italy
+Eluru mandal,4,India
+Angmering,3,United_Kingdom
+"Belfast, Maine",4,United_States
+"Imperial Hotel, London",5,United_Kingdom
+"Gilmore City, Iowa",6,United_States
+"Cathedral of Saint Paul (Worcester, Massachusetts)",12,United_States
+Balurghat,4,India
+"Mount Tyson, Queensland",5,Australia
+"Speed, Victoria",4,Australia
+"Baada, Shiggaon",7,India
+Crayford railway station,5,United_Kingdom
+"Melbourne, East Riding of Yorkshire",7,United_Kingdom
+Diamond Valley Lake,4,United_States
+Mals,3,Italy
+"Glades County, Florida",6,United_States
+"Snowtown, South Australia",6,Australia
+"Round Hill, Loudoun County, Virginia",9,United_States
+Satna district,4,India
+Uvari,3,India
+Province of Vercelli,5,Italy
+"Derwent Park, Tasmania",6,Australia
+Puttaparthi,5,India
+Bhind district,4,India
+Colobraro,4,Italy
+Veraval,3,India
+Lerici,3,Italy
+Pazhanji,4,India
+Skarfskerry,6,United_Kingdom
+Peth Vadgaon,5,India
+"Mazzarino, Sicily",6,Italy
+Parsons Green tube station,6,United_Kingdom
+St Margaret's at Cliffe,8,United_Kingdom
+"Roseland, Florida",6,United_States
+"Guernsey County, Ohio",6,United_States
+Somerley,3,United_Kingdom
+"Lovilia, Iowa",6,United_States
+"Blanchardville, Wisconsin",6,United_States
+Shire of Paroo,6,Australia
+"Manhasset Hills, New York",8,United_States
+Burgh le Marsh,5,United_Kingdom
+Cassano Magnago,5,Italy
+Moranbah,4,Australia
+"Devarapalle, West Godavari district",10,India
+"Lowell, Arkansas",5,United_States
+Thorapalli,4,India
+"Roberts County, Texas",5,United_States
+"Riverview, New South Wales",7,Australia
+"Broughton, Lincolnshire",5,United_Kingdom
+Manchester (Pittsburgh),5,United_States
+Upper Halliford,5,United_Kingdom
+"Grays Point, New South Wales",8,Australia
+Vengurla,5,India
+St Minver,4,United_Kingdom
+Cinisi,3,Italy
+Crevalcore,4,Italy
+Burren Junction,4,Australia
+Turville,3,United_Kingdom
+Loughton tube station,5,United_Kingdom
+Palazzo Castiglioni (Milan),7,Italy
+Flatford Mill,4,United_Kingdom
+Cremona,3,Italy
+Kiltan,4,India
+Bhopalgarh,4,India
+Ganmain,3,Australia
+Campania,3,Italy
+Sibford Gower,4,United_Kingdom
+Patur,3,India
+Stoneleigh railway station,5,United_Kingdom
+Mordano,3,Italy
+"Bow Street, Ceredigion",7,United_Kingdom
+Lostock Gralam,6,United_Kingdom
+Carate Brianza,5,Italy
+Sant'Andrea della Valle,6,Italy
+Clayton Bay,3,Australia
+Peschici,4,Italy
+Mammola,3,Italy
+Scicli,4,Italy
+Castlereagh Street,6,Australia
+"Lonsdale, South Australia",7,Australia
+Bhalswa Horseshoe Lake,6,India
+"Cumberland County, Maine",6,United_States
+"Bowdon, Greater Manchester",6,United_Kingdom
+"Church of St. Joseph (Bronxville, New York)",14,United_States
+Lake Idro,4,Italy
+"Dalton, New South Wales",6,Australia
+Caserta,3,Italy
+Bhagalpur,4,India
+Brandesburton,4,United_Kingdom
+American Library (New Delhi),7,India
+Balimela,4,India
+Bhavnagar,4,India
+Skegness,4,United_Kingdom
+Città Sant'Angelo,6,Italy
+Galatone,4,Italy
+Navajo Dam,5,United_States
+Bundi,3,India
+"Blakesburg, Iowa",6,United_States
+St Pancras railway station,6,United_Kingdom
+"Suamico, Wisconsin",5,United_States
+Lioni,3,Italy
+Regent's Park tube station,8,United_Kingdom
+Beed district,4,India
+Elizabeth Farm,3,Australia
+"Golconda, Illinois",5,United_States
+"Bunyip, Victoria",6,Australia
+Canossa,3,Italy
+Thurgoland,4,United_Kingdom
+Glenreagh,4,Australia
+Pooncarie,5,Australia
+Nevertire,3,Australia
+Purathur,4,India
+City of Latrobe,5,Australia
+"Sedgwick County, Colorado",6,United_States
+Blinman,4,Australia
+Park Range (Colorado),6,United_States
+Colle Sannita,5,Italy
+Province of Macerata,6,Italy
+"Gravesend, New South Wales",7,Australia
+"Fredericksburg, Lebanon County, Pennsylvania",9,United_States
+"Bellagio, Lombardy",6,Italy
+"Boolarra, Victoria",6,Australia
+"Belur, Karnataka",5,India
+Meridian Water railway station,6,United_Kingdom
+Basirhat I,5,India
+Borgo San Dalmazzo,7,Italy
+"Denning, New York",6,United_States
+"Cowan, New South Wales",7,Australia
+"Avoca, Victoria",5,Australia
+"Cooling, Kent",4,United_Kingdom
+"White Island, Isles of Scilly",8,United_Kingdom
+Nadbai,3,India
+"Copley, West Yorkshire",6,United_Kingdom
+"Wacol, Queensland",5,Australia
+"Mount Annan, New South Wales",7,Australia
+Roccamorice,5,Italy
+Blackfen,3,United_Kingdom
+"Castle Pines, Colorado",5,United_States
+"Montavilla, Portland, Oregon",7,United_States
+"Bangor, New South Wales",7,Australia
+Gateley,3,United_Kingdom
+Menheniot,4,United_Kingdom
+"Lawrence, New South Wales",6,Australia
+Stoke Gifford,4,United_Kingdom
+Bhagawangola I,6,India
+San Marcello al Corso,5,Italy
+Pragser Wildsee,5,Italy
+Blunham,4,United_Kingdom
+"Ritz (Austin, Texas)",8,United_States
+Monte Sant'Angelo,5,Italy
+San Canzian d'Isonzo,9,Italy
+"Moore Haven, Florida",5,United_States
+Lake Yamma Yamma,6,Australia
+Santa Costanza,4,Italy
+Shyampur II,5,India
+Casacalenda,4,Italy
+"Goodrich, Texas",5,United_States
+"Canterbury, New South Wales",7,Australia
+Azhiyur,4,India
+Birsinghpur,5,India
+"Gilgandra, New South Wales",8,Australia
+Lucca Sicula,5,Italy
+"Cromwell, Indiana",5,United_States
+"Park View (Washington, D.C.)",10,United_States
+Hilton London Metropole,5,United_Kingdom
+Goring-on-Thames,8,United_Kingdom
+Surguja district,5,India
+Ripponden,4,United_Kingdom
+Santopadre,4,Italy
+Seven Kings railway station,5,United_Kingdom
+Tolworth railway station,5,United_Kingdom
+Sakhinetipalli,7,India
+Lace Market Theatre,4,United_Kingdom
+"Scarborough, Queensland",5,Australia
+Gazeley,3,United_Kingdom
+Sant'Alfio,5,Italy
+"Barnton, Cheshire",5,United_Kingdom
+Pré-Saint-Didier,6,Italy
+Montenero di Bisaccia,6,Italy
+"Centre Place, Melbourne",5,Australia
+"Flinders Lane, Melbourne",6,Australia
+Vidisha district,4,India
+Province of Brescia,4,Italy
+Little Cheyne Court Wind Farm,7,United_Kingdom
+Muthupet,5,India
+Thanjavur district,5,India
+Castiglione d'Orcia,8,Italy
+"Rockdale, New South Wales",7,Australia
+Trebaseleghe,5,Italy
+City of Dubbo,5,Australia
+Santa Maria Maddalena,5,Italy
+Meldola,4,Italy
+North West Tasmania,4,Australia
+Purusottampur,6,India
+Merton Park railway station,6,United_Kingdom
+Alexandrina Council,4,Australia
+Grimwith Reservoir,4,United_Kingdom
+Nicobar Islands,4,India
+"Browns Plains, Queensland",6,Australia
+Bomarzo,4,Italy
+"Geyserville, California",6,United_States
+Scicli,4,Italy
+"Media, Pennsylvania",4,United_States
+"Holden Hill, South Australia",7,Australia
+Galveston Bay,4,United_States
+Santa Cesarea Terme,5,Italy
+Crevalcore,4,Italy
+Province of Rome,4,Italy
+San Carlo al Corso,5,Italy
+"Zellwood, Florida",6,United_States
+Gulf St Vincent,4,Australia
+"Rio Arriba County, New Mexico",8,United_States
+Renigunta mandal,5,India
+Glenloch Interchange,4,Australia
+"Franklin Square, New York",6,United_States
+"Cattaraugus County, New York",9,United_States
+"Lytle Creek, California",6,United_States
+Maenclochog,6,United_Kingdom
+"Columbus, New Jersey",5,United_States
+"Bajna, India",5,India
+"Hughes County, Oklahoma",5,United_States
+"Canton, Georgia",4,United_States
+"Mebane, North Carolina",7,United_States
+"Madeley, Staffordshire",5,United_Kingdom
+"Rockville, Indiana",5,United_States
+"Littlestown, Pennsylvania",6,United_States
+Elba,3,Italy
+"Correctionville, Iowa",5,United_States
+Roehampton,3,United_Kingdom
+San Dimas Hotel,5,United_States
+Trecastagni,5,Italy
+"Rivett, Australian Capital Territory",7,Australia
+Zevio,4,Italy
+Greenvale Reservoir,4,Australia
+"Manhasset, New York",7,United_States
+"Enoggera Reservoir, Queensland",7,Australia
+Muthukulam,5,India
+Province of Verona,4,Italy
+Sagrado,3,Italy
+Turnham Green tube station,6,United_Kingdom
+"Cathedral Basilica of St. John the Baptist (Savannah, Georgia)",15,United_States
+Ujhani,3,India
+North Queensland,3,Australia
+Monticiano,4,Italy
+"Cathedral Church of St. John (Albuquerque, New Mexico)",15,United_States
+Bleary,3,United_Kingdom
+Murbad,3,India
+Lake Icaria,4,United_States
+Waltham on the Wolds,7,United_Kingdom
+"Pelham, New York",6,United_States
+"Leland Grove, Illinois",6,United_States
+Settles Hotel,4,United_States
+Conco,3,Italy
+Amroha district,5,India
+"Prairiewood, New South Wales",9,Australia
+Frenchman's Tower,6,United_States
+Nagapattinam,5,India
+Bhojtal,5,India
+Magliano in Toscana,5,Italy
+"Beeston, Norfolk",5,United_Kingdom
+"Ocean Shores, New South Wales",7,Australia
+Vikravandi,5,India
+Giulianova,4,Italy
+Gangajalghati (community development block),10,India
+"Shirley, West Midlands",5,United_Kingdom
+"Pearl Beach, New South Wales",7,Australia
+South Goa district,4,India
+Pragelato,4,Italy
+"Singhana, Rajasthan",5,India
+Modica,3,Italy
+"Richmond, Illinois",4,United_States
+"Barlow, North Yorkshire",6,United_Kingdom
+"Bodfish, California",5,United_States
+Cumberland Highway,4,Australia
+Connecticut Lakes,3,United_States
+Parnngurr Community,6,Australia
+Mortegliano,4,Italy
+Balichak,4,India
+Cadini di Misurina,6,Italy
+"Bhadgaon, Maharashtra",6,India
+Central Savannah River Area,5,United_States
+Biddestone,4,United_Kingdom
+San Luis Reservoir,4,United_States
+Madonna della Ceriola,5,Italy
+Udaipur,4,India
+St Stephen-in-Brannel,8,United_Kingdom
+Tirumala,4,India
+Bendora Dam,4,Australia
+Barel,3,India
+Callala Beach,4,Australia
+Cowal,3,United_Kingdom
+"Atascosa County, Texas",7,United_States
+Bury St Edmunds,5,United_Kingdom
+Bilambil Heights,5,Australia
+Santa Maria Gloriosa dei Frari,8,Italy
+Buria,3,India
+Mount Oliver (Pittsburgh),6,United_States
+Aquileia,4,Italy
+"Twiggs County, Georgia",6,United_States
+Sassari,3,Italy
+Mascali,3,Italy
+Stalybridge,4,United_Kingdom
+"Yulara, Northern Territory",7,Australia
+Longwick,3,United_Kingdom
+"Nicholas County, Kentucky",5,United_States
+Meandarra,4,Australia
+Cannobio,4,Italy
+"Tumbi Umbi, New South Wales",9,Australia
+"St Peter, Westcheap",6,United_Kingdom
+Agua Caliente Band of Cahuilla Indians,10,United_States
+Province of Ascoli Piceno,7,Italy
+"Clinton Township, New Jersey",6,United_States
+Zuzuwadi,4,India
+"Cabazon, California",5,United_States
+"Crawfordville, Florida",5,United_States
+Carovigno,4,Italy
+"All Hallows' Church, Tottenham",8,United_Kingdom
+Bolpur Sriniketan,6,India
+Caerphilly,4,United_Kingdom
+Barkly Region,4,Australia
+Cles,3,Italy
+Clock House railway station,5,United_Kingdom
+Hammersmith tube station (District and Piccadilly lines),12,United_Kingdom
+Palazzo del Viminale,5,Italy
+Gopiballavpur II,8,India
+"Matlock, Victoria",5,Australia
+"Warren County, North Carolina",6,United_States
+Satpuli,4,India
+Addicks Reservoir,4,United_States
+"Rifle, Colorado",5,United_States
+Burhar,3,India
+Racetrack Playa,5,United_States
+City of Glenorchy,6,Australia
+Bakshi Ka Talab,6,India
+"St Georges Basin, New South Wales",8,Australia
+Apache Lake (Arizona),6,United_States
+"Bundamba, Queensland",5,Australia
+Vergiate,4,Italy
+"Biggs, California",5,United_States
+Griffy Lake,4,United_States
+Shorne,3,United_Kingdom
+San Pietro Vernotico,6,Italy
+Panipat district,4,India
+Blackbird Leys,5,United_Kingdom
+Retteri,3,India
+Carate Brianza,5,Italy
+Province of Trapani,5,Italy
+Andora,3,Italy
+Crews Hill railway station,6,United_Kingdom
+Crookes,3,United_Kingdom
+"Brown County, Indiana",5,United_States
+"Freehold Borough, New Jersey",7,United_States
+City of Victor Harbor,5,Australia
+Stretford,3,United_Kingdom
+"Sant'Agata de' Goti, Rome",11,Italy
+Rocca di Papa,5,Italy
+"Boughton, Northamptonshire",6,United_Kingdom
+"Villa Grove, Illinois",5,United_States
+"Viadana, Lombardy",7,Italy
+Gwalior district,5,India
+Capua,3,Italy
+Berkhamsted,5,United_Kingdom
+Trovo,3,Italy
+Crowcombe,3,United_Kingdom
+Ariah Park,4,Australia
+Peckforton,5,United_Kingdom
+"Rosholt, Wisconsin",5,United_States
+"Tootgarook, Victoria",7,Australia
+Purakkad,5,India
+"San Patricio County, Texas",6,United_States
+"Calamvale, Queensland",6,Australia
+Tomingley,4,Australia
+Wallendbeen,4,Australia
+Legnano,3,Italy
+"Madison County, Texas",5,United_States
+"Kingston, Tasmania",4,Australia
+Caldogno,4,Italy
+"Knox County, Ohio",5,United_States
+San Vito dei Normanni,6,Italy
+"Brompton, Scarborough",5,United_Kingdom
+Downing Centre,4,Australia
+"Schaller, Iowa",5,United_States
+"Gloversville, New York",7,United_States
+Aragona,3,Italy
+"Genoa, Nevada",5,United_States
+Chancery Lane tube station,6,United_Kingdom
+Linslade,4,United_Kingdom
+San Miniato,4,Italy
+"Arbus, Sardinia",5,Italy
+Triora,3,Italy
+Malumichampatti,6,India
+Lower Granite Dam,4,United_States
+Apuan Alps,5,Italy
+Beauchief and Greenhill,7,United_Kingdom
+Upton St Leonards,6,United_Kingdom
+Sant'Anastasia,4,Italy
+Raichur district,5,India
+"Empire Bay, New South Wales",7,Australia
+Combe Florey,5,United_Kingdom
+Guntur district,4,India
+Montenero di Bisaccia,6,Italy
+"Santa Maria di Loreto, Rome",7,Italy
+Shire of Carpentaria,7,Australia
+"Portarlington, Victoria",6,Australia
+Lake Habeeb,4,United_States
+"Dodge County, Georgia",5,United_States
+Sirsa district,4,India
+"Ohio County, Indiana",5,United_States
+Ghaziabad,4,India
+Trino,3,Italy
+Dilshad Garden,5,India
+South Delhi,3,India
+"County Hall, Cardiff",5,United_Kingdom
+London Victoria station,4,United_Kingdom
+Waghai,3,India
+Foster Joseph Sayers Reservoir,6,United_States
+Patashpur I,5,India
+Paull,3,United_Kingdom
+San Carlo ai Catinari,6,Italy
+"Lysterfield, Victoria",6,Australia
+"Locust Point, Baltimore",6,United_States
+"Roebling, New Jersey",7,United_States
+"Mullica Hill, New Jersey",7,United_States
+"Holland Park, Queensland",5,Australia
+Casalattico,4,Italy
+Lago di Ledro,5,Italy
+"San Teodoro, Rome",6,Italy
+"El Dorado, California",5,United_States
+Garforth,3,United_Kingdom
+Bowthorpe,3,United_Kingdom
+Balderton,4,United_Kingdom
+"Forest County, Pennsylvania",5,United_States
+"The Oaks, New South Wales",7,Australia
+King's Cross St Pancras tube station,10,United_Kingdom
+Mudchute DLR station,6,United_Kingdom
+Kathua district,4,India
+Umarga,3,India
+"River Heads, Queensland",5,Australia
+Banstead railway station,5,United_Kingdom
+"Dewey County, Oklahoma",6,United_States
+Euston St Pancras railway station,9,United_Kingdom
+"Birdum, Northern Territory",6,Australia
+"Clason Point, Bronx",6,United_States
+Santi Celso e Giuliano,6,Italy
+Osmanabad district,5,India
+"Coryell County, Texas",6,United_States
+D'Albertis Castle,7,Italy
+"Anita, Iowa",4,United_States
+Ford Park,3,United_States
+Goodge Street tube station,6,United_Kingdom
+"Walnut, Iowa",4,United_States
+"Union, Connecticut",4,United_States
+Montevarchi,4,Italy
+Lake Norman,3,United_States
+Manchi,3,India
+"Legislative Assembly Building, Canberra",6,Australia
+Shire of Nillumbik,8,Australia
+Applecross,4,United_Kingdom
+Elvet,3,United_Kingdom
+Waconda Lake,4,United_States
+Veeraghattam,6,India
+"Gerringong, New South Wales",8,Australia
+White Rock Lake,4,United_States
+Renukoot,4,India
+250 City Road,6,United_Kingdom
+Taroom,4,Australia
+Huntspill,3,United_Kingdom
+Begbroke,3,United_Kingdom
+Mundulla,3,Australia
+Central Darling Shire,4,Australia
+Nagaon,4,India
+Baduria,3,India
+Pavaratty,4,India
+Cuffley railway station,6,United_Kingdom
+"Christmas, Florida",4,United_States
+"Golden Point, Victoria",5,Australia
+"Holbrook, Arizona",5,United_States
+Bisignano,3,Italy
+Trimley St Martin,5,United_Kingdom
+Bhatpara,4,India
+Siruguppa,4,India
+Cavalese,3,Italy
+"Burbank, Queensland",5,Australia
+Grand Cayman,3,United_Kingdom
+Pujali,4,India
+"Kingscote, South Australia",6,Australia
+Shohratgarh,5,India
+"Homewood, Illinois",5,United_States
+"Memphis, Florida",4,United_States
+"Finley, New South Wales",7,Australia
+"Coominya, Queensland",6,Australia
+Barton-under-Needwood,7,United_Kingdom
+Pantages Theatre (Minneapolis),7,United_States
+Isola del Giglio,6,Italy
+Sarsawa,4,India
+Pavullo nel Frignano,6,Italy
+Kanpur Dehat district,6,India
+"Scott, Arkansas",4,United_States
+Bidkin,3,India
+District Council of Elliston,6,Australia
+Stanstead Abbotts,6,United_Kingdom
+Udaipur district,5,India
+Sidcup railway station,5,United_Kingdom
+"Sirsi, Karnataka",5,India
+Trevignano Romano,4,Italy
+"Attunga, New South Wales",8,Australia
+Brierley,4,United_Kingdom
+"Palazzo della Ragione, Milan",7,Italy
+City of Monash,5,Australia
+"Charleston, South Australia",5,Australia
+"Bend of Islands, Victoria",6,Australia
+"Bonbeach, Victoria",5,Australia
+"Clayton, California",4,United_States
+"Blackwood, South Australia",6,Australia
+"Walton, Cumbria",5,United_Kingdom
+"Lost Nation, Iowa",5,United_States
+Tarnagulla,5,Australia
+"Goolwa, South Australia",7,Australia
+"Walnutport, Pennsylvania",5,United_States
+Lucca,3,Italy
+Cento,3,Italy
+Brampton Bierlow,5,United_Kingdom
+Lago di Varano,5,Italy
+Perunad,4,India
+Santa Maria della Concezione dei Cappuccini,10,Italy
+Bhudargad,5,India
+"Camp Richardson, California",5,United_States
+Rodney Stoke,3,United_Kingdom
+St. Cecilia Catholic Church (Los Angeles),10,United_States
+"Birla Mandir, Hyderabad",7,India
+Bexhill-on-Sea,8,United_Kingdom
+Venna Lake,4,India
+Wimmera,3,Australia
+"Elba, New York",6,United_States
+Sannihit Sarovar,7,India
+"Russiaville, Indiana",6,United_States
+Vellalore,4,India
+Ballywalter,4,United_Kingdom
+"Warner Theatre (Erie, Pennsylvania)",9,United_States
+"Clay County, Georgia",5,United_States
+Bansgaon,3,India
+"St Martin's Church, Wareham",9,United_Kingdom
+Gorton,3,United_Kingdom
+"Emmaville, New South Wales",7,Australia
+Maiden Newton,4,United_Kingdom
+"Thallon, Queensland",5,Australia
+Llangadog,4,United_Kingdom
+Devarakadra,5,India
+"Trimble County, Kentucky",6,United_States
+"Horsey, Norfolk",5,United_Kingdom
+"Runnells, Iowa",6,United_States
+St. John the Baptist Byzantine Catholic Cathedral (Pittsburgh),12,United_States
+"Equality, Illinois",4,United_States
+"Melrose Park, Pennsylvania",6,United_States
+Bianco,3,Italy
+Jorethang Loop Hydroelectric project,8,India
+"Toormina, New South Wales",8,Australia
+Cesano Maderno,5,Italy
+"Mandi, Uttar Pradesh",6,India
+"Casterton, Victoria",5,Australia
+Castiglion Fiorentino,6,Italy
+"Homosassa, Florida",6,United_States
+"The Woodlands, Texas",5,United_States
+"Cedar Key, Florida",5,United_States
+"Mount Crosby, Queensland",5,Australia
+Moulamein,4,Australia
+"Ebor, New South Wales",7,Australia
+"Goreville, Illinois",5,United_States
+Warwick Avenue tube station,6,United_Kingdom
+Sansepolcro,5,Italy
+"Creede, Colorado",5,United_States
+Sauris,4,Italy
+Maccagno,4,Italy
+Biloela,4,Australia
+"Corning, California",5,United_States
+Campi Bisenzio,5,Italy
+Bangarapet,4,India
+Loughgall,4,United_Kingdom
+"Purchase, New York",5,United_States
+Canneto sull'Oglio,8,Italy
+Second Baptist Church Houston,5,United_States
+Siena Cathedral,4,Italy
+Caggiano,4,Italy
+"St. Thomas Cathedral, Mumbai",7,India
+"Berlin, Massachusetts",4,United_States
+"Clipston, Northamptonshire",6,United_Kingdom
+Cerreto Sannita,6,Italy
+Stotfold,4,United_Kingdom
+Lochee,3,United_Kingdom
+"Strathbogie, Victoria",7,Australia
+"Owen County, Indiana",5,United_States
+San Bonaventura al Palatino,7,Italy
+"Malmsbury, Victoria",6,Australia
+Botesdale,4,United_Kingdom
+"Minnamurra, New South Wales",8,Australia
+"Loftus, New South Wales",7,Australia
+"Scholes, Leeds",5,United_Kingdom
+Monsoon Palace,4,India
+Batote,3,India
+"Luni, Italy",5,Italy
+"Cocoroc, Victoria",6,Australia
+"Ilford, New South Wales",7,Australia
+Tixall,4,United_Kingdom
+Bharananganam,5,India
+"Julatten, Queensland",5,Australia
+59 West 12th Street,9,United_States
+"Fountain County, Indiana",5,United_States
+"Pennington, South Australia",6,Australia
+"Sarina, Queensland",5,Australia
+"Beaver Lake (King County, Washington)",9,United_States
+Ganjam,3,India
+Birrong,3,Australia
+Stratford-upon-Avon,7,United_Kingdom
+Farfa Abbey,4,Italy
+Arasavalli,5,India
+Melfi,4,Italy
+Kalpeni,4,India
+Beragh,4,United_Kingdom
+Apricale,3,Italy
+Urbania,3,Italy
+Ghoramara Island,6,India
+Molakalmuru,6,India
+Arwal district,4,India
+"Woorabinda, Queensland",7,Australia
+Veraval,3,India
+Patan district,4,India
+Bembridge,3,United_Kingdom
+Codogno,3,Italy
+Barh,3,India
+"Banham, Norfolk",5,United_Kingdom
+Horchow Hall,4,United_States
+Goraya,3,India
+"Eleebana, New South Wales",8,Australia
+San Cesareo,4,Italy
+"Franklin County, Massachusetts",5,United_States
+"Randolph County, Georgia",6,United_States
+"Broome County, New York",7,United_States
+Province of Padua,4,Italy
+"Bardwell, Suffolk",5,United_Kingdom
+Puliyankudi,6,India
+"Horsley Park, New South Wales",8,Australia
+Lake Conroe,4,United_States
+Samudragarh,5,India
+Brindisi,4,Italy
+Cathedral of the Immaculate Conception (Philadelphia),10,United_States
+Princes Motorway,5,Australia
+Middle Harbour,3,Australia
+Boniyar,4,India
+Vernazza,4,Italy
+Baytu,3,India
+Gatley,3,United_Kingdom
+Bodicote,4,United_Kingdom
+"Girraween, New South Wales",8,Australia
+Phek district,4,India
+"Lake County, Colorado",5,United_States
+"Hokendauqua, Pennsylvania",7,United_States
+"Johnstown, Pennsylvania",5,United_States
+Cockermouth,4,United_Kingdom
+"Sioux Center, Iowa",6,United_States
+"Aurora, Illinois",4,United_States
+Shireoaks,4,United_Kingdom
+Kinnaur district,5,India
+Townsville,3,Australia
+Vergato,3,Italy
+"Minnipa, South Australia",7,Australia
+"Pemberton Township, New Jersey",7,United_States
+Gragnano,3,Italy
+"Broughton, Lincolnshire",5,United_Kingdom
+"Lincoln County, New Mexico",6,United_States
+Tilda Newra,5,India
+Concordia Sagittaria,6,Italy
+"Portage County, Ohio",6,United_States
+Calascio,4,Italy
+"Shoshone, California",6,United_States
+"Mühlbach, South Tyrol",7,Italy
+Beragh,4,United_Kingdom
+St Luke Old Street,5,United_Kingdom
+"Thorpe, Surrey",5,United_Kingdom
+Peddapuram,4,India
+Arkabutla Lake,6,United_States
+Bass Strait,3,Australia
+Cowra Shire,4,Australia
+"Benton, Wisconsin",5,United_States
+"Tramonti, Campania",6,Italy
+Salemi,3,Italy
+Brickhill,3,United_Kingdom
+"Birling, Kent",5,United_Kingdom
+"Penne, Abruzzo",6,Italy
+Little Hadham,4,United_Kingdom
+"Mount Britton, Queensland",5,Australia
+"Balaclava, Victoria",6,Australia
+Lago di Mezzola,5,Italy
+Thiruvithamcode,7,India
+"Pedgaon, Ahmednagar",6,India
+San Lazzaro di Savena,8,Italy
+Gilling West,4,United_Kingdom
+Royal Oak tube station,5,United_Kingdom
+Cellino San Marco,5,Italy
+Seven Sisters station,4,United_Kingdom
+Upper Rissington,5,United_Kingdom
+"Blyth, South Australia",6,Australia
+Tideswell,4,United_Kingdom
+"Calwell, Australian Capital Territory",7,Australia
+Calabria,4,Italy
+"Melrose, South Australia",6,Australia
+Province of Milan,4,Italy
+Cascia,3,Italy
+Bay of Bengal,4,India
+Manjalar Dam,5,India
+Empoli,3,Italy
+"Bruthen, Victoria",5,Australia
+Vicari,3,Italy
+Stainland,3,United_Kingdom
+Tortona,3,Italy
+Scalea,3,Italy
+Goodspeed Musicals,5,United_States
+Mirzapur district,5,India
+Giavera del Montello,6,Italy
+Stow-on-the-Wold,10,United_Kingdom
+Castropignano,4,Italy
+Werris Creek,5,Australia
+Weethalle,3,Australia
+"Kalangadoo, South Australia",8,Australia
+"Lovett Bay, New South Wales",8,Australia
+Cuttack district,4,India
+Midway Atoll,5,United_States
+City of Frankston,5,Australia
+"Holroyd, New South Wales",7,Australia
+Sloane Square tube station,6,United_Kingdom
+"Castle Hill, Queensland",5,Australia
+"Beaver County, Pennsylvania",5,United_States
+Balby,3,United_Kingdom
+"Linden, Texas",4,United_States
+Saluggia,4,Italy
+Belconnen,4,Australia
+Sant'Anastasia al Palatino,7,Italy
+Colston Bassett,4,United_Kingdom
+"Cranmore, Somerset",5,United_Kingdom
+Città di Castello,5,Italy
+"Hurst Green, East Sussex",7,United_Kingdom
+"Mount Washington, Los Angeles",6,United_States
+Galatone,4,Italy
+Bylakuppe,4,India
+Holford,3,United_Kingdom
+Tottenham Hale,3,United_Kingdom
+Goat Island (Port Jackson),7,Australia
+"Caerau, Cardiff",6,United_Kingdom
+Coriano,3,Italy
+Melakadambur,5,India
+Santopadre,4,Italy
+"Pero, Lombardy",5,Italy
+"San Siro, Como",5,Italy
+San Fili,3,Italy
+Koroit,4,Australia
+Perito,3,Italy
+Molfetta,4,Italy
+"Burringbar, New South Wales",8,Australia
+Former Melbourne Magistrates' Court,6,Australia
+Cinquefrondi,5,Italy
+"Corydon, Iowa",5,United_States
+Holborn,3,United_Kingdom
+San Dorligo della Valle,6,Italy
+"Funny River, Alaska",5,United_States
+"Theatre Royal, Hobart",5,Australia
+"Tolmie, Victoria",5,Australia
+Iron Horse Music Hall,5,United_States
+Canosa di Puglia,5,Italy
+Downtown Wichita,3,United_States
+Quarto d'Altino,7,Italy
+"Shorewood, Wisconsin",5,United_States
+Basilica of Superga,6,Italy
+Badagaon,4,India
+"Siren, Wisconsin",4,United_States
+Morazha,4,India
+Hackney Central railway station,6,United_Kingdom
+"Stallion Springs, California",6,United_States
+Brevoort Houses,4,United_States
+Rhoose,3,United_Kingdom
+Orange Lake (New York),7,United_States
+Lake Conjola,5,Australia
+Silverbell Lake,4,United_States
+"Carthage, Illinois",5,United_States
+"Braidwood, New South Wales",8,Australia
+Mulugu district,4,India
+Caiazzo,4,Italy
+Nabarangpur district,5,India
+"Streaky Bay, South Australia",7,Australia
+Cervignano del Friuli,6,Italy
+"Coleford, Gloucestershire",5,United_Kingdom
+"Pennington, New Jersey",6,United_States
+Mulavukad,6,India
+"St. Thomas Church, Hisar",8,India
+"Muscoy, California",5,United_States
+Baltonsborough,5,United_Kingdom
+Mirabella Imbaccari,6,Italy
+Leytonstone,4,United_Kingdom
+Molise,3,Italy
+Bhatlapenumarru,7,India
+"Hunters Creek Village, Texas",7,United_States
+Goldsworth Park,4,United_Kingdom
+Kolkata district,3,India
+"Eltham, Victoria",5,Australia
+Down Hall,3,United_Kingdom
+"Runnemede, New Jersey",7,United_States
+Coral Sea Islands,4,Australia
+"Caravaggio, Lombardy",7,Italy
+"Cringila, New South Wales",8,Australia
+San Pietro Vernotico,6,Italy
+Buckshaw Village,4,United_Kingdom
+Rylstone,4,United_Kingdom
+"Biola, California",5,United_States
+Antarvedi,3,India
+"Decatur County, Indiana",6,United_States
+"Barunga, Northern Territory",6,Australia
+"Upshur County, Texas",6,United_States
+Comber,3,United_Kingdom
+Lonate Pozzolo,6,Italy
+EastLink (Melbourne),6,Australia
+Alexandra Palace railway station (1873–1954),16,United_Kingdom
+"Lenawee County, Michigan",6,United_States
+Minster Lovell,4,United_Kingdom
+Zone 2 of Milan,6,Italy
+Rolleston on Dove,5,United_Kingdom
+Glossop,3,United_Kingdom
+Varano de' Melegari,7,Italy
+"St. Anthony of Padua Church (New Bedford, Massachusetts)",13,United_States
+"Bridgewater On Loddon, Victoria",8,Australia
+"Baghmara, India",5,India
+"Rutherford County, North Carolina",7,United_States
+"Derwent Park, Tasmania",6,Australia
+"Brougham, Cumbria",6,United_Kingdom
+"Bajool, Queensland",5,Australia
+Glaisdale,4,United_Kingdom
+Mulapadu,4,India
+"Wilkes County, North Carolina",7,United_States
+"Howe, Indiana",5,United_States
+Capaci,3,Italy
+Cirò Marina,4,Italy
+Puri district,3,India
+Cremia,3,Italy
+Slyne-with-Hest,8,United_Kingdom
+"Point Turton, South Australia",7,Australia
+"Siddapura, Uttara Kannada",8,India
+"San Giorgio Maggiore (church), Venice",8,Italy
+Bulkeley,3,United_Kingdom
+Vaglia,3,Italy
+Craven Arms,4,United_Kingdom
+North East England,4,United_Kingdom
+"Union Park, Florida",5,United_States
+"Aquilonia, Campania",6,Italy
+Jordanstown,3,United_Kingdom
+"Rialto, California",6,United_States
+Montespertoli,4,Italy
+Namakkal district,4,India
+Pettavaithalai,6,India
+Potterne,3,United_Kingdom
+"Freshford, Somerset",5,United_Kingdom
+Bhalswa Jahangir Pur,8,India
+"Candela, Apulia",6,Italy
+Province of Macerata,6,Italy
+"Ulster County, New York",7,United_States
+Illawarra,5,Australia
+Trehafod,4,United_Kingdom
+"Chillagoe, Queensland",6,Australia
+City of Moorabbin,6,Australia
+Stillwater Reservoir,4,United_States
+"Carisbrook, Victoria",6,Australia
+"Stanhope, Victoria",5,Australia
+Vadlamudi,4,India
+Mirabella Imbaccari,6,Italy
+Meina,3,Italy
+Cathedral of Our Lady of Perpetual Help (Oklahoma City),13,United_States
+"Yarraman, Queensland",6,Australia
+"St Marys, Tasmania",5,Australia
+Bendora Dam,4,Australia
+"Collie, Western Australia",6,Australia
+Santa Teresa Gallura,5,Italy
+Bicknacre,5,United_Kingdom
+"Lower Alloways Creek Township, New Jersey",9,United_States
+Province of Rieti,5,Italy
+Thurlton,4,United_Kingdom
+San Giustino,5,Italy
+"Delaware County, Indiana",5,United_States
+"Randolph County, North Carolina",7,United_States
+"Centre Place, Melbourne",5,Australia
+Bellampalle,4,India
+Kaushalya Dam,5,India
+Compton Bassett,4,United_Kingdom
+Todaraisingh,5,India
+"Our Lady of Angels Church, Puducherry",10,India
+"Moose Creek, Alaska",5,United_States
+"Saidapur, Yadgir",6,India
+"Broughton, Lancashire",5,United_Kingdom
+"Gladewater, Texas",6,United_States
+Vijayawada Urban mandal,6,India
+"Tynong, Victoria",6,Australia
+Meccano Set,4,Australia
+Brahma Sarovar,6,India
+East Godavari district,5,India
+Tuebrook,3,United_Kingdom
+Bolsena,4,Italy
+Raisen district,4,India
+"Colfax County, New Mexico",7,United_States
+San Marco dei Cavoti,6,Italy
+Bodinayakkanur,6,India
+Wattle Range Council,5,Australia
+"Turkey, North Carolina",5,United_States
+Maidenhead,4,United_Kingdom
+"Wyandot County, Ohio",7,United_States
+Puducherry (union territory),8,India
+Constitution Club of India,5,India
+Andul,3,India
+Sleaford,4,United_Kingdom
+Leytonstone,4,United_Kingdom
+Lethapora,5,India
+Todmorden,4,United_Kingdom
+Ayers House (Adelaide),7,Australia
+Central Darling Shire,4,Australia
+"Virginia, Illinois",4,United_States
+"Boulia, Queensland",5,Australia
+Canyon Ferry Lake,4,United_States
+Gazole (community development block),8,India
+Montefalco,4,Italy
+Bachhraon,4,India
+Sitapur,3,India
+Rajkot district,4,India
+Condover,4,United_Kingdom
+Briercliffe,4,United_Kingdom
+Voltri,3,Italy
+Skelmanthorpe,4,United_Kingdom
+Bletchley and Fenny Stratford,8,United_Kingdom
+San Benedetto del Tronto,6,Italy
+"Tingalpa, Queensland",5,Australia
+Clapham South tube station,6,United_Kingdom
+"Marion County, Tennessee",5,United_States

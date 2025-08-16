@@ -1,0 +1,1001 @@
+prompt,prompt_len,target
+Bedford,3,0
+Curtice,3,0
+Hickory,3,0
+Highland-on-the-Lake,8,0
+South Palm Beach,4,1
+Clearfield County,4,0
+Red Bluff Diversion Dam,5,0
+New York Institute of Technology - Long Island Campus,10,0
+Michigan Jewish Institute,4,0
+Alachua County,4,1
+Sylvester,3,0
+Bardmoor,3,1
+Belhaven,3,0
+Cathedral City,4,0
+Ozona,3,0
+Green Springs,3,0
+Sunrise,2,1
+Barnhill,3,0
+Mingo Junction,4,0
+Jensen Beach,3,1
+Pepperdine University,4,0
+Chaires,3,1
+Spring Hill,3,1
+Pecan Plantation,4,0
+Feather Sound,3,1
+Kendall West,3,1
+Holden Heights,4,1
+Gastonville,4,0
+Gouldsboro,5,0
+Worth County,3,0
+Safety Harbor,3,1
+Sunrise,2,1
+Mineville,3,0
+Sunset,2,1
+Orange Park,3,1
+Zellwood,4,1
+University of Scranton,4,0
+Rowland Heights,4,0
+Bulloch County,4,0
+Sanibel,3,1
+Plant City,3,1
+Southwest Ranches,4,1
+June Park,3,1
+Eastern Michigan University,4,0
+Astor,3,1
+Sunrise,2,1
+Queen Anne Hotel,4,0
+Mineral Springs,3,0
+Volusia County,5,1
+West Sacramento,3,0
+Lake Nacimiento,4,0
+Potters Hill,4,0
+Ridge Wood Heights,4,1
+Big Run,3,0
+Lauderdale Lakes,5,1
+Beverly Beach,3,1
+Darke County,4,0
+Doral,3,1
+Gateway,2,1
+Fuller Acres,3,0
+North Sarasota,3,1
+Florida Polytechnic University,4,1
+Bowmansville,4,0
+Interlachen,4,1
+Cathedral Basilica of St. Joseph (San Jose),12,0
+Ford Lake (Michigan),6,0
+Illinois State University,4,0
+Norton Shores,3,0
+Melbourne Village,3,1
+West Carrollton,4,0
+Holiday,2,1
+Bunnell,3,1
+Zeeland,3,0
+Brandywine Bay,5,0
+"Epiphany Cathedral (Venice, Florida)",9,1
+Verandah,4,1
+Murrysville,4,0
+Ormond Beach,4,1
+Bowmansville,4,0
+Dade City North,4,1
+Bacliff,3,0
+Heritage Pines,3,1
+Orlando,2,1
+Indian Lake Estates,4,1
+Siesta Key,4,1
+Pasatiempo,4,0
+Barnardsville,4,0
+Gurnee,3,0
+Efland,3,0
+Minneola,4,1
+Cedar Key,3,1
+Holiday,2,1
+Bryn Mawr,4,0
+Tyndall AFB,5,1
+Illinois College of Optometry,6,0
+Palmetto Bay,4,1
+Goldsboro,4,0
+West County Energy Center,5,1
+Burnt Store Marina,4,1
+Fruit Hill,3,0
+Norton,2,0
+Keystone,3,1
+Paw Paw Lake,4,0
+Golden Gate,3,1
+Mentor-on-the-Lake,8,0
+Swedeland,4,0
+Yorkville,3,0
+Devine,3,0
+Deltona,3,1
+West Carthage,3,0
+Presidential Towers,3,0
+Barrington Hills,4,0
+Buffalo Gap,3,0
+Greenvale,3,0
+Reddick,3,1
+Belleair,3,1
+Valrico,3,1
+Lincoln University,3,0
+Van,2,0
+Three Lakes,3,1
+Central Bridge,3,0
+Chokoloskee,5,1
+Hawkinsville,4,0
+Suncoast Estates,4,1
+Punta Rassa,5,1
+Crest View Heights,4,0
+Mill Valley,3,0
+West Bradenton,5,1
+Croswell,3,0
+Wellston,3,0
+Firthcliffe,4,0
+Lone Star,3,0
+Kendall,2,1
+Eastover,3,0
+Crosby County,4,0
+Florida State University College of Arts and Sciences,9,1
+Hallandale Beach,4,1
+Midway,3,1
+DeBary,4,1
+Jan Phyl Village,5,1
+Floral City,3,1
+Pahokee,4,1
+Vanguard University of Southern California,6,0
+Broward County,4,1
+Basilica of Regina Pacis,7,0
+Savannah,2,0
+Chapel Hill,3,0
+Fleming Island,4,1
+Universal City,3,0
+Immokalee,4,1
+West Chicago,3,0
+Lakeland,3,1
+"Cathedral of Saint Francis de Sales (Oakland, California)",13,0
+Royal Palm Estates,4,1
+Timpson,3,0
+Cape Coral,3,1
+Lakeland Highlands,4,1
+Hide-A-Way Hills,7,0
+Moon Lake,3,1
+Souderton,4,0
+O'Donnell,4,0
+Lake in the Hills,5,0
+Irvine Lake,4,0
+Cuyahoga Falls,5,0
+Bertie County,4,0
+Syracuse,2,0
+Bradley Junction,3,1
+South Weldon,3,0
+Malone,3,1
+Pelican Bay,4,1
+Key Largo,3,1
+Titusville,3,1
+Coconut Creek,3,1
+San Bernardino,3,0
+Palm Valley,3,1
+Palm Beach County,4,1
+Palm Bay,3,1
+Oriole Beach,4,1
+Stokes County,3,0
+Eton,3,0
+Montura,3,1
+Ferrysburg,4,0
+New Port Richey East,6,1
+Port Sanilac,5,0
+Stony Ridge,4,0
+Lighthouse Point,4,1
+Mexico Beach,3,1
+Timber Pines,3,1
+Flovilla,3,0
+Berwick,3,0
+Ben Wheeler,3,0
+Mildred Elley,5,0
+Cataula,3,0
+"Cathedral of St. Ignatius Loyola (Palm Beach, Florida)",14,1
+Ave Maria University,4,1
+Sharpes,3,1
+Hialeah Gardens,5,1
+Montura,3,1
+Upper Saranac Lake,5,0
+Seminole,4,1
+Montverde,3,1
+Bryson City,4,0
+McHenry County,4,0
+Upper Brookville,4,0
+Sandyfield,3,0
+Trion,3,0
+Keystone Heights,4,1
+Bakersfield Country Club,6,0
+Inglis,3,1
+Wingate,3,0
+South Daytona,3,1
+Watergate,3,1
+Edgemont Park,4,0
+Santa Cruz,3,0
+Union Valley,3,0
+Heritage Pines,3,1
+Lincoln University,3,0
+Wakulla County,4,1
+Twin Lake,3,0
+Wasco,3,0
+Punta Gorda,5,1
+American Canyon,3,0
+Trevorton,3,0
+Crestview,3,1
+Panthersville,4,0
+LaBelle,3,1
+Kermit,3,0
+Cheval,3,1
+Taylorville,3,0
+Cottonwood Shores,4,0
+Indian River County,4,1
+Royal Oak Music Theatre,5,0
+Cabana Colony,4,1
+Lambertville,3,0
+Bithlo,4,1
+Tamiami,4,1
+Port Orange,3,1
+Cedartown,3,0
+Touro College South,5,1
+Westchester,3,1
+Sharpes,3,1
+Sunny Isles Beach,4,1
+Patchogue,3,0
+Hocking County,4,0
+"JFK Medical Center (Atlantis, Florida)",10,1
+El Portal,3,1
+Weeki Wachee Gardens,7,1
+Belleair,3,1
+Point Baker,3,1
+Inverness Highlands South,5,1
+University of West Florida,5,1
+Cherryville,3,0
+Houtzdale,5,0
+Eastern University,3,0
+Belleview,3,1
+North Sarasota,3,1
+Spring Arbor University,4,0
+Olivarez,3,0
+Fort Valley,3,0
+University of South Florida St. Petersburg,8,1
+Shreve,3,0
+Floral City,3,1
+Page Park,3,1
+Brevard County,4,1
+Lely Resort,4,1
+Newborn,3,0
+University of North Carolina at Chapel Hill School of Dentistry,11,0
+DeBary,4,1
+Stanly County,4,0
+International Vedic Hindu University,5,1
+South Brooksville,4,1
+Sarasota,4,1
+Westfield Center,4,0
+Cathedral of Saint Mary (Miami),9,1
+Ronda,3,0
+Zellwood,4,1
+East Palatka,4,1
+Lake Isabella,3,0
+"Cathedral Church of St. Luke (Orlando, Florida)",13,1
+Ellerslie,4,0
+Gaines County,4,0
+NC State University,4,0
+Tallahassee,3,1
+Fort Pierce,3,1
+Osceola County,5,1
+Dearborn Heights,4,0
+Jupiter,2,1
+West County Energy Center,5,1
+Pine Manor,3,1
+Rock Spring,3,0
+Lake Georgetown,3,0
+Blooming Grove,4,0
+Wickerham Manor-Fisher,7,0
+Point Baker,3,1
+Lake Denton,3,1
+Sawgrass,3,1
+Emeryville,4,0
+Pembroke Pines,4,1
+Windermere,4,1
+Northdale,3,1
+Grove City,3,0
+Holden Heights,4,1
+Mexico Beach,3,1
+World Golf Village,4,1
+La Paloma,3,0
+Sadsburyville,4,0
+Berkshire Lakes,5,1
+Bowmanstown,4,0
+South Williamsport,4,0
+University of Texas at Arlington College of Engineering,9,0
+Chocowinity,4,0
+Garner,3,0
+Sultana,4,0
+Vinings,3,0
+Crystal River,3,1
+East Lake,3,1
+Moore Haven,3,1
+Tropical Park,3,1
+Olympia Centre,3,0
+St. Petersburg,4,1
+Holden Heights,4,1
+Goulds,4,1
+Doral,3,1
+Freeburg,3,0
+"State Theatre (State College, Pennsylvania)",9,0
+New Hogan Lake,4,0
+Ives Estates,4,1
+Three Lakes,3,1
+Montoursville,4,0
+Lutz,2,1
+Woodlyn,3,0
+Glen St. Mary,5,1
+Round Lake,3,0
+Amanda,2,0
+Fort Myers Beach,4,1
+Palmetto Estates,4,1
+Mingo Junction,4,0
+Music Hall Center for the Performing Arts,8,0
+Frankenmuth,4,0
+Newaygo,4,0
+West Miami,3,1
+Sneads,3,1
+Wilton Manors,5,1
+Fruitville,3,1
+Callahan,3,1
+Tropical Park,3,1
+Adelphi University,4,0
+Milledgeville,4,0
+Sewall's Point,6,1
+Galeton,3,0
+Tavernier,4,1
+Indian Lake Estates,4,1
+"California State University, Monterey Bay",7,0
+West Bradenton,5,1
+Berkshire Lakes,5,1
+Wesley Chapel,3,1
+Riverview,3,1
+Kendall,2,1
+Malabar,3,1
+Zephyrhills South,5,1
+Ocala Estates,4,1
+Cornelius,3,0
+Neptune Beach,3,1
+Pensacola State College,5,1
+Florida A&M University – Florida State University College of Engineering,13,1
+Florida Atlantic University,4,1
+Farmer City,3,0
+Lely Resort,4,1
+Tequesta,3,1
+Bradner,3,0
+Grenelefe,4,1
+St. James Cathedral (Chicago),8,0
+Lochmoor Waterway Estates,6,1
+Asbury Lake,4,1
+Lake Mary,3,1
+Marengo,3,0
+South Beach,3,1
+Florida Atlantic University,4,1
+Stephenson,3,0
+Seaside,3,0
+Eastpoint,3,1
+West Park,3,1
+Poulan,3,0
+Goulds,4,1
+Glen St. Mary,5,1
+Midway South,4,0
+Burgaw,3,0
+Hutchinson Island South,5,1
+River Bend,3,0
+Fritch,3,0
+Page Park,3,1
+Center for Entrepreneurship and Innovation,7,1
+Milford Square,4,0
+Lake Harris (Florida),6,1
+West Wyoming,3,0
+"Cathedral of Saint Jude the Apostle (St. Petersburg, Florida)",15,1
+Palm Springs North,4,1
+South Beach,3,1
+Illinois State University,4,0
+East Newnan,4,0
+Westview,3,1
+Bartow,3,1
+Swansboro,4,0
+Wake County,3,0
+Blue Ridge Summit,4,0
+East Meadow,3,0
+Gouldsboro,5,0
+Weston,3,1
+Alachua County,4,1
+Country Knolls,4,0
+Citrus City,3,0
+Azusa Pacific University,5,0
+River Rouge,3,0
+Golden Glades,4,1
+Byham Theater,4,0
+Burr Ridge,4,0
+Glen Head,3,0
+Benicia,3,0
+Chattooga County,5,0
+Lauderdale-by-the-Sea,10,1
+Clarcona,3,1
+Cotati,3,0
+University of Fort Lauderdale,5,1
+New Kensington,3,0
+Country Walk,3,1
+Orangetree,3,1
+Apopka,4,1
+Wewahitchka,6,1
+Carrboro,3,0
+On Top of the World Designated Place,8,1
+West Palm Beach,4,1
+Sarasota Springs,5,1
+Oakleaf Plantation,4,1
+Pebble Creek,4,1
+Palm Valley,3,1
+Panama City,3,1
+Palm Beach Atlantic University,5,1
+Charlotte Harbor,3,1
+Old Field,3,0
+Turpin Hills,4,0
+Holly Hill,3,1
+Evergreen Park,4,0
+Lake Allatoona,5,0
+Edwardsburg,3,0
+Bacliff,3,0
+International Technological University,4,0
+Trinity Evangelical Divinity School,5,0
+Suncoast Estates,4,1
+Bell County,3,0
+Shippenville,4,0
+Buford,3,0
+California Polytechnic State University,5,0
+Buenaventura Lakes,4,1
+Chumuckla,5,1
+Desoto Lakes,4,1
+Maybee,3,0
+East Prospect,3,0
+One Main Place (Dallas),7,0
+Lynn Haven,3,1
+Bay Pines,3,1
+Apopka,4,1
+Sky Lake,3,1
+Anaheim University,4,0
+Anaheim University,4,0
+Macclenny,4,1
+Safety Harbor,3,1
+Florida State University School of Library & Information Studies,10,1
+Pasadena Hills,4,1
+Morrow,3,0
+Florida State University College of Education,7,1
+Ormond Beach,4,1
+Oldsmar,3,1
+Pewamo,3,0
+Elfers,3,1
+Eglin AFB,4,1
+Loveland Park,4,0
+Sherman,2,0
+"Ohio Theatre (Cleveland, Ohio)",8,0
+Piqua Nuclear Generating Station,6,0
+Sylvester,3,0
+Chillicothe,5,0
+Pembroke Park,4,1
+Fort Pierce,3,1
+Tyndall AFB,5,1
+Ellerbe,3,0
+West Lealman,4,1
+Longwood,3,1
+Melbourne Beach,3,1
+Chumuckla,5,1
+Masaryktown,5,1
+Golf Manor,3,0
+Acworth,3,0
+Kenton,3,0
+Brevard County,4,1
+Clermont chain of lakes,6,1
+Apollo Beach,3,1
+Sundial St. Pete,6,1
+St. Augustine,4,1
+Mono Lake,3,0
+Houston,2,0
+Del Rey,3,0
+Tamiami,4,1
+Connerton,4,1
+Brittany Farms-The Highlands,6,0
+Belhaven,3,0
+Brooklet,3,0
+Swartzville,4,0
+Lehigh Acres,4,1
+Honeoye,4,0
+Ubly,3,0
+University of Florida Southwest Recreation Center,7,1
+Potter County,3,0
+Christmas,2,1
+University of Fort Lauderdale,5,1
+Sea Ranch Lakes,4,1
+Millbury,3,0
+Lake DeFuniak,6,1
+Iona,3,1
+Lowesville,4,0
+Nassau Village-Ratliff,6,1
+"Florida State University College of Motion Picture, Television and Recording Arts",13,1
+Gap,2,0
+Chicago Avenue Pumping Station,5,0
+Malone,3,1
+Feather Sound,3,1
+Lake Lila,3,0
+Blawnox,4,0
+Miami Springs,3,1
+Avalon Regal Theater,5,0
+Lake Jesup,4,1
+Keuka Park,4,0
+West DeLand,4,1
+Farmers Branch,3,0
+Palm Beach County,4,1
+Throckmorton County,6,0
+Belleair,3,1
+Okeechobee,4,1
+Bethune-Cookman University,7,1
+Yanceyville,4,0
+North Key Largo,4,1
+Atlantic Beach,3,1
+Land O' Lakes,5,1
+DeFuniak Springs,6,1
+Destin,2,1
+Goldenrod,3,1
+Johnston City,3,0
+Callender Lake,4,0
+Del Mar,3,0
+Geistown,4,0
+Liberty Triangle,3,1
+Bradenton,3,1
+Poinciana,4,1
+Teachey,3,0
+Oldsmar,3,1
+Roscommon County,4,0
+Conetoe,3,0
+Plant City,3,1
+Sundial St. Pete,6,1
+Roosevelt Gardens,4,1
+Southchase,3,1
+Indian Rocks Beach,4,1
+Mecosta County,4,0
+Crest Theatre,3,0
+Tabor City,4,0
+Berkshire Lakes,5,1
+Jan Phyl Village,5,1
+Palos Heights,4,0
+Bradenton Beach,4,1
+Brent,2,1
+Mechanicstown,3,0
+Homestead,3,1
+Fernandina Beach,4,1
+Crisp County,4,0
+Homestead Base,4,1
+Hodges University,4,1
+LaDue Reservoir,4,0
+St. Augustine,4,1
+Orlovista,4,1
+Fruit Cove,3,1
+Kate Gleason College of Engineering,6,0
+Brevard County,4,1
+Golden Glades,4,1
+Millbury,3,0
+McAllen,3,0
+Witt,2,0
+Gilchrist County,4,1
+Lehigh County,4,0
+Manitou Beach-Devils Lake,8,0
+Pasadena Hills,4,1
+Dade City,3,1
+Bellview,3,1
+Arcade,2,0
+Williamsport,3,0
+Tornillo,3,0
+Hainesville,4,0
+Citrus Springs,3,1
+Pompano Beach,5,1
+Rowan County,3,0
+Pennsbury Village,5,0
+Fontana,3,0
+Coral Terrace,3,1
+Maitland,3,1
+Lake Alfred,3,1
+Matlacha,4,1
+Mayacamas Mountains,5,0
+Lake Gaston,3,0
+Dixie County,3,1
+Astor,3,1
+D–Q University,5,0
+Kaser,3,0
+Westview,3,1
+Longboat Key,4,1
+State University of New York at Canton,8,0
+Lemoore,3,0
+South Zanesville,5,0
+Cornerstone University,4,0
+Lake Michigan Beach,4,0
+North Lake (Dallas),6,0
+McLean County,4,0
+Winter Haven,3,1
+Flora,2,0
+Feather Sound,3,1
+Knights Landing,3,0
+Bellair-Meadowbrook Terrace,8,1
+Fort Braden,4,1
+Marengo,3,0
+Callaway,3,1
+Leavittsburg,5,0
+Cochran County,4,0
+Meigs,3,0
+Casey,2,0
+Bayonet Point,4,1
+Brevard County,4,1
+Gages Lake,4,0
+Iredell County,4,0
+Basilica of the Immaculate Conception (Jacksonville),10,1
+University of Florida Center for African Studies,8,1
+Mechanicsburg,3,0
+South Brooksville,4,1
+Dallas Baptist University,4,0
+Macclenny,4,1
+Cross City,3,1
+Madeira Beach,4,1
+Atlanta Symphony Hall,4,0
+South Miami,3,1
+Chuluota,4,1
+Macedonia,3,0
+Onondaga Lake,5,0
+Evans Mills,3,0
+Point Park University,4,0
+West DeLand,4,1
+Mooresville,4,0
+St. Thomas the Apostle Catholic Church (Los Angeles),12,0
+Crystal Lake,3,0
+Odum School of Ecology,6,0
+Fordham Graduate School of Arts and Sciences,9,0
+East Jordan,3,0
+McDowell County,4,0
+Wekiwa Springs,5,1
+"Basilica and National Shrine of Our Lady of Lebanon (North Jackson, Ohio)",17,0
+Cocoa West,3,1
+Belwood,3,0
+Webberville,4,0
+Lake Sherwood,3,0
+North Fort Myers,4,1
+Sarasota,4,1
+Terra Bella,3,0
+West Vero Corridor,4,1
+Rodman Reservoir,4,1
+Dade City,3,1
+Columbus County,3,0
+Plattsburgh West,4,0
+Haywood County,4,0
+Grizzly Flats,4,0
+South Beach,3,1
+Aventura,3,1
+Kenwood Estates,4,1
+Hurlburt Field,6,1
+Saugerties South,5,0
+Fish Hawk,3,1
+Brookport,3,0
+Colon,2,0
+Garrick Theatre (New York City),9,0
+Sugarmill Woods,5,1
+University of St. Francis,6,0
+Fruitland Park,4,1
+Port St. John,5,1
+California Miramar University,5,0
+Silver Springs Shores,4,1
+Keystone Heights,4,1
+Tahoma,2,0
+Midway North,4,0
+Tawas City,4,0
+Casa Mañana,4,0
+Southern Polytechnic State University,5,0
+Hernando County,4,1
+Mart,2,0
+Moore Haven,3,1
+Tamarac,3,1
+Gulf Stream,3,1
+Braidwood,4,0
+Lacona,3,0
+Upper Sandusky,4,0
+Acworth,3,0
+Blackshear,3,0
+Florida Polytechnic University,4,1
+Hypoluxo,4,1
+Sarasota Springs,5,1
+Sun Village,3,0
+Tamaroa,3,0
+Jeromesville,4,0
+Norristown,3,0
+North Key Largo,4,1
+Cypress Gardens,3,1
+Dixie Highway,3,1
+Surfside,3,1
+Florida Polytechnic University,4,1
+New Chapel Hill,4,0
+Cincinnati Christian University,4,0
+Glades County,4,1
+Fort Recovery,3,0
+Lake Jesup,4,1
+Plum,2,0
+Titusville,3,1
+West Bradenton,5,1
+Satellite Beach,3,1
+Suncoast Estates,4,1
+Bradenton,3,1
+North Miami Beach,4,1
+West Bradenton,5,1
+Escambia County,5,1
+Weeki Wachee Gardens,7,1
+Tuscarawas County,6,0
+Phoenixville,3,0
+Au Gres,3,0
+Harbor Isle,3,0
+Cleves,3,0
+Rainbow Springs,3,1
+Heyworth,3,0
+Grenelefe,4,1
+Antioch University,4,0
+Woodsdale,4,0
+Berry College,3,0
+Gilman,3,0
+Hialeah Gardens,5,1
+Baiting Hollow,4,0
+East Rockaway,4,0
+Buena Park,3,0
+Poplar Grove,4,0
+Fox Chapel,3,0
+Experiment,2,0
+Catoosa County,5,0
+Philmont,3,0
+North Lauderdale,3,1
+Maple Heights,3,0
+St. John's University,7,0
+Carrabelle,4,1
+Savona,3,0
+Kenneth City,3,1
+Panama City Beach,4,1
+Lacoochee,5,1
+Lathrup Village,5,0
+Harbour Heights,4,1
+Kensico Reservoir,4,0
+Swainsboro,4,0
+Co-Cathedral of St. Joseph (Brooklyn),12,0
+Lake Jesup,4,1
+Golconda,3,0
+Calcutta,3,0
+Pasco County,4,1
+Schulenburg,4,0
+Palo Alto University,4,0
+Orlando,2,1
+Pine Canyon,3,0
+Miami,2,1
+Chadwick Lake,4,0
+Stem,2,0
+Chiefland,3,1
+Masaryktown,5,1
+Lewis College of Business,5,0
+Haywood County,4,0
+Ochiltree County,5,0
+Fruitville,3,1
+Archer,2,1
+Poinciana,4,1
+Belleair Beach,4,1
+Stormstown,3,0
+Penbrook,3,0
+North Sarasota,3,1
+South Gate Ridge,4,1
+Leslie,2,0
+University of Michigan School of Public Health,8,0
+Fisher County,3,0
+Odum School of Ecology,6,0
+East Butler,3,0
+East Mountain,3,0
+Coppell,3,0
+Lakemoor,4,0
+Poquott,4,0
+Clearlake Oaks,4,0
+Villa Grove,3,0
+Antioch University Santa Barbara,6,0
+Tucker,2,0
+Fairlawn,3,0
+Temple Terrace,3,1
+Warm Mineral Springs,4,1
+Indian Creek,3,0
+Crooked Lake Park,5,1
+Sackets Harbor,4,0
+Gibsonton,4,1
+Coolville,3,0
+Panama City Beach,4,1
+Church of Sts. Cyril & Methodius and St. Raphael,13,0
+Robins AFB,4,0
+Carson County,3,0
+Crowell,3,0
+Catheys Valley,5,0
+Chassell,3,0
+Charlotte Harbor,3,1
+Granite Quarry,3,0
+Martin Next Generation Solar Energy Center,7,1
+Saline,3,0
+Mertztown,4,0
+Pinckney,4,0
+Florida National University,4,1
+Llano Grande,4,0
+University of Scranton,4,0
+Kendale Lakes,4,1
+Haines City,4,1
+Chagrin Falls,4,0
+Chumuckla,5,1
+Zanesville,4,0
+Monroeville,5,0
+Lake Helen,3,1
+Winter Haven,3,1
+Dobbs Ferry,4,0
+St. Paul's Cathedral (San Diego),11,0
+Wellston,3,0
+Firthcliffe,4,0
+Bessemer City,5,0
+Hapeville,4,0
+National University of Health Sciences,6,0
+Glens Falls,4,0
+Flagler Beach,4,1
+Greenview,3,0
+Tobaccoville,3,0
+King Mountain Wind Farm,5,0
+Fort Myers,3,1
+Graduate Theological Union,4,0
+Highland Beach,3,1
+Tamiami,4,1
+Meadow Brook Amphitheatre,6,0
+Wacousta,5,0
+On Top of the World Designated Place,8,1
+Lauderdale-by-the-Sea,10,1
+Liberty Triangle,3,1
+Milam,3,0
+Orangetree,3,1
+Cudjoe Key,4,1
+Day Valley,3,0
+Jacksonville,2,1
+Century,2,1
+University of West Florida,5,1
+Hooven,3,0
+The Acreage,4,1
+Island Lake,3,0
+LaBelle,3,1
+Groveland,3,1
+Belleair Beach,4,1
+Lake Mary Jane,4,1
+Ionia,3,0
+Florida Atlantic University,4,1
+Hubbard Lake,4,0
+Cornerstone University,4,0
+Smiley,3,0
+Galatia,3,0
+Palm Beach Shores,4,1
+East Ellijay,5,0
+Melbourne,2,1
+Crestview,3,1
+Lake Lorraine,3,1
+West Melbourne,3,1
+Tampa,2,1
+Palm Springs North,4,1
+Wilmington,3,0
+Pensacola State College,5,1
+North Amityville,4,0
+Three Oaks,3,1
+Thornville,3,0
+Bal Harbour,3,1
+Avalon Regal Theater,5,0
+Somonauk,4,0
+Dent,2,0
+"Florida State University College of Visual Arts, Theatre and Dance",12,1
+Sodus Point,4,0
+Glenvar Heights,4,1
+Faison,3,0
+North Lauderdale,3,1
+Bay Harbor Islands,4,1
+University of Pittsburgh School of Social Work,8,0
+Wright Patman Lake,5,0
+Carrollton,3,0
+Bokeelia,4,1
+Florida Polytechnic University,4,1
+Jacksonville,2,1
+Stony Ridge,4,0
+Bendersville,4,0
+Punta Gorda,5,1
+Gholson,4,0
+Naples Manor,3,1
+Quinnesec,4,0
+Level Green,3,0
+Fort Pierce North,4,1
+Hapeville,4,0
+Silver Springs Shores East,5,1
+Schall Circle,4,1
+Cathedral City,4,0
+Robbins,3,0
+Raoul,3,0
+University of South Florida,5,1
+Brent,2,1
+Okeechobee County,5,1
+Laingsburg,4,0
+Pacific Design Center,4,0
+Heritage Bay,3,1
+Mexico Beach,3,1
+Cedar Key,3,1
+Dade City,3,1
+Clewiston,4,1
+St. John's Chapel (New York City),12,0
+Cove Creek,4,0
+Destin,2,1
+Moody AFB,3,0
+Medley,3,1
+South Palm Beach,4,1
+Goulding,4,1
+Muscogee County,5,0
+West Melbourne,3,1
+Lake Panasoffkee,6,1
+Chumuckla,5,1
+Bret Harte,4,0
+Alanson,3,0
+Hawkinsville,4,0
+La Habra,4,0
+Paradise Heights,3,1
+Shokan,3,0
+Hunt County,3,0
+Williamsport,3,0
+Palm Beach County,4,1
+Freestone County,4,0
+Yanceyville,4,0
+Chesterbrook,3,0
+Pheasant Run,4,0
+Mexico Beach,3,1
+Linglestown,4,0
+Antrim County,4,0
+North Miami Beach,4,1
+Forest Home,3,0
+Millbury,3,0
+Mexico Beach,3,1
+Hurlburt Field,6,1
+Chappaqua,4,0
+Hershey,3,0
+Robert Morris University Illinois,5,0
+Lauderhill,4,1
+Page Park,3,1
+Hillsboro Beach,4,1
+Vamo,3,1
+Gateway,2,1
+St. Augustine South,5,1
+Green,2,0
+Tice,3,1
+Ormond Beach,4,1
+Caswell County,4,0
+Deltona,3,1
+South Palm Beach,4,1
+Palmetto Bay,4,1
+Franklin College of Arts and Sciences,7,0
+Lauderdale-by-the-Sea,10,1
+Knights Landing,3,0
+Pensacola,3,1
+Cedar Hill,3,0
+Specs Howard School of Media Arts,7,0
+Pinecrest,4,1
+Medley,3,1
+Lee,2,1
+Ferry Pass,3,1
+Goulding,4,1
+Bellair-Meadowbrook Terrace,8,1
+Fuller Heights,3,1
+Florida State College at Jacksonville,6,1
+Oscoda County,4,0
+St. Leo,4,1
+Basilica of Regina Pacis,7,0
+Gulf Stream,3,1
+Navarre Beach,4,1
+Chaires,3,1
+Thornville,3,0
+Fort White,3,1
+South Bay,3,1

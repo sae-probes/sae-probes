@@ -1,0 +1,48 @@
+[tool.poetry]
+name = "sae-probes"
+version = "0.1.0"
+description = "Sparse probing benchmark for Sparse Autoencoders derived from the paper \"Are Sparse Autoencoders Useful? A Case Study in Sparse Probing\""
+authors = ["Subhash Kantamneni", "Joshua Engels"]
+readme = "README.md"
+packages = [{ include = "sae_probes" }]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<4.0"
+transformer-lens = "^2.15.4"
+sae-lens = ">=5.0.0,<7.0.0"
+scikit-learn = "^1.6.1"
+pandas = "^2.2.3"
+sae-bench = "^0.4.0"
+xgboost = "^3.0.2"
+hf-transfer = "^0.1.9"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.5"
+ruff = "^0.11.11"
+pyright = "^1.1.401"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.isort]
+profile = "black"
+
+[tool.ruff]
+exclude = ["dist", "docs", "*.ipynb", "tests/_comparison"]
+
+[tool.ruff.lint]
+ignore = ["E203", "E501", "E731"]
+extend-select = ["UP", "TID", "I", "F", "E", "ARG"]
+
+[tool.ruff.lint.flake8-tidy-imports.banned-api]
+"typing.Union".msg = "Use `|` instead"
+"typing.Optional".msg = "Use `| None` instead"
+"typing.Dict".msg = "Use `dict` instead"
+"typing.Tuple".msg = "Use `tuple` instead"
+"typing.List".msg = "Use `list` instead"
+
+[tool.pyright]
+typeCheckingMode = "basic"
+ignore = ["tests/_comparison"]

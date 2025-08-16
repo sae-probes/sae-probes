@@ -1,0 +1,5001 @@
+prompt,prompt_len,target
+Bowdon,3,GA
+Fort Myers Beach,4,FL
+Glenshaw,4,PA
+Ruffin,3,NC
+Jay Pritzker Pavilion,6,IL
+Schall Circle,4,FL
+Lake Fenton,3,MI
+LaBelle,3,FL
+University of Atlanta,4,GA
+Warfield Theatre,4,CA
+Fairdale,3,PA
+Fisher County,3,TX
+McElhattan,4,PA
+Glenwood Landing,4,NY
+Wampum,4,PA
+East Petersburg,3,PA
+Chowan University,4,NC
+Prestbury,3,IL
+Glenview,3,IL
+Fall River Mills,4,CA
+Syracuse,2,NY
+Gregg County,3,TX
+Belwood,3,NC
+Dominican University,4,IL
+Agoura Hills,4,CA
+Lake Mitchell (Michigan),6,MI
+Cove Creek,4,NC
+Camp Point,3,IL
+Onarga,3,IL
+Carrboro,3,NC
+Dallas Theater Center,4,TX
+Yermo,3,CA
+Newcomerstown,5,OH
+University of West Georgia,5,GA
+Plattsburgh,3,NY
+Villa Grove,3,IL
+National University of Health Sciences,6,IL
+South Floral Park,4,NY
+Porterdale,3,GA
+Ironton,4,OH
+State University of New York at Geneseo,10,NY
+Vermontville,3,MI
+Ohio Northern University,4,OH
+100 Eleventh Avenue,6,NY
+Texas Tech University College of Arts & Sciences,9,TX
+Howland Center,4,OH
+Millbury,3,OH
+Sharpes,3,FL
+Hookerton,3,NC
+Zanesville,4,OH
+Winter Haven,3,FL
+Wright-Patterson AFB,5,OH
+Duboistown,5,PA
+Redondo Beach,4,CA
+Schuyler County,4,NY
+Caspian,3,MI
+Stanly County,4,NC
+West Conshohocken,5,PA
+John Carroll University,4,OH
+Herscher,3,IL
+Fort Davis,3,TX
+Rogers City,3,MI
+Bedford Heights,4,OH
+Winkler County,4,TX
+McDowell County,4,NC
+Muleshoe,4,TX
+Fordham Graduate School of Arts and Sciences,9,NY
+Chillicothe,5,OH
+Edenton,3,NC
+Pittsburgh Institute of Aeronautics,5,PA
+Lake Michigan College,4,MI
+Shippensburg,4,PA
+Stephenson,3,MI
+Flovilla,3,GA
+Johnston City,3,IL
+Byham Theater,4,PA
+Briar Chapel,4,NC
+Continental,2,OH
+Wake Forest University,4,NC
+Hotel Texas,3,TX
+Camp Wood,3,TX
+Cornell Tech,3,NY
+Lolita,3,TX
+Scottdale,3,GA
+Lake Lorelei,4,OH
+Atlanta Symphony Hall,4,GA
+North Druid Hills,4,GA
+University of South Florida St. Petersburg,8,FL
+Daniel Baker College,4,TX
+Granite Hills,3,CA
+Pumpkin Center,3,NC
+Toast,2,NC
+Plymouth Meeting,3,PA
+Pekin,3,IL
+Metter,3,GA
+Texas A&M University–San Antonio,9,TX
+North Ridgeville,4,OH
+Columbus County,3,NC
+Perry Heights,3,OH
+Hawkinsville,4,GA
+Toombs County,4,GA
+Paw Paw Lake,4,MI
+Carrollton,3,TX
+Gallia County,4,OH
+Kenefick,4,TX
+Experiment,2,GA
+Lincoln Christian University,4,IL
+Washington Heights,3,NY
+Uvalde County,5,TX
+Lake Michigan College,4,MI
+South Rosemary,3,NC
+Solon,3,OH
+Murphy,2,TX
+Woodland,2,CA
+Calcium,2,NY
+Lake Mary,3,FL
+Bendersville,4,PA
+Gladwin County,4,MI
+Athens Technical College,4,GA
+North Catasauqua,6,PA
+Penn Valley,3,CA
+McCallum Theatre,4,CA
+Jenison,3,MI
+Lamar Institute of Technology,5,TX
+Herrin,3,IL
+North Carolina Blumenthal Performing Arts Center,8,NC
+Waynesburg,4,PA
+Marengo,3,IL
+Newville,3,PA
+Windermere,4,FL
+Trevorton,3,PA
+Mark Taper Forum,5,CA
+Conover,3,NC
+Hilmar-Irwin,6,CA
+Lacon,3,IL
+Cultural Education Center,4,NY
+Sugarmill Woods,5,FL
+Canadian Lakes,3,MI
+Parkdale,3,MI
+Cataula,3,GA
+Port Sanilac,5,MI
+Pine Canyon,3,CA
+Peachtree City,5,GA
+Illinois State University,4,IL
+Spring Lake,3,NC
+Coke County,3,TX
+Thornville,3,OH
+Zellwood,4,FL
+Stiles,3,PA
+Doral,3,FL
+Roscommon County,4,MI
+New York Theatre Workshop,5,NY
+Dunnstown,3,PA
+Winder,3,GA
+Fort Pierce,3,FL
+Varnell,3,GA
+Panama City,3,FL
+Mingo Junction,4,OH
+Villa Park,3,IL
+Shelter Island Heights,4,NY
+Redway,3,CA
+Montague County,4,TX
+Haywood County,4,NC
+Blackshear,3,GA
+Country Knolls,4,NY
+South Palm Beach,4,FL
+Hubbard Lake,4,MI
+Reid Hope King,4,TX
+Skokie,3,IL
+Rochester Institute of Technology,5,NY
+Congerville,3,IL
+Melbourne,2,FL
+Villa Grove,3,IL
+North Ridgeville,4,OH
+Roosevelt Park,4,MI
+University of Fort Lauderdale,5,FL
+Catoosa County,5,GA
+Fort Braden,4,FL
+Coral Terrace,3,FL
+North Chicago,3,IL
+Polo,2,IL
+Miamitown,4,OH
+Ontonagon County,5,MI
+Jarvis Christian College,5,TX
+Casey,2,IL
+Muttontown,4,NY
+San Joaquin,3,CA
+Camp Point,3,IL
+Donna,2,TX
+George West,3,TX
+Fairview Park,4,OH
+La Grange Park,4,IL
+Mount Holly Springs,4,PA
+Clarcona,3,FL
+Wilmington,3,NC
+Brazoria County,4,TX
+Wickerham Manor-Fisher,7,PA
+195 Broadway,5,NY
+Chassell,3,MI
+Candler County,4,GA
+Lake Victoria,3,MI
+High Point,3,NC
+Columbus,2,OH
+Illinois Institute of Technology,5,IL
+Golden Glades,4,FL
+St. Leo,4,FL
+Valley Hill,3,NC
+Standish,3,MI
+Pecatonica,4,IL
+Pittsburgh Playhouse,3,PA
+Snyder County,4,PA
+Vinings,3,GA
+Wellston,3,OH
+Lexington Reservoir,3,CA
+Anderson Lake (California),6,CA
+Hershey,3,PA
+Page Park,3,FL
+Edgemont Park,4,MI
+Onondaga Lake,5,NY
+Mexia,3,TX
+Nassau Village-Ratliff,6,FL
+Calabash,4,NC
+Coolville,3,OH
+Lauderdale Lakes,5,FL
+Westview,3,FL
+Johnston City,3,IL
+Mills River,3,NC
+Cairnbrook,4,PA
+DeBary,4,FL
+Basilica of Regina Pacis,7,NY
+Howland Center,4,OH
+Sankertown,4,PA
+Circleville,3,OH
+Redding,3,CA
+Cornerstone University,4,MI
+Schlusser,4,PA
+Nolanville,3,TX
+Higgins Lake,3,MI
+State University of New York at Fredonia,9,NY
+Deer Lake,3,PA
+Calcutta,3,OH
+Soudersburg,4,PA
+St. James Cathedral (Chicago),8,IL
+Standish,3,MI
+Piney Point Village,5,TX
+Lanark,3,IL
+Temblor Range,5,CA
+Woodcrest,3,CA
+Neoga,3,IL
+Laughlin AFB,4,TX
+Cahokia,4,IL
+Choctaw Lake,5,OH
+Cleone,3,CA
+Port Vue,3,PA
+University of Florida Center for African Studies,8,FL
+Liberty Triangle,3,FL
+Cheyney University of Pennsylvania,7,PA
+Waymart,3,PA
+East Hampton North,4,NY
+Northville,3,MI
+Wayne,2,MI
+Bridgeview,3,IL
+Walnuttown,3,PA
+Columbia University School of Social Work,7,NY
+Senoia,4,GA
+Florida Atlantic University,4,FL
+Ubly,3,MI
+Pinckney,4,MI
+Panthersville,4,GA
+Goliad,4,TX
+125 Greenwich Street,6,NY
+New Freedom,3,PA
+Pettus,4,TX
+Brewster-Douglass Housing Projects,8,MI
+River Forest,3,IL
+Walden,3,NY
+Peck,3,MI
+Montour Falls,4,NY
+Montverde,3,FL
+Le Grand,3,CA
+Jackson Lake (Georgia),6,GA
+Galveston Bay,4,TX
+Stony Ridge,4,OH
+Round Lake Beach,4,IL
+Staley,3,NC
+Evendale,3,OH
+North Topsail Beach,5,NC
+Corry,3,PA
+Big Pink,3,NY
+Hauppauge,4,NY
+Tryon,3,NC
+Shiawassee County,6,MI
+Lone Star,3,TX
+McBain,3,MI
+El Dorado County,4,CA
+Baywood Park,4,CA
+Kate Gleason College of Engineering,6,NY
+Katy,2,TX
+West View,3,PA
+Matador,3,TX
+Northgate,3,OH
+Gladwin County,4,MI
+Beverly Beach,3,FL
+West Newton,3,PA
+Muhlenberg Park,5,PA
+Mayacamas Mountains,5,CA
+Texas Tech University at Amarillo,6,TX
+Suisun City,5,CA
+Leona Valley,4,CA
+Tamiami,4,FL
+Pumpkin Center,3,NC
+Tamiami,4,FL
+Shell Ridge,3,CA
+Reading,2,PA
+Cheboygan County,5,MI
+Manistique,3,MI
+Caswell County,4,NC
+Long Grove,3,IL
+Bithlo,4,FL
+Oscoda,3,MI
+Old Fort,3,NC
+Upper Brookville,4,NY
+Pheasant Run,4,OH
+Belle Center,3,OH
+Penbrook,3,PA
+Okeechobee County,5,FL
+Mechanicstown,3,NY
+Dowagiac,4,MI
+University of West Los Angeles,6,CA
+Yoe,3,PA
+Beech Mountain Lakes,5,PA
+Swedeland,4,PA
+West Chicago,3,IL
+Pennsbury Village,5,PA
+Port Chester,3,NY
+McLeansboro,5,IL
+Gibsonton,4,FL
+Fruitland Park,4,FL
+Elfin Forest,4,CA
+University of Arizona Global Campus,6,IL
+Zeigler,4,IL
+Pine Mountain,3,GA
+Lewis College of Business,5,MI
+Woodlyn,3,PA
+Donna,2,TX
+Garrick Theatre (New York City),9,NY
+Madeira Beach,4,FL
+Ogle County,4,IL
+Pasadena Hills,4,FL
+Lake Tanglewood,5,TX
+Taliaferro County,5,GA
+Putnam Lake,4,NY
+McCullom Lake,5,IL
+Buckeye Lake,4,OH
+Moody AFB,3,GA
+Altamaha Technical College,6,GA
+Haviland,3,NY
+Crest Theatre,3,CA
+"Most Holy Trinity Church, Mamaroneck",9,NY
+Hale County,3,TX
+Groveport,3,OH
+Sultana,4,CA
+St. Simons,4,GA
+Traverse City,3,MI
+Dent,2,OH
+Piermont,3,NY
+"Proctor's Theatre (Schenectady, New York)",14,NY
+Kennesaw,4,GA
+Waco,3,TX
+Big Bear Lake,4,CA
+Barnes Lake,3,MI
+Romeo,2,MI
+Wurtsboro,4,NY
+Flowery Branch,4,GA
+Manteo,4,NC
+Wrightwood,3,CA
+Hinesville,4,GA
+Honesdale,4,PA
+"St. Mary, Our Lady of Mount Carmel Cathedral (Gaylord, Michigan)",17,MI
+Ormond Beach,4,FL
+Solon,3,OH
+Grundy County,4,IL
+Brenau University,4,GA
+International Academy of Design & Technology – Detroit,9,MI
+Grundy County,4,IL
+Pecan Hill,4,TX
+North Lewisburg,4,OH
+Reed Creek,3,GA
+Lenoir,4,NC
+Landen,3,OH
+Red Lion,3,PA
+Lake Lorraine,3,FL
+Moyock,3,NC
+Manistique,3,MI
+Troutman,3,NC
+Old Field,3,NY
+Glenmoor,3,OH
+St. John Fisher University,6,NY
+Center for Entrepreneurship and Innovation,7,FL
+Cypress,2,CA
+Fort Stewart,3,GA
+Hearne,3,TX
+Fitzgerald,3,GA
+Chenoa,4,IL
+Longwood,3,FL
+South Lake Tahoe,4,CA
+Carleton,3,MI
+Candler County,4,GA
+South Nyack,4,NY
+McLean County,4,IL
+Napa County,4,CA
+West Lealman,4,FL
+Romeoville,4,IL
+Nicholls,4,GA
+Bosque County,4,TX
+West Carthage,3,NY
+Floral City,3,FL
+Jesup,3,GA
+Millbourne,3,PA
+Gaston County,4,NC
+Carmi,3,IL
+Taylorville,3,IL
+South Temple,3,PA
+Newaygo County,5,MI
+West Carson,3,CA
+Meadows Place,4,TX
+Douglasville,3,GA
+Winter Haven,3,FL
+Bleckley County,4,GA
+Great Neck Estates,4,NY
+Roosevelt Gardens,4,FL
+Moody AFB,3,GA
+Old University of Chicago,5,IL
+Hallettsville,5,TX
+Flora,2,IL
+Highland Beach,3,FL
+Callaway,3,FL
+Cincinnati Christian University,4,OH
+Crestview,3,FL
+Homestead Base,4,FL
+Peotone,3,IL
+Berwyn,3,IL
+Walthourville,5,GA
+Stormstown,3,PA
+Raleigh,2,NC
+Salinas,3,CA
+Phoenix Lake,3,CA
+Daly City,4,CA
+Hiram,3,GA
+Barker Reservoir,4,TX
+Saline,3,MI
+Honey Grove,3,TX
+Lake Linden,3,MI
+Avalanche Lake (New York),8,NY
+Villa Grove,3,IL
+New Concord,3,OH
+Wilkshire Hills,5,OH
+Mount Cobb,3,PA
+Farmers Branch,3,TX
+Dollar Bay,3,MI
+Fremont,3,CA
+La Moille,4,IL
+New Lebanon,3,OH
+Waleska,3,GA
+McCaysville,4,GA
+Alachua County,4,FL
+Crowell,3,TX
+University of Texas at Arlington College of Engineering,9,TX
+Three Oaks,3,FL
+Millbury,3,OH
+Titus County,3,TX
+Adrian,2,MI
+Stony Creek Mills,5,PA
+Tuscarawas County,6,OH
+Forest Oaks,3,NC
+Plainedge,4,NY
+Cincinnati,2,OH
+Edgecombe County,4,NC
+Fairborn,3,OH
+Caro,2,MI
+Bertsch-Oceanview,6,CA
+Bedford Hills,4,NY
+Aventura,3,FL
+Tucker,2,GA
+Jekyll Island,4,GA
+Savannah State University,4,GA
+Reeves County,4,TX
+Delaware County,3,PA
+LeTourneau University,5,TX
+Universal City,3,TX
+Glen Head,3,NY
+Napanoch,4,NY
+Florida Polytechnic University,4,FL
+Church of Sts. Cyril & Methodius and St. Raphael,13,NY
+Ohioville,3,PA
+St. Hedwig,5,TX
+Banning,3,CA
+Aurora University,3,IL
+Grove City,3,OH
+Zeeland,3,MI
+Sherman,2,TX
+Ulster County,4,NY
+Freestone County,4,TX
+Florida State University College of Arts and Sciences,9,FL
+Andrews University,3,MI
+Mayodan,3,NC
+Center Moriches,4,NY
+Cotati,3,CA
+Eagleview,3,PA
+Susquehanna University,4,PA
+Gamewell,3,NC
+Northern Illinois University,4,IL
+Chadds Ford,4,PA
+Southern Polytechnic State University,5,GA
+Wilmington Island,4,GA
+Franklin College of Arts and Sciences,7,GA
+Beech Mountain Lakes,5,PA
+Day Heights,3,OH
+Cedarville,3,OH
+Brookport,3,IL
+North Carolina Central University,5,NC
+Croswell,3,MI
+Guerneville,4,CA
+Round Lake Beach,4,IL
+Hunt County,3,TX
+Grandyle Village,4,NY
+Conley,3,GA
+Newaygo,4,MI
+Jesup,3,GA
+Hydetown,3,PA
+Sankertown,4,PA
+Quaker City,4,OH
+"Cathedral of Saint Jude the Apostle (St. Petersburg, Florida)",15,FL
+Baird,3,TX
+Holy Family Orphanage,5,MI
+Manitou Beach-Devils Lake,8,MI
+Orchestra Hall (Detroit),7,MI
+Shorewood-Tower Hills-Harbert,9,MI
+Lewis College of Business,5,MI
+McKinney,3,TX
+Robbins,3,IL
+Coahoma,4,TX
+Onondaga County,5,NY
+Sylvester,3,GA
+Sasakawa International Center for Space Architecture,9,TX
+Walthourville,5,GA
+Bethalto,4,IL
+Oldsmar,3,FL
+Feasterville,3,PA
+Greenport West,4,NY
+North Barrington,3,IL
+Beckville,3,TX
+Arlington Heights,3,IL
+"Most Holy Trinity Church, Mamaroneck",9,NY
+Penn Estates,3,PA
+Yanceyville,4,NC
+North Carolina Central University,5,NC
+Boronda,3,CA
+Whitney Point,3,NY
+Franklin College of Arts and Sciences,7,GA
+Bolingbrook,4,IL
+La Puerta,3,TX
+Mexico Beach,3,FL
+North Apollo,3,PA
+Cotati,3,CA
+Petoskey,4,MI
+Channahon,4,IL
+Snellville,4,GA
+Pine Flat Dam,4,CA
+"Saint Joseph Parish (Mountain View, California)",10,CA
+Loving County,3,TX
+Carnesville,4,GA
+Mountain Lodge Park,4,NY
+Sanibel,3,FL
+Alapaha,4,GA
+Corona,2,CA
+Lilburn,3,GA
+Edison,2,GA
+Rochester Hills,3,MI
+University at Buffalo,4,NY
+Jackson Lake (Georgia),6,GA
+Moon Lake,3,FL
+Wewahitchka,6,FL
+Pearland,3,TX
+Jamaica Beach,3,TX
+Hemlock Lake,4,NY
+Belleair Beach,4,FL
+Capital University,3,OH
+Burnt Store Marina,4,FL
+Mount Vernon Nazarene University,6,OH
+Newaygo,4,MI
+Tillson,3,NY
+Fallsburg,3,NY
+Duncan Falls,3,OH
+Cathedral City,4,CA
+Washington Avenue Immigration Station,5,PA
+Golden Gate University,4,CA
+Sunset Beach,3,NC
+Loveland Park,4,OH
+Royersford,4,PA
+Beaver Falls,3,PA
+Curtisville,3,PA
+Greenview,3,IL
+Great Craggy Mountains,6,NC
+Obetz,3,OH
+Kirtland,4,OH
+Cheboygan,4,MI
+Austell,3,GA
+Level Green,3,PA
+Wyanet,4,IL
+Ottawa Hills,3,OH
+Albemarle,4,NC
+Country Club Estates,4,GA
+Ridgway,3,PA
+Griggs University,4,MI
+The Plains,3,OH
+Albany,2,NY
+Waycross,3,GA
+Palm Beach Shores,4,FL
+Cobb County,4,GA
+Gahanna,4,OH
+Morthland College,5,IL
+Boyd,2,TX
+South Holland,3,IL
+Bogue,3,NC
+Matamoras,4,PA
+Lathrup Village,5,MI
+Mammoth Pool Reservoir,5,CA
+South Daytona,3,FL
+Cedartown,3,GA
+Birch Run,3,MI
+Heritage Pines,3,FL
+Granite Bay,3,CA
+Indian Lake Estates,4,FL
+Marble Cliff,3,OH
+Pinnacle,4,NC
+Tatamy,3,PA
+West DeLand,4,FL
+Royal Oak Music Theatre,5,MI
+Frazer,3,PA
+Lake Lorelei,4,OH
+Pen Mar,3,PA
+Manteno,3,IL
+Buffalo Gap,3,TX
+Oakland County,3,MI
+Dutch Island,3,GA
+Blasdell,3,NY
+Wamac,4,IL
+Gamewell,3,NC
+Roscommon,3,MI
+Doraville,3,GA
+West Bradenton,5,FL
+Hudson Bend,3,TX
+Hollister,3,CA
+Jeromesville,4,OH
+New Straitsville,4,OH
+Woodland Beach,3,MI
+Danvers,3,IL
+Somis,3,CA
+Kenly,3,NC
+Keego Harbor,4,MI
+McKinney Acres,4,TX
+Bunnlevel,4,NC
+Royersford,4,PA
+Olympia Centre,3,IL
+Chattahoochee County,7,GA
+Womelsdorf,5,PA
+Plymouth Meeting,3,PA
+Leavittsburg,5,OH
+Newman,2,CA
+Fort Johnson,3,NY
+Kountze,4,TX
+Melbourne Village,3,FL
+Red Springs,3,NC
+Dowagiac,4,MI
+Quaker City,4,OH
+Loganville,3,GA
+Chillicothe,5,OH
+Marquette,3,MI
+Dortches,3,NC
+Elsie,3,MI
+Peachtree City,5,GA
+East Atlantic Beach,4,NY
+North Pekin,4,IL
+Beckett Ridge,4,OH
+Golf Manor,3,OH
+Peachland,3,NC
+Aviston,3,IL
+Raoul,3,GA
+Canyon Lake,3,TX
+East Newnan,4,GA
+Premier Flight Academy,4,OH
+Day Valley,3,CA
+Gulf Stream,3,FL
+Deer Creek,3,IL
+Mahomet,4,IL
+Monroeville,5,PA
+Brittany Farms-The Highlands,6,PA
+Vassar,3,MI
+Laurys Station,5,PA
+Catoosa County,5,GA
+Euharlee,4,GA
+Glenwood Landing,4,NY
+Houghton Lake,4,MI
+Wake County,3,NC
+Jan Phyl Village,5,FL
+Bolindale,3,OH
+Kincheloe,4,MI
+Lavonia,3,GA
+Robert Lee,3,TX
+Detroit Windsor Dance Academy,5,MI
+Fontana Lake,4,NC
+Grayling,3,MI
+Oliver,2,PA
+Dinuba,3,CA
+Westfield Center,4,OH
+Millers Creek,4,NC
+Fort Gaines,3,GA
+Wake Village,3,TX
+Mio,2,MI
+Solar Star,3,CA
+Cataula,3,GA
+Planada,3,CA
+Lake Heritage,3,PA
+James City,3,NC
+Bonnie Brae,4,IL
+Lakeside City,4,TX
+Del Mar,3,CA
+Benzonia,3,MI
+East Berlin,3,PA
+Broxton,3,GA
+Foster City,3,CA
+Gaines County,4,TX
+Pittsburg,4,CA
+West Hurley,3,NY
+Presque Isle Harbor,5,MI
+Hertford,4,NC
+Mills River,3,NC
+Clarktown,3,OH
+Georgia Institute of Technology College of Architecture,8,GA
+Chippewa Lake,4,OH
+Florida Atlantic University,4,FL
+O'Donnell,4,TX
+Cheboygan County,5,MI
+Dearborn Heights,4,MI
+New York,3,NY
+Gerber,3,CA
+Roslyn,3,PA
+Gratis,2,OH
+Stockertown,4,PA
+Lincolndale,4,NY
+Hooven,3,OH
+Glascock County,4,GA
+Ansonville,3,NC
+Citrus City,3,TX
+Finneytown,4,OH
+Hoschton,4,GA
+Ojai,3,CA
+Rantoul,3,IL
+Swepsonville,5,NC
+Napoleon,2,OH
+Candlewood Lake,4,OH
+Haw River,3,NC
+Apopka,4,FL
+Lorain County,4,OH
+Spring Arbor University,4,MI
+Ochiltree County,5,TX
+Westmere,3,NY
+Freestone County,4,TX
+Long Island University,4,NY
+Twinsburg,3,OH
+Loma Rica,4,CA
+Tuscola,3,IL
+Brandman University,4,CA
+Chapel Hill,3,NC
+Sugarcreek,3,PA
+War Memorial Opera House,5,CA
+Mattoon,3,IL
+Brownfield,3,TX
+Girardville,4,PA
+Avalon Regal Theater,5,IL
+Bethune-Cookman University,7,FL
+Big Rock,3,IL
+Isle of Hope,4,GA
+Evanston,3,IL
+Milledgeville,4,GA
+McLean County,4,IL
+Mount Sinai,3,NY
+Rosiclare,4,IL
+Barnardsville,4,NC
+East San Gabriel,4,CA
+Lake Winfield Scott,4,GA
+University of Georgia Graduate School,6,GA
+Sankertown,4,PA
+Arcade,2,GA
+Wallis,2,TX
+Pasatiempo,4,CA
+Gouldsboro,5,PA
+"Ohio Theatre (Cleveland, Ohio)",8,OH
+Denair,3,CA
+University of the Incarnate Word,7,TX
+Red Springs,3,NC
+Columbia County,3,GA
+Copiague,4,NY
+Holbrook,3,NY
+Bardmoor,3,FL
+North Merrick,3,NY
+Wolverine Lake,3,MI
+Lincolndale,4,NY
+Shorter University,4,GA
+Taft Mosswood,5,CA
+Bartonville,3,IL
+Beeville,3,TX
+Baker College,3,MI
+West Easton,3,PA
+New Hanover County,4,NC
+Orland Hills,4,IL
+Sylvan Lake,4,MI
+Willoughby,3,OH
+Belleair,3,FL
+Crescent City,4,CA
+Mount Pocono,4,PA
+Pigeon Creek,3,OH
+Westwood Shores,4,TX
+Anaheim University,4,CA
+Westfield Center,4,OH
+Milledgeville,4,GA
+Acton,3,CA
+Naperville,4,IL
+Mono Lake,3,CA
+Duke University,3,NC
+Swansboro,4,NC
+McRae-Helena,5,GA
+Queens County,3,NY
+Sag Harbor,3,NY
+Kennett Square,4,PA
+Menard,3,TX
+Whitemarsh Island,5,GA
+Port Sanilac,5,MI
+Weatherly,3,PA
+Hemlock Farms,4,PA
+Yadkin College,5,NC
+Buford,3,GA
+Allen Park,3,MI
+Hillsdale County,4,MI
+Casey,2,IL
+Albany Technical College,4,GA
+Horse Shoe,3,NC
+Mount Blanchard,3,OH
+Runge,3,TX
+San Patricio County,4,TX
+Bret Harte,4,CA
+Toombs County,4,GA
+Ridgecrest,3,CA
+Lambertville,3,MI
+California Baptist University,4,CA
+Browntown,3,PA
+Fairmont City,4,IL
+Argenta,3,IL
+North Decatur,3,GA
+Seminole,4,FL
+Wampsville,4,NY
+Kankakee County,5,IL
+Coulterville,4,IL
+Leipsic,4,OH
+Knightdale,3,NC
+Holden Heights,4,FL
+Wellston,3,OH
+Ferris,3,TX
+Sugar Grove,3,IL
+Millheim,3,PA
+Lake Sherwood,3,CA
+Valle Vista,3,CA
+College of Coastal Georgia,5,GA
+Rialto,4,CA
+Irwinton,4,GA
+South Canal,3,OH
+Coal City,3,IL
+Quinnesec,4,MI
+Heidelberg University,3,OH
+Smiley,3,TX
+University of South Florida,5,FL
+Van Horn,3,TX
+North Bellport,4,NY
+Lampasas,3,TX
+Briarcliff Manor,5,NY
+Gastonville,4,PA
+Homestead Meadows North,5,TX
+King Mountain Wind Farm,5,TX
+Maury,3,NC
+Lake Travis,3,TX
+Stokes County,3,NC
+Terra Bella,3,CA
+Stormstown,3,PA
+Roslyn Heights,4,NY
+Jefferson Heights,3,NY
+Wyoming,2,MI
+Northeast Ohio Medical University,5,OH
+Bairdford,4,PA
+De Leon,3,TX
+Wrens,3,GA
+Coldspring,3,TX
+Lynwood,3,CA
+Glascock County,4,GA
+Arkport,3,NY
+Montour Falls,4,NY
+Lakemont,4,PA
+Fillmore,3,CA
+Altamaha Technical College,6,GA
+Aguanga,3,CA
+Rocky Point,3,NY
+Big Pink,3,NY
+Gastonville,4,PA
+Maybrook,3,NY
+Bonsall,3,CA
+Midwestern Baptist College,5,MI
+Ashokan Reservoir,5,NY
+Anderson Creek,3,NC
+Frankenmuth,4,MI
+East Butler,3,PA
+Patterson Heights,3,PA
+Santa Paula,3,CA
+Kettleman City,5,CA
+Rock Spring,3,GA
+Terra Bella,3,CA
+Academy of Chinese Culture and Health Sciences,8,CA
+Kennedy,2,CA
+Niagara Falls,3,NY
+Upper Brookville,4,NY
+Pinehurst,3,NC
+Elkin,3,NC
+Scioto County,5,OH
+Melville,3,NY
+New Birth Missionary Baptist Church,6,GA
+Scottdale,3,GA
+Wayne County,3,MI
+New Freedom,3,PA
+University of Scranton,4,PA
+Dobbins Heights,5,NC
+Walnut Springs,3,TX
+Hickory,3,NC
+East Lansing,3,MI
+Norwood,3,OH
+Laingsburg,4,MI
+Hapeville,4,GA
+West Nyack,4,NY
+Pewamo,3,MI
+Berkeley Lake,3,GA
+Auberry,4,CA
+Collingdale,4,PA
+"Cathedral Church of St. Luke (Orlando, Florida)",13,FL
+Cambridge Springs,3,PA
+State University of New York at Brockport,9,NY
+Witt,2,IL
+West Homestead,3,PA
+Palmer Mansion,3,IL
+Northwest Ithaca,3,NY
+Koppel,3,PA
+Albemarle,4,NC
+Crest Hill,3,IL
+Unionville,3,NC
+University of West Florida,5,FL
+Mars Hill,3,NC
+Tuscarawas,5,OH
+Transylvania County,4,NC
+Bagwell College of Education,6,GA
+Wixom,4,MI
+Shackelford County,5,TX
+Villa Grove,3,IL
+Dutchess County,5,NY
+Santa Barbara County,4,CA
+University of Michigan College of Pharmacy,7,MI
+Apopka,4,FL
+Barrington Hills,4,IL
+Buncombe County,4,NC
+Cass City,3,MI
+Tarboro,3,NC
+Murrysville,4,PA
+McBain,3,MI
+West Ishpeming,5,MI
+Point Baker,3,FL
+Temple Terrace,3,FL
+Crosby County,4,TX
+Linglestown,4,PA
+Roslyn Estates,4,NY
+Reddick,3,FL
+Inez,3,TX
+Cooleemee,4,NC
+Lee,2,FL
+Norman Park,3,GA
+Sanilac County,5,MI
+Almont,3,MI
+Texas Tech University at Abilene,7,TX
+Blairsville,4,PA
+Muskegon,4,MI
+West County Energy Center,5,FL
+Bret Harte,4,CA
+Elfers,3,FL
+Flint,2,MI
+Palm Desert,3,CA
+Sewall's Point,6,FL
+Byesville,4,OH
+Wyndmoor,4,PA
+Zavala County,5,TX
+Mackinaw City,4,MI
+Gholson,4,TX
+Belhaven,3,NC
+University of Texas at Arlington College of Engineering,9,TX
+Whitmore Lake,4,MI
+Thomas University,3,GA
+Genesee County,4,MI
+Greensboro,3,NC
+Boothwyn,3,PA
+Arvin,3,CA
+Charlton County,4,GA
+Pennsbury Village,5,PA
+Wayne,2,MI
+Dade City,3,FL
+North Gates,3,NY
+Ford Rotunda,4,MI
+Alger County,3,MI
+East Flat Rock,4,NC
+Thornwood,3,NY
+Roxana,3,IL
+Kenton,3,OH
+Pitt County,3,NC
+Oldsmar,3,FL
+Temperance,3,MI
+Machesney Park,5,IL
+Port Carbon,3,PA
+Matinecock,4,NY
+Flushing,3,MI
+Wakeman,3,OH
+Saint John Fisher College,5,NY
+Mountain Park,3,GA
+Holiday Shores,3,IL
+Au Sable,3,MI
+Kermit,3,TX
+Braidwood,4,IL
+Lake Jesup,4,FL
+East Newnan,4,GA
+Bagwell College of Education,6,GA
+Gamewell,3,NC
+University of St. Francis,6,IL
+Depew,3,NY
+Fordham Graduate School of Arts and Sciences,9,NY
+Elizabeth City State University,5,NC
+Ai,2,OH
+Tracy,2,CA
+Montezuma,3,GA
+New Square,3,NY
+Solon,3,OH
+Rockdale County,4,GA
+Conneaut,3,OH
+Simi Hills,4,CA
+Pembroke Park,4,FL
+North Wilkesboro,4,NC
+Bouquet Reservoir,4,CA
+"Basilica of the Sacred Hearts of Jesus and Mary (Southampton, New York)",17,NY
+Crainville,4,IL
+Maple Ridge,3,OH
+Blewett Falls Lake,6,NC
+Lithia Springs,4,GA
+Apple Creek,3,OH
+Tamaroa,3,IL
+Tatamy,3,PA
+Burt,2,MI
+Bemiss,3,GA
+Birch Run,3,MI
+Crompond,3,NY
+Attapulgus,5,GA
+Santa Maria,3,CA
+Tarentum,4,PA
+Lake Georgetown,3,TX
+Munising,3,MI
+Settles Hotel,4,TX
+North Rose,3,NY
+Mountain View,3,CA
+Devola,3,OH
+Snellville,4,GA
+Butts County,4,GA
+Laurel University,3,NC
+Charlotte Harbor,3,FL
+Baldwinsville,4,NY
+Seneca Lake (New York),8,NY
+Appling,3,GA
+Life University,3,GA
+De Witt County,4,IL
+Lakemoor,4,IL
+Southwest Ranches,4,FL
+California Polytechnic State University,5,CA
+Palos Heights,4,IL
+Bodfish,3,CA
+State University of New York at Canton,8,NY
+Canal Fulton,3,OH
+Steuben County,4,NY
+North Catasauqua,6,PA
+California Coast University,4,CA
+Hanna Theatre,3,OH
+Howe,3,TX
+Brinckerhoff,4,NY
+Bowen,3,IL
+Fordham Graduate School of Arts and Sciences,9,NY
+Young County,3,TX
+Page Park,3,FL
+Toronto,2,OH
+Ladera Heights,4,CA
+Keego Harbor,4,MI
+Pewamo,3,MI
+New Melones Lake,5,CA
+Hillside Lake,4,NY
+Flagler Beach,4,FL
+"Holy Name of Jesus Cathedral (Raleigh, North Carolina)",12,NC
+Cohutta,3,GA
+Honey Lake,3,CA
+Southwest Sandhill,4,TX
+Luzerne County,4,PA
+Bowdon,3,GA
+Northlakes,3,NC
+Poulan,3,GA
+State University of New York at Geneseo,10,NY
+Boulder Hill,3,IL
+Ionia,3,MI
+New York Theatre Workshop,5,NY
+Lake Allatoona,5,GA
+Tekonsha,4,MI
+East Galesburg,4,IL
+New Straitsville,4,OH
+Ore City,3,TX
+Plain View,3,NC
+Merritt Park,5,NY
+Alpena County,4,MI
+Piper City,3,IL
+Pinecrest,4,FL
+Ardsley,4,NY
+Claxton,3,GA
+River Grove,3,IL
+Cochran,3,GA
+Odum School of Ecology,6,GA
+Medina Lake,4,TX
+Calumet Park,4,IL
+Caseyville,3,IL
+Taliaferro County,5,GA
+Rend Lake,3,IL
+Montoursville,4,PA
+Cataula,3,GA
+Brevard County,4,FL
+Granite Shoals,4,TX
+Ludowici,4,GA
+Holden Heights,4,FL
+Coopersville,4,MI
+Atlanta,2,GA
+South Bay,3,FL
+Grayling,3,MI
+California Miramar University,5,CA
+Elburn,3,IL
+West Vero Corridor,4,FL
+Lovejoy,3,GA
+Ingalls Park,4,IL
+Clawson,3,MI
+Green,2,OH
+College of Coastal Georgia,5,GA
+Cathedral of Christ the King (Atlanta),10,GA
+New York State Capitol,5,NY
+Lassen County,4,CA
+Kensico Reservoir,4,NY
+Grove City,3,OH
+Safety Harbor,3,FL
+East Point,3,GA
+Carrollton,3,TX
+Gibraltar,3,MI
+Ty Ty,3,GA
+Toccoa,4,GA
+Buffalo Gap,3,TX
+Micro,2,NC
+Eagle Eye Art Academy,5,TX
+Buttonwillow,3,CA
+Orchestra Hall (Detroit),7,MI
+Wanchese,4,NC
+McLean County,4,IL
+Browntown,3,PA
+Texas A&M College of Geosciences,9,TX
+Duryea,4,PA
+Mayfield Heights,4,OH
+Spring Valley Village,4,TX
+University of Illinois School of Architecture,7,IL
+Rhine,3,GA
+PennWest California,4,PA
+Home Gardens,3,CA
+St. John's Chapel (New York City),12,NY
+St. John's Chapel (New York City),12,NY
+Dawson,2,GA
+Anson,2,TX
+East Point,3,GA
+Edenburg,3,PA
+Firthcliffe,4,NY
+Young Harris,3,GA
+Port Huron,3,MI
+North Madison,3,OH
+Calimesa,4,CA
+Scotland County,3,NC
+Wescosville,4,PA
+Walker Valley,3,NY
+Grawn,3,MI
+Bryn Athyn,5,PA
+Hunters Creek Village,5,TX
+Salem Heights,3,OH
+Mechanicsburg,3,PA
+Eton,3,GA
+Paradise Park,3,CA
+Valdese,3,NC
+River Bend,3,NC
+Columbus State University,4,GA
+Amity Gardens,4,PA
+West Chester,3,PA
+Torrance,3,CA
+Steppenwolf Theatre Company,6,IL
+McLeansville,5,NC
+Bergholz,4,OH
+"School of International and Public Affairs, Columbia University",10,NY
+Fort Pierce North,4,FL
+St. John's Chapel (New York City),12,NY
+Navarre Beach,4,FL
+Tornillo,3,TX
+Columbus County,3,NC
+Riverside County,3,CA
+Humble,2,TX
+Harkers Island,5,NC
+Colorado County,3,TX
+Yardley,3,PA
+Schuylkill Haven,6,PA
+Macedonia,3,OH
+Dana Point,3,CA
+Crugers,3,NY
+Holiday,2,FL
+Belding,3,MI
+Morrow,3,GA
+Georgia College & State University,6,GA
+Zapata County,4,TX
+Talahi Island,5,GA
+Candler County,4,GA
+Anson County,3,NC
+Conetoe,3,NC
+Toccoa,4,GA
+San Martin,3,CA
+Roseboro,3,NC
+Greenwich,3,OH
+James R. Thompson Center,6,IL
+Calumet Park,4,IL
+Monte Rio,3,CA
+Lake Harris (Florida),6,FL
+Thomas University,3,GA
+El Portal,3,FL
+Sorento,3,IL
+Pleasant Run,3,OH
+Botkins,3,OH
+Haslett,3,MI
+Napoleon,2,OH
+Pooler,3,GA
+Burr Ridge,4,IL
+Coffeen,4,IL
+West Milton,3,OH
+University of Illinois at Springfield,6,IL
+"Ohio State University, Lima Campus",7,OH
+Fallsburg,3,NY
+Mar-Mac,4,NC
+Benton Heights,4,MI
+Coconut Creek,3,FL
+Berlin Heights,3,OH
+North Fort Myers,4,FL
+Clearfield County,4,PA
+Bayboro,3,NC
+Pocono Woodland Lakes,5,PA
+West Puente Valley,4,CA
+Bear Valley Springs,4,CA
+Greenhills,3,OH
+Lacoochee,5,FL
+Reese,2,MI
+Paulding County,4,GA
+Hamersville,4,OH
+Ector County,4,TX
+Parma Heights,4,OH
+Pearson,2,GA
+Muskingum University,5,OH
+Maple Heights,3,OH
+North Carolina Blumenthal Performing Arts Center,8,NC
+St. Thomas the Apostle Catholic Church (Los Angeles),12,CA
+Sky Lake,3,FL
+Columbiaville,3,MI
+Dare County,3,NC
+Demorest,4,GA
+Winnetka,4,IL
+Austintown,3,OH
+Fortuna,3,CA
+Oak Brook,3,IL
+Forest View,3,IL
+Lillington,4,NC
+Flovilla,3,GA
+Marianne,2,PA
+Juniata County,4,PA
+McAllen,3,TX
+Eastern University,3,PA
+Trout Valley,3,IL
+Florida State University School of Library & Information Studies,10,FL
+Cherry Grove,3,OH
+Gun Barrel City,4,TX
+Robstown,3,TX
+Tresckow,4,PA
+Citrus Heights,3,CA
+Onslow County,4,NC
+Gallatin School of Individualized Study,8,NY
+Pepperdine University,4,CA
+Remerton,3,GA
+Lon Morris College,4,TX
+Gaiety Theatre (New York City),9,NY
+Kirkhof College of Nursing,6,MI
+Gastonia,3,NC
+Andrews University,3,MI
+Hampton Manor,3,NY
+Union Point,3,GA
+Hailesboro,4,NY
+Wingate University,4,NC
+Potters Hill,4,NC
+Fordham Graduate School of Arts and Sciences,9,NY
+Shokan,3,NY
+Ozona,3,TX
+Austinburg,3,OH
+Comstock Park,4,MI
+Needville,3,TX
+Lykens,3,PA
+Astor,3,FL
+Locust,3,NC
+Santa Clara County,4,CA
+Kalamazoo County,4,MI
+Tulia,3,TX
+Rio Hondo,4,TX
+Rusk,3,TX
+Experiment,2,GA
+Bucyrus,4,OH
+Bertsch-Oceanview,6,CA
+Glenshaw,4,PA
+Saugerties South,5,NY
+Jackson School of Geosciences,6,TX
+Brooklet,3,GA
+LaFayette,4,GA
+McGraw,2,NY
+Tekonsha,4,MI
+Rutherfordton,4,NC
+Santa Paula,3,CA
+Bradenton,3,FL
+Goldenrod,3,FL
+Washington Court House,4,OH
+Sarasota,4,FL
+St. Bonaventure,5,NY
+Alpena County,4,MI
+South Beach,3,FL
+Kinmundy,4,IL
+New Exchequer Dam,4,CA
+Dalworthington Gardens,5,TX
+Brownwood,3,TX
+Lassen County,4,CA
+Swisher County,4,TX
+Teachey,3,NC
+Loganville,3,GA
+Hallandale Beach,4,FL
+Inyokern,4,CA
+Florida State College at Jacksonville,6,FL
+Barnardsville,4,NC
+Chatsworth,3,GA
+Boerne,3,TX
+Saltsburg,4,PA
+Knowlton Hall,4,OH
+Lampasas County,4,TX
+Black Point-Green Point,6,CA
+McLean County,4,IL
+Lakewood Club,4,MI
+Everman,3,TX
+Webberville,4,MI
+Mount Kisco,4,NY
+Buna,2,TX
+East–West University,5,IL
+Port Aransas,4,TX
+Suncoast Estates,4,FL
+East Berwick,3,PA
+Andrews University,3,MI
+Gardnertown,3,NY
+Arthur,2,IL
+Banks County,3,GA
+La Salle Extension University,5,IL
+East Northport,4,NY
+Killbuck,3,OH
+Fithian,4,IL
+Fort Loudon,4,PA
+Florida Polytechnic University,4,FL
+Aldan,3,PA
+Stanford University,3,CA
+Huntington Station,4,NY
+Hulmeville,4,PA
+Fernandina Beach,4,FL
+Johnston County,3,NC
+Hamilton County,3,OH
+Missaukee County,5,MI
+Fruitville,3,FL
+Lake Mohawk (Ohio),6,OH
+Camarillo,4,CA
+East Marion,3,NY
+Lenoir–Rhyne University,8,NC
+South Lansing,3,NY
+Liberty Triangle,3,FL
+Gresham Park,5,GA
+Biograph Theater,4,IL
+Lakemont,4,PA
+Llano County,4,TX
+Maitland,3,FL
+University of Illinois at Chicago College of Liberal Arts and Sciences,12,IL
+Lake Gaston,3,NC
+Alkali Lakes (California),7,CA
+Flint,2,MI
+Cotulla,3,TX
+Whitemarsh Island,5,GA
+Croswell,3,MI
+Blawnox,4,PA
+Siena Heights University,5,MI
+Wolverine Lake,3,MI
+Florida Atlantic University,4,FL
+Marlette,3,MI
+Academy of Chinese Culture and Health Sciences,8,CA
+Pueblo Nuevo,4,TX
+Lacon,3,IL
+Navarro County,4,TX
+Muskegon,4,MI
+Rainbow Springs,3,FL
+Woodfin,3,NC
+Nittany,4,PA
+Canyon,2,TX
+Belleville,3,IL
+Lyndhurst,4,OH
+New Franklin,3,OH
+Harbor Springs,3,MI
+Lordstown,3,OH
+Holy Innocents Church (New York City),10,NY
+Hutsonville,4,IL
+Pensacola,3,FL
+Palmview,3,TX
+Pratt Institute School of Information,7,NY
+Willoughby,3,OH
+LIU Post,4,NY
+Tarboro,3,NC
+Struthers,3,OH
+Hainesville,4,IL
+Shickshinny,5,PA
+Wesley Chapel,3,FL
+West Decatur,3,PA
+Cincinnati Christian University,4,OH
+Hebbronville,4,TX
+Colon,2,MI
+Stroudsburg,4,PA
+Archer City,3,TX
+Johnston County,3,NC
+Liberty City,3,TX
+South Farmingdale,4,NY
+Mentone,3,CA
+Wrightsville Beach,5,NC
+Oblong,3,IL
+Banks County,3,GA
+Kettering,3,OH
+Logan Elm Village,4,OH
+Oakwood Hills,4,IL
+Bexley,4,OH
+Hutchinson Island South,5,FL
+Conetoe,3,NC
+Cortland West,4,NY
+Garysburg,4,NC
+Keyesport,4,IL
+Los Ebanos,5,TX
+Lutz,2,FL
+Bowdens,3,NC
+Columbus Grove,3,OH
+Zeeland,3,MI
+Kalkaska,4,MI
+Harold Washington Library,4,IL
+Candor,3,NC
+Icard,3,NC
+Valley Springs,3,CA
+Clermont County,4,OH
+Highland-on-the-Lake,8,NY
+West Modesto,3,CA
+Cross Keys,3,PA
+Lauderdale-by-the-Sea,10,FL
+Tustin,3,CA
+Buckhead,3,GA
+Neptune Beach,3,FL
+Annawan,3,IL
+Griggsville,4,IL
+Twain Harte,5,CA
+Oquawka,5,IL
+Ailey,3,GA
+Hephzibah,5,GA
+Alachua County,4,FL
+Chesterbrook,3,PA
+Bannockburn,4,IL
+Point Park University,4,PA
+Lighthouse Point,4,FL
+Ironwood,3,MI
+Groveland,3,FL
+Glens Falls,4,NY
+St. Nicholas Greek Orthodox Church,7,NY
+Dawsonville,3,GA
+Belpre,3,OH
+Sunrise,2,FL
+Millbury,3,OH
+Tulare Lake,4,CA
+Inks Lake,4,TX
+Argenta,3,IL
+Lochmoor Waterway Estates,6,FL
+Watergate,3,FL
+Macomb County,4,MI
+St. Augustine,4,FL
+Sylvester,3,GA
+Biscoe,3,NC
+Leland,3,NC
+Maybee,3,MI
+Old Fig Garden,4,CA
+Pleasant Run Farm,4,OH
+Schuylkill Haven,6,PA
+Moweaqua,5,IL
+Fellsburg,4,PA
+James City,3,NC
+Grand Prairie,3,TX
+Wittenberg University,4,OH
+Valhalla,3,NY
+Ardsley,4,NY
+Osceola Mills,5,PA
+Bernville,3,PA
+Glades County,4,FL
+Zephyrhills South,5,FL
+Rougemont,3,NC
+West Park,3,FL
+Grizzly Flats,4,CA
+Michigan Jewish Institute,4,MI
+Shinnecock Hills,5,NY
+Onondaga Lake,5,NY
+Porters Neck,4,NC
+Upper Sandusky,4,OH
+Rawson,3,OH
+Fox Chapel,3,PA
+Long Center for the Performing Arts,7,TX
+Candler County,4,GA
+Antrim County,4,MI
+Ronda,3,NC
+Saxapahaw,4,NC
+Screven County,4,GA
+Throckmorton County,6,TX
+Pinewood Estates,4,TX
+Clintondale,3,NY
+Carol Stream,3,IL
+Sarasota Springs,5,FL
+East Bernard,3,TX
+Hypoluxo,4,FL
+Roman Forest,3,TX
+Washington Avenue Immigration Station,5,PA
+Goulds,4,FL
+Orland Hills,4,IL
+1520 Sedgwick Avenue,7,NY
+Anderson Creek,3,NC
+Allen Theatre,3,OH
+Chadwick Lake,4,NY
+Pendergrass,4,GA
+Williamsport,3,PA
+Lon Morris College,4,TX
+Wapakoneta,4,OH
+Conshohocken,4,PA
+Logan Elm Village,4,OH
+Homestead,3,FL
+Gulf Stream,3,FL
+Shawneetown,4,IL
+Taylortown,3,NC
+Kewanee,3,IL
+Los Banos,4,CA
+Kenwood Estates,4,FL
+Lakeside City,4,TX
+Denair,3,CA
+Hardwick,3,GA
+Crescent City,4,CA
+Bradley,2,IL
+Kiryas Joel,5,NY
+Orange Grove,3,TX
+Enigma,2,GA
+Walnut Creek,3,CA
+Ionia,3,MI
+Pecan Plantation,4,TX
+San Diego Central Library,5,CA
+Cocoa West,3,FL
+Mars,2,PA
+Watervliet,4,NY
+El Verano,4,CA
+South Zanesville,5,OH
+Gholson,4,TX
+New Columbia,3,PA
+West Sand Lake,4,NY
+El Granada,3,CA
+Okeechobee,4,FL
+Silvis,3,IL
+Pleasure Point,4,CA
+Texas A&M College of Agriculture and Life Sciences,11,TX
+Citrus Springs,3,FL
+New York Institute of Technology - Long Island Campus,10,NY
+Northdale,3,FL
+Cypress Landing,3,NC
+Widener University,4,PA
+Great Craggy Mountains,6,NC
+Comanche,3,TX
+Crest View Heights,4,NY
+Lompico,4,CA
+Acalanes Ridge,5,CA
+East Shoreham,4,NY
+Crystal Beach,3,NY
+West Wyoming,3,PA
+Henley-Putnam University,7,CA
+San Andreas Lake,4,CA
+Crystal Beach,3,NY
+Zelienople,5,PA
+La Pryor,3,TX
+Honey Grove,3,TX
+Leesville Lake (Ohio),7,OH
+East Grand Rapids,4,MI
+Castle Shannon,3,PA
+Farmington Hills,4,MI
+Homeland,3,CA
+Crestview,3,FL
+Carol Stream,3,IL
+Oblong,3,IL
+University of Georgia College of Public Health,8,GA
+Guyton,3,GA
+Feather Sound,3,FL
+Lakeland,3,FL
+Cleary University,4,MI
+Glenolden,3,PA
+Fox Chapel,3,PA
+Savannah,2,GA
+Maumee,4,OH
+Patchogue,3,NY
+Sampson County,4,NC
+Alliance,2,OH
+Crooked Lake Park,5,FL
+Fort Plain,3,NY
+Soulsbyville,4,CA
+Clayton State University,4,GA
+Grandy,3,NC
+Duck,2,NC
+Guernsey County,4,OH
+Pheasant Run,4,OH
+Sylvan Beach,4,NY
+Northwestern Polytechnic University,5,CA
+Parklawn,3,CA
+Watkins Glen,4,NY
+Sloatsburg,4,NY
+Lindsay,2,CA
+Benedum Center,4,PA
+Gateway,2,FL
+North Charleroi,4,PA
+Youngstown,3,OH
+Whigham,4,GA
+Cherokee County,4,GA
+Marlette,3,MI
+Pine Mountain,3,GA
+Golf Manor,3,OH
+Pen Mar,3,PA
+Wadesboro,4,NC
+Daniel Baker College,4,TX
+Rochester,2,NY
+Raymondville,3,TX
+Conesus Lake,4,NY
+Remerton,3,GA
+Shorewood-Tower Hills-Harbert,9,MI
+Ovens Auditorium,4,NC
+Livonia,3,MI
+Vermont,2,IL
+Donora,3,PA
+Grantsboro,3,NC
+Jacksonville,2,FL
+Swain County,4,NC
+Milano,2,TX
+Baraga,3,MI
+Crisp County,4,GA
+West Orange,3,TX
+Fort Irwin,3,CA
+Indiana,2,PA
+Flushing,3,MI
+Claude,2,TX
+Churchville,3,PA
+Weissport East,4,PA
+Wekiwa Springs,5,FL
+Alger,2,OH
+Capac,2,MI
+Chumuckla,5,FL
+Sodus Point,4,NY
+Austin County,3,TX
+Bagwell College of Education,6,GA
+Mecosta County,4,MI
+Fox Chase,3,PA
+Mathis,3,TX
+Grandville,3,MI
+Efland,3,NC
+Appling,3,GA
+Justice,2,IL
+Meyers,3,CA
+Slippery Rock University,5,PA
+Rossmoyne,4,OH
+Hart,2,MI
+Avonia,3,PA
+Throop,3,PA
+East Flat Rock,4,NC
+Arcadia,3,CA
+Somonauk,4,IL
+Upper Saranac Lake,5,NY
+Birch Run,3,MI
+Birch Run,3,MI
+East Setauket,5,NY
+Beechwood Trails,5,OH
+Ashmore,3,IL
+Fulton County,4,GA
+Keuka Park,4,NY
+Mulberry Grove,4,IL
+Bermuda Run,3,NC
+Lakemore,3,OH
+Florida A&M University – Florida State University College of Engineering,13,FL
+Hoopers Creek,5,NC
+Chocowinity,4,NC
+Lincoln University,3,PA
+Lime Ridge,3,PA
+Aliquippa,4,PA
+Rhinecliff,4,NY
+Santa Paula,3,CA
+San Diego,3,CA
+Dooly County,4,GA
+Ford Lake (Michigan),6,MI
+East Ellijay,5,GA
+Waterman,3,IL
+Sayville,3,NY
+Keystone Heights,4,FL
+North Ridgeville,4,OH
+Chumuckla,5,FL
+Winterville,3,NC
+Grover Hill,4,OH
+Beckville,3,TX
+Hinsdale,4,IL
+South Weldon,3,NC
+Jacumba,3,CA
+Plumas County,4,CA
+Port Leyden,3,NY
+Temple University,3,PA
+Experiment,2,GA
+Jackson Heights,3,NC
+The Sphere College Project,5,PA
+Laguna Park,3,TX
+Carolina Meadows,3,NC
+Carlsbad,4,CA
+"St. Peter's Catholic Church (Charlotte, North Carolina)",14,NC
+South University,3,GA
+Roy H. Park School of Communications,8,NY
+Home Gardens,3,CA
+Benicia,3,CA
+Chumuckla,5,FL
+Vermilion County,5,IL
+Grantley,3,PA
+Western Illinois University,4,IL
+San Clemente,3,CA
+Griggs University,4,MI
+Altoona,3,PA
+Deltona,3,FL
+Cottonwood Shores,4,TX
+Grenelefe,4,FL
+Playhouse Theatre (New York City),9,NY
+Glen Raven,3,NC
+Bidwell,3,OH
+Port Sanilac,5,MI
+Tolono,3,IL
+Crosby County,4,TX
+Mill Valley,3,CA
+Universal City,3,TX
+First Presbyterian Church (Manhattan),7,NY
+Dent,2,OH
+New York County,4,NY
+Knights Landing,3,CA
+Juniata Gap,4,PA
+Yosemite Lakes,5,CA
+Devola,3,OH
+Trafford,3,PA
+Southern Polytechnic State University,5,GA
+Landis,3,NC
+Laingsburg,4,MI
+Oak Brook,3,IL
+Souderton,4,PA
+Paradise Theater (Bronx),7,NY
+Deckerville,3,MI
+Belhaven,3,NC
+Trophy Club,4,TX
+Southern Polytechnic State University,5,GA
+Chatham County,4,GA
+Franklin Square,3,NY
+Panama City Beach,4,FL
+North Industry,3,OH
+Alanson,3,MI
+Syracuse,2,NY
+Huber Heights,4,OH
+University of Texas at Austin College of Liberal Arts,10,TX
+Manheim,3,PA
+Ionia County,4,MI
+California Polytechnic State University,5,CA
+Ann Arbor,3,MI
+Whispering Pines,4,NC
+Cadwell,3,GA
+Tift County,4,GA
+Chapman University,3,CA
+Tuscarawas County,6,OH
+Campbell University,3,NC
+Bellair-Meadowbrook Terrace,8,FL
+Wilton Manors,5,FL
+Kings Grant,3,NC
+Gambier,3,OH
+Sleepy Hollow,3,NY
+Laurinburg,4,NC
+Screven,3,GA
+Murphy Theatre,3,OH
+Tonawanda,4,NY
+Asbury Lake,4,FL
+Faith,2,NC
+Lomita,3,CA
+Covina,3,CA
+Coachella,3,CA
+Stillman Valley,4,IL
+Chippewa Park,4,OH
+Sherrill,3,NY
+Aragon,3,GA
+Pomona,3,CA
+Los Osos,4,CA
+Clarkston,3,GA
+Jesup,3,GA
+Bakersfield Country Club,6,CA
+Fairfield Plantation,4,GA
+Mount Blanchard,3,OH
+Irvine,3,CA
+Hyde,2,PA
+Lake Worth,3,TX
+Texas Tech University Center at Junction,7,TX
+Guilford County,4,NC
+Taylor Springs,3,IL
+Riverlea,3,OH
+Wixom,4,MI
+Chaires,3,FL
+Merrick,3,NY
+Houghton,3,MI
+Cullowhee,4,NC
+Eastern University,3,PA
+Apple Canyon Lake,4,IL
+Port Barrington,3,IL
+Dade City,3,FL
+Ray City,3,GA
+The University of the Arts,6,PA
+Northern Michigan University,4,MI
+Chagrin Falls,4,OH
+Southern Polytechnic State University,5,GA
+Burnet,3,TX
+Finneytown,4,OH
+Woodland,2,CA
+Cutlerville,4,MI
+International Academy of Design & Technology – Detroit,9,MI
+Kentfield,3,CA
+Harbor Beach,3,MI
+Suncoast Estates,4,FL
+Tamiami,4,FL
+East Rockaway,4,NY
+Kent City,3,MI
+Bellefonte,3,PA
+College of the University of Chicago,7,IL
+Rancho Alegre,4,TX
+Altadena,3,CA
+Guilford Lake,4,OH
+Maple Park,3,IL
+Ohio Northern University,4,OH
+Tekonsha,4,MI
+Paxton,3,IL
+Turlock,3,CA
+Vanguard University of Southern California,6,CA
+Roaming Shores,4,OH
+West Marion,3,NC
+Screven,3,GA
+St. Paul the Apostle Church and School,9,CA
+Cherry Lake,3,CA
+Tappan,3,NY
+New Eagle,3,PA
+Wallenpaupack Lake Estates,8,PA
+Kings Mills,3,OH
+Bellville,3,TX
+Transylvania County,4,NC
+Rowland Heights,4,CA
+Piqua Nuclear Generating Station,6,OH
+Experiment,2,GA
+Cathedral Basilica of St. Joseph (San Jose),12,CA
+Sharonville,3,OH
+Carson County,3,TX
+Granville South,4,OH
+Apollo Beach,3,FL
+Morris,2,IL
+Iona,3,FL
+East Griffin,3,GA
+Johns Creek,3,GA
+East Alto Bonito,5,TX
+North Haven,3,NY
+Conyngham,4,PA
+Callender Lake,4,TX
+Carlock,3,IL
+El Paso,3,TX
+Balcones Heights,4,TX
+Wexford County,5,MI
+Onarga,3,IL
+The Chicago School of Professional Psychology,7,IL
+Williston Park,4,NY
+Peekskill,4,NY
+Mikes,3,TX
+San Miguel,3,CA
+Barker Heights,4,NC
+Watkinsville,4,GA
+Onsted,3,MI
+Atlantic Mine,3,MI
+Western Carolina University,4,NC
+St. James Cathedral (Chicago),8,IL
+Euharlee,4,GA
+Bartonville,3,IL
+Riverwoods,3,IL
+Leavittsburg,5,OH
+Hubbard,3,OH
+Logan Elm Village,4,OH
+Lincoln Christian University,4,IL
+Groesbeck,4,OH
+Cowan Lake (Ohio),7,OH
+Fort Loramie,4,OH
+Spring Arbor,3,MI
+Westerville,3,OH
+Stevens,2,PA
+Chattahoochee County,7,GA
+Sharon Center,3,OH
+Cliffside,3,NC
+Marissa,3,IL
+Flushing,3,MI
+Canastota,4,NY
+New Century Theatre,4,NY
+Fitzgerald,3,GA
+Reynolds Heights,3,PA
+Glen Carbon,3,IL
+Sam Houston State University,5,TX
+Wadsworth,3,OH
+Zanesville,4,OH
+Streetsboro,3,OH
+Somonauk,4,IL
+Westview,3,FL
+Tavernier,4,FL
+Aragon,3,GA
+Lake Seneca,3,OH
+Duncan Falls,3,OH
+Mecosta County,4,MI
+Port O'Connor,5,TX
+East Spencer,3,NC
+Chillicothe,5,OH
+Piatt County,4,IL
+Cherryville,3,NC
+Faison,3,NC
+Norton,2,OH
+Zapata,3,TX
+Caseville,3,MI
+Levelland,4,TX
+"St. Peter's Catholic Church (Charlotte, North Carolina)",14,NC
+Obetz,3,OH
+Mogadore,3,OH
+Russellton,3,PA
+Otisco Lake,4,NY
+Dallastown,4,PA
+Baldwinsville,4,NY
+Hooven,3,OH
+Kettering,3,OH
+Bee County,3,TX
+Reinhardt University,4,GA
+Cadwell,3,GA
+Pottsboro,4,TX
+Palm Beach Atlantic University,5,FL
+St. Pauls,5,NC
+Hamilton County,3,OH
+Triumph Church,3,MI
+Milford Center,4,OH
+Mandel School of Applied Social Sciences,8,OH
+Cold Spring Harbor,4,NY
+Maumee,4,OH
+Bradenton,3,FL
+Beech Mountain,4,NC
+Valrico,3,FL
+Dakota,2,IL
+East–West University,5,IL
+Georgia Southern University,4,GA
+Freestone County,4,TX
+Trevose,4,PA
+Wake Forest,3,NC
+Carteret County,4,NC
+Pleasant Gap,3,PA
+West City,3,IL
+Grosse Pointe,4,MI
+High Point University,4,NC
+Maggie Valley,3,NC
+Bay Point,3,CA
+Hancock,3,MI
+Hawthorne,3,CA
+Gunter,3,TX
+Pettisville,4,OH
+West Valley,3,NY
+Goldsboro,4,NC
+Hoschton,4,GA
+Stuyvesant Apartments,5,NY
+Olympia Centre,3,IL
+DeKalb,3,IL
+The Beverly Hills Hotel,5,CA
+Shinglehouse,4,PA
+Highpoint,3,OH
+Upper Saranac Lake,5,NY
+Alger County,3,MI
+Tovey,3,IL
+Page Park,3,FL
+Surfside,3,FL
+Palm Springs North,4,FL
+Rockdale County,4,GA
+Biola,3,CA
+Lake Sherwood,3,CA
+Nauvoo,3,IL
+Adelphi University,4,NY
+Eugene Applebaum College of Pharmacy and Health Sciences,10,MI
+Bridgehampton,3,NY
+Copperopolis,3,CA
+Lake Mitchell (Michigan),6,MI
+Lubbock County,4,TX
+Tift County,4,GA
+Toombs County,4,GA
+Soperton,4,GA
+Fredonia,3,NY
+Atlantic Beach,3,FL
+Anderson Creek,3,NC
+Mexico Beach,3,FL
+Coweta County,5,GA
+San Saba,3,TX
+Red Bluff Reservoir,4,TX
+The Homesteads,4,TX
+Sugar Grove,3,IL
+Thornville,3,OH
+Lehigh County,4,PA
+Macoupin County,5,IL
+Reidsville,4,NC
+Spring Arbor University,4,MI
+Old Church of St. Joachim and St. Anne,11,NY
+Kemp,3,TX
+Columbia County,3,GA
+Elkin,3,NC
+Whitney Point,3,NY
+Grandy,3,NC
+The Towers (Ohio State),7,OH
+Bridgeview,3,IL
+Green,2,OH
+Pecatonica,4,IL
+University of California-Davis,6,CA
+Amelia,2,OH
+Dixie County,3,FL
+La Paloma,3,TX
+International Technological University,4,CA
+Grayling,3,MI
+Mill Hall,3,PA
+St. Stephen of Hungary Church (New York City),12,NY
+Youngstown,3,OH
+Tice,3,FL
+Shingletown,4,CA
+Vermilion,4,OH
+Touro College South,5,FL
+Munroe Falls,4,OH
+Fair Plain,3,MI
+Robersonville,4,NC
+Swartz Creek,4,MI
+Kent County,3,MI
+Wingate University,4,NC
+Lely Resort,4,FL
+Chireno,4,TX
+Gray County,3,TX
+West DeLand,4,FL
+South Vienna,3,OH
+Battle Creek,3,MI
+Enola,3,PA
+"Long Lake (Alpena County, Michigan)",10,MI
+Wingate,3,NC
+Stonewall County,4,TX
+Galatia,3,IL
+Cliffside,3,NC
+Sunset Valley,3,TX
+Cutlerville,4,MI
+Rutherfordton,4,NC
+Indian Rocks Beach,4,FL
+Billington Heights,4,NY
+Xavier University,3,OH
+Eastern Michigan University College of Arts and Sciences,9,MI
+Panorama Village,3,TX
+Stowell,3,TX
+New Hogan Lake,4,CA
+Caddo Mills,4,TX
+Fisher,2,IL
+Lake Marble Falls,4,TX
+Scottville,3,MI
+Saginaw Bay,4,MI
+Desert Edge,3,CA
+Dharma Realm Buddhist University,6,CA
+North Hills,3,NY
+East Palatka,4,FL
+Seguin,3,TX
+Revloc,3,PA
+Mariposa,3,CA
+Lake Casitas,4,CA
+Chebanse,4,IL
+Nuangola,4,PA
+Plattsburgh West,4,NY
+Pleasant Run Farm,4,OH
+Pottsville,4,PA
+Dallas Christian College,4,TX
+Lake Jesup,4,FL
+Ferris State University,5,MI
+Muskingum County,5,OH
+Cusseta,4,GA
+Sunfield,3,MI
+Mastic,3,NY
+Port Jefferson,3,NY
+Irwin,3,PA
+Monaca,3,PA
+North College Hill,4,OH
+Homerville,3,GA
+Gates County,3,NC
+Zellwood,4,FL
+Urbancrest,3,OH
+Lake Avenue Congregational Church,5,CA
+Piqua Nuclear Generating Station,6,OH
+Douglas City,3,CA
+Mark Taper Forum,5,CA
+Upper Arlington,3,OH
+Pender County,4,NC
+Melrose Park,4,IL
+Wayne Lakes,3,OH
+Tiskilwa,5,IL
+Newnan,3,GA
+Pender County,4,NC
+Meyersdale,4,PA
+Maybee,3,MI
+Patchogue Theatre,4,NY
+Connellsville,4,PA
+Hidden Hills,3,CA
+East Alton,3,IL
+Shofuso Japanese House and Garden,8,PA
+Watauga County,5,NC
+University of Houston,4,TX
+Wixom,4,MI
+Rose Valley Lake (Pennsylvania),7,PA
+"Cathedral of St. Ignatius Loyola (Palm Beach, Florida)",14,FL
+On Top of the World Designated Place,8,FL
+University of North Carolina at Chapel Hill School of Dentistry,11,NC
+Ocean Isle Beach,4,NC
+Wortham,3,TX
+De Witt,3,NY
+Eulonia,4,GA
+Evergreen Park,4,IL
+Florida Polytechnic University,4,FL
+Pinconning,4,MI
+Hurleyville,4,NY
+Lula,3,GA
+Kalkaska County,5,MI
+Lincoln University,3,PA
+Bedford,3,TX
+McDuffie County,5,GA
+Kinston,3,NC
+Jones Creek,3,TX
+Sharpsville,4,PA
+Cypress Landing,3,NC
+Caro,2,MI
+North Miami Beach,4,FL
+Blanco County,3,TX
+Happy,2,TX
+Lassen County,4,CA
+Braidwood,4,IL
+Morrow,3,GA
+Pamlico County,4,NC
+Chadwick,3,IL
+Hartsdale,4,NY
+Friedens,3,PA
+Harbor Hills,3,OH
+Miami Springs,3,FL
+Dripping Springs,4,TX
+Bertsch-Oceanview,6,CA
+St. Nicholas of Tolentine Church (Bronx),12,NY
+Pumpkin Center,3,NC
+Sunny Isles Beach,4,FL
+Brent,2,FL
+Fowlerville,4,MI
+Cape Carteret,4,NC
+Shelby,2,NC
+Pendergrass,4,GA
+Wittenberg University,4,OH
+Lake Whitney (Texas),6,TX
+Lake Winola,4,PA
+Evergreen Park,4,IL
+Kennesaw State University College of Science & Mathematics,11,GA
+Geneseo,4,IL
+Wayne State University School of Social Work,8,MI
+Hershey,3,PA
+Royal Oak,3,MI
+Hidalgo County,4,TX
+White Lake,3,NC
+Hico,3,TX
+Beasley,3,TX
+Glendale Heights,4,IL
+Kendale Lakes,4,FL
+Cuyahoga Heights,5,OH
+California State University San Marcos,6,CA
+Fish Hawk,3,FL
+Prospect Heights,3,IL
+South Range,3,MI
+University of Texas Health Science Center at San Antonio,10,TX
+North Boston,3,NY
+South Huntington,3,NY
+Evart,3,MI
+Mountainhome,3,PA
+Lorenzo,2,TX
+Muscogee County,5,GA
+Calimesa,4,CA
+Gastonia,3,NC
+Carnegie,3,PA
+Belleville,3,IL
+Stillman Valley,4,IL
+Elsie,3,MI
+Marlette,3,MI
+St. John's University,7,NY
+Bacliff,3,TX
+Marcus Hook,3,PA
+University of Georgia School of Public and International Affairs,10,GA
+Catheys Valley,5,CA
+West Brownsville,4,PA
+Dasher,3,GA
+Norwood,3,OH
+Saybrook-on-the-Lake,9,OH
+Euclid,3,OH
+New Lothrop,4,MI
+Montura,3,FL
+Tullytown,4,PA
+Granite Quarry,3,NC
+Lake Lure,3,NC
+Huntley,3,IL
+Stone Park,3,IL
+Brewster-Douglass Housing Projects,8,MI
+Jarrell,3,TX
+Hyco Lake,4,NC
+Hemet,3,CA
+Costa Mesa,3,CA
+Interlachen,4,FL
+Statesboro,3,GA
+Mammoth Lakes,4,CA
+Stokes County,3,NC
+Bogart,3,GA
+Castalia,3,OH
+Mayfair,3,CA
+Silsbee,4,TX
+Vidor,3,TX
+Kenly,3,NC
+East Syracuse,3,NY
+Tower Lakes,3,IL
+Lakewood Shores,4,IL
+Antioch University,4,OH
+Statesboro,3,GA
+Feather Sound,3,FL
+Edgecombe County,4,NC
+University of Texas at Dallas,6,TX
+Church of St. Anselm and St. Roch (Bronx),15,NY
+St. Teresa Church (Manhattan),8,NY
+Sofitel New York Hotel,6,NY
+Roma,2,TX
+Lizard Pond (New York),7,NY
+Osceola County,5,FL
+Dennison,3,OH
+Old Westbury,4,NY
+St. Petersburg,4,FL
+Washoe House,4,CA
+"Landmark Theatre (Syracuse, New York)",9,NY
+Ave Maria University,4,FL
+Gilberts,3,IL
+Helotes,3,TX
+Asharoken,4,NY
+Shabbona,4,IL
+Druid Hills,3,GA
+Almedia,3,PA
+Daniel B. Warnell School of Forestry and Natural Resources,12,GA
+Stone Mountain,3,GA
+Kill Devil Hills,4,NC
+East Ithaca,3,NY
+Addyston,4,OH
+Bellair-Meadowbrook Terrace,8,FL
+Midway,3,FL
+Algonquin,4,IL
+Co-Cathedral of the Sacred Heart (Houston),12,TX
+Baidland,4,PA
+Southern Methodist University,4,TX
+East Mountain,3,TX
+East Glenville,4,NY
+Austell,3,GA
+Pensacola State College,5,FL
+Lake Helen,3,FL
+Del Rey Oaks,4,CA
+Negaunee,4,MI
+Moss Beach,3,CA
+Howland Center,4,OH
+East Pittsburgh,3,PA
+Tyndall AFB,5,FL
+Moyock,3,NC
+San Luis Obispo,4,CA
+Duquesne University,5,PA
+Hialeah Gardens,5,FL
+WellStar College of Health and Human Services,9,GA
+Norristown,3,PA
+Portage County,4,OH
+Liberty City,3,TX
+Onondaga Lake,5,NY
+Robin Glen-Indiantown,6,MI
+Badin,3,NC
+Glen St. Mary,5,FL
+Snyder County,4,PA
+Collins Lake,3,CA
+Evergreen Park,4,IL
+Gateway,2,FL
+Royal Oak,3,MI
+Happy,2,TX
+Scotland County,3,NC
+Oakwood Hills,4,IL
+Stem,2,NC
+Santa Rosa Valley,4,CA
+New Buffalo,3,MI
+Lake DeFuniak,6,FL
+Fox Performing Arts Center,5,CA
+Breesport,4,NY
+41 Cooper Square,5,NY
+Pender County,4,NC
+Ionia,3,MI
+Fort Jones,3,CA
+Oak Ridge North,4,TX
+Holly Hill,3,FL
+Glens Falls North,5,NY
+Catoosa County,5,GA
+Bradford County,3,PA
+Addison,2,IL
+DeVry University Decatur Campus,7,GA
+Morada,3,CA
+Stickney,3,IL
+Loma Rica,4,CA
+Lenawee County,4,MI
+Bucyrus,4,OH
+Minier,3,IL
+Lake Lure,3,NC
+Vienna Center,3,OH
+Gun Lake (Michigan),6,MI
+Lake Alan Henry,4,TX
+Celoron,3,NY
+Coweta County,5,GA
+Walthourville,5,GA
+Merced County,4,CA
+Belleair Beach,4,FL
+Texas A&M College of Geosciences,9,TX
+Standish,3,MI
+Los Fresnos,4,TX
+Berkeley Lake,3,GA
+Cane Creek Friends Meeting,5,NC
+Tolono,3,IL
+Hiller,3,PA
+Basilica of the Immaculate Conception (Jacksonville),10,FL
+Ossineke,4,MI
+Central Islip,4,NY
+DuBois,3,PA
+East Galesburg,4,IL
+Prophetstown,3,IL
+Temescal Mountains,4,CA
+Conshohocken,4,PA
+Sadsburyville,4,PA
+Ai,2,OH
+Taylortown,3,NC
+Comer,2,GA
+Preston Heights,3,IL
+Lake Glenville,4,NC
+Atlanta,2,GA
+Pecan Plantation,4,TX
+Upland,3,CA
+Sarasota,4,FL
+Bog Brook Reservoir,4,NY
+Atlanta,2,GA
+Suffield,3,OH
+Graford,3,TX
+Mahoning County,4,OH
+North Perry,3,OH
+Stevenson Ranch,4,CA
+San Jacinto,3,CA
+Athens County,3,OH
+Berwick,3,PA
+Avalon Regal Theater,5,IL
+Fort Valley,3,GA
+Badin,3,NC
+Texas A&M University–San Antonio,9,TX
+Pine Manor,3,FL
+Moore Haven,3,FL
+West Sacramento,3,CA
+Union Valley,3,TX
+Coppell,3,TX
+Galatia,3,IL
+Gouldsboro,5,PA
+Cross City,3,FL
+SUNY Downstate College of Medicine,8,NY
+Romulus,3,MI
+Upper Sandusky,4,OH
+Wescosville,4,PA
+Cleves,3,OH
+Echols County,4,GA
+Pfeiffer University,4,NC
+Saranac Lake,5,NY
+Orangetree,3,FL
+International Academy of Design & Technology – Detroit,9,MI
+Hatteras,4,NC
+East Moline,4,IL
+Pandora,2,OH
+Spring Arbor,3,MI
+Golden Gate University,4,CA
+Pemberville,4,OH
+Coplay,3,PA
+Mark Taper Forum,5,CA
+Port Orange,3,FL
+Centre County,3,PA
+Campton Hills,4,IL
+Alvin,2,TX
+Siler City,4,NC
+Harbour Heights,4,FL
+University of Michigan College of Engineering,7,MI
+Lattingtown,4,NY
+Lake Isabella,3,CA
+Rosharon,4,TX
+Berkeley Lake,3,GA
+Carmel Valley Village,5,CA
+Antelope,3,CA
+Avonmore,3,PA
+Wilmette,3,IL
+Goldsboro,4,NC
+Pasco County,4,FL
+Penn Yan,3,NY
+Seville,3,OH
+Bogue,3,NC
+Michigan Jewish Institute,4,MI
+Conneaut Lakeshore,5,PA
+Ruth,2,NC
+East Dublin,3,GA
+Norton Shores,3,MI
+Goulds,4,FL
+Thomson,2,GA
+Vidor,3,TX
+Roosevelt Park,4,MI
+Pink Hill,3,NC
+Kendall West,3,FL
+North Lima,3,OH
+Cape Colony,3,NC
+Roseboro,3,NC
+Oscoda County,4,MI
+Haltom City,4,TX
+DeFuniak Springs,6,FL
+Parkesburg,4,PA
+Punta Rassa,5,FL
+Black Mountains (North Carolina),7,NC
+Nueces County,4,TX
+Elburn,3,IL
+UCLA Luskin School of Public Affairs,8,CA
+Playhouse Theatre (New York City),9,NY
+Buxton,3,NC
+Gaines County,4,TX
+Eastpoint,3,FL
+Tallahassee,3,FL
+Hawthorn Woods,4,IL
+California South Bay University,5,CA
+Martin Next Generation Solar Energy Center,7,FL
+Bootjack,3,CA
+Asherton,3,TX
+Medley,3,FL
+Hamtramck,4,MI
+Taylor Lake Village,4,TX
+Stone Park,3,IL
+St. Johns,4,MI
+Mertzon,4,TX
+Cedartown,3,GA
+Lake Brownwood,4,TX
+Cooleemee,4,NC
+Blewett Falls Lake,6,NC
+Navarro County,4,TX
+East Bakersfield,3,CA
+Great Balsam Mountains,5,NC
+Reidsville,4,NC
+Warm Mineral Springs,4,FL
+North Alamo,3,TX
+Palm Beach County,4,FL
+Michigan Building,3,MI
+Tyrrell County,4,NC
+Chowan County,4,NC
+Hawkins,3,TX
+Fleming Island,4,FL
+Elk Grove Village,4,IL
+Valdosta,4,GA
+Josephine,3,TX
+Ohio,2,IL
+Acworth,3,GA
+St. Clair Shores,5,MI
+Bellview,3,FL
+West Hempstead,4,NY
+Womelsdorf,5,PA
+Shokan,3,NY
+Tiskilwa,5,IL
+Solon,3,OH
+Gurnee,3,IL
+Clarke County,3,GA
+University of Illinois at Chicago College of Liberal Arts and Sciences,12,IL
+Blue Bell,3,PA
+Nelsonville,3,OH
+Ashmore,3,IL
+Dewart,3,PA
+Franklin Grove,3,IL
+East Farmingdale,4,NY
+Tawas City,4,MI
+Dooly County,4,GA
+Escambia County,5,FL
+Leola,3,PA
+Cleves,3,OH
+Rawson,3,OH
+University at Buffalo,4,NY
+Civic Opera House (Chicago),7,IL
+Byesville,4,OH
+Pahokee,4,FL
+Kenefick,4,TX
+Henrietta,3,TX
+Courtdale,4,PA
+Resaca,3,GA
+Bacon County,3,GA
+Clarks Green,4,PA
+Langeloth,4,PA
+Narberth,4,PA
+Hide-A-Way Hills,7,OH
+Dongola,3,IL
+Marengo,3,IL
+Bonnie Brae,4,IL
+Rockfish,3,NC
+Genetti Hotel,4,PA
+Holiday Shores,3,IL
+Wyncote,4,PA
+Miami Heights,3,OH
+Desoto Lakes,4,FL
+Refton,3,PA
+Aspinwall,4,PA
+Ailey,3,GA
+Lorain County,4,OH
+West Carson,3,CA
+Travis County,3,TX
+Trion,3,GA
+Cherry Lake,3,CA
+Point Park University,4,PA
+Oaksterdam University,4,CA
+Frankenmuth,4,MI
+Williamsdale,3,OH
+Wakulla County,4,FL
+Lilly,2,PA
+Burgaw,3,NC
+Rosharon,4,TX
+Davie County,4,NC
+Cathedral of Saint Mary (Miami),9,FL
+Park Forest Village,4,PA
+Ithaca,3,NY
+Au Gres,3,MI
+Stillmore,3,GA
+Glenvar Heights,4,FL
+New City,3,NY
+Cold Spring Harbor,4,NY
+Mount Sinai,3,NY
+San Gabriel,3,CA
+Higgins Lake,3,MI
+San Andreas Lake,4,CA
+Lauderhill,4,FL
+Silver Springs Shores,4,FL
+Pinebluff,4,NC
+Blackshear,3,GA
+Hickory,3,NC
+Greilickville,5,MI
+Costa Mesa,3,CA
+Menard,3,TX
+Reinhardt University,4,GA
+Paw Paw Lake,4,MI
+Terrace Park,4,OH
+Queen Anne Hotel,4,CA
+Palm Bay,3,FL
+Miami University Middletown,4,OH
+Casa Mañana,4,TX
+Gladwin County,4,MI
+Imlay City,4,MI
+Fair Plain,3,MI
+Fuller Acres,3,CA
+Darrtown,4,OH
+Hancock,3,MI
+Olivarez,3,TX
+Masthope,4,PA
+Carlinville,4,IL
+Saybrook-on-the-Lake,9,OH
+Lake Michigan Beach,4,MI
+Norris City,4,IL
+Avocado Heights,3,CA
+Michigan Jewish Institute,4,MI
+Clovis,3,CA
+Matlacha,4,FL
+Third Lake,3,IL
+Statham,3,GA
+Arden-Arcade,5,CA
+Suttons Bay,4,MI
+Macedonia,3,OH
+Bay Point,3,CA
+Broad Creek,3,NC
+Lake Gaston,3,NC
+Celoron,3,NY
+Krugerville,4,TX
+Jacobus,3,PA
+Maineville,3,OH
+Livingston Manor,4,NY
+Lake Norman of Catawba,7,NC
+Concord,2,CA
+Evans Mills,3,NY
+Rule,2,TX
+Ohio Technical College,4,OH
+"California State University, San Bernardino",7,CA
+West Lake Hills,4,TX
+Hartville,3,OH
+Golden Gate,3,FL
+Fairport Harbor,4,OH
+Roby,3,TX
+Mooresville,4,NC
+Mooresville,4,NC
+Ridley Park,4,PA
+University of Florida Southwest Recreation Center,7,FL
+Wolfdale,3,PA
+Lone Star,3,TX
+Ecorse,4,MI
+Bessemer City,5,NC
+Wexford County,5,MI
+Round Lake,3,IL
+Hatteras,4,NC
+St. Henry,4,OH
+Port Chester,3,NY
+McLean County,4,IL
+Ontario County,3,NY
+Montezuma,3,GA
+"Rosary Cathedral (Toledo, Ohio)",9,OH
+Canon,2,GA
+University of Michigan–Dearborn,7,MI
+Gasport,3,NY
+Spackenkill,5,NY
+Avery Creek,3,NC
+Masaryktown,5,FL
+Llano Grande,4,TX
+Saxapahaw,4,NC
+Co-Cathedral of St. Joseph (Brooklyn),12,NY
+Cameron Park,3,CA
+Hightsville,4,NC
+Oriole Beach,4,FL
+Ojai,3,CA
+Flovilla,3,GA
+Murphysboro,4,IL
+Iosco County,4,MI
+Premier Flight Academy,4,OH
+Hollidaysburg,4,PA
+257 Central Park West,7,NY
+West Mifflin,3,PA
+Peletier,3,NC
+Druid Hills,3,GA
+Momence,3,IL
+Jenkins County,3,GA
+Black River,3,NY
+Glenwood Generating Station,5,NY
+Bog Brook Reservoir,4,NY
+Chattooga County,5,GA
+Suncoast Estates,4,FL
+Refton,3,PA
+Fort Valley,3,GA
+Smock,3,PA
+Silverado Resort,4,CA
+Cornerstone University,4,MI
+Bog Brook Reservoir,4,NY
+Covedale,4,OH
+Needles,3,CA
+Westley,3,CA
+Darien,3,IL
+Lucas Valley-Marinwood,6,CA
+Wolfhurst,3,OH
+Georgia College & State University,6,GA
+Blooming Grove,4,TX
+Carolina Beach,3,NC
+Walker,2,MI
+South Webster,3,OH
+High Shoals,4,NC
+Ridge Wood Heights,4,FL
+Pfeiffer University at Charlotte,6,NC
+Plainedge,4,NY
+Hernando County,4,FL
+Elk Grove,3,CA
+Savannah Technical College,4,GA
+Vinings,3,GA
+Ty Ty,3,GA
+Morrow County,4,OH
+Fairlawn,3,OH
+Berkshire Lakes,5,FL
+Glenmoor,3,OH
+McGovern,3,PA
+Chowan University,4,NC
+First Unitarian Church of Chicago,6,IL
+Croswell,3,MI
+Golden Glades,4,FL
+Castalia,3,OH
+Old Field,3,NY
+Glasco,3,NY
+Cedarville University,4,OH
+Kendall,2,FL
+Piney Green,4,NC
+Nanuet,4,NY
+Royersford,4,PA
+Roberta,2,GA
+Lake Crabtree,4,NC
+Cornerstone University,4,MI
+Granite Bay,3,CA
+University at Buffalo,4,NY
+Golconda,3,IL
+University of North Carolina at Chapel Hill School of Dentistry,11,NC
+Avella,3,PA
+Philmont,3,NY
+Blair County,3,PA
+Botkins,3,OH
+Brevard County,4,FL
+Carrabelle,4,FL
+Kennesaw State University College of Arts,9,GA
+Gridley,3,CA
+Central Bridge,3,NY
+Lake Tonawanda,5,NY
+Hope Mills,3,NC
+Chub Lake (New York),8,NY
+Fort Stockton,3,TX
+Piketon,3,OH
+Twitchell Reservoir,5,CA
+425 Park Avenue,6,NY
+Basilica of Regina Pacis,7,NY
+Sidell,3,IL
+Villa Grove,3,IL
+Lawndale,3,CA
+South Lansing,3,NY
+Sundial St. Pete,6,FL
+Bokeelia,4,FL
+Santa Maria,3,CA
+Amanda,2,OH
+Phoenixville,3,PA
+Cass City,3,MI
+Chaires,3,FL
+Albemarle,4,NC
+Roslyn Estates,4,NY
+Ware County,3,GA
+Manvel,3,TX
+Lititz,4,PA
+Leslie,2,MI
+University of the Sciences,5,PA
+Edwardsville,3,IL
+Shiremanstown,5,PA
+Firthcliffe,4,NY
+"Ritz (Austin, Texas)",8,TX
+Newman,2,CA
+Factoryville,3,PA
+Wake Forest,3,NC
+Cochran County,4,TX
+San Diego Central Library,5,CA
+Robersonville,4,NC
+Mount Pulaski,3,IL
+Seton Hill University,5,PA
+Land O' Lakes,5,FL
+South Point,3,OH
+Temescal Mountains,4,CA
+Terrace Park,4,OH
+Abram,3,TX
+Cuddeback Lake,5,CA
+Pennville,3,PA
+Convoy,3,OH
+Glen Ellyn,4,IL
+On Top of the World Designated Place,8,FL
+Shorter University,4,GA
+Hulmeville,4,PA
+Stem,2,NC
+Lake Mitchell (Michigan),6,MI
+Lake Panasoffkee,6,FL
+Paint,2,PA
+Tinley Park,4,IL
+Dasher,3,GA
+Specs Howard School of Media Arts,7,MI
+Bull Valley,3,IL
+Arcade,2,GA
+Wake Village,3,TX
+Adams Center,3,NY
+St. James,4,NY
+Red Cross,3,NC
+State University of New York at Canton,8,NY
+Fox River Grove,4,IL
+Thornport,3,OH
+Manito,3,IL
+Marlette,3,MI
+Folkston,3,GA
+Hapeville,4,GA
+Crisp County,4,GA
+Saginaw Bay,4,MI
+Augusta State University,5,GA
+Indian Lake Estates,4,FL
+Bluffton University,5,OH
+University of West Georgia,5,GA
+Hannawa Falls,4,NY
+Heyworth,3,IL
+Kempner,4,TX
+Watson School of Biological Sciences,6,NY
+Dolton,3,IL
+Center Moriches,4,NY
+Diamond,2,IL
+Dravosburg,4,PA
+Norwood,3,OH
+John Carroll University,4,OH
+Tekonsha,4,MI
+White Cloud,3,MI
+Rancho Santa Margarita,5,CA
+South Canal,3,OH
+New Hyde Park,4,NY
+Marlboro Mountains,5,NY
+Jacksonwald,3,PA
+Reminderville,3,OH
+Orlando,2,FL
+University of Pittsburgh School of Social Work,8,PA
+Normal,2,IL
+St. Augustine South,5,FL
+Gages Lake,4,IL
+Port Carbon,3,PA
+Bloomfield Hills,4,MI
+Brandywine Bay,5,NC
+Minoa,3,NY
+Powder Springs,3,GA
+Indian Lake (Ohio),6,OH
+Refton,3,PA
+Eton,3,GA
+Sunrise,2,FL
+Lake Darby,3,OH
+Palm Valley,3,FL
+Baiting Hollow,4,NY
+Hide-A-Way Hills,7,OH
+Grandyle Village,4,NY
+Sterling County,3,TX
+Mertztown,4,PA
+Titusville,3,FL
+Harbor Isle,3,NY
+Rincon,3,GA
+Leslie,2,MI
+Sag Harbor,3,NY
+Albany,2,NY
+Garden City Park,4,NY
+Diamond Springs,3,CA
+New Chapel Hill,4,TX
+Sunrise,2,FL
+Cataula,3,GA
+Pinehurst,3,NC
+Houtzdale,5,PA
+Broward County,4,FL
+Atlanta,2,GA
+South Coatesville,4,PA
+Fruitville,3,FL
+Narberth,4,PA
+Fabrica,3,TX
+Sunset Reservoir,3,CA
+St. John's Chapel (New York City),12,NY
+Brevard County,4,FL
+Winnie,2,TX
+Muskegon,4,MI
+Stone Mountain,3,GA
+Arcanum,4,OH
+Bowmansville,4,PA
+Addicks Reservoir,4,TX
+Great Balsam Mountains,5,NC
+Harwood Heights,4,IL
+McCaysville,4,GA
+Russell Gardens,3,NY
+Seneca Knolls,5,NY
+Palm Beach County,4,FL
+West Palm Beach,4,FL
+Gaston County,4,NC
+Walton Park,4,NY
+Canfield,3,OH
+South Williamsport,4,PA
+Binghamton,4,NY
+Inverness Highlands South,5,FL
+Killbuck,3,OH
+CUNY School of Public Health,8,NY
+Greenvale,3,NY
+Saint Vladimir's Orthodox Theological Seminary,8,NY
+Elk Rapids,3,MI
+Fruit Hill,3,OH
+Pompano Beach,5,FL
+McCullom Lake,5,IL
+McCrone Research Institute,5,IL
+Century,2,FL
+Hemby Bridge,4,NC
+Pamlico County,4,NC
+Yaphank,4,NY
+Merion Station,4,PA
+Ludowici,4,GA
+Mineral Springs,3,NC
+Kaser,3,NY
+Vinco,3,PA
+Cornelius,3,NC
+Williamsdale,3,OH
+Tifton,4,GA
+White Lake,3,NC
+425 Park Avenue,6,NY
+Castaic,4,CA
+Island Lake,3,IL
+Leslie,2,MI
+Gold Key Lake,4,PA
+Sunnyvale,3,CA
+University of North Carolina at Chapel Hill School of Dentistry,11,NC
+Weston Mills,4,NY
+Chenoa,4,IL
+Killbuck,3,OH
+West Islip,4,NY
+Cridersville,4,OH
+South Fulton,3,GA
+"Lyric Theatre (New York City, 1998)",14,NY
+Mineville,3,NY
+Verandah,4,FL
+Hilldale,3,PA
+Allendale,3,MI
+Stanford,2,CA
+Big Run,3,PA
+Loganville,3,GA
+Chenango County,4,NY
+Morrisdale,3,PA
+Sacramento,2,CA
+West Valley,3,NY
+Ubly,3,MI
+Kurten,3,TX
+Mendocino County,4,CA
+Live Oak County,4,TX
+Sciotodale,5,OH
+Eighty Four,4,PA
+Fort Pierce,3,FL
+Mill Neck,3,NY
+Garfield Heights,4,OH
+Berkshire Lakes,5,FL
+Traverse City,3,MI
+University of Austin,4,TX
+Lorain,3,OH
+"Epiphany Cathedral (Venice, Florida)",9,FL
+West Bradenton,5,FL
+Mazon,3,IL
+Mount Healthy,3,OH
+Kalamazoo County,4,MI
+Tuolumne County,5,CA
+Three Lakes,3,FL
+Mackinac County,4,MI
+Hapeville,4,GA
+Lapeer,3,MI
+Delphos,3,OH
+Southfield,3,MI
+Angelina County,3,TX
+"Florida State University College of Visual Arts, Theatre and Dance",12,FL
+Hainesville,4,IL
+Anaheim University,4,CA
+Azusa,3,CA
+North Sarasota,3,FL
+Mikes,3,TX
+Branch County,3,MI
+Corry,3,PA
+Moore Haven,3,FL
+Burt,2,MI
+Warrior Run,3,PA
+McLeansboro,5,IL
+Stephenson,3,MI
+Stuyvesant Apartments,5,NY
+Springtown,3,TX
+North Bay Shore,4,NY
+Peoria County,4,IL
+Hughes Springs,3,TX
+Chattanooga Valley,4,GA
+Keweenaw County,5,MI
+Butner,3,NC
+Kent County,3,MI
+Ellaville,3,GA
+Rockingham,4,NC
+Wakeman,3,OH
+Archdale,3,NC
+Suttons Bay,4,MI
+Chicago Ridge,3,IL
+Jenkins County,3,GA
+College of Lake County,5,IL
+Chesterland,3,OH
+Arvin,3,CA
+Bell Acres,3,PA
+East Dublin,3,GA
+King,2,NC
+Foscoe,3,NC
+Kennesaw State University College of Science & Mathematics,11,GA
+Bradley Junction,3,FL
+Highwood,3,IL
+Yadkin County,5,NC
+Greilickville,5,MI
+Big Pine,3,CA
+Lowesville,4,NC
+Skokie Lagoons,5,IL
+Farmers Branch,3,TX
+Mill Neck,3,NY
+State University of New York at Cortland,9,NY
+Siler City,4,NC
+Haywood County,4,NC
+Schenevus,4,NY
+Edgemont Park,4,MI
+Buies Creek,4,NC
+Squirrel Mountain Valley,4,CA
+Concordia University Irvine,5,CA
+Chattooga County,5,GA
+Country Knolls,4,NY
+Lake in the Hills,5,IL
+Toronto,2,OH
+Struthers,3,OH
+Mayflower Village,4,CA
+Kennesaw State University College of Science & Mathematics,11,GA
+Gettysburg,3,PA
+Astor,3,FL
+Gresham Park,5,GA
+Elkland,3,PA
+New Fairview,3,TX
+La Pryor,3,TX
+Hannahs Mill,4,GA
+Indian Mountain Lake,4,PA
+Bidwell,3,OH
+Tonawanda,4,NY
+Balcones Heights,4,TX
+Riverview,3,FL
+Longboat Key,4,FL
+Doral,3,FL
+Miamitown,4,OH
+Sandyfield,3,NC
+Caswell County,4,NC
+Arkport,3,NY
+Ubly,3,MI
+Dayton,2,OH
+Burt,2,MI
+Loyola,3,CA
+Carolina Meadows,3,NC
+Woodsdale,4,OH
+Pavo,3,GA
+Dallas City,3,IL
+East Stroudsburg,5,PA
+Alliance,2,OH
+Keystone Heights,4,FL
+Illinois College of Optometry,6,IL
+Cayuga County,4,NY
+Bonanza,3,GA
+Cadwell,3,GA
+Alanson,3,MI
+Bradenton Beach,4,FL
+Kenly,3,NC
+Okawville,4,IL
+Kent State University at Ashtabula,8,OH
+Punta Gorda,5,FL
+Stedman,4,NC
+Poland,2,OH
+Onondaga School of Therapeutic Massage,8,NY
+Hazel Park,3,MI
+"JFK Medical Center (Atlantis, Florida)",10,FL
+Oakmont,3,PA
+Rochester,2,NY
+Coto de Caza,6,CA
+Benzie County,4,MI
+Refugio County,4,TX
+Kentwood,3,MI
+Trion,3,GA
+Langhorne Manor,5,PA
+Davidson,2,NC
+Calvin University,3,MI
+Loyola University Chicago,5,IL
+Gumlog,3,GA
+Wilkesboro,4,NC
+Tiffin,4,OH
+Chadwick Lake,4,NY
+Rutherford College,4,NC
+Gates Mills,3,OH
+Philadelphia County,3,PA
+Lamar Institute of Technology,5,TX
+Brunswick,2,OH
+LaFayette,4,GA
+Columbus Grove,3,OH
+Green Island,3,NY
+Randleman Lake,4,NC
+Graton,3,CA
+Tupper Lake (New York),8,NY
+Kreamer,4,PA
+Mableton,4,GA
+National University of Health Sciences,6,IL
+Archer County,3,TX
+Dade City North,4,FL
+Terrace Park,4,OH
+Gallatin School of Individualized Study,8,NY
+Shokan,3,NY
+Skidway Lake,5,MI
+Dade County,3,GA
+Warrensville Heights,5,OH
+Mountain Park,3,GA
+Lauderdale-by-the-Sea,10,FL
+Lake Crabtree,4,NC
+Royal Oak Music Theatre,5,MI
+Blue Mound,3,TX
+Newcomerstown,5,OH
+Lake Riverside,3,CA
+Franklin College of Arts and Sciences,7,GA
+Health Education Campus,4,OH
+Lakeland Highlands,4,FL
+Posen,3,IL
+Romulus,3,MI
+Dharma Realm Buddhist University,6,CA
+Helotes,3,TX
+Brewster County,4,TX
+Thompsontown,5,PA
+Rockfish,3,NC
+Canandaigua Lake,5,NY
+Candlewood Lake,4,OH
+California Intercontinental University,5,CA
+Astor Place Theatre,5,NY
+Scotts Valley,4,CA
+Westmorland,4,CA
+Pelican Bay,4,FL
+Tioga Terrace,5,NY
+Chatham County,4,GA
+Hays County,4,TX
+Bessemer City,5,NC
+Glen St. Mary,5,FL
+Almaden Reservoir,4,CA
+Norwood,3,OH
+Wrights Lake,4,CA
+Belmont County,4,OH
+Elysburg,4,PA
+Ridgemark,3,CA
+Cypress Landing,3,NC
+California Polytechnic State University,5,CA
+Lake Barrington,3,IL
+June Park,3,FL
+Slatington,4,PA
+Garysburg,4,NC
+Harold Washington Library,4,IL
+Marin City,3,CA
+Crystal Lawns,4,IL
+Hillsboro Beach,4,FL
+Downs,2,IL
+Lynbrook,3,NY
+Concordia University Chicago,5,IL
+Dacula,4,GA
+Dillonvale,4,OH
+Swartzville,4,PA
+Soma San Diego,4,CA
+Confluence,3,PA
+Yardley,3,PA
+Malone,3,FL
+Clarktown,3,OH
+Ironwood,3,MI
+Rouzerville,4,PA
+Sun River Terrace,4,IL
+Upper Lake,3,CA
+Dorr,3,MI
+Fruit Hill,3,OH
+Watseka,4,IL
+Wadley,3,GA
+"California State University, Bakersfield",6,CA
+Reading,2,PA
+East Foothills,4,CA
+The Institute for Clinical Social Work,7,IL
+Eastman,3,GA
+Burt,2,MI
+South San Gabriel,4,CA
+Collinsburg,3,PA
+Goulding,4,FL
+Tiger,2,GA
+Twin Lake,3,MI
+Anderson Creek,3,NC
+Blacklick Estates,4,OH
+Yeadon,4,PA
+Palmetto Estates,4,FL
+Poquott,4,NY
+Gilman,3,IL
+New Tripoli,3,PA
+Franklin Springs,3,GA
+Adams Center,3,NY
+Holt,2,MI
+Lake Fenton,3,MI
+Moody AFB,3,GA
+Snellville,4,GA
+Bayville,3,NY
+Orlando,2,FL
+Shasta Dam,4,CA
+Gilberts,3,IL
+Siesta Key,4,FL
+New Chapel Hill,4,TX
+Hickory,3,NC
+Laguna Vista,3,TX
+Hondo,3,TX
+Remerton,3,GA
+Cohoes,3,NY
+Penn Yan,3,NY
+Foothill Farms,5,CA
+Millen,3,GA
+San Simeon,3,CA
+Newburgh Heights,4,OH
+Kentwood,3,MI
+Dolgeville,4,NY
+Mesa Verde,3,CA
+Mokena,3,IL
+Haw River,3,NC
+Bradford,2,PA
+McDonough,4,GA
+Homer Glen,3,IL
+Jensen Beach,3,FL
+Pigeon,2,MI
+Brevard County,4,FL
+Cambridge Springs,3,PA
+"Lyric Theatre (New York City, 1998)",14,NY
+Mineral Springs,3,NC
+Immokalee,4,FL
+Cortland County,4,NY
+Hewlett,3,NY
+Lake Alfred,3,FL
+Oakboro,3,NC
+McKean County,5,PA
+Valley Mills,3,TX
+Foard County,4,TX
+North Sarasota,3,FL
+Premier Flight Academy,4,OH
+Skaneateles Lake,6,NY
+California Polytechnic State University,5,CA
+Odum School of Ecology,6,GA
+Marlette,3,MI
+Sparrow Bush,4,NY
+Zena,3,NY
+Fairburn,3,GA
+Wadesboro,4,NC
+North Lewisburg,4,OH
+Donalsonville,5,GA
+Barry,2,IL
+Westlake,3,OH
+Sea Ranch Lakes,4,FL
+Snook,3,TX
+Adrian,2,MI
+Forest Home,3,NY
+Climax,3,MI
+Bellmead,3,TX
+Wyandotte,4,MI
+College Station,3,TX
+University of North Carolina at Chapel Hill School of Dentistry,11,NC
+Dixie Highway,3,FL
+East Newnan,4,GA
+Malabar,3,FL
+Minneola,4,FL
+Jacob K. Javits Lecture Center,8,NY
+Momence,3,IL
+Lime Ridge,3,PA
+VIA 57 West,6,NY
+McDowell County,4,NC
+Hocking County,4,OH
+Cross Timber,3,TX
+Bay Shore,3,NY
+Four Bridges,3,OH
+Cape Colony,3,NC
+Blowing Rock,4,NC
+Ovens Auditorium,4,NC
+Cricket,2,NC
+Eastern Michigan University,4,MI
+Rainbow,2,CA
+Plant City,3,FL
+Toledo Academy of Beauty,5,OH
+Menominee,4,MI
+Iroquois County,5,IL
+Emsworth,4,PA
+Cedartown,3,GA
+Rossiter,3,PA
+Roby,3,TX
+Glenmoor,3,OH
+Piney Grove,4,GA
+West Wyomissing,5,PA
+Cornwall,3,PA
+Winnie,2,TX
+Belhaven,3,NC
+Level Park-Oak Park,6,MI
+Port Washington North,4,NY
+Graduate Theological Union,4,CA
+Trabuco Canyon,5,CA
+Hartwell,3,GA
+Edmore,3,MI
+Albany Technical College,4,GA
+Burgaw,3,NC
+Wichita County,4,TX
+Elm Creek,3,TX
+Hancock,3,MI
+Middlefield,3,OH
+North Apollo,3,PA
+Texas Woman's University,6,TX
+Reading,2,PA
+Philipsburg,3,PA
+Park Forest,3,IL
+Honeoye,4,NY
+Bay Park,3,NY
+Delshire,4,OH
+Crystal Lake,3,IL
+Columbus,2,OH
+Riverbank,3,CA
+Melbourne Beach,3,FL
+Broxton,3,GA
+Long Creek,3,IL
+San Bernardino,3,CA
+Upper Saranac Lake,5,NY
+High Rock Lake,4,NC
+Hill Country Village,4,TX
+Harper Woods,3,MI
+Mastic Beach,4,NY
+Casa Conejo,4,CA
+Echols County,4,GA
+Galena Park,4,TX
+Goulding,4,FL
+Indian Springs,3,GA
+Irvona,3,PA
+Bally,3,PA
+Kerhonkson,4,NY
+Laingsburg,4,MI
+Old Church of St. Joachim and St. Anne,11,NY
+Lake Lila,3,NY
+Chenoa,4,IL
+Marengo,3,IL
+Clearlake Oaks,4,CA
+Leland,3,NC
+Vandercook Lake,4,MI
+Carolina Meadows,3,NC
+Walkertown,3,NC
+Biograph Theater,4,IL
+Utica,3,NY
+University of the Incarnate Word,7,TX
+Old Bethpage,4,NY
+Odin,2,IL
+Heritage Pines,3,FL
+New California,3,OH
+Knights Landing,3,CA
+Atlasburg,3,PA
+Level Park-Oak Park,6,MI
+Hoosick Falls,5,NY
+Nittany,4,PA
+Ashmore,3,IL
+East Glenville,4,NY
+Bendersville,4,PA
+Hialeah Gardens,5,FL
+Seagraves,3,TX
+Rhome,3,TX
+Buckhead,3,GA
+Lavonia,3,GA
+Haw River,3,NC
+Lakemoor,4,IL
+Flora,2,IL
+Arrowhead Beach,4,NC
+Twinsburg Heights,4,OH
+Co-Cathedral of St. Joseph (Brooklyn),12,NY
+Tenaha,4,TX
+Grant Park,3,IL
+Montmorency County,5,MI
+Westchester,3,FL
+Kenly,3,NC
+East Randolph,3,NY
+Geistown,4,PA
+Clemmons,3,NC
+Stormstown,3,PA
+Harbor Hills,3,OH
+Ingold,3,NC
+West Newton,3,PA
+East Rockaway,4,NY
+James City,3,NC
+Muscogee County,5,GA
+Round Lake,3,IL
+Round Lake,3,IL
+Nina,2,TX
+Old River-Winfree,7,TX
+Bloomville,3,OH
+Lake Buckhorn,4,OH
+Roodhouse,4,IL
+Rock Island,3,IL
+Berkshire Lakes,5,FL
+Christmas,2,FL
+Dawsonville,3,GA
+New Fairview,3,TX
+Skidaway Island,5,GA
+Whispering Pines,4,NC
+Lakes of the North,5,MI
+Cossayuna Lake,6,NY
+Houghton County,4,MI
+Cheboygan County,5,MI
+Mineral Ridge,3,OH
+Lake Palmdale,5,CA
+Grand Valley State University,5,MI
+North Georgia College & State University,7,GA
+Mildred Elley,5,NY
+Skyline Church,4,CA
+Navassa,3,NC
+Ohio City,3,OH
+Fort Valley,3,GA
+Richmond Hill,3,GA
+Springport,3,MI
+Jersey County,3,IL
+New Madison,3,OH
+South Boardman,4,MI
+Chatsworth,3,GA
+Blue Ridge Summit,4,PA
+La Presa,4,CA
+Montour Falls,4,NY
+Cove Creek,4,NC
+Tappan,3,NY
+Lynwood,3,CA
+El Verano,4,CA
+Holland,2,MI
+Pigeon,2,MI
+Downingtown,4,PA
+Irvington,3,NY
+Vinings,3,GA
+Lithia Springs,4,GA
+Cinnamon Lake,3,OH
+Old University of Chicago,5,IL
+Pearsall,4,TX
+Eglin AFB,4,FL
+Lefors,3,TX
+Tiger,2,GA
+Dauberville,4,PA
+Acworth,3,GA
+Endwell,3,NY
+Rockton,3,IL
+Benavides,4,TX
+New Lexington,3,OH
+Plum,2,PA
+Bal Harbour,3,FL
+Benzonia,3,MI
+Milledgeville,4,GA
+Cinco Ranch,3,TX
+Fort Stewart,3,GA
+Grosse Pointe Woods,5,MI
+Weston,3,FL
+Clewiston,4,FL
+Streetsboro,3,OH
+Malone,3,FL
+Brent,2,FL
+Keego Harbor,4,MI
+Buxton,3,NC
+Ives Estates,4,FL
+Palmetto Bay,4,FL
+Cypress Landing,3,NC
+Nazareth University,4,NY
+Grovetown,3,GA
+Kinmundy,4,IL
+Big Bear Lake,4,CA
+Cultural Education Center,4,NY
+Vermilion,4,OH
+Waterman,3,IL
+Lott,3,TX
+New Kingstown,4,PA
+Bakersville,4,NC
+University Heights,3,OH
+Avocado Heights,3,CA
+Jeromesville,4,OH
+Sausalito,4,CA
+Bunnlevel,4,NC
+Seaside,3,CA
+Mancelona,3,MI
+Calhoun,3,GA
+Indian River County,4,FL
+New Philadelphia,3,OH
+Coaldale,4,PA
+West Bay Shore,4,NY
+The Mark Hotel,4,NY
+Destin,2,FL
+South Range,3,MI
+Albany Technical College,4,GA
+Banning,3,CA
+Lake Gaston,3,NC
+Hillman,3,MI
+Phoenixville,3,PA
+Hemby Bridge,4,NC
+Round Top,3,NY
+Norridge,3,IL
+Humboldt County,5,CA
+Fontana,3,CA
+Bowling Green State University College of Business Administration,9,OH
+Chappaqua,4,NY
+Moody AFB,3,GA
+Buffalo Gap,3,TX
+Remerton,3,GA
+Eastover,3,NC
+Lake Del Valle,4,CA
+Healdsburg,4,CA
+Seadrift,4,TX
+University of Pittsburgh School of Social Work,8,PA
+Caseyville,3,IL
+Safety Harbor,3,FL
+Marquette County,4,MI
+Coleto Creek Reservoir,5,TX
+Wake County,3,NC
+Waukegan,5,IL
+Mount Holly,3,NC
+Cathedral City,4,CA
+St. Nicholas Collegiate Reformed Protestant Dutch Church,9,NY
+D–Q University,5,CA
+Lake Crabtree,4,NC
+Bethpage,3,NY
+Millersville University of Pennsylvania,7,PA
+Llano Grande,4,TX
+Holden Beach,4,NC
+Edgar County,3,IL
+Spout Springs,4,NC
+Tobaccoville,3,NC
+Frazeysburg,5,OH
+Maple Ridge,3,OH
+South Gate Ridge,4,FL
+Glasford,3,IL
+Randleman Lake,4,NC
+San Carlos,3,CA
+Whitehall,3,OH
+Woodsfield,3,OH
+Forest View,3,IL
+Posen,3,IL
+Bremond,4,TX
+"Cathedral of Saint Francis de Sales (Oakland, California)",13,CA
+Bailey County,3,TX
+Swepsonville,5,NC
+North Key Largo,4,FL
+Richland Hills,4,TX
+Great Lakes Christian College,5,MI
+Port Barrington,3,IL
+Hermosa Beach,4,CA
+K. I. Sawyer,6,MI
+South Glens Falls,5,NY
+Southchase,3,FL
+Wheaton Bible Church,5,IL
+Twain Harte,5,CA
+St. John Fisher University,6,NY
+La Grulla,4,TX
+Stottville,4,NY
+Schuyler County,4,NY
+East Patchogue,4,NY
+Signal Hill,3,CA
+Sharpsville,4,PA
+Berry College,3,GA
+Sault Ste. Marie,6,MI
+Cedar Creek,3,TX
+Milam,3,TX
+Irvington,3,NY
+Yadkinville,5,NC
+Walkertown,3,NC
+Franklin Springs,3,GA
+Cheval,3,FL
+New Middletown,3,OH
+Keystone,3,FL
+Somervell County,5,TX
+High Shoals,4,NC
+Rancho Alegre,4,TX
+Day Valley,3,CA
+Running Springs,3,CA
+Tropical Park,3,FL
+Enhaut,3,PA
+Slippery Rock,4,PA
+Lebanon South,3,PA
+Aldan,3,PA
+Pinckney,4,MI
+Harwood Heights,4,IL
+Frenchman's Tower,6,CA
+Wilton,3,CA
+Surry County,4,NC
+Brandywine Bay,5,NC
+Bacliff,3,TX
+Lenoir County,5,NC
+University of Georgia College of Public Health,8,GA
+New Miami,3,OH
+Hudsonville,3,MI
+San Andreas,3,CA
+Nash,2,TX
+Art Academy of Cincinnati,5,OH
+Ionia County,4,MI
+Blackhawk,3,CA
+Medina,3,OH
+State University of New York at Canton,8,NY
+Yanceyville,4,NC
+Illinois State University,4,IL
+Mechanicsburg,3,PA
+Acworth,3,GA
+North Valley Stream,4,NY
+Second Baptist Church Houston,5,TX
+Schulenburg,4,TX
+Lucama,3,NC
+Mark Taper Forum,5,CA
+University of Scranton,4,PA
+Chattahoochee Hills,7,GA
+La Habra Heights,5,CA
+Wellsboro,3,PA
+Mentor-on-the-Lake,8,OH
+Huntington Park,4,CA
+Tuscarawas County,6,OH
+York Springs,3,PA
+Lincoln College,3,IL
+Avery Creek,3,NC
+Appalachian State University,6,NC
+Holly,2,MI
+Queens University of Charlotte,5,NC
+New York City Center,5,NY
+Bowmanstown,4,PA
+Grace Church (Manhattan),6,NY
+Hodges University,4,FL
+Oakleaf Plantation,4,FL
+Vander,2,NC
+Monroeville,5,PA
+Mexico Beach,3,FL
+"Florida State University College of Motion Picture, Television and Recording Arts",13,FL
+Glen Lyon,3,PA
+East Jordan,3,MI
+Barnardsville,4,NC
+University of Houston,4,TX
+Parma,3,OH
+Randleman,3,NC
+Lake Erie Beach,4,NY
+Mandel School of Applied Social Sciences,8,OH
+Yates City,4,IL
+Hulmeville,4,PA
+Calexico,4,CA
+Cathedral Basilica of St. Joseph (San Jose),12,CA
+Canyon Lake (California),6,CA
+Lawnton,3,PA
+Spring Hope,3,NC
+Miami County,3,OH
+Bulloch County,4,GA
+Cedarville,3,OH
+Lorenz Park,4,NY
+West Brow,3,GA
+Dade County,3,GA
+Madonna University,3,MI
+Benedictine University,4,IL
+Lake Michigan College,4,MI
+Lely Resort,4,FL
+Tribeca Flashpoint Media Arts Academy,8,IL
+Bryn Mawr,4,PA
+Monterey County,4,CA
+Hampton Manor,3,NY
+Belle Center,3,OH
+Ravenna,3,OH
+Neapolis,3,OH
+Poplar Grove,4,IL
+Sudan,2,TX
+Leon Valley,3,TX
+Mentor-on-the-Lake,8,OH
+Edwards County,3,IL
+Chiefland,3,FL
+Bertram,3,TX
+Moultrie Technical College,6,GA
+Granger Lake,4,TX
+Glenwood Generating Station,5,NY
+Clinch County,4,GA
+River Grove,3,IL
+Lake Michigan College,4,MI
+Pine Mountain,3,GA
+Robert Morris University Illinois,5,IL
+Foster City,3,CA
+Refugio,3,TX
+Venetian Village,4,IL
+"Cathedral of Saint Andrew (Grand Rapids, Michigan)",12,MI
+Strattanville,4,PA
+Fountain Valley,3,CA
+Montezuma,3,GA
+Jupiter,2,FL
+Carpinteria,4,CA
+Northville,3,MI
+Wright Patman Lake,5,TX
+Freeburg,3,IL
+Weston Lakes,4,TX
+Mamers,3,NC
+Tyler County,3,TX
+Fort Valley,3,GA
+Lake in the Hills,5,IL
+Sarasota Springs,5,FL
+State University of New York at Fredonia,9,NY
+Bartonville,3,IL
+Saline,3,MI
+Calabash,4,NC
+River Rouge,3,MI
+Bessemer City,5,NC
+Andrews,2,TX
+Waxahachie,4,TX
+Garza-Salinas II,7,TX
+Alton,3,IL
+North Druid Hills,4,GA
+Donora,3,PA
+Matteson,4,IL
+Pfeiffer University at Charlotte,6,NC
+St. Clair Shores,5,MI
+Lake Allatoona,5,GA
+Huntersville,4,NC
+Pultneyville,5,NY
+La Blanca,3,TX
+McIntyre,4,GA
+Key Largo,3,FL
+Norridge,3,IL
+Cusseta,4,GA
+Lake Denton,3,FL
+Fox Performing Arts Center,5,CA
+Annawan,3,IL
+Palm Beach County,4,FL
+Yellow Springs,3,OH
+East Prospect,3,PA
+NC State University,4,NC
+Camino,3,CA
+West Chicago,3,IL
+Maple Heights,3,OH
+Coastland University,4,CA
+Lake Harmony,3,PA
+Ovid,3,MI
+Cal Poly San Luis Obispo College of Architecture and Environmental Design,12,CA
+Cornelius,3,NC
+Lake Odessa,3,MI
+Macclenny,4,FL
+Trump Park Avenue,4,NY
+Hardwood Acres,4,MI
+Texas A&M University–Corpus Christi,9,TX
+Timber Pines,3,FL
+Stowell,3,TX
+"First African Baptist Church (Savannah, Georgia)",10,GA
+Cedar Key,3,FL
+Orangetree,3,FL
+Evansburg,3,PA
+White Pigeon,3,MI
+La Moille,4,IL
+Chattanooga Valley,4,GA
+"Harris Lake (New Hill, North Carolina)",10,NC
+Daniel B. Warnell School of Forestry and Natural Resources,12,GA
+Tiger,2,GA
+St. Stephens,4,NC
+Lexington Reservoir,3,CA
+Lake in the Hills,5,IL
+Charlotte Harbor,3,FL
+Tennille,3,GA
+Forest Home,3,NY
+Emmet County,4,MI
+Van Wert County,4,OH
+Edinburg,4,TX
+Braidwood,4,IL
+Geyserville,4,CA
+Webberville,4,MI
+Aliso Viejo,4,CA
+Euharlee,4,GA
+Glenolden,3,PA
+South Point,3,OH
+Plant City,3,FL
+Appling,3,GA
+Cajah's Mountain,6,NC
+Galveston,3,TX
+San José State University,5,CA
+Fairport,3,NY
+Bell County,3,TX
+La Habra,4,CA
+Bing Concert Hall,4,CA
+Eden,2,NC
+Fairfield Harbour,4,NC
+Conetoe,3,NC
+Parchment,4,MI
+Honeoye,4,NY
+Twinsburg Heights,4,OH
+Wingate University,4,NC
+Mount Kisco,4,NY
+Old Fort,3,NC
+Streamwood,3,IL
+Waverly Hall,4,GA
+Warminster Heights,4,PA
+Orange Park,3,FL
+Chums Corner,4,MI
+Mathis,3,TX
+Spring Hill,3,FL
+Farmer City,3,IL
+Conneaut,3,OH
+Medley,3,FL
+"California State University, Monterey Bay",7,CA
+Cobbtown,4,GA
+Campbelltown,3,PA
+University of Michigan School of Public Health,8,MI
+North Carolina Central University,5,NC
+Weston Lakes,4,TX
+Riviera,3,TX
+Hewlett Harbor,4,NY
+McDonough,4,GA
+Chapel Hill,3,NC
+Kennesaw State University Graduate College,8,GA
+Fort Hood,3,TX
+West Carrollton,4,OH
+Lake Jesup,4,FL
+Marshville,3,NC
+Milford Center,4,OH
+Siler City,4,NC
+Lillington,4,NC
+Meadow Brook Amphitheatre,6,MI
+El Cerrito,4,CA
+South Miami,3,FL
+Coldwater,3,MI
+St. Paul's Cathedral (San Diego),11,CA
+Lynn Haven,3,FL
+Rolling Hills Estates,4,CA
+South Point,3,OH
+Carleton,3,MI
+St. Nicholas Cathedral (Chicago),8,IL
+East Farmingdale,4,NY
+Channel Lake,3,IL
+Cass City,3,MI
+Fisher,2,IL
+Ahoskie,4,NC
+Thornville,3,OH
+Dolgeville,4,NY
+Hookerton,3,NC
+Orion,2,IL
+Seville,3,OH
+Mount Penn,3,PA
+La Quinta,3,CA
+Angier,3,NC
+Curtice,3,OH
+Taliaferro County,5,GA
+Isabella County,3,MI
+Paxtonia,4,PA
+Zeeland,3,MI
+Mount Gilead,4,OH
+Augusta State University,5,GA
+Biograph Theater,4,IL
+Archer,2,FL
+Carrier Mills,3,IL
+Perryton,3,TX
+Munising,3,MI
+Ashkum,3,IL
+Monee,3,IL
+Malone University,4,OH
+Scottdale,3,GA
+McHenry County,4,IL
+Grayson County,4,TX
+Bonfield,3,IL
+McElhattan,4,PA
+New Port Richey East,6,FL
+Jacksonville,2,FL
+Lightstreet,3,PA
+Daly City,4,CA
+Melvindale,4,MI
+Manteo,4,NC
+Royce Hall,3,CA
+Rowan County,3,NC
+Edwardsburg,3,MI
+University of Houston–Victoria,6,TX
+Presidential Towers,3,IL
+LaDue Reservoir,4,OH
+Blandon,3,PA
+Lewis College of Business,5,MI
+Pleasant Run Farm,4,OH
+Charleroi,3,PA
+Saltsburg,4,PA
+Manito,3,IL
+Cleary University,4,MI
+Sandusky County,4,OH
+Copper Canyon,3,TX
+Bull Valley,3,IL
+Ishpeming,4,MI
+Benzie County,4,MI
+Prunedale,3,CA
+Walker Valley,3,NY
+McElhattan,4,PA
+Tampa,2,FL
+DeBary,4,FL
+Elmwood Place,4,OH
+Tuscola County,4,MI
+Fairchilds,3,TX
+Clinch County,4,GA
+Sharon Hill,3,PA
+Lilburn,3,GA
+Sherrard,4,IL
+Whitfield County,4,GA
+Weddington,3,NC
+Wallenpaupack Lake Estates,8,PA
+Ellerbe,3,NC
+Alpena County,4,MI
+International Vedic Hindu University,5,FL
+Sangamon County,4,IL
+Onondaga Lake,5,NY
+Rockland County,4,NY
+Ambridge,3,PA
+Williams Tower,3,TX
+Palos Hills,4,IL
+Gastonia,3,NC
+Cedar Key,3,FL
+Brecon,3,OH
+De Leon,3,TX
+River Bend,3,NC
+Delaware Water Gap,4,PA
+Lehigh Acres,4,FL
+New York Institute of Technology,6,NY
+Chicago Avenue Pumping Station,5,IL
+Poinciana,4,FL
+Deerwood,3,TX
+McKinleyville,4,CA
+Streamwood,3,IL
+Wentworth,3,NC
+Galveston County,4,TX
+Newaygo County,5,MI
+Great Balsam Mountains,5,NC
+Ormond Beach,4,FL
+Willow Springs,3,IL
+Fulton Theatre,4,NY
+Crainville,4,IL
+West Point Jewish Chapel,5,NY
+Dooly County,4,GA
+Pickaway County,4,OH
+Del Rey,3,CA
+Music Hall Center for the Performing Arts,8,MI
+Mart,2,TX
+Colchester,3,IL
+North Lauderdale,3,FL
+Granite Quarry,3,NC
+Kalita Humphreys Theater,5,TX
+Rebersburg,4,PA
+Payne,3,OH
+Baxley,4,GA
+Acton,3,CA
+West Melbourne,3,FL
+Tequesta,3,FL
+Augusta State University,5,GA
+Tom Bean,3,TX
+Del Mar,3,CA
+Forest Meadows,3,CA
+280 Broadway,5,NY
+Santa Cruz,3,CA
+Lacona,3,NY
+Faison,3,NC
+Spry,3,PA
+Seeley,3,CA
+Bogata,3,TX
+Illinois College of Optometry,6,IL
+Silver Springs Shores East,5,FL
+White Mills,3,PA
+Warren,2,MI
+Macclenny,4,FL
+Cathedral Basilica of St. Joseph (San Jose),12,CA
+Bonsall,3,CA
+Parma Heights,4,OH
+Sonoma,3,CA
+Callender Lake,4,TX
+The Acreage,4,FL
+Racetrack Playa,5,CA
+Trinity Evangelical Divinity School,5,IL
+Haines City,4,FL
+Swisher County,4,TX
+Middlebury Institute of International Studies at Monterey,9,CA
+Livingston Manor,4,NY
+Pitcairn,3,PA
+Chatsworth,3,GA
+Caseville,3,MI
+Battle Creek,3,MI
+Downs,2,IL
+New York Institute of Technology - Manhattan Campus,9,NY
+College of Lake County,5,IL
+Buenaventura Lakes,4,FL
+Carolina Meadows,3,NC
+Arenac County,4,MI
+Aragon,3,GA
+Bradner,3,OH
+Parksdale,3,CA
+Big Rock,3,IL
+South Jacksonville,3,IL
+Kimble County,4,TX
+Arbuckle,3,CA
+Morris,2,IL
+Augusta University,4,GA
+Willowick,3,OH
+Callahan,3,FL
+Kalita Humphreys Theater,5,TX
+DuPage County,4,IL
+Connerton,4,FL
+Tyndall AFB,5,FL
+"Holy Name of Jesus Cathedral (Raleigh, North Carolina)",12,NC
+Duke University,3,NC
+Polo,2,IL
+Appalachian State University,6,NC
+Ford Park,3,TX
+New York Theatre Workshop,5,NY
+Dana,2,NC
+Descanso,3,CA
+Sandusky County,4,OH
+Savannah,2,GA
+Yeagertown,4,PA
+Clare,2,MI
+Paw Paw Lake,4,MI
+Gibsonia,3,PA
+Karnes County,4,TX
+Gordon County,3,GA
+Savannah Technical College,4,GA
+Statesville,3,NC
+Pinehurst,3,NC
+California City,3,CA
+Jeff Davis County,4,GA
+Maxine Goodman Levin College of Urban Affairs,9,OH
+Acworth,3,GA
+Downingtown,4,PA
+Rouses Point,4,NY
+Robert Morris University Illinois,5,IL
+Royersford,4,PA
+Ottawa Hills,3,OH
+Rogers Dry Lake,4,CA
+Grayling,3,MI
+Serenada,3,TX
+Marquette,3,MI
+Piqua Nuclear Generating Station,6,OH
+Haslett,3,MI
+Thomas University,3,GA
+Vinings,3,GA
+Bryson City,4,NC
+Allen,2,TX
+Peconic,3,NY
+Galesburg,4,IL
+Dortches,3,NC
+Mackinac Island,4,MI
+Chumuckla,5,FL
+Carleton,3,MI
+Belleview,3,FL
+Fruit Cove,3,FL
+Barberton,3,OH
+Fairplains,3,NC
+St. Elmo,4,IL
+Atlanta University Center,4,GA
+Kenwood,3,OH
+Satellite Beach,3,FL
+Ursuline College,4,OH
+Orwell,3,OH
+Mountain Park,3,GA
+St. John's University,7,NY
+Youghiogheny River Lake,7,PA
+Punta Gorda,5,FL
+West Peoria,3,IL
+Bethalto,4,IL
+Riverside County,3,CA
+Forest Home,3,NY
+Grenelefe,4,FL
+Coffeen,4,IL
+Morosco Theatre,5,NY
+Hurlburt Field,6,FL
+Swansboro,4,NC
+Poplar Grove,4,IL
+Dupont,3,PA
+Roberta,2,GA
+Lake Sherwood,3,CA
+Poplar Grove,4,IL
+Healdsburg,4,CA
+Rosemead,3,CA
+Vinton County,4,OH
+East Conemaugh,5,PA
+Hayfork,3,CA
+Lake Michigan Beach,4,MI
+Westerville,3,OH
+Ford Lake (Michigan),6,MI
+Cecil-Bishop,4,PA
+Kerhonkson,4,NY
+Sophie Davis School of Biomedical Education,7,NY
+Conshohocken,4,PA
+Madera Ranchos,5,CA
+East Berwick,3,PA
+Ottawa County,3,MI
+Winfall,3,NC
+McLeansville,5,NC
+Ferrysburg,4,MI
+Hazel Crest,3,IL
+Music Hall Center for the Performing Arts,8,MI
+Yorkville,3,IL
+Williamsport,3,PA
+HERE Arts Center,4,NY
+Brookhaven,3,GA
+Wickerham Manor-Fisher,7,PA
+Scotland Neck,3,NC
+Roessleville,4,NY
+Ovid,3,MI
+Cortland West,4,NY
+Tappan Lake,4,OH
+Golden Hills,3,CA
+Roscommon,3,MI
+Mount Union,3,PA
+One Commerce Plaza,4,NY
+Stoneville,3,NC
+Ovid,3,MI
+Antioch Baptist Church North,6,GA
+Tamalpais-Homestead Valley,8,CA
+Spring,2,TX
+Walnut Cove,3,NC
+Plainwell,3,MI
+Georgia Military College,4,GA
+Pleasant Gap,3,PA
+Circle D-KC Estates,6,TX
+Harrisburg University of Science and Technology,8,PA
+McKinleyville,4,CA
+University of Texas at Austin College of Liberal Arts,10,TX
+Emmet County,4,MI
+Cold Spring Harbor,4,NY
+Rockport,3,TX
+Paradise Garage,3,NY
+Sneads,3,FL
+Ronda,3,NC
+Harrisburg University of Science and Technology,8,PA
+Cobbtown,4,GA
+Mio,2,MI
+Jarrell,3,TX
+Lubbock Christian University,5,TX
+Rockford,3,IL
+Madera Community College,5,CA
+Lawndale,3,CA
+McAdenville,4,NC
+Palm Springs North,4,FL
+Glen Alpine,3,NC
+Toledo Academy of Beauty,5,OH
+Fowler,3,CA
+Fullerton,3,CA
+Ellerslie,4,GA
+Gladwin,3,MI
+Fort Myers,3,FL
+Hainesville,4,IL
+Gilchrist County,4,FL
+Joliet,3,IL
+Fort Loramie,4,OH
+Bartelso,4,IL
+Bret Harte,4,CA
+Monee,3,IL
+Kinsman Center,5,OH
+St. George Theatre,5,NY
+Blissfield,3,MI
+Lake Lorelei,4,OH
+Sharpes,3,FL
+Chireno,4,TX
+Ormond Beach,4,FL
+Rialto Theatre (New York City),10,NY
+Meigs,3,GA
+Miami,2,FL
+Seville,3,OH
+South Palm Beach,4,FL
+Castro Valley,3,CA
+La Salle County,4,TX
+Penn Wynne,3,PA
+Bee County,3,TX
+Pultneyville,5,NY
+Sawyerwood,4,OH
+Pratt Institute,4,NY
+Scenic Oaks,4,TX
+One Main Place (Dallas),7,TX
+Lake Catherine,3,IL
+The Woodlands,3,TX
+Anahuac,4,TX
+Long Grove,3,IL
+North Bay Shore,4,NY
+Hudsonville,3,MI
+Pinckney,4,MI
+Mertztown,4,PA
+Dudley,3,NC
+West Conshohocken,5,PA
+Randleman Lake,4,NC
+Shickshinny,5,PA
+St. Nicholas Collegiate Reformed Protestant Dutch Church,9,NY
+Bay Pines,3,FL
+New Kensington,3,PA
+Clarkson University,4,NY
+Kure Beach,4,NC
+"State Theatre (State College, Pennsylvania)",9,PA
+California Intercontinental University,5,CA
+Warner Robins,3,GA
+Sunset Village,3,GA
+Plattsburgh West,4,NY
+Lake Seneca,3,OH
+Deltona,3,FL
+Hastings-on-Hudson,7,NY
+Mount Repose,4,OH
+Hogansville,4,GA
+Aurora University,3,IL
+Tamarac,3,FL
+Driscoll,3,TX
+Escondido,3,CA
+Waynesburg University,5,PA
+FirstBank Southwest Tower,5,TX
+North Amityville,4,NY
+Port Washington North,4,NY
+North Warren,3,PA
+Weeki Wachee Gardens,7,FL
+St. Augustine,4,FL
+Vander,2,NC
+Austell,3,GA
+Panhandle,3,TX
+Lake Mathews,3,CA
+Pasadena Hills,4,FL
+University of West Florida,5,FL
+Dade City,3,FL
+Swainsboro,4,GA
+Tropical Park,3,FL
+Granite City,3,IL
+Garnet,3,CA
+Croswell,3,MI
+Second Stage Theater,4,NY
+Pavo,3,GA
+Troup County,4,GA
+Pittsburgh,2,PA
+Rodman Reservoir,4,FL
+World Golf Village,4,FL
+Biglerville,4,PA
+Ocala Estates,4,FL
+Bladen County,4,NC
+Stinnett,4,TX
+Kendall,2,FL
+Valley Cottage,3,NY
+Lake Petersburg,3,IL
+Midway North,4,TX
+Dixmoor,3,IL
+South Mountain (eastern Pennsylvania),7,PA
+Flushing Meadows Natatorium,6,NY
+Early,2,TX
+Spring Arbor University,4,MI
+Murraysville,4,NC
+Clarke County,3,GA
+Azusa Pacific University,5,CA
+North Baltimore,3,OH
+William Peace University,4,NC
+Laguna Heights,3,TX
+Middle Island,3,NY
+Muskegon County,5,MI
+North High Shoals,5,GA
+Emigsville,5,PA
+San Augustine,3,TX
+Biltmore Forest,5,NC
+Edcouch,3,TX
+Leesport,3,PA
+American Islamic College,4,IL
+Lockeford,3,CA
+Galion,3,OH
+Huntington Station,4,NY
+Stephenson,3,MI
+Indio,3,CA
+Mingo Junction,4,OH
+Newton Grove,3,NC
+Doffing,4,TX
+Ellenboro,3,NC
+Edwardsburg,3,MI
+Solon,3,OH
+Lavonia,3,GA
+New York Theatre Workshop,5,NY
+Kent City,3,MI
+Watsontown,3,PA
+Stonecrest,4,GA
+Clark Mills,3,NY
+Mentor-on-the-Lake,8,OH
+Flanagan,3,IL
+Armada,3,MI
+South Texas College,4,TX
+American Canyon,3,CA
+Kenton,3,OH
+Muskegon County,5,MI
+Austinburg,3,OH
+Southfield,3,MI
+Beach Park,3,IL
+Michigan Jewish Institute,4,MI
+Lake Superior State University,5,MI
+Broadview Heights,4,OH
+Lake Waco,3,TX
+Nolanville,3,TX
+Wacousta,5,MI
+Reedurban,3,OH
+Chokoloskee,5,FL
+Alpena County,4,MI
+Kingsford,3,MI
+Clermont chain of lakes,6,FL
+St. James Cathedral (Chicago),8,IL
+Etowah,4,NC
+Davidsville,4,PA
+Heritage Bay,3,FL
+Conyers,3,GA
+Griffin,2,GA
+Pembroke Pines,4,FL
+Newborn,3,GA
+Alburtis,4,PA
+Warminster Heights,4,PA
+Wilkesboro,4,NC
+Duncansville,5,PA
+Isle of Hope,4,GA
+Specs Howard School of Media Arts,7,MI
+Sophie Davis School of Biomedical Education,7,NY
+Cohutta,3,GA
+Mancelona,3,MI
+Hiawassee,5,GA
+Rossmoyne,4,OH
+Lilly,2,PA
+Sciotodale,5,OH
+Kingston University LA,4,CA
+Bowmansville,4,PA
+The College of Saints John Fisher & Thomas More,10,TX
+Thomas Jefferson University,4,PA
+Virden,3,IL
+South Holland,3,IL
+Norvelt,3,PA
+South Greensburg,4,PA
+Camp County,3,TX
+Sterling Heights,3,MI
+Gun Lake (Michigan),6,MI
+Wake Forest,3,NC
+Detroit Beach,3,MI
+East Cleveland,3,OH
+Harker Heights,4,TX
+Alexandria Bay,3,NY
+Dock Junction,3,GA
+Pacific Design Center,4,CA
+University of North Carolina at Pembroke,7,NC
+Village Shires,4,PA
+Lansdale,4,PA
+Royal Palm Estates,4,FL
+Weeki Wachee Gardens,7,FL
+Manhasset Hills,5,NY
+Cuyahoga Falls,5,OH
+New Waterford,3,OH
+Chippewa Lake,4,OH
+"Ohio Theatre (Cleveland, Ohio)",8,OH
+Feather Sound,3,FL
+Bemiss,3,GA
+Hidden Valley Lake,4,CA
+Ware County,3,GA
+Greensboro,3,NC
+Santa Fe Springs,4,CA
+Antioch University Santa Barbara,6,CA
+Valley Springs,3,CA
+Southwestern Assemblies of God University,7,TX
+Marquette,3,MI
+Hewlett Harbor,4,NY
+Chapel Hill,3,NC
+Woodlyn,3,PA
+Schnecksville,5,PA
+Oak Island,3,NC
+McCrone Research Institute,5,IL
+Carlow University,4,PA
+Cary,2,NC
+Crandall,3,TX
+Thomas Jefferson University,4,PA
+Thornwood,3,NY
+Laurel University,3,NC
+East Dublin,3,GA
+Mariposa,3,CA
+McLeansville,5,NC
+Peninsula,3,OH
+La Puerta,3,TX
+Olympia Fields,3,IL
+Central Bridge,3,NY
+Vandling,3,PA
+Friedensburg,3,PA
+Freeburg,3,IL
+Plainedge,4,NY
+Averill Park,4,NY
+High Shoals,4,NC
+Porterdale,3,GA
+Belleair,3,FL
+Cedarhurst,3,NY
+Lake Lure,3,NC
+University of Michigan–Flint,6,MI
+Campbell University,3,NC
+Vance County,4,NC
+Tabor City,4,NC
+Sasakawa International Center for Space Architecture,9,TX
+Country Walk,3,FL
+Linda,2,CA
+"University of California, San Francisco",7,CA
+East Ellijay,5,GA
+"Blackstone Hotel (Fort Worth, Texas)",10,TX
+Capitola,3,CA
+Cliffside,3,NC
+New York Theatre Workshop,5,NY
+Fort Salonga,4,NY
+Whitacre College of Engineering,6,TX
+Nolanville,3,TX
+Swainsboro,4,GA
+Schley County,4,GA
+Fairlawn,3,OH
+New Springfield,3,OH
+Richlandtown,4,PA
+Findlay,3,OH
+Fort McKinley,3,OH
+Kosse,3,TX
+Lehigh County,4,PA
+Belleair,3,FL
+Gap,2,PA
+Beaver Meadows,3,PA
+Granite City,3,IL
+Massillon,3,OH
+Bradford Woods,3,PA
+Golden's Bridge,5,NY
+Indian River,3,MI
+Milam,3,TX
+Antioch University Santa Barbara,6,CA
+Norcross,3,GA
+Millbury,3,OH
+Del Rey Oaks,4,CA
+Lake Nacimiento,4,CA
+Hardwick,3,GA
+Winterville,3,NC
+Freemansburg,5,PA
+Buena Park,3,CA
+Lake Bluff,3,IL
+Hallam,3,PA
+Red River County,4,TX
+Greilickville,5,MI
+Rosamond,3,CA
+Fort White,3,FL
+Lorenz Park,4,NY
+Willows,3,CA
+Calumet Park,4,IL
+Palmetto Bay,4,FL
+Cypress,2,CA
+Texas Tech University College of Human Sciences,8,TX
+Green Springs,3,OH
+South Brooksville,4,FL
+Needles,3,CA
+Pottstown,4,PA
+Gratz,3,PA
+Lamar Institute of Technology,5,TX
+Gibsonville,3,NC
+West Puente Valley,4,CA
+West Bradenton,5,FL
+Dixmoor,3,IL
+Candor,3,NC
+Roessleville,4,NY
+Offerman,3,GA
+Volusia County,5,FL
+Lambertville,3,MI
+Mentor-on-the-Lake,8,OH
+Ashtabula,4,OH
+Chesterbrook,3,PA
+Westley,3,CA
+Holy Rosary Church (Manhattan),7,NY
+Lake Heritage,3,PA
+Holden Heights,4,FL
+McRae-Helena,5,GA
+Ben Wheeler,3,TX
+Powder Springs,3,GA
+Columbus Technical College,4,GA
+Harbor Springs,3,MI
+China Grove,3,NC
+Clare County,3,MI
+Bing Concert Hall,4,CA
+Everett McKinley Dirksen United States Courthouse,9,IL
+Marquette County,4,MI
+Garner,3,NC
+McLean County,4,IL
+Kenneth City,3,FL
+South Beach,3,FL
+Teachey,3,NC
+Lake Huron,3,MI
+Jan Phyl Village,5,FL
+Robins AFB,4,GA
+Skidway Lake,5,MI
+Bluford,3,IL
+Midway South,4,TX
+Hummels Wharf,4,PA
+Valinda,3,CA
+Morris,2,IL
+Varnamtown,4,NC
+St. Henry,4,OH
+Solvay,3,NY
+Carolina Beach,3,NC
+New Melones Dam,5,CA
+Wild Peach Village,4,TX
+Olympia Fields,3,IL
+Cathedral of Christ the King (Atlanta),10,GA
+Rantoul,3,IL
+West Bay Shore,4,NY
+Chemung,3,IL
+East Meadow,3,NY
+Lake Gaston,3,NC
+Sundial St. Pete,6,FL
+Montalvin Manor,5,CA
+Funston,3,GA
+USC Rossier School of Education,7,CA
+Urbana University,4,OH
+St. Clair Shores,5,MI
+North Lake (Dallas),6,TX
+Puente Hills,4,CA
+Mountain Gate,3,CA
+Pine Mountain Lake,4,CA
+Cecil-Bishop,4,PA
+"State Theatre (Cleveland, Ohio)",8,OH
+West Bradenton,5,FL
+North Key Largo,4,FL
+Hornell,3,NY
+Fritch,3,TX
+El Cerrito,4,CA
+Huntersville,4,NC
+Warner Centre,3,PA
+Lauderdale-by-the-Sea,10,FL
+Onslow County,4,NC
+Santa Ynez,4,CA
+Roper,3,NC
+Cleveland,2,OH
+Joliet,3,IL
+Vanguard University of Southern California,6,CA
+Ephesus,3,GA
+Kerens,3,TX
+Cottle County,4,TX
+Saginaw Bay,4,MI
+Yellow Springs,3,OH
+Crystal River,3,FL
+Mont Clare,3,PA
+Iredell County,4,NC
+Landen,3,OH
+Grosse Pointe Woods,5,MI
+North Warren,3,PA
+Dalton City,3,IL
+St. Augustine's Church (Bronx),11,NY
+Rouse,3,CA
+Carey,2,OH
+Rice Tracts,4,TX
+Trevose,4,PA
+Charlotte,2,NC
+Fruitport,3,MI
+Gogebic County,5,MI
+Biola,3,CA
+Vass,3,NC
+Sackets Harbor,4,NY
+Sylvan Beach,4,NY
+Galeton,3,PA
+Panther Creek Wind Farm,5,TX
+St. Jacob,4,IL
+North Great River,4,NY
+West County Energy Center,5,FL
+St. Jacob,4,IL
+Playwrights Horizons,4,NY
+Clare,2,MI
+Pensacola State College,5,FL
+Rusk County,4,TX
+41 Cooper Square,5,NY
+Brooktrails,3,CA
+Union Lake (Michigan),6,MI
+Ohio Dominican University,4,OH
+Massapequa,4,NY
+Holbrook,3,NY
+Waukegan,5,IL
+Holiday,2,FL
+Remsenburg-Speonk,7,NY
+Port St. John,5,FL
+Rochester University,3,MI
+Sandwich,2,IL
+Roscommon,3,MI
+Glen Head,3,NY
+Swanton,3,OH
+Lackawanna County,5,PA
+Granger Lake,4,TX
+Wasco,3,CA
+Raoul,3,GA
+East Brady,3,PA
+East Lake,3,FL
+Fox Lake,3,IL
+Cairn University,4,PA
+Boiling Spring Lakes,4,NC
+Gresham Park,5,GA
+Belding,3,MI
+Rowan County,3,NC
+Sebewaing,5,MI
+Tahoma,2,CA
+Bailey County,3,TX
+Ellerslie,4,GA
+Williamson County,4,TX
+Pickerington,4,OH
+Potter County,3,TX
+Whitmore Lake,4,MI
+Devine,3,TX
+Mexico Beach,3,FL
+Sugar Grove,3,IL
+Corpus Christi,3,TX
+Belden Place,4,CA
+Palo Alto University,4,CA
+Bay Harbor Islands,4,FL
+Wilkesboro,4,NC
+Miami University Middletown,4,OH
+Guadalupe Mountains,4,TX
+Pebble Creek,4,FL
+South Gull Lake,4,MI
+Oakboro,3,NC
+Tallula,3,IL
+Lost Hills,3,CA
+Northridge,3,OH
+Piedmont University,4,CA
+Ecorse,4,MI
+Holy Name Cathedral (Chicago),7,IL
+"Basilica and National Shrine of Our Lady of Lebanon (North Jackson, Ohio)",17,OH
+Carmichael,3,CA
+Laguna Heights,3,TX
+Lambertville,3,MI
+Columbus County,3,NC
+Baxley,4,GA
+Romeo,2,MI
+Buckeye Lake,4,OH
+Florida State University College of Education,7,FL
+Terry County,3,TX
+Pheasant Run,4,OH
+Glenolden,3,PA
+Toomsboro,4,GA
+Bertie County,4,NC
+Reagan County,4,TX
+Crafton,3,PA
+Rockingham,4,NC
+Avalon Regal Theater,5,IL
+Springboro,3,OH
+Ferry Pass,3,FL
+Kate Gleason College of Engineering,6,NY
+Salunga,3,PA
+Wickerham Manor-Fisher,7,PA
+Vamo,3,FL
+Spring Valley Lake,4,CA
+Petaluma,4,CA
+Macon,3,GA
+Tuolumne County,5,CA
+Harris and Selwyn Theaters,6,IL
+Lake Gaston,3,NC
+Grand Haven,3,MI
+Fallsburg,3,NY
+Napanoch,4,NY
+Bacliff,3,TX
+Oquawka,5,IL
+Deep Run,3,NC
+Florida National University,4,FL
+Eugene Applebaum College of Pharmacy and Health Sciences,10,MI
+Conyngham,4,PA
+Ramseur,3,NC
+Burkburnett,5,TX
+"St. Peter's Catholic Church (Charlotte, North Carolina)",14,NC
+West Hamburg,3,PA
+Yanceyville,4,NC
+North Lauderdale,3,FL
+Brooklet,3,GA
+Rittman,4,OH
+Indian Creek,3,IL
+Grosse Pointe Park,5,MI
+Cumming,3,GA
+Milford Square,4,PA
+Castle Hayne,4,NC
+Sleepy Hollow,3,NY
+Maybrook,3,NY
+Yonah,3,GA
+Cape Coral,3,FL
+Holmes County,3,OH
+Rapids City,4,IL
+Sylvania,3,OH
+Germanton,3,NC
+Napa County,4,CA
+Ione,3,CA
+Kennesaw State University College of Science & Mathematics,11,GA
+Stephenson County,4,IL
+Waymart,3,PA
+Lemoore,3,CA
+Houston,2,TX
+Bayles Lake (Illinois),7,IL
+Hilliard,3,OH
+Alabama Hills,3,CA
+North Braddock,4,PA
+Southlake,3,TX
+North Topsail Beach,5,NC
+Gaston County,4,NC
+Allen Park,3,MI
+Maroa,3,IL
+Hawaiian Gardens,3,CA
+Temple City,3,CA
+Timpson,3,TX
+Horseshoe Bay,4,TX
+Cochran County,4,TX
+Life University,3,GA
+Meriwether County,6,GA
+Albert Einstein College of Medicine,6,NY
+Texas Woman's University,6,TX
+Corpus Christi Bay,4,TX
+Mount Holly Springs,4,PA
+Allen Theatre,3,OH
+Haslet,3,TX
+Cypress Gardens,3,FL
+Chaumont,3,NY
+South University,3,GA
+Trump Park Avenue,4,NY
+Palacios,3,TX
+Reed Creek,3,GA
+Point Baker,3,FL
+Almedia,3,PA
+Anderson Lake (California),6,CA
+Parker County,3,TX
+Pecatonica,4,IL
+Everman,3,TX
+McSherrystown,4,PA
+Floral City,3,FL
+Westfield Center,4,OH
+Fuller Heights,3,FL
+Savona,3,NY
+Kennedy,2,CA
+Ridgecrest,3,CA
+Jefferson Hills,3,PA
+Meredosia,4,IL
+Emeryville,4,CA
+Woodridge,3,IL
+Madonna University,3,MI
+Bartow,3,FL
+Buckhorn,3,CA
+Tyler,2,TX
+Red Bluff,3,CA
+Sawgrass,3,FL
+Flint,2,MI
+Dunmore,3,PA
+Chuluota,4,FL
+Anahuac,4,TX
+Cedar Hill,3,TX
+Royersford,4,PA
+Laurel Park,3,NC
+Dallas Baptist University,4,TX
+Pickaway County,4,OH
+Ridley Park,4,PA
+Sardinia,4,OH
+Kalkaska,4,MI
+Rochester Institute of Technology,5,NY
+Dwight,2,IL
+Nicasio Reservoir,5,CA
+Dormont,3,PA
+Dalton,2,GA
+Hollywood Sign,3,CA
+Orlovista,4,FL
+Oglethorpe,4,GA
+Meadow Brook Amphitheatre,6,MI
+Van,2,TX
+Grosse Pointe Park,5,MI
+Nevada County,3,CA
+Pleasant Run Farm,4,OH
+Lake Mary Jane,4,FL
+Langhorne,4,PA
+Michigan Jewish Institute,4,MI
+North Sarasota,3,FL
+Lapeer County,4,MI
+Calimesa,4,CA
+Shreve,3,OH
+Omega,2,GA
+Huntingdon County,4,PA
+Cherry Branch,3,NC
+Poinciana,4,FL
+Franklin University,3,OH
+Trufant,3,MI
+Dobbins Heights,5,NC
+Hurlburt Field,6,FL
+Ellwood City,4,PA
+Stockertown,4,PA
+Hawkinsville,4,GA
+Dobbins Heights,5,NC
+Red Bluff Diversion Dam,5,CA
+North Miami Beach,4,FL
+K. I. Sawyer,6,MI
+Chappaqua,4,NY
+Coles County,4,IL
+Lanark,3,IL
+Bressler,4,PA
+Hinsdale,4,IL
+South Beloit,4,IL
+Medina,3,OH
+Poteet,4,TX
+Silvis,3,IL
+Clarkston,3,GA
+Bing Concert Hall,4,CA
+Mercer University,4,GA
+Naples Manor,3,FL
+Fowlerville,4,MI
+Fenton,3,MI
+Banner Elk,3,NC
+Canal Fulton,3,OH
+Apple University,3,CA
+Barker Ten Mile,5,NC
+Sewickley Hills,5,PA
+Lake Carroll,3,IL
+Butts County,4,GA
+Sherman,2,TX
+Bodega,3,CA
+Varnell,3,GA
+West Miami,3,FL
+South Valley Stream,4,NY
+West Ishpeming,5,MI
+Beach Park,3,IL
+Leesville Lake (Ohio),7,OH
+Thornville,3,OH
+Irvine Lake,4,CA
+Lake Fenton,3,MI
+South Beach,3,FL
+Lewis College of Business,5,MI
+Siler City,4,NC
+Titusville,3,FL
+Island Lake,3,IL
+South Gate,3,CA
+Bayonet Point,4,FL
+"Loon Lake (Lake County, Illinois)",10,IL
+Hoke County,4,NC
+Round Lake Park,4,IL
+Woodfin,3,NC
+Dearborn,3,MI
+Cabana Colony,4,FL
+Skidaway Island,5,GA
+Woxall,4,PA
+Five Branches University,4,CA
+Mexico Beach,3,FL
+Roxboro,3,NC
+Armstrong County,3,PA
+Philadelphia University,3,PA
+Terry County,3,TX
+University of Fort Lauderdale,5,FL
+River Forest,3,IL
+St. Johns,4,MI
+Dare County,3,NC
+Golconda,3,IL
+The Hideout,4,PA
+Harbor Hills,3,OH
+Ashmore,3,IL
+Del Rey,3,CA
+Avery Creek,3,NC
+Grayling,3,MI
+Swansea,3,IL
+Paradise Heights,3,FL
+Menard County,4,IL
+Chicago Ridge,3,IL
+South University,3,GA
+Goreville,3,IL
+Timberwood Park,4,TX
+Del Aire,3,CA
+Throckmorton County,6,TX
+Shrub Oak,4,NY
+Sherman,2,TX
+North Auburn,3,CA
+Three Lakes,3,FL
+Elsa,2,TX
+Choctaw Lake,5,OH
+Jenkintown,4,PA
+Hannawa Falls,4,NY
+Calumet Park,4,IL
+Robbins,3,IL
+Frost,2,TX
+Long County,3,GA
+Dacula,4,GA
+Youngstown State University,5,OH
+Sunset Valley,3,TX
+Newton Falls,3,OH
+Palm Valley,3,FL
+Royal Oak,3,MI
+High Point University,4,NC
+Sault Ste. Marie,6,MI
+"Long Lake (Alpena County, Michigan)",10,MI
+Lilburn,3,GA
+Grayslake,4,IL
+Barnhill,3,OH
+McLeansboro,5,IL
+Elon University,3,NC
+Edwardsville,3,IL
+McElhattan,4,PA
+Mayodan,3,NC
+Old University of Chicago,5,IL
+Carol Stream,3,IL
+Bad Axe,3,MI
+Fort Recovery,3,OH
+Lido Beach,4,NY
+Denton,3,TX
+Kern County,3,CA
+Langhorne Manor,5,PA
+Guadalupe Mountains,4,TX
+Stony Ridge,4,OH
+Ohio University,3,OH
+Trion,3,GA
+Dollar Bay,3,MI
+Lakemoor,4,IL
+Inkster,3,MI
+Molena,3,GA
+Destin,2,FL
+Austintown,3,OH
+North Decatur,3,GA
+Tuscola,3,IL
+Chagrin Falls,4,OH
+Sugar Grove,3,IL
+Golden Gate University,4,CA
+Jekyll Island,4,GA
+Floresville,3,TX
+Mountain Island Lake,4,NC
+Moncure,3,NC
+Florida Polytechnic University,4,FL
+Cudjoe Key,4,FL
+South Brooksville,4,FL
+Fairport,3,NY
+Ellerbe,3,NC
+Fletcher,2,NC
+South Palm Beach,4,FL
+Lake Placid (New York),8,NY
+Candler-McAfee,7,GA
+Yancey County,4,NC
+Lyncourt,4,NY
+University of Michigan–Dearborn,7,MI
+West Melbourne,3,FL
+Lake Buckhorn,4,OH
+Houghton Lake,4,MI
+Turpin Hills,4,OH
+West Bishop,3,CA
+Fort Worth,3,TX
+"Our Lady of Sorrows Church (Santa Barbara, California)",13,CA
+La Palma,3,CA
+Slaton,4,TX
+Lilesville,4,NC
+Broome County,4,NY
+Peotone,3,IL
+Farmer City,3,IL
+Byham Theater,4,PA
+Lake Summerset,4,IL
+Elizabethville,3,PA
+Yermo,3,CA
+Oglesby,4,IL
+Carnesville,4,GA
+University of La Verne,5,CA
+Comanche,3,TX
+Molena,3,GA
+Bunnell,3,FL
+Gang Mills,3,NY
+Central Georgia Technical College,5,GA
+Avalanche Lake (New York),8,NY
+Pasquotank County,5,NC
+Cienegas Terrace,5,TX
+Worth County,3,GA
+Castalia,3,OH
+Hanover Park,4,IL
+Montura,3,FL
+Shofuso Japanese House and Garden,8,PA
+Davisboro,3,GA
+Inglis,3,FL
+Panama City Beach,4,FL
+Masaryktown,5,FL
+Rauchtown,4,PA
+Trumbauersville,6,PA
+Robesonia,4,PA
+Horseshoe Bay,4,TX
+Mission Bend,3,TX
+Apex,2,NC
+Green Oaks,3,IL
+Hamtramck,4,MI
+Rockwall County,4,TX
+South Zanesville,5,OH
+Steeleville,4,IL
+Rio Hondo,4,TX
+Ford Heights,3,IL
+San Diego Central Library,5,CA
+Darke County,4,OH
+Shasta Lake,4,CA
+Pleasant Hills,3,PA
+Eulonia,4,GA
+Johns Creek,3,GA
+Rhine,3,GA
+Goliad,4,TX
+Watauga,4,TX
+Carlinville,4,IL
+Garden Prairie,3,IL
+Oceana County,5,MI
+Park Cinq,4,NY
+Downers Grove,4,IL
+Arbuckle,3,CA
+Clintondale,3,NY
+Sun Village,3,CA
+Bessemer City,5,NC
+Thomas County,3,GA
+Washington Boro,3,PA
+New Freedom,3,PA
+Loch Sheldrake,5,NY
+Carteret County,4,NC
+Allegan County,4,MI
+Frazer,3,PA
+Ashtabula County,5,OH
+Spring House,3,PA
+LaBelle,3,FL
+University of Michigan College of Engineering,7,MI
+Moody Church,3,IL
+Guilford County,4,NC
+Shoreacres,3,TX
+Nanuet,4,NY
+Shippenville,4,PA
+Pymatuning Reservoir,5,PA
+Sunset,2,FL
+Millvale,3,PA
+Dobbs Ferry,4,NY
+Waverly Hall,4,GA
+Mount Healthy,3,OH
+International Academy of Design & Technology – Detroit,9,MI

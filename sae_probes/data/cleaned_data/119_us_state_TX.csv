@@ -1,0 +1,1001 @@
+prompt,prompt_len,target
+Brent,2,0
+Taliaferro County,5,0
+Moody AFB,3,0
+Glens Falls,4,0
+Driscoll,3,1
+Maple Heights,3,0
+K. I. Sawyer,6,0
+San Andreas Lake,4,0
+Saxapahaw,4,0
+Dalworthington Gardens,5,1
+Oldsmar,3,0
+O'Donnell,4,1
+Alger County,3,0
+Golden Gate University,4,0
+Tekonsha,4,0
+South Brooksville,4,0
+Blooming Grove,4,1
+Grayslake,4,0
+Blackshear,3,0
+Cross Timber,3,1
+Comstock Park,4,0
+Claude,2,1
+Galveston,3,1
+Citrus Springs,3,0
+Gray County,3,1
+Vidor,3,1
+Texas Tech University at Abilene,7,1
+Lynwood,3,0
+Harbour Heights,4,0
+Pasquotank County,5,0
+La Grulla,4,1
+Boerne,3,1
+Stanford,2,0
+Shoreacres,3,1
+Edinburg,4,1
+Levelland,4,1
+West Homestead,3,0
+North Haven,3,0
+Miami County,3,0
+Coahoma,4,1
+Seagraves,3,1
+Coldspring,3,1
+Laguna Vista,3,1
+McDowell County,4,0
+Hughes Springs,3,1
+Roby,3,1
+Third Lake,3,0
+Williamsdale,3,0
+Ben Wheeler,3,1
+Port Orange,3,0
+Hardwick,3,0
+Brooklet,3,0
+Mertzon,4,1
+Morrisdale,3,0
+Brazoria County,4,1
+Galveston Bay,4,1
+San Diego Central Library,5,0
+Daniel Baker College,4,1
+Bedford,3,1
+Broad Creek,3,0
+Angelina County,3,1
+Sherman,2,1
+Gaston County,4,0
+Chireno,4,1
+Calexico,4,0
+Rosemead,3,0
+Dunnstown,3,0
+California South Bay University,5,0
+Kountze,4,1
+Siler City,4,0
+Settles Hotel,4,1
+Horseshoe Bay,4,1
+Alachua County,4,0
+Grandyle Village,4,0
+Addicks Reservoir,4,1
+New Chapel Hill,4,1
+West County Energy Center,5,0
+Pecan Hill,4,1
+Hiawassee,5,0
+Blue Mound,3,1
+Napanoch,4,0
+Boyd,2,1
+Rule,2,1
+Buffalo Gap,3,1
+College Station,3,1
+Copiague,4,0
+Glen Lyon,3,0
+Bacon County,3,0
+Birch Run,3,0
+University of the Incarnate Word,7,1
+Williams Tower,3,1
+Williamson County,4,1
+Lely Resort,4,0
+Dallas Christian College,4,1
+Illinois College of Optometry,6,0
+Red River County,4,1
+Adelphi University,4,0
+Ferris,3,1
+Loving County,3,1
+Rouzerville,4,0
+Hamilton County,3,0
+Bacliff,3,1
+Yeagertown,4,0
+Haltom City,4,1
+Lambertville,3,0
+Swedeland,4,0
+Ottawa County,3,0
+Whitmore Lake,4,0
+La Pryor,3,1
+Romeoville,4,0
+LaDue Reservoir,4,0
+Sanilac County,5,0
+Round Top,3,0
+McCrone Research Institute,5,0
+Runge,3,1
+Whitacre College of Engineering,6,1
+Lake Worth,3,1
+Sunny Isles Beach,4,0
+Michigan Jewish Institute,4,0
+Live Oak County,4,1
+Peninsula,3,0
+Camp County,3,1
+Washington Heights,3,0
+Taylor Lake Village,4,1
+Roma,2,1
+Castle Shannon,3,0
+Laingsburg,4,0
+Cottle County,4,1
+Hutsonville,4,0
+South Canal,3,0
+Cuddeback Lake,5,0
+Hightsville,4,0
+Hawkins,3,1
+Humboldt County,5,0
+Flint,2,0
+Freestone County,4,1
+Hunters Creek Village,5,1
+Caddo Mills,4,1
+Nolanville,3,1
+Robert Lee,3,1
+Barker Reservoir,4,1
+Los Fresnos,4,1
+Santa Ynez,4,0
+Fort Stockton,3,1
+DeBary,4,0
+Guernsey County,4,0
+Lake Jesup,4,0
+Oak Ridge North,4,1
+Oak Brook,3,0
+Winnie,2,1
+West Chicago,3,0
+Pinewood Estates,4,1
+Whitehall,3,0
+La Puerta,3,1
+Life University,3,0
+Southlake,3,1
+Brewster County,4,1
+Wakulla County,4,0
+Sasakawa International Center for Space Architecture,9,1
+Manheim,3,0
+New York,3,0
+Saline,3,0
+Lake Fenton,3,0
+Lansdale,4,0
+Bertie County,4,0
+Glenview,3,0
+Springtown,3,1
+South University,3,0
+Valley Mills,3,1
+Hays County,4,1
+Wright Patman Lake,5,1
+Terry County,3,1
+Southwest Sandhill,4,1
+Columbus,2,0
+Denton,3,1
+Tyler County,3,1
+Rosharon,4,1
+Asherton,3,1
+Fillmore,3,0
+Riverside County,3,0
+Mission Bend,3,1
+Conshohocken,4,0
+Perryton,3,1
+Trafford,3,0
+Ohio University,3,0
+Brownwood,3,1
+University of Houston,4,1
+Waxahachie,4,1
+Remerton,3,0
+Spring Arbor,3,0
+Holden Heights,4,0
+Grand Valley State University,5,0
+St. John's Chapel (New York City),12,0
+Bee County,3,1
+Panorama Village,3,1
+One Main Place (Dallas),7,1
+Old River-Winfree,7,1
+La Paloma,3,1
+Chocowinity,4,0
+Ochiltree County,5,1
+Pettus,4,1
+Bryson City,4,0
+Bonfield,3,0
+Pheasant Run,4,0
+Caswell County,4,0
+Dollar Bay,3,0
+Gholson,4,1
+Merrick,3,0
+Rockwall County,4,1
+East Palatka,4,0
+Jamaica Beach,3,1
+Everman,3,1
+Squirrel Mountain Valley,4,0
+Santa Cruz,3,0
+Centre County,3,0
+Nina,2,1
+North Ridgeville,4,0
+Graford,3,1
+Burt,2,0
+Glen Head,3,0
+Lamar Institute of Technology,5,1
+Mentor-on-the-Lake,8,0
+Cataula,3,0
+Titus County,3,1
+Pinckney,4,0
+Dallas Theater Center,4,1
+New Square,3,0
+Rancho Alegre,4,1
+Millbourne,3,0
+Knights Landing,3,0
+Bailey County,3,1
+Lauderdale-by-the-Sea,10,0
+Throckmorton County,6,1
+Leipsic,4,0
+Matador,3,1
+Lone Star,3,1
+Lorenzo,2,1
+Ovens Auditorium,4,0
+El Paso,3,1
+New Fairview,3,1
+Texas Tech University College of Arts & Sciences,9,1
+San Saba,3,1
+Sylvan Beach,4,0
+Dixie Highway,3,0
+Archer County,3,1
+Young County,3,1
+Sasakawa International Center for Space Architecture,9,1
+Citrus City,3,1
+Westwood Shores,4,1
+Wake Village,3,1
+University of the Incarnate Word,7,1
+Palm Beach Atlantic University,5,0
+Muskegon,4,0
+Andrews University,3,0
+Spring,2,1
+Elm Creek,3,1
+Youngstown,3,0
+Jacobus,3,0
+Pemberville,4,0
+Winkler County,4,1
+Poinciana,4,0
+Cochran County,4,1
+Walnut Springs,3,1
+Josephine,3,1
+Leon Valley,3,1
+Davidsville,4,0
+West Islip,4,0
+Copper Canyon,3,1
+Caspian,3,0
+Fairchilds,3,1
+Slaton,4,1
+Spring Valley Village,4,1
+Westfield Center,4,0
+Texas A&M University–San Antonio,9,1
+Cold Spring Harbor,4,0
+Lolita,3,1
+Port O'Connor,5,1
+North Lima,3,0
+Wallis,2,1
+Fowler,3,0
+Chowan County,4,0
+Coastland University,4,0
+Co-Cathedral of the Sacred Heart (Houston),12,1
+Fabrica,3,1
+Stonewall County,4,1
+Roslyn,3,0
+Granger Lake,4,1
+Granger Lake,4,1
+Hidalgo County,4,1
+Hickory,3,0
+Life University,3,0
+Croswell,3,0
+Hazel Crest,3,0
+Horseshoe Bay,4,1
+Weston Lakes,4,1
+Haslet,3,1
+Red Bluff,3,0
+Crandall,3,1
+Hotel Texas,3,1
+Grand Prairie,3,1
+Aurora University,3,0
+Midway South,4,1
+Sherman,2,1
+Lake Waco,3,1
+South Vienna,3,0
+Moore Haven,3,0
+Pearsall,4,1
+Hodges University,4,0
+Elk Rapids,3,0
+New Lebanon,3,0
+Keystone Heights,4,0
+Marquette County,4,0
+Groveport,3,0
+Vinings,3,0
+Rusk County,4,1
+Devine,3,1
+Hico,3,1
+Nash,2,1
+Olympia Centre,3,0
+Sunset Valley,3,1
+Freestone County,4,1
+Canyon,2,1
+La Pryor,3,1
+Vandling,3,0
+Clarkson University,4,0
+Cusseta,4,0
+Llano Grande,4,1
+Sunset Valley,3,1
+Ingalls Park,4,0
+Rio Hondo,4,1
+Valley Springs,3,0
+New Chapel Hill,4,1
+East Rockaway,4,0
+Firthcliffe,4,0
+Fisher County,3,1
+Snook,3,1
+Lockeford,3,0
+Music Hall Center for the Performing Arts,8,0
+Blackshear,3,0
+Jesup,3,0
+Poteet,4,1
+Chireno,4,1
+Milano,2,1
+Ector County,4,1
+Ford Park,3,1
+Doffing,4,1
+Lehigh County,4,0
+Benzonia,3,0
+Van Horn,3,1
+Sackets Harbor,4,0
+Universal City,3,1
+Krugerville,4,1
+Cobbtown,4,0
+McKinney Acres,4,1
+Winnie,2,1
+Needville,3,1
+Farmers Branch,3,1
+The College of Saints John Fisher & Thomas More,10,1
+Galena Park,4,1
+Llano County,4,1
+Nolanville,3,1
+425 Park Avenue,6,0
+Jackson School of Geosciences,6,1
+Bailey County,3,1
+Pecan Plantation,4,1
+Goliad,4,1
+Broome County,4,0
+Balcones Heights,4,1
+Tom Bean,3,1
+Arenac County,4,0
+Honey Grove,3,1
+Sharon Center,3,0
+Lampasas County,4,1
+West Orange,3,1
+Muleshoe,4,1
+Canadian Lakes,3,0
+Sherman,2,1
+Wake Village,3,1
+Stephenson,3,0
+University Heights,3,0
+Helotes,3,1
+Cotulla,3,1
+Piper City,3,0
+Silsbee,4,1
+Wortham,3,1
+Jan Phyl Village,5,0
+Costa Mesa,3,0
+Tulia,3,1
+Schuylkill Haven,6,0
+"State Theatre (Cleveland, Ohio)",8,0
+Texas Tech University Center at Junction,7,1
+Bosque County,4,1
+Cumming,3,0
+Howe,3,1
+Oblong,3,0
+Hunt County,3,1
+La Salle County,4,1
+North Lake (Dallas),6,1
+Illinois State University,4,0
+Sea Ranch Lakes,4,0
+Mexia,3,1
+Corpus Christi Bay,4,1
+Riverside County,3,0
+Healdsburg,4,0
+South Boardman,4,0
+West Bay Shore,4,0
+Holbrook,3,0
+Lott,3,1
+LeTourneau University,5,1
+Melbourne,2,0
+Rantoul,3,0
+Valley Cottage,3,0
+North Druid Hills,4,0
+North Alamo,3,1
+Continental,2,0
+Bear Valley Springs,4,0
+Port St. John,5,0
+Bidwell,3,0
+Lake in the Hills,5,0
+Panther Creek Wind Farm,5,1
+Montague County,4,1
+Pine Flat Dam,4,0
+Elsa,2,1
+St. Nicholas Collegiate Reformed Protestant Dutch Church,9,0
+Nolanville,3,1
+La Blanca,3,1
+Beeville,3,1
+Beckville,3,1
+Onarga,3,0
+Casa Mañana,4,1
+Abram,3,1
+Refugio,3,1
+Schulenburg,4,1
+Laguna Heights,3,1
+Lone Star,3,1
+Carrollton,3,1
+Trophy Club,4,1
+Texas A&M University–Corpus Christi,9,1
+Blair County,3,0
+University of Michigan–Dearborn,7,0
+Blanco County,3,1
+Harbor Hills,3,0
+Cochran,3,0
+Edwardsburg,3,0
+Castalia,3,0
+Battle Creek,3,0
+Racetrack Playa,5,0
+Mathis,3,1
+Eden,2,0
+Pymatuning Reservoir,5,0
+Toombs County,4,0
+Cypress Landing,3,0
+Kalita Humphreys Theater,5,1
+Orange Grove,3,1
+Pecan Plantation,4,1
+Kalkaska County,5,0
+Maple Heights,3,0
+Penn Wynne,3,0
+Riviera,3,1
+FirstBank Southwest Tower,5,1
+Lakeside City,4,1
+Granite Shoals,4,1
+Azusa,3,0
+Swansboro,4,0
+Callender Lake,4,1
+University of Texas at Arlington College of Engineering,9,1
+Carrollton,3,1
+Laguna Heights,3,1
+Sorento,3,0
+Terry County,3,1
+The Woodlands,3,1
+Homestead Meadows North,5,1
+Boulder Hill,3,0
+Smiley,3,1
+Benavides,4,1
+Beaver Falls,3,0
+Goreville,3,0
+Manhasset Hills,5,0
+"Cathedral of St. Ignatius Loyola (Palm Beach, Florida)",14,0
+Ardsley,4,0
+Reinhardt University,4,0
+Lake Travis,3,1
+Texas A&M University–San Antonio,9,1
+Serenada,3,1
+South Brooksville,4,0
+Hallettsville,5,1
+Meadows Place,4,1
+Rhome,3,1
+Comanche,3,1
+Goliad,4,1
+Vermont,2,0
+Rawson,3,0
+Flanagan,3,0
+Inez,3,1
+Harker Heights,4,1
+Laguna Park,3,1
+Kerens,3,1
+Early,2,1
+Whitemarsh Island,5,0
+Waymart,3,0
+Del Rey,3,0
+Beckville,3,1
+Karnes County,4,1
+Brittany Farms-The Highlands,6,0
+Ann Arbor,3,0
+Florida State College at Jacksonville,6,0
+Concordia University Chicago,5,0
+De Leon,3,1
+North Apollo,3,0
+Dayton,2,0
+Nueces County,4,1
+Ellerslie,4,0
+Lefors,3,1
+Murphy,2,1
+Texas Woman's University,6,1
+Del Rey Oaks,4,0
+Jones Creek,3,1
+Cottonwood Shores,4,1
+Skokie Lagoons,5,0
+George West,3,1
+Sudan,2,1
+Gap,2,0
+Chicago Avenue Pumping Station,5,0
+Seadrift,4,1
+"Blackstone Hotel (Fort Worth, Texas)",10,1
+Bally,3,0
+Pensacola,3,0
+Lubbock County,4,1
+McLean County,4,0
+King Mountain Wind Farm,5,1
+Dooly County,4,0
+Hudson Bend,3,1
+State University of New York at Cortland,9,0
+Cochran County,4,1
+Pendergrass,4,0
+Kosse,3,1
+Los Ebanos,5,1
+Gaines County,4,1
+Yanceyville,4,0
+Rice Tracts,4,1
+Bellville,3,1
+Menard,3,1
+University of Texas at Dallas,6,1
+Guadalupe Mountains,4,1
+Texas A&M College of Geosciences,9,1
+Briar Chapel,4,0
+Sonoma,3,0
+Del Mar,3,0
+Westchester,3,0
+McAllen,3,1
+Eagle Eye Art Academy,5,1
+Anahuac,4,1
+Arthur,2,0
+Baird,3,1
+Mingo Junction,4,0
+Twinsburg Heights,4,0
+Stowell,3,1
+Henrietta,3,1
+Farmers Branch,3,1
+Somervell County,5,1
+Sam Houston State University,5,1
+Baldwinsville,4,0
+Altamaha Technical College,6,0
+University of Michigan–Flint,6,0
+Navarro County,4,1
+Fritch,3,1
+Page Park,3,0
+Refugio County,4,1
+Coleto Creek Reservoir,5,1
+Mechanicstown,3,0
+Palmview,3,1
+Zapata County,4,1
+Bagwell College of Education,6,0
+Reeves County,4,1
+Second Baptist Church Houston,5,1
+Blandon,3,0
+Buna,2,1
+Parker County,3,1
+Circle D-KC Estates,6,1
+Kate Gleason College of Engineering,6,0
+Roby,3,1
+Reid Hope King,4,1
+Moweaqua,5,0
+Gastonia,3,0
+Santa Barbara County,4,0
+Scenic Oaks,4,1
+Grayling,3,0
+Orchestra Hall (Detroit),7,0
+Waco,3,1
+Austin County,3,1
+Lake Alan Henry,4,1
+Red Springs,3,0
+Hardwick,3,0
+Anson County,3,0
+Ellerslie,4,0
+Inks Lake,4,1
+Kempner,4,1
+Cairn University,4,0
+Pennsbury Village,5,0
+Lake Gaston,3,0
+Coke County,3,1
+Gun Barrel City,4,1
+Wichita County,4,1
+Vidor,3,1
+Tamiami,4,0
+Ecorse,4,0
+East Alto Bonito,5,1
+Buffalo Gap,3,1
+Wake County,3,0
+Tifton,4,0
+Crosby County,4,1
+New Fairview,3,1
+Ladera Heights,4,0
+Stephenson County,4,0
+Green Oaks,3,0
+Vinings,3,0
+Poplar Grove,4,0
+USC Rossier School of Education,7,0
+Edenburg,3,0
+Honey Grove,3,1
+Roosevelt Gardens,4,0
+Throckmorton County,6,1
+Old Bethpage,4,0
+Raymondville,3,1
+Lamar Institute of Technology,5,1
+Burgaw,3,0
+University of Texas at Arlington College of Engineering,9,1
+Leavittsburg,5,0
+Albert Einstein College of Medicine,6,0
+Blissfield,3,0
+Camp Point,3,0
+Timberwood Park,4,1
+"Ritz (Austin, Texas)",8,1
+Palm Valley,3,0
+Yellow Springs,3,0
+Dripping Springs,4,1
+Piney Point Village,5,1
+Columbus County,3,0
+Texas Tech University College of Human Sciences,8,1
+Dwight,2,0
+Andrews,2,1
+Beasley,3,1
+Hale County,3,1
+Toast,2,0
+Weston Lakes,4,1
+Palacios,3,1
+Ridley Park,4,0
+Calabash,4,0
+Ontario County,3,0
+Silver Springs Shores,4,0
+Mikes,3,1
+Saxapahaw,4,0
+Juniata County,4,0
+Park Forest,3,0
+Hewlett,3,0
+Edenton,3,0
+"Florida State University College of Motion Picture, Television and Recording Arts",13,0
+University of North Carolina at Chapel Hill School of Dentistry,11,0
+Lakeside City,4,1
+Holy Name Cathedral (Chicago),7,0
+Liberty City,3,1
+Syracuse,2,0
+Johnston County,3,0
+Morosco Theatre,5,0
+Ore City,3,1
+Lake Whitney (Texas),6,1
+Altamaha Technical College,6,0
+Gholson,4,1
+South Texas College,4,1
+Edcouch,3,1
+Conetoe,3,0
+Upper Arlington,3,0
+Rochester Institute of Technology,5,0
+Ronda,3,0
+Anson,2,1
+St. Hedwig,5,1
+Archer City,3,1
+Lubbock Christian University,5,1
+Hallandale Beach,4,0
+Kemp,3,1
+Brookport,3,0
+Columbus Grove,3,0
+Woodlyn,3,0
+Camp Wood,3,1
+Pembroke Park,4,0
+Lake Tanglewood,5,1
+Potter County,3,1
+Kensico Reservoir,4,0
+Alvin,2,1
+Balcones Heights,4,1
+Gresham Park,5,0
+Troup County,4,0
+Genetti Hotel,4,0
+Arden-Arcade,5,0
+Southern Polytechnic State University,5,0
+Lake Brownwood,4,1
+Colchester,3,0
+Mikes,3,1
+Stinnett,4,1
+Hebbronville,4,1
+Solon,3,0
+Lacona,3,0
+Sarasota Springs,5,0
+Acworth,3,0
+Congerville,3,0
+Floresville,3,1
+Navarro County,4,1
+Pueblo Nuevo,4,1
+Bessemer City,5,0
+Mountain View,3,0
+Hollister,3,0
+Fort Jones,3,0
+Milam,3,1
+Timpson,3,1
+Hill Country Village,4,1
+Burnet,3,1
+Colorado County,3,1
+Lake Fenton,3,0
+Lutz,2,0
+Port Aransas,4,1
+Bad Axe,3,0
+Zapata,3,1
+Plum,2,0
+Llano Grande,4,1
+Kurten,3,1
+University of Texas at Austin College of Liberal Arts,10,1
+Humble,2,1
+University of Texas at Austin College of Liberal Arts,10,1
+Gunter,3,1
+Lamar Institute of Technology,5,1
+Texas A&M College of Geosciences,9,1
+Midway North,4,1
+Lomita,3,0
+Newman,2,0
+Palm Bay,3,0
+Pinehurst,3,0
+Carmel Valley Village,5,0
+Lon Morris College,4,1
+New Hyde Park,4,0
+Jarrell,3,1
+Midway,3,0
+Pavo,3,0
+East Patchogue,4,0
+Twin Lake,3,0
+University of Houston,4,1
+Albany,2,0
+Paxton,3,0
+Lake Bluff,3,0
+Forest Home,3,0
+Duck,2,0
+Carlock,3,0
+Tolono,3,0
+Sidell,3,0
+Mart,2,1
+Cal Poly San Luis Obispo College of Architecture and Environmental Design,12,0
+Ursuline College,4,0
+Kenefick,4,1
+Emeryville,4,0
+Wild Peach Village,4,1
+Rio Hondo,4,1
+Medina Lake,4,1
+South Daytona,3,0
+Bacliff,3,1
+Wanchese,4,0
+Swainsboro,4,0
+Refton,3,0
+Mathis,3,1
+Twitchell Reservoir,5,0
+Calcutta,3,0
+Jarrell,3,1
+Mark Taper Forum,5,0
+Palo Alto University,4,0
+Bellmead,3,1
+Roscommon County,4,0
+Anahuac,4,1
+Kenwood Estates,4,0
+Fox River Grove,4,0
+Bertram,3,1
+Gaines County,4,1
+Lewis College of Business,5,0
+Edgemont Park,4,0
+Loma Rica,4,0
+Manvel,3,1
+Fort Hood,3,1
+Deerwood,3,1
+Happy,2,1
+Aguanga,3,0
+Okeechobee County,5,0
+Tyler,2,1
+Cedar Creek,3,1
+Weston Mills,4,0
+North Carolina Central University,5,0
+University of Atlanta,4,0
+South Bay,3,0
+Wayne County,3,0
+Royal Oak,3,0
+Campton Hills,4,0
+Buckhead,3,0
+Tiger,2,0
+Old Church of St. Joachim and St. Anne,11,0
+Fort Braden,4,0
+Bemiss,3,0
+Caro,2,0
+Fairlawn,3,0
+Menard,3,1
+Liberty City,3,1
+Rittman,4,0
+East Bernard,3,1
+Biola,3,0
+Donna,2,1
+Westview,3,0
+Daniel Baker College,4,1
+Napanoch,4,0
+South Beach,3,0
+The Chicago School of Professional Psychology,7,0
+La Moille,4,0
+East Syracuse,3,0
+Illinois Institute of Technology,5,0
+De Leon,3,1
+St. Teresa Church (Manhattan),8,0
+Southern Methodist University,4,1
+Bessemer City,5,0
+Cataula,3,0
+Ubly,3,0
+Burkburnett,5,1
+St. Nicholas Collegiate Reformed Protestant Dutch Church,9,0
+La Habra Heights,5,0
+The Homesteads,4,1
+Kimble County,4,1
+Chagrin Falls,4,0
+Allen,2,1
+Zanesville,4,0
+Monroeville,5,0
+Seguin,3,1
+Fort Davis,3,1
+Dobbs Ferry,4,0
+Rolling Hills Estates,4,0
+Hershey,3,0
+River Bend,3,0
+Ojai,3,0
+Dravosburg,4,0
+National University of Health Sciences,6,0
+Maybee,3,0
+Shackelford County,5,1
+Obetz,3,0
+Millersville University of Pennsylvania,7,0
+Arkport,3,0
+Bee County,3,1
+Glenmoor,3,0
+Crowell,3,1
+Katy,2,1
+Coldwater,3,0
+Broadview Heights,4,0
+Pottsboro,4,1
+Rusk,3,1
+Laughlin AFB,4,1
+Berry College,3,0
+University of Texas Health Science Center at San Antonio,10,1
+Fort Worth,3,1
+Gulf Stream,3,0
+Grayson County,4,1
+Sterling County,3,1
+San Augustine,3,1
+Finneytown,4,0
+Swisher County,4,1
+Titusville,3,0
+Watauga,4,1
+Swisher County,4,1
+La Puerta,3,1
+Everman,3,1
+Belleair Beach,4,0
+Robstown,3,1
+Villa Grove,3,0
+Hope Mills,3,0
+Jefferson Heights,3,0
+Siler City,4,0
+Pearland,3,1
+Port Leyden,3,0
+Uvalde County,5,1
+Long Center for the Performing Arts,7,1
+Hearne,3,1
+Cienegas Terrace,5,1
+University of Houston–Victoria,6,1
+Rancho Alegre,4,1
+Candler County,4,0
+Lake Marble Falls,4,1
+Escondido,3,0
+Universal City,3,1
+International Technological University,4,0
+Cinco Ranch,3,1
+Golden Gate University,4,0
+Hoopers Creek,5,0
+Paradise Theater (Bronx),7,0
+University of Austin,4,1
+Hart,2,0
+Union Valley,3,1
+Faison,3,0
+Houston,2,1
+Guadalupe Mountains,4,1
+Sunrise,2,0
+Mamers,3,0
+Solon,3,0
+Travis County,3,1
+Freestone County,4,1
+Lon Morris College,4,1
+Round Lake Beach,4,0
+Waynesburg,4,0
+Rockport,3,1
+Crest View Heights,4,0
+Van,2,1
+Stormstown,3,0
+Ottawa Hills,3,0
+Kermit,3,1
+Lapeer,3,0
+Bogata,3,1
+Gregg County,3,1
+Safety Harbor,3,0
+Hannawa Falls,4,0
+Swanton,3,0
+Brownfield,3,1
+Red Bluff Reservoir,4,1
+Texas Tech University at Amarillo,6,1
+Unionville,3,0
+Alexandria Bay,3,0
+Southwestern Assemblies of God University,7,1
+Corpus Christi,3,1
+Garza-Salinas II,7,1
+Lampasas,3,1
+Buffalo Gap,3,1
+Bryn Athyn,5,0
+Lake Mitchell (Michigan),6,0
+Richland Hills,4,1
+McCullom Lake,5,0
+East Mountain,3,1
+Kenefick,4,1
+Foard County,4,1
+Brewster-Douglass Housing Projects,8,0
+Kalita Humphreys Theater,5,1
+Olivarez,3,1
+Texas A&M College of Agriculture and Life Sciences,11,1
+Boothwyn,3,0
+Campbell University,3,0
+Red Bluff Diversion Dam,5,0
+Fairfield Harbour,4,0
+Frost,2,1
+Gallatin School of Individualized Study,8,0
+Grandyle Village,4,0
+Winfall,3,0
+Happy,2,1
+Brandman University,4,0
+Franklin College of Arts and Sciences,7,0
+St. Augustine,4,0
+Youngstown,3,0
+Carson County,3,1
+Palm Desert,3,0
+1520 Sedgwick Avenue,7,0
+Dallas Baptist University,4,1
+Punta Gorda,5,0
+Waleska,3,0
+McKinney,3,1
+Cedar Hill,3,1
+Coles County,4,0
+Marlette,3,0
+Foster City,3,0
+Coppell,3,1
+Donna,2,1
+Hondo,3,1
+Bacliff,3,1
+Roman Forest,3,1
+West Lake Hills,4,1
+Ty Ty,3,0
+Callender Lake,4,1
+Galveston County,4,1
+Arkport,3,0
+Panhandle,3,1
+Comanche,3,1
+Bremond,4,1
+Lake Riverside,3,0
+Helotes,3,1
+Belhaven,3,0
+Ozona,3,1
+Sardinia,4,0
+Hapeville,4,0
+Crosby County,4,1
+Bell County,3,1
+San Patricio County,4,1
+Reagan County,4,1
+Tenaha,4,1
+Stowell,3,1
+Texas Woman's University,6,1
+Tornillo,3,1
+Cooleemee,4,0
+Jarvis Christian College,5,1
+Ware County,3,0
+Canyon Lake,3,1
+Lake Georgetown,3,1
+Rosharon,4,1
+Dolgeville,4,0
+Milam,3,1
+Zavala County,5,1

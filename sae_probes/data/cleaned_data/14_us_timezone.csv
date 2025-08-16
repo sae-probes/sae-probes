@@ -1,0 +1,4999 @@
+prompt,prompt_len,target
+"Gull Lake (Cass County, Minnesota)",10,Chicago
+Churchville,3,New_York
+Purvis,3,Chicago
+Lake Pend Oreille,5,Los_Angeles
+Waupun,3,Chicago
+Mountlake Terrace,4,Los_Angeles
+Sharon Center,3,New_York
+Hooversville,4,New_York
+Copeland,3,Chicago
+Landis,3,New_York
+Seven Corners,3,New_York
+Myrtle Point,4,Los_Angeles
+Dillsboro,4,New_York
+Allen University,3,New_York
+Presidential Lakes Estates,4,New_York
+Burke County,3,New_York
+Clear Fork Reservoir,4,New_York
+Lakeside City,4,Chicago
+Cal Poly San Luis Obispo College of Architecture and Environmental Design,12,Los_Angeles
+Chico,2,Los_Angeles
+Muscoy,3,Los_Angeles
+Progress,2,New_York
+Bucks County,3,New_York
+Caliente,3,Los_Angeles
+Giddings,4,Chicago
+Port LaBelle,4,New_York
+Lemoore Station,4,Los_Angeles
+Las Flores,3,Los_Angeles
+Sheppton,4,New_York
+Harney County,4,Los_Angeles
+May Creek,3,Los_Angeles
+Lannon,3,Chicago
+National Shrine of Our Lady of Good Help,9,Chicago
+Wood Village,3,Los_Angeles
+New Hope Baptist Church (Newark),8,New_York
+Hannawa Falls,4,New_York
+Bonanza,3,New_York
+Inyo County,4,Los_Angeles
+Obion,3,Chicago
+Bogota,3,New_York
+Saratoga,3,Los_Angeles
+Loup County,4,Chicago
+Yadkin College,5,New_York
+Normandy Park,4,Los_Angeles
+Demopolis,3,Chicago
+Bennington,3,Chicago
+Abraham Lincoln University,4,Los_Angeles
+Governors State University,5,Chicago
+Murfreesboro,4,Chicago
+South Amboy,4,New_York
+Trumbull Center,5,New_York
+Linesville,3,New_York
+Westover,4,New_York
+Zearing,3,Chicago
+Wallowa County,5,Los_Angeles
+Bakersfield,4,Los_Angeles
+Boronda,3,Los_Angeles
+Scaggsville,4,New_York
+Seminary of Mar Abba the Great,8,Los_Angeles
+Myersville,3,New_York
+State University of New York at Old Westbury,10,New_York
+Whitehorn Cove,4,Chicago
+Santee,3,Los_Angeles
+Huttig,3,Chicago
+Pico Rivera,3,Los_Angeles
+Kasson,3,Chicago
+Farmerville,3,Chicago
+St. Michaels,4,New_York
+Rosamond,3,Los_Angeles
+South Bound Brook,4,New_York
+Archer Lodge,3,New_York
+Yosemite Lakes,5,Los_Angeles
+Temple University,3,New_York
+Shackelford County,5,Chicago
+North Las Vegas,4,Los_Angeles
+La Feria,3,Chicago
+Perdido,3,Chicago
+Grand Ronde,3,Los_Angeles
+Compton,3,Los_Angeles
+Pasadena Playhouse,4,Los_Angeles
+Cross Mountain,3,Chicago
+Lawnton,3,New_York
+Alfred University,3,New_York
+Corvallis,3,Los_Angeles
+Santa Barbara,3,Los_Angeles
+Johnson Park,3,Los_Angeles
+St. Mary's in the Mountains Catholic Church,11,Los_Angeles
+McConnell AFB,4,Chicago
+Craigmont,3,Los_Angeles
+Welaka,3,New_York
+Lincoln University,3,New_York
+Canyon City,3,Los_Angeles
+Somonauk,4,Chicago
+Cedar Mill,3,Los_Angeles
+Uhrichsville,5,New_York
+Vet Tech Institute at Bradford School,7,New_York
+Bend,2,Los_Angeles
+Alhambra,4,Los_Angeles
+Kenhorst,3,New_York
+Varnell,3,New_York
+Dahlgren,4,New_York
+Monterey,3,Los_Angeles
+Art Center College of Design,6,Los_Angeles
+Elfin Forest,4,Los_Angeles
+Lake Arrowhead Reservoir,5,Los_Angeles
+Montauk,3,New_York
+Palo Alto County,4,Chicago
+Menomonee Falls,5,Chicago
+Breinigsville,5,New_York
+Northwoods,3,Chicago
+Tatamy,3,New_York
+Port St. John,5,New_York
+Waldwick,3,New_York
+"St. John's Cathedral (Lafayette, Louisiana)",13,Chicago
+Kettleman City,5,Los_Angeles
+Leadwood,3,Chicago
+Honeoye Falls,5,New_York
+Green Springs,3,New_York
+Dunwoody,3,New_York
+Bexley,4,New_York
+Pleasant Run Farm,4,New_York
+Northgate,3,New_York
+Villa Ridge,3,Chicago
+Smithers,3,New_York
+Garnet,3,Los_Angeles
+Crown Point,3,Chicago
+Eudora,4,Chicago
+Temescal Valley,4,Los_Angeles
+Milano,2,Chicago
+Santa Cruz County,4,Los_Angeles
+Frederick S. Pardee RAND Graduate School,9,Los_Angeles
+Camanche Village,5,Los_Angeles
+Ozark County,4,Chicago
+Casa de Oro-Mount Helix,7,Los_Angeles
+Columbia Pacific University,4,Los_Angeles
+Okemah,3,Chicago
+Verdi,3,Los_Angeles
+North Lake (Dallas),6,Chicago
+Santa Anna,3,Chicago
+Tulsa County,4,Chicago
+Osceola Mills,5,New_York
+Palos Verdes Estates,6,Los_Angeles
+Penn Valley,3,Los_Angeles
+"Cathedral of Saint Peter (Belleville, Illinois)",12,Chicago
+Golden Hills,3,Los_Angeles
+Little San Bernardino Mountains,5,Los_Angeles
+Orofino,3,Los_Angeles
+Kennesaw State University,6,New_York
+Kittitas,3,Los_Angeles
+South Corning,3,New_York
+Carlisle Barracks,4,New_York
+Fetters Hot Springs-Agua Caliente,9,Los_Angeles
+Hannawa Falls,4,New_York
+Carson,2,Los_Angeles
+Caraway,3,Chicago
+Sag Harbor,3,New_York
+Cotati,3,Los_Angeles
+Mark Taper Forum,5,Los_Angeles
+Brandman University,4,Los_Angeles
+North Richmond,3,Los_Angeles
+La Farge,4,Chicago
+Rayne,3,Chicago
+San Buenaventura,4,Los_Angeles
+Villa Hills,3,New_York
+Bayou Gauche,5,Chicago
+Cornell Tech,3,New_York
+"Landmark Theatre (Syracuse, New York)",9,New_York
+Ferry Pass,3,Chicago
+Baldwin Park,3,Los_Angeles
+Emerging Pathogens Institute,5,New_York
+James R. Thompson Center,6,Chicago
+Kent,2,Los_Angeles
+Hunt County,3,Chicago
+June Lake (California),6,Los_Angeles
+Storm Lake,3,Chicago
+Penitas,3,Chicago
+Etowah County,5,Chicago
+Gravelly Lake,4,Los_Angeles
+Shady Spring,3,New_York
+Henninger Flats,4,Los_Angeles
+Ladd,2,Chicago
+Arnold Engineering Development Complex,5,Chicago
+Citrus City,3,Chicago
+Academy of Chinese Culture and Health Sciences,8,Los_Angeles
+"Beaver Lake (King County, Washington)",9,Los_Angeles
+Yolo County,4,Los_Angeles
+Griswold,3,Chicago
+Naches,3,Los_Angeles
+Sublimity,4,Los_Angeles
+George West,3,Chicago
+Lincoln City,3,Los_Angeles
+Beaverton,3,Los_Angeles
+Little Cypress,3,Chicago
+Lake Namakagon,5,Chicago
+Elbow Lake,4,Chicago
+Powers,2,Los_Angeles
+"Basilica of the Sacred Heart of Jesus, Syracuse",11,New_York
+Civic Theatre (New Orleans),7,Chicago
+Caledonia,3,Chicago
+Academy of Art University,5,Los_Angeles
+Taft Mosswood,5,Los_Angeles
+North Philipsburg,4,New_York
+St. Peter,4,Chicago
+Leachville,4,Chicago
+Indian Field,3,New_York
+Glenview,3,Chicago
+San Buenaventura,4,Los_Angeles
+Palo Alto,3,Los_Angeles
+Minneapolis,2,Chicago
+Lac du Flambeau,6,Chicago
+Tate County,3,Chicago
+McConnell AFB,4,Chicago
+Hayes County,3,Chicago
+Blue Ridge Summit,4,New_York
+Cypress,2,Los_Angeles
+Beech Island,4,New_York
+Clover Creek,3,Los_Angeles
+Henninger Flats,4,Los_Angeles
+Rodney Bingenheimer's English Disco,9,Los_Angeles
+Nova Southeastern University,4,New_York
+"Corpus Christi Cathedral (Corpus Christi, Texas)",10,Chicago
+Laytonsville,4,New_York
+Beale AFB,4,Los_Angeles
+St. Louis County,5,Chicago
+Marysville,4,Los_Angeles
+Dale City,3,New_York
+Trinity,2,New_York
+South Monrovia Island,5,Los_Angeles
+Naches,3,Los_Angeles
+Boise City,4,Chicago
+Framingham State University,5,New_York
+Monmouth Junction,4,New_York
+Lake Quivira,4,Chicago
+Gassville,4,Chicago
+Emanuel African Methodist Episcopal Church,7,New_York
+Thomson,2,New_York
+Cloverleaf,3,Chicago
+San Diego,3,Los_Angeles
+Old Tappan,4,New_York
+Lowden,3,Chicago
+Krazy Kat Klub,5,New_York
+Harold,2,Chicago
+Bremerton,4,Los_Angeles
+Madrona Manor,4,Los_Angeles
+Fort Towson,4,Chicago
+Adelphi University,4,New_York
+Ochiltree County,5,Chicago
+Crete-Monee High School,8,Chicago
+Merritt Park,5,New_York
+Refugio County,4,Chicago
+Clarksdale,4,Chicago
+Sunnyvale,3,Los_Angeles
+College Park,3,New_York
+Apple University,3,Los_Angeles
+Salineville,4,New_York
+Walla Walla East,4,Los_Angeles
+Cannon Falls,3,Chicago
+Herkimer County,5,New_York
+Niederwald,3,Chicago
+Glen Cove,3,New_York
+Co-Cathedral of St. Joseph (Brooklyn),12,New_York
+St. Paul's Catholic Church (San Francisco),12,Los_Angeles
+St. Mary's in the Mountains Catholic Church,11,Los_Angeles
+Steelville,3,Chicago
+Clearfield County,4,New_York
+Hewlett,3,New_York
+Colusa,3,Los_Angeles
+Gravelly Lake,4,Los_Angeles
+Lawtey,3,New_York
+Red Chute,4,Chicago
+Clarkrange,3,Chicago
+American Islamic College,4,Chicago
+Hightsville,4,New_York
+Prunedale,3,Los_Angeles
+Fair Haven,3,New_York
+New Haven,3,New_York
+University of North Carolina at Chapel Hill School of Dentistry,11,New_York
+Palestine,2,Chicago
+East Sandwich,3,New_York
+Ivy,2,New_York
+Carterville,3,Chicago
+Bastyr University,4,Los_Angeles
+Cloverdale,3,Los_Angeles
+Vanceburg,4,New_York
+West Bend,3,Chicago
+Texas A&M College of Science,8,Chicago
+Dunnigan,3,Los_Angeles
+Pepperdine University,4,Los_Angeles
+Lampasas County,4,Chicago
+Carolina Meadows,3,New_York
+Cole County,3,Chicago
+Hand County,3,Chicago
+Fort Jones,3,Los_Angeles
+Roseburg North,4,Los_Angeles
+Port Trevorton,5,New_York
+Moundsville,4,New_York
+Warfield Theatre,4,Los_Angeles
+Norwich University,4,New_York
+Quincy,3,New_York
+Yountville,4,Los_Angeles
+Home,2,Los_Angeles
+Majestic Theatre (San Antonio),7,Chicago
+Labish Village,4,Los_Angeles
+SeaTac,3,Los_Angeles
+Reading,2,New_York
+Twain Harte,5,Los_Angeles
+Scotts Flat Reservoir,5,Los_Angeles
+Ducor,3,Los_Angeles
+Seacliff,3,Los_Angeles
+Longbranch,3,Los_Angeles
+La Habra,4,Los_Angeles
+Old Westbury,4,New_York
+Grundy County,4,Chicago
+Mexico,2,Chicago
+Bamberg,3,New_York
+Hominy,4,Chicago
+Briarcliffe Acres,5,New_York
+Thiensville,4,Chicago
+Byhalia,4,Chicago
+State University of New York at Oswego,8,New_York
+Sandy Valley,3,Los_Angeles
+Rainbow Lakes Estates,4,New_York
+Solis,3,Chicago
+Vassar College,4,New_York
+West Richland,3,Los_Angeles
+Hennessey,4,Chicago
+Marlene Village,3,Los_Angeles
+Reynoldsville,3,New_York
+Cannon Ball,3,Chicago
+Lynn County,3,Chicago
+St. Francis de Sales Oratory (St. Louis),13,Chicago
+Keewatin,4,Chicago
+Concordia University Portland,5,Los_Angeles
+Marigny Opera House,5,Chicago
+Lake Humboldt,3,Los_Angeles
+Rainsville,4,Chicago
+Burien,3,Los_Angeles
+Barnhart,4,Chicago
+Johnson Lane,3,Los_Angeles
+Chaumont,3,New_York
+West Peoria,3,Chicago
+Reserve,2,Chicago
+West Athens,3,Los_Angeles
+Newport County,3,New_York
+Schuyler County,4,New_York
+Andalusia,4,Chicago
+Stanford Research Park,4,Los_Angeles
+Menard County,4,Chicago
+Old Miakka,4,New_York
+Pittsfield,4,New_York
+Gloster,3,Chicago
+Gladeview,4,New_York
+Knights Landing,3,Los_Angeles
+Baldwin Park,3,Los_Angeles
+Homestead Valley,4,Los_Angeles
+William Carey International University,5,Los_Angeles
+Howard Prairie Lake,4,Los_Angeles
+Ojus,3,New_York
+Oakleaf Plantation,4,New_York
+Half Moon Bay,4,Los_Angeles
+Tiptonville,4,Chicago
+Sky Valley,3,Los_Angeles
+Arab,2,Chicago
+Isanti,3,Chicago
+Palos Park,4,Chicago
+St. Nicholas Collegiate Reformed Protestant Dutch Church,9,New_York
+Carmel Bay,4,Los_Angeles
+Gardnerville,4,Los_Angeles
+Pimmit Hills,4,New_York
+Good Thunder,3,Chicago
+Escobares,4,Chicago
+North Beach Haven,4,New_York
+Mason,2,New_York
+Paynesville,4,Chicago
+Sac County,3,Chicago
+Coal City,3,Chicago
+Little River,3,New_York
+Lavon,3,Chicago
+Orchards,4,Los_Angeles
+Twisp,3,Los_Angeles
+Wrightwood,3,Los_Angeles
+Demarest,4,New_York
+Fitchburg State University,6,New_York
+Surfside,3,New_York
+MacDonnell Heights,4,New_York
+Churchill County,4,Los_Angeles
+Atherton,4,Los_Angeles
+Kieler,3,Chicago
+Horseshoe Lake (Washington),7,Los_Angeles
+Zephyrhills North,5,New_York
+Falls Church City,4,New_York
+Calhoun Falls,4,New_York
+Shandon,4,Los_Angeles
+Liberty City,3,Chicago
+Flushing Meadows Natatorium,6,New_York
+Lisle,3,Chicago
+Mills College at Northeastern,5,Los_Angeles
+Esperance,3,Los_Angeles
+Spotsylvania County,4,New_York
+Pecatonica,4,Chicago
+Abbeville,4,Chicago
+West Haven,3,New_York
+Scalp Level,4,New_York
+South Charleston,3,New_York
+Potomac,4,New_York
+Altadena,3,Los_Angeles
+Sandpoint,3,Los_Angeles
+Mercedes,2,Chicago
+Cedarville University,4,New_York
+Elmhurst,3,Chicago
+World Golf Village,4,New_York
+Washougal,4,Los_Angeles
+Chittenango,4,New_York
+Turtle Creek,3,New_York
+Cave Springs,3,Chicago
+Judson,3,New_York
+University of Pittsburgh Bradford,5,New_York
+Santa Clarita,4,Los_Angeles
+Washington Grove,3,New_York
+Pinnacle,4,New_York
+Leakesville,4,Chicago
+Deschutes County,5,Los_Angeles
+Lake Sharpe,3,Chicago
+Burlingame,4,Los_Angeles
+Bolivar Peninsula,4,Chicago
+New Brighton,3,Chicago
+Lathrop,4,Los_Angeles
+Cathedral Basilica of St. Joseph (San Jose),12,Los_Angeles
+Barton Creek,3,Chicago
+Loup City,4,Chicago
+Minaret Lake,4,Los_Angeles
+Tariffville,3,New_York
+North Barrington,3,Chicago
+Cross Lanes,3,New_York
+Prairie Ridge,3,Los_Angeles
+Basilica of St. Joseph Proto-Cathedral,11,New_York
+Plumerville,3,Chicago
+Avery County,3,New_York
+Grand View University,4,Chicago
+Millbrook,3,Chicago
+Five Wounds Portuguese National Church,6,Los_Angeles
+Lincoln University,3,New_York
+Bakersfield Country Club,6,Los_Angeles
+Cold Springs,3,Los_Angeles
+The Acreage,4,New_York
+West Point Jewish Chapel,5,New_York
+Pampa,3,Chicago
+Arabi,3,Chicago
+Maggie Valley,3,New_York
+Modjeska,4,Los_Angeles
+University of South Alabama,5,Chicago
+Dalzell,3,New_York
+Boulder Creek,3,Los_Angeles
+St. Basil Catholic Church,6,Los_Angeles
+Klamath Falls,4,Los_Angeles
+Rayville,3,Chicago
+Georgian Court University,5,New_York
+Red Bluff,3,Los_Angeles
+Texas A&M College of Liberal Arts,9,Chicago
+Haslet,3,Chicago
+East Sumter,3,New_York
+Duncanville,3,Chicago
+Barview,3,Los_Angeles
+Corder,3,Chicago
+Bronxville,4,New_York
+California Polytechnic State University,5,Los_Angeles
+Miner County,3,Chicago
+Fuller Acres,3,Los_Angeles
+Vinton County,4,New_York
+West Carrollton,4,New_York
+Hasley Canyon,4,Los_Angeles
+Cinco Ranch,3,Chicago
+"St. Mary's University, Texas",9,Chicago
+Lake Conroe,4,Chicago
+Lemoyne,4,New_York
+Sonoma State University,5,Los_Angeles
+Plumerville,3,Chicago
+Urbandale,4,Chicago
+Bel-Nor,4,Chicago
+Los Alamitos,4,Los_Angeles
+Hillburn,3,New_York
+Lake Tuendae,5,Los_Angeles
+Nichols Hills,4,Chicago
+Lake Del Valle,4,Los_Angeles
+Mission,2,Chicago
+Oswego County,4,New_York
+Moxee,3,Los_Angeles
+Lake Elsinore,5,Los_Angeles
+Hayneville,4,Chicago
+Pulaski County,4,Chicago
+Golden Hills,3,Los_Angeles
+Gruetli-Laager,7,Chicago
+Rancho San Diego,5,Los_Angeles
+Cherryland,3,Los_Angeles
+Burrton,4,Chicago
+Washington County,3,Los_Angeles
+Indio,3,Los_Angeles
+Eddyville,3,Chicago
+Broussard,5,Chicago
+City University of Seattle,5,Los_Angeles
+Spurgeon,3,New_York
+Sewall's Point,6,New_York
+Los Angeles County,4,Los_Angeles
+Nichols Hills,4,Chicago
+Tres Pinos,4,Los_Angeles
+Fox Chase Cancer Center,5,New_York
+Halsey,3,Los_Angeles
+Dos Palos,4,Los_Angeles
+Paden City,4,New_York
+Shinnecock Hills,5,New_York
+Cedar Creek,3,Chicago
+Tillamook,4,Los_Angeles
+Pottawattamie County,7,Chicago
+Cuba City,3,Chicago
+Bethesda University,4,Los_Angeles
+National University of Health Sciences,6,Chicago
+South Burlington,3,New_York
+Belmont County,4,New_York
+Laytonsville,4,New_York
+Kewaskum,4,Chicago
+Our Lady of Mt. Lebanon-St. Peter Cathedral (Los Angeles),16,Los_Angeles
+Cochran County,4,Chicago
+Twisp,3,Los_Angeles
+Whigham,4,New_York
+Vestavia Hills,5,Chicago
+Ramsey County,4,Chicago
+Madera Community College,5,Los_Angeles
+Madera Community College,5,Los_Angeles
+Twinsburg,3,New_York
+Beach Haven West,4,New_York
+University of Illinois at Chicago College of Dentistry,9,Chicago
+Cannonsburg,5,New_York
+Ritter Range,4,Los_Angeles
+Orange,2,Los_Angeles
+Traphagen School of Fashion,7,New_York
+Godley,3,Chicago
+Halstead,4,Chicago
+Lake Brownwood,4,Chicago
+Diablo,2,Los_Angeles
+Chester Gap,3,New_York
+Los Altos Hills,4,Los_Angeles
+Villa Grove,3,Chicago
+Tupper Lake (New York),8,New_York
+Griffith,3,Chicago
+South Nyack,4,New_York
+Guntown,4,Chicago
+Lake Morton-Berrydale,6,Los_Angeles
+"Long Lake (Thurston County, Washington)",10,Los_Angeles
+Barnum Island,4,New_York
+Benavides,4,Chicago
+University of the Incarnate Word,7,Chicago
+Landover,4,New_York
+Blountstown,4,Chicago
+Loma Rica,4,Los_Angeles
+Point Loma Nazarene University,6,Los_Angeles
+Grimsley,4,Chicago
+Southwest City,3,Chicago
+PennWest Edinboro,5,New_York
+Bouquet Reservoir,4,Los_Angeles
+Nashotah,4,Chicago
+West Texas A&M University,7,Chicago
+Fort Pierre,3,Chicago
+University of North Georgia,5,New_York
+Cresskill,4,New_York
+Pine Lake (Washington),6,Los_Angeles
+Palestine,2,Chicago
+Frisco,3,Chicago
+Crazy Lake,3,Los_Angeles
+California Polytechnic State University,5,Los_Angeles
+Lake St. Louis,5,Chicago
+Mogul,3,Los_Angeles
+Trumbauersville,6,New_York
+Painesville,4,New_York
+Hydesville,4,Los_Angeles
+O'Brien County,5,Chicago
+Terrebonne Parish,4,Chicago
+Warden,3,Los_Angeles
+Rio Vista,3,Los_Angeles
+Morro Bay,4,Los_Angeles
+Tompkinsville,4,Chicago
+Carlin,3,Los_Angeles
+Kinmundy,4,Chicago
+Southwest City,3,Chicago
+East Brooklyn,3,New_York
+Grayson Valley,4,Chicago
+East Rancho Dominguez,4,Los_Angeles
+Wellston,3,New_York
+Mannington,3,New_York
+Beeville,3,Chicago
+Sedgwick,3,Chicago
+Trabuco Canyon,5,Los_Angeles
+Escondido,3,Los_Angeles
+Carlton,2,Los_Angeles
+California Institute of Technology,5,Los_Angeles
+Uniondale,3,New_York
+Kutztown,4,New_York
+Beech Fork Lake,5,New_York
+The Steve Allen Theater,5,Los_Angeles
+Arcadia,3,Los_Angeles
+Spaulding,4,Chicago
+Byromville,4,New_York
+Kalita Humphreys Theater,5,Chicago
+Crazy Lake,3,Los_Angeles
+Bement,3,Chicago
+USC Rossier School of Education,7,Los_Angeles
+Central Point,3,Los_Angeles
+Acalanes Ridge,5,Los_Angeles
+Highland Springs,3,New_York
+Taylors Falls,4,Chicago
+Otsego County,4,New_York
+Lake Yosemite,3,Los_Angeles
+Benedictine University,4,Chicago
+Maltby,4,Los_Angeles
+North Vacherie,5,Chicago
+Wilton,3,Los_Angeles
+Nicholas County,3,New_York
+Cherryland,3,Los_Angeles
+Loudon County,4,New_York
+Parsons,3,Chicago
+Butte Creek Canyon,5,Los_Angeles
+Somis,3,Los_Angeles
+Pooler,3,New_York
+Ozark Acres,4,Chicago
+Jasper County,3,Chicago
+Madison,2,Chicago
+Llano,3,Chicago
+Yarrow Point,4,Los_Angeles
+Strawberry,2,Los_Angeles
+Lone Rock,3,Chicago
+Badwater Basin,4,Los_Angeles
+Point Beach Nuclear Plant,5,Chicago
+Prospect,2,New_York
+Hurricane Ridge,3,Los_Angeles
+Lennox,3,Los_Angeles
+East Rochester,3,New_York
+Strykersville,4,New_York
+Governors State University,5,Chicago
+St. Paul,4,Chicago
+Gallant,3,Chicago
+Doffing,4,Chicago
+Saint Louis University,4,Chicago
+Lake Goodwin,3,Los_Angeles
+Warrick County,4,Chicago
+Huttig,3,Chicago
+Nebo,3,New_York
+Plattsmouth,4,Chicago
+Beavercreek,3,New_York
+Catheys Valley,5,Los_Angeles
+Monterey Park,4,Los_Angeles
+Copper Canyon,3,Chicago
+Howard County,3,New_York
+Lilydale,3,Chicago
+Presidential Towers,3,Chicago
+Peabody,3,New_York
+Cornell University College of Veterinary Medicine,7,New_York
+Renova,3,Chicago
+Liberty Lake,3,Los_Angeles
+Austin,2,Chicago
+Brandon,2,New_York
+Spencerport,3,New_York
+Piñon Hills,4,Los_Angeles
+R. D. Bailey Lake,7,New_York
+University Place,3,Los_Angeles
+Evans Mills,3,New_York
+Metuchen,3,New_York
+Wautoma,4,Chicago
+Darul Uloom Al-Madania,9,New_York
+North Lindenhurst,4,New_York
+Yoakum County,4,Chicago
+St. Michaels,4,New_York
+Ohio Dominican University,4,New_York
+Cedar Knolls,4,New_York
+Ludlow,3,New_York
+Cinco Ranch,3,Chicago
+Gold Hill,3,Los_Angeles
+Marylhurst University,5,Los_Angeles
+Kansas State University Salina Aerospace and Technology Campus,10,Chicago
+Oklahoma Panhandle State University,6,Chicago
+Camino,3,Los_Angeles
+Heritage University,3,Los_Angeles
+South River,3,New_York
+Steinbach Hall,4,New_York
+Renton,3,Los_Angeles
+Cutchogue,4,New_York
+Valparaiso,3,Chicago
+Gaffney,4,New_York
+"Cathedral of the Immaculate Conception (Albany, New York)",13,New_York
+Shady Side,3,New_York
+Dollar Point,3,Los_Angeles
+Hennepin County,5,Chicago
+Ice Harbor Dam,4,Los_Angeles
+Moyie Springs,4,Los_Angeles
+Sardis,3,Chicago
+San Luis Obispo County,5,Los_Angeles
+Alliant International University,5,Los_Angeles
+Macopin,4,New_York
+"Basilica of St. Mary (Alexandria, Virginia)",12,New_York
+Norfolk,2,New_York
+Schram City,4,Chicago
+Ampere North,4,New_York
+Pottawatomie County,6,Chicago
+Viera West,4,New_York
+Newberg,3,Los_Angeles
+Washington University in St. Louis,8,Chicago
+North Fort Myers,4,New_York
+San Mateo,3,Los_Angeles
+Stoddard,4,Chicago
+Forrest County,3,Chicago
+Prineville Lake Acres,6,Los_Angeles
+Inglewood,3,Los_Angeles
+East Moline,4,Chicago
+Homeland,3,Los_Angeles
+Del Monte Forest,4,Los_Angeles
+Chevy Chase,4,New_York
+Eudora,4,Chicago
+McMurry University,5,Chicago
+Trojan Nuclear Power Plant,6,Los_Angeles
+Ransom Canyon,4,Chicago
+Spring Park,3,Chicago
+Hanna City,3,Chicago
+The Class of 1959 Chapel,10,New_York
+Amherst,3,New_York
+Longwood University,4,New_York
+East Port Orchard,4,Los_Angeles
+Oakwood Hills,4,Chicago
+Morgan Hill,3,Los_Angeles
+Marshall B. Ketchum University,7,Los_Angeles
+Village Shires,4,New_York
+Westhaven-Moonstone,7,Los_Angeles
+Yardville,3,New_York
+Country Homes,3,Los_Angeles
+La Selva Beach,4,Los_Angeles
+Indio Hills,4,Los_Angeles
+South Blooming Grove,4,New_York
+North Freedom,3,Chicago
+Mississippi Valley State University,5,Chicago
+Agate Lake,4,Los_Angeles
+Point,2,Chicago
+The Hideout Inn,5,Chicago
+Suncrest,3,Los_Angeles
+Estacada,4,Los_Angeles
+Kootenai,4,Los_Angeles
+Ceres,3,Los_Angeles
+Mount Repose,4,New_York
+North Wildwood,4,New_York
+Neligh,3,Chicago
+Beale AFB,4,Los_Angeles
+Crandon,4,Chicago
+Calverton,3,New_York
+Duarte,4,Los_Angeles
+Greenwich,3,New_York
+Mertzon,4,Chicago
+Olallie Scenic Area,6,Los_Angeles
+Oklahoma Baptist University,4,Chicago
+Pelham,3,Chicago
+Washoe House,4,Los_Angeles
+Boron,2,Los_Angeles
+Carteret County,4,New_York
+Connecticut Farms,3,New_York
+William Jessup University,5,Los_Angeles
+Alta Sierra,3,Los_Angeles
+West Okoboji Lake,6,Chicago
+Corona,2,Los_Angeles
+Island Heights,3,New_York
+Howey-in-the-Hills,9,New_York
+Olanta,3,New_York
+Kirksville,4,Chicago
+High Shoals,4,New_York
+Danube,3,Chicago
+Bethel Island,4,Los_Angeles
+Sterling Memorial Library,4,New_York
+Cullowhee,4,New_York
+Pico Rivera,3,Los_Angeles
+Chewelah,4,Los_Angeles
+Hesperia,4,Los_Angeles
+Pebble Creek,4,New_York
+Fords,3,New_York
+Devola,3,New_York
+Chalco,3,Chicago
+Lapwai,3,Los_Angeles
+North Lakeport,4,Los_Angeles
+Dixonville,3,New_York
+Vandenberg Village,5,Los_Angeles
+Russellville,3,Chicago
+Glyndon,3,Chicago
+Waynesboro,4,New_York
+Clarendon Hills,4,Chicago
+Ursa,3,Chicago
+Otis Orchards-East Farms,7,Los_Angeles
+Cascade Locks,3,Los_Angeles
+Pratt County,4,Chicago
+Purcell,3,Chicago
+Hayden Lake,3,Los_Angeles
+Maltby,4,Los_Angeles
+Allison,2,Chicago
+Casco,3,Chicago
+Glenwood Generating Station,5,New_York
+Lake Katrine,4,New_York
+Lake Dalecarlia,5,Chicago
+Masaryktown,5,New_York
+Candlewood Lake,4,New_York
+Bonne Terre,3,Chicago
+Yamhill County,4,Los_Angeles
+Cape Girardeau County,6,Chicago
+Yellow Medicine County,4,Chicago
+Marmora,3,New_York
+Larkfield-Wikiup,7,Los_Angeles
+Grant Parish,3,Chicago
+Basilica of Regina Pacis,7,New_York
+Bell Gardens,3,Los_Angeles
+White Settlement,3,Chicago
+Mulga,3,Chicago
+Wittenberg University,4,New_York
+Summerland,3,Los_Angeles
+Sumner,3,Los_Angeles
+Jefferson Davis Parish,4,Chicago
+San Jose Center for the Performing Arts,8,Los_Angeles
+Windcrest,3,Chicago
+California Southern University,4,Los_Angeles
+Visalia,3,Los_Angeles
+Waite Hill,4,New_York
+St. Basil Catholic Church,6,Los_Angeles
+Terry County,3,Chicago
+Hollow Rock,3,Chicago
+Delano,3,Los_Angeles
+Charter Oak,3,Los_Angeles
+Pleasant Hill,3,Los_Angeles
+Zephyr Cove,4,Los_Angeles
+Griggs County,4,Chicago
+Chapman,2,Chicago
+Vergennes,4,New_York
+Onyx,3,Los_Angeles
+Cutler Bay,4,New_York
+Granite Quarry,3,New_York
+Chowchilla,4,Los_Angeles
+Stayton,3,Los_Angeles
+Trion,3,New_York
+Vails Gate,4,New_York
+University of the Incarnate Word,7,Chicago
+Avalanche Lake (New York),8,New_York
+Paradis,3,Chicago
+Valmeyer,3,Chicago
+Rowlett,3,Chicago
+Woodruff County,4,Chicago
+Elkhorn Mountains (Oregon),8,Los_Angeles
+Mayo,2,New_York
+Delhi,2,Los_Angeles
+Lake California,3,Los_Angeles
+Trumansburg,5,New_York
+Geary,3,Chicago
+Modesto,3,Los_Angeles
+Gassville,4,Chicago
+Cactus,2,Chicago
+Cotton County,3,Chicago
+Moscow,2,Los_Angeles
+Trout Lake,3,Los_Angeles
+Dana Point,3,Los_Angeles
+Laguna Niguel,4,Los_Angeles
+Union Hall,3,New_York
+Grand Mound,3,Los_Angeles
+Dunnellon,4,New_York
+South Barrington,3,Chicago
+Cathedral Basilica of St. Joseph (San Jose),12,Los_Angeles
+Fort Davis,3,Chicago
+Amargosa Valley,5,Los_Angeles
+"California State University, Bakersfield",6,Los_Angeles
+La Vernia,4,Chicago
+Houtzdale,5,New_York
+Sevier County,4,New_York
+Windsor Heights,3,Chicago
+Lake Elmo,3,Chicago
+Little Cypress,3,Chicago
+Ashland City,4,Chicago
+Haworth,3,New_York
+Rutgers University–Camden,7,New_York
+North Madison,3,New_York
+Quartz Hill,3,Los_Angeles
+Cannon County,3,Chicago
+Otis Orchards-East Farms,7,Los_Angeles
+Allenton,3,Chicago
+Mount Angel,3,Los_Angeles
+Mosses,3,Chicago
+Rancho Murieta,5,Los_Angeles
+Stanislaus County,5,Los_Angeles
+Nankin,3,New_York
+North Perry,3,New_York
+Hodges University,4,New_York
+Landing,2,New_York
+Concrete,2,Los_Angeles
+Los Angeles Recording School,5,Los_Angeles
+Dedman School of Hospitality,6,New_York
+Collegeville,3,New_York
+"Cathedral Basilica of St. John the Baptist (Savannah, Georgia)",15,New_York
+Funkstown,3,New_York
+Terryville,3,New_York
+Summit View,3,Los_Angeles
+Duncan Falls,3,New_York
+Tice,3,New_York
+"Lyric Theatre (Kansas City, Missouri)",9,Chicago
+Riverside,2,Los_Angeles
+Southwestern Assemblies of God University,7,Chicago
+Siskiyou County,5,Los_Angeles
+Sisseton,4,Chicago
+Hybla Valley,4,New_York
+Kentland,3,Chicago
+Lyerly,4,New_York
+New Straitsville,4,New_York
+Kenly,3,New_York
+Old Bethpage,4,New_York
+"State Theatre (State College, Pennsylvania)",9,New_York
+Lee University,3,New_York
+Vallejo,3,Los_Angeles
+Elmbrook Church,5,Chicago
+St. Sava Serbian Orthodox Cathedral (Milwaukee),10,Chicago
+Five Branches University,4,Los_Angeles
+Maynardville,4,New_York
+Mineralwells,3,New_York
+Claremont,3,Los_Angeles
+Cypress Gardens,3,New_York
+Violet,2,Chicago
+Plandome Heights,5,New_York
+Colona,3,Chicago
+Shoreline,3,Los_Angeles
+Glen Lyon,3,New_York
+New Braunfels,4,Chicago
+Bennington County,4,New_York
+Quilcene,4,Los_Angeles
+Webb City,3,Chicago
+Commercial Point,3,New_York
+Roseland Theater,5,Los_Angeles
+Schwana,3,Los_Angeles
+Cheney,3,Los_Angeles
+Christ Church Cathedral (New Orleans),8,Chicago
+Reisterstown,4,New_York
+Guist Creek Lake,5,New_York
+Isla Vista,3,Los_Angeles
+Rowlett,3,Chicago
+Thorp,3,Chicago
+Carrollwood,3,New_York
+Piper City,3,Chicago
+Bollinger County,5,Chicago
+Round Hill Village,4,Los_Angeles
+Harris–Stowe State University,7,Chicago
+Selby,3,Chicago
+Torrance,3,Los_Angeles
+Clinton Lake (Kansas),6,Chicago
+Whitesville,3,Chicago
+Beach Haven,3,New_York
+Emlenton,4,New_York
+Canadian County,3,Chicago
+Sublette,3,Chicago
+Aplington,4,Chicago
+Yosemite Valley,5,Los_Angeles
+Waukesha,4,Chicago
+Olivia Lopez de Gutierrez,5,Chicago
+Park University,3,Chicago
+Hayesville,3,Los_Angeles
+Tyndall,4,Chicago
+Shoal Creek,4,Chicago
+Wortham Theater Center,5,Chicago
+Irwinton,4,New_York
+White Sulphur Springs,4,New_York
+Everett,3,Los_Angeles
+Davie,3,New_York
+"Saint Joseph Parish (Mountain View, California)",10,Los_Angeles
+Fuller Theological Seminary,4,Los_Angeles
+Mikes,3,Chicago
+Laverne,3,Chicago
+Boaz,3,Chicago
+Altamont,4,Los_Angeles
+Tuscaloosa County,4,Chicago
+Pahrump,4,Los_Angeles
+Norman County,3,Chicago
+Upper Grand Lagoon,4,Chicago
+Alvernia University,5,New_York
+Brown Memorial Presbyterian Church,5,New_York
+Ford's Theatre,5,New_York
+Perry,2,New_York
+Upper Iowa University,4,Chicago
+Lake Forest,3,Los_Angeles
+Sparks,2,Los_Angeles
+Bandera County,4,Chicago
+Danville City,4,New_York
+Weedpatch,3,Los_Angeles
+Woodcrest,3,Los_Angeles
+Grapeview,3,Los_Angeles
+Quitman County,4,Chicago
+Calvary Church of Santa Ana,7,Los_Angeles
+Ottawa Hills,3,New_York
+University of Wisconsin–Richland,7,Chicago
+Attalla,3,Chicago
+Beckett Ridge,4,New_York
+Steuben County,4,New_York
+East Valley,3,Los_Angeles
+Hialeah Gardens,5,New_York
+Brownwood,3,Chicago
+Yorkshire,2,New_York
+Cathedral Lakes,4,Los_Angeles
+Vermont State University Johnson (Johnson State College),10,New_York
+Melrose,3,New_York
+Clover Creek,3,Los_Angeles
+Schleswig,3,Chicago
+Knox City,3,Chicago
+Rancho Tehama Reserve,6,Los_Angeles
+Del Monte Forest,4,Los_Angeles
+Wynantskill,5,New_York
+Narrows,3,New_York
+Foster Reservoir,3,Los_Angeles
+Robertsdale,3,Chicago
+Fox Chase Cancer Center,5,New_York
+Buckhorn Lake (Kentucky),7,New_York
+Zebulon,3,New_York
+Canastota,4,New_York
+Soap Lake,3,Los_Angeles
+Eagle Lake (Lassen County),8,Los_Angeles
+DePaul University,4,Chicago
+Knapp,3,Chicago
+Saxonburg,3,New_York
+Mount Dora,3,New_York
+Mishicot,3,Chicago
+Southern Nazarene University,5,Chicago
+Balcones Heights,4,Chicago
+Salem,2,Los_Angeles
+Estacada,4,Los_Angeles
+Colesburg,4,Chicago
+Tieton,3,Los_Angeles
+University of Wisconsin–Marinette,7,Chicago
+Old Forge,3,New_York
+Naval Postgraduate School,4,Los_Angeles
+Fordyce,3,Chicago
+North English,3,Chicago
+Gaiety Theatre (New York City),9,New_York
+The Meadows,3,New_York
+"Cathedral of Our Lady of Lourdes (Spokane, Washington)",14,Los_Angeles
+St. Stephen of Hungary Church (New York City),12,New_York
+Stanislaus County,5,Los_Angeles
+Pawcatuck,4,New_York
+Renville County,4,Chicago
+Benbrook,3,Chicago
+Port Orford,4,Los_Angeles
+Marist College,4,New_York
+Sonoma State University,5,Los_Angeles
+Okeene,3,Chicago
+Hannibal-LaGrange University,8,Chicago
+Temple,2,Chicago
+South Monrovia Island,5,Los_Angeles
+Mertztown,4,New_York
+Olyphant,4,New_York
+Forest View,3,Chicago
+Anson,2,Chicago
+Canal Lewisville,4,New_York
+Huttig,3,Chicago
+Academy of Art University,5,Los_Angeles
+De Motte,4,Chicago
+"Saint John the Baptist Cathedral (Fresno, California)",12,Los_Angeles
+Hamblen County,4,New_York
+Wherehouse,3,New_York
+Hurstbourne,4,New_York
+Colmesneil,4,Chicago
+Renton,3,Los_Angeles
+Brazos County,4,Chicago
+La Puente,3,Los_Angeles
+Victorville,3,Los_Angeles
+Rose Lodge,3,Los_Angeles
+Muskogee County,5,Chicago
+Bunnell,3,New_York
+Tuskegee,4,Chicago
+Riva,3,New_York
+Flying Hills,3,New_York
+Great Falls Crossing,4,New_York
+Fairview Heights,4,Chicago
+Sutherlin,4,Los_Angeles
+Fresno Pacific University,5,Los_Angeles
+Jacobus,3,New_York
+Stateline,3,Los_Angeles
+Cedar Flat,3,Los_Angeles
+North Branch,3,Chicago
+Pinole,3,Los_Angeles
+Kent State University at Ashtabula,8,New_York
+Milwaukee Career College,4,Chicago
+Glenview,3,Chicago
+Soulsbyville,4,Los_Angeles
+Conneaut Lake,4,New_York
+Roff,3,Chicago
+Spednic Lake,5,New_York
+Siskiyou Mountains,5,Los_Angeles
+Crystal Lake Recreation Area,5,Los_Angeles
+Rehobeth,4,Chicago
+Tuskegee University,5,Chicago
+Bushnell University,4,Los_Angeles
+Elma,3,Los_Angeles
+Dravosburg,4,New_York
+Short Hills,3,New_York
+Knightsen,3,Los_Angeles
+Ranson,3,New_York
+Highland Springs,3,New_York
+Piseco Lake,5,New_York
+Shorewood Forest,4,Chicago
+Shenandoah County,4,New_York
+Moores Hill,4,New_York
+Shoreacres,3,Chicago
+Jerseyville,3,Chicago
+Sky Valley,3,Los_Angeles
+Coon Rapids,4,Chicago
+Texas Tech University College of Agricultural Sciences & Natural Resources,11,Chicago
+LaSalle Parish,4,Chicago
+McGovern,3,New_York
+Indio Hills,4,Los_Angeles
+Delaware,2,New_York
+Holton,3,Chicago
+Kibler,3,Chicago
+George County,3,Chicago
+Jackling House,4,Los_Angeles
+Long Beach,3,Los_Angeles
+Huron,3,Chicago
+Playwrights Horizons,4,New_York
+South Lebanon,3,New_York
+Sorrento,3,Chicago
+Huguley,3,Chicago
+Malibu,3,Los_Angeles
+Oriskany,4,New_York
+Lagunitas-Forest Knolls,7,Los_Angeles
+Hopland,3,Los_Angeles
+Castleton Four Corners,5,New_York
+McCracken County,5,Chicago
+Hillsboro,3,Los_Angeles
+Marian University,3,Chicago
+Lake San Marcos,4,Los_Angeles
+Laguna Niguel,4,Los_Angeles
+Erath County,4,Chicago
+Thomasboro,3,Chicago
+Cuero,3,Chicago
+Tufts University School of Dental Medicine,9,New_York
+Maywood Park,4,Los_Angeles
+Eureka County,3,Los_Angeles
+Bay Pines,3,New_York
+Hesperia,4,Los_Angeles
+Bayside Gardens,4,Los_Angeles
+Noroton Heights,4,New_York
+Van Vleck,4,Chicago
+Hemphill County,4,Chicago
+Cooper County,3,Chicago
+Edgar County,3,Chicago
+Mabton,3,Los_Angeles
+Yucaipa,4,Los_Angeles
+Roxana,3,Chicago
+Deschutes County,5,Los_Angeles
+North Hudson,3,Chicago
+"Cathedral of Christ the Light (Oakland, California)",12,Los_Angeles
+Notre Dame de Namur University,6,Los_Angeles
+Sneads Ferry,4,New_York
+Enetai,3,Los_Angeles
+Thurston County,4,Los_Angeles
+Grapeland,3,Chicago
+Oldham County,4,New_York
+Las Vegas,3,Los_Angeles
+East Falmouth,3,New_York
+North Potomac,3,New_York
+Riverbank,3,Los_Angeles
+"Proctor's Theatre (Schenectady, New York)",14,New_York
+West Whittier-Los Nietos,7,Los_Angeles
+Shinall Mountain,4,Chicago
+Dufur,4,Los_Angeles
+Penn Valley,3,Los_Angeles
+Five Corners,3,Los_Angeles
+Bedford,3,Chicago
+York Springs,3,New_York
+Belfast,2,New_York
+Chehalis,4,Los_Angeles
+Nichols Hall,4,Chicago
+Sussex,3,Chicago
+Eastvale,3,Los_Angeles
+Brandon,2,New_York
+Avenal,3,Los_Angeles
+Running Springs,3,Los_Angeles
+Seco Mines,4,Chicago
+Timberville,3,New_York
+Ellerslie,4,New_York
+Jerseyville,3,Chicago
+Nebraska Wesleyan University,4,Chicago
+East Palo Alto,4,Los_Angeles
+Nellis AFB,4,Los_Angeles
+Caswell County,4,New_York
+South La Paloma,4,Chicago
+Rensselaer Polytechnic Institute,6,New_York
+Ashmore Estates,4,Chicago
+Portola,3,Los_Angeles
+Burien,3,Los_Angeles
+Corrigan,3,Chicago
+Port Vue,3,New_York
+One Main Place (Dallas),7,Chicago
+Guadalupe County,4,Chicago
+Daniels,3,New_York
+McArthur,3,New_York
+Panacea,4,New_York
+Rancho Banquete,5,Chicago
+Pe Ell,3,Los_Angeles
+Finklea,4,New_York
+Amesti,3,Los_Angeles
+Marsh Chapel,3,New_York
+Franklin Lakes,3,New_York
+Garza-Salinas II,7,Chicago
+Port Gamble Tribal Community,5,Los_Angeles
+Owatonna,4,Chicago
+Presidential Lakes Estates,4,New_York
+Wingate,3,New_York
+Mammoth Lakes,4,Los_Angeles
+White Sulphur Springs,4,New_York
+Binghamton,4,New_York
+St. Meinrad,5,Chicago
+Meadow Woods,4,New_York
+Ferrelview,4,Chicago
+West Covina,4,Los_Angeles
+Redbird Smith,4,Chicago
+High Point University,4,New_York
+Glasford,3,Chicago
+Mantachie,4,Chicago
+Lenexa,3,Chicago
+Shavertown,4,New_York
+Lake Padden,4,Los_Angeles
+Greenville County,4,New_York
+Crystal Lawns,4,Chicago
+Rohnert Park,4,Los_Angeles
+Alburtis,4,New_York
+West Sharyland,5,Chicago
+Puente Hills,4,Los_Angeles
+Fairland,3,New_York
+Pine County,3,Chicago
+Descanso,3,Los_Angeles
+Garyville,3,Chicago
+Okanogan,4,Los_Angeles
+Waseca,4,Chicago
+Hallstead,3,New_York
+North Vacherie,5,Chicago
+Clifton Court Forebay,6,Los_Angeles
+Minkler,3,Los_Angeles
+Rosendale,3,Chicago
+Battell Chapel,4,New_York
+Rutgers University-Livingston Campus,8,New_York
+Sandy Springs,3,New_York
+Santa Rosa,3,Los_Angeles
+Orchards,4,Los_Angeles
+Safety Harbor,3,New_York
+Reardan,3,Los_Angeles
+Williamsburg,3,New_York
+Mills County,3,Chicago
+North Freedom,3,Chicago
+Candlewood Lake,4,New_York
+Paragould,4,Chicago
+Menard,3,Chicago
+Walnut Park,3,Los_Angeles
+Lakewood Park,4,New_York
+State University of New York at Cobleskill,10,New_York
+Lake Shastina,4,Los_Angeles
+Anza,3,Los_Angeles
+Mowbray Mountain,5,New_York
+Benicia,3,Los_Angeles
+Moultrie County,5,Chicago
+Grand Bay,3,Chicago
+Turrell,3,Chicago
+McMinn County,4,New_York
+Ocean Springs,3,Chicago
+Stillwater,3,Chicago
+Maurertown,4,New_York
+Metairie,3,Chicago
+Primghar,3,Chicago
+Osino,3,Los_Angeles
+Weigelstown,4,New_York
+Sultan,2,Los_Angeles
+Llano County,4,Chicago
+Brusly,3,Chicago
+Lake Stevens,3,Los_Angeles
+Ice Harbor Dam,4,Los_Angeles
+East Merrimack,4,New_York
+Yountville,4,Los_Angeles
+San Luis Obispo,4,Los_Angeles
+Bailey's Prairie,5,Chicago
+Frederickson,4,Los_Angeles
+Owensville,4,Chicago
+Mobile,2,Chicago
+Berry Creek,3,Los_Angeles
+Edison Theatre,3,New_York
+Hallock,3,Chicago
+Port Orchard,3,Los_Angeles
+San Benito County,4,Los_Angeles
+Nice,2,Los_Angeles
+Fessenden,4,Chicago
+Mount Hope,3,New_York
+San Pasqual,4,Los_Angeles
+Diablo Grande,3,Los_Angeles
+Sea Girt,4,New_York
+Cuyahoga Falls,5,New_York
+Ellis County,3,Chicago
+Fouke,3,Chicago
+North Windham,4,New_York
+Beloit,3,Chicago
+Bloomville,3,New_York
+Auberry,4,Los_Angeles
+Macungie,4,New_York
+Vermont State University Castleton (Castleton University),11,New_York
+Jennings Lodge,4,Los_Angeles
+Lincoln Center,3,Chicago
+Pennwyn,3,New_York
+Titus County,3,Chicago
+White Springs,3,New_York
+Marlene Village,3,Los_Angeles
+Eunice,3,Chicago
+Red Bluff,3,Los_Angeles
+William Paterson University,4,New_York
+Roger Williams University,4,New_York
+The Beverly Hills Hotel,5,Los_Angeles
+Poway,3,Los_Angeles
+Palmview South,4,Chicago
+West Athens,3,Los_Angeles
+Cross Hill,3,New_York
+Barry,2,Chicago
+Collins Lake,3,Los_Angeles
+Crooks,3,Chicago
+University of St. Thomas,6,Chicago
+North Las Vegas,4,Los_Angeles
+Arlington County,3,New_York
+Andrews County,3,Chicago
+Walla Walla County,4,Los_Angeles
+Chanute,3,Chicago
+Rogers Dry Lake,4,Los_Angeles
+Big Bear City,4,Los_Angeles
+Isle of Palms,4,New_York
+Third Lake,3,Chicago
+San Antonio Heights,4,Los_Angeles
+McCulloch County,5,Chicago
+La Harpe,4,Chicago
+New Ellenton,4,New_York
+Curtis Culwell Center,5,Chicago
+Lake Natoma,4,Los_Angeles
+Strafford,4,Chicago
+Kingsport,3,New_York
+Moore Dam,3,New_York
+Happy Valley,3,Los_Angeles
+Wells Branch,3,Chicago
+Vici,3,Chicago
+Skidmore,4,Chicago
+Monahans,4,Chicago
+Tiskilwa,5,Chicago
+Nauvoo,3,Chicago
+Dickson City,4,New_York
+Juneau,3,Chicago
+Walnut,2,Los_Angeles
+Crooked River Ranch,5,Los_Angeles
+Millbrae,4,Los_Angeles
+Rio Dell,3,Los_Angeles
+Panthersville,4,New_York
+International Technological University,4,Los_Angeles
+Boutte,3,Chicago
+Kingstown,3,New_York
+"University of California, Merced",6,Los_Angeles
+Eureka,2,Los_Angeles
+Price County,3,Chicago
+Conning Towers Nautilus Park,6,New_York
+Si Tanka University,5,Chicago
+Rib Lake,3,Chicago
+West Hurley,3,New_York
+South Vacherie,5,Chicago
+Woodbury University,4,Los_Angeles
+Runnemede,4,New_York
+Moberly,3,Chicago
+Woodstown,3,New_York
+Madrona Manor,4,Los_Angeles
+D–Q University,5,Los_Angeles
+Airport,2,Los_Angeles
+Austin,2,Chicago
+Philadelphia University,3,New_York
+Christiansburg,3,New_York
+Chickasaw,4,Chicago
+La Mesa,3,Los_Angeles
+West Crossett,4,Chicago
+Highland Beach,3,New_York
+Gowrie,4,Chicago
+Siloam Springs,5,Chicago
+Mineral County,3,New_York
+Dania Beach,4,New_York
+Pin Oak Acres,4,Chicago
+Indian River Shores,4,New_York
+Diablo Grande,3,Los_Angeles
+Mineral Wells,3,Chicago
+Audubon County,4,Chicago
+Accoville,4,New_York
+St. Henry,4,New_York
+Petaluma,4,Los_Angeles
+Curwensville,4,New_York
+Frazer,3,New_York
+Van Horn,3,Chicago
+California Miramar University,5,Los_Angeles
+Horse Pasture,3,New_York
+Solar Star,3,Los_Angeles
+San Fernando,3,Los_Angeles
+Tidmore Bend,4,Chicago
+Meadow Vista,4,Los_Angeles
+Wayne Lakes,3,New_York
+Fife Heights,4,Los_Angeles
+Burney,3,Los_Angeles
+Fielding Graduate University,5,Los_Angeles
+Dysart,3,Chicago
+Dunnstown,3,New_York
+Methuen Town,4,New_York
+Abbeville,4,Chicago
+Springs,3,New_York
+La Tina Ranch,4,Chicago
+Effort,2,New_York
+Renton,3,Los_Angeles
+Remerton,3,New_York
+Clark County,3,Los_Angeles
+Kamiah,3,Los_Angeles
+Notre Dame de Namur University,6,Los_Angeles
+Saxapahaw,4,New_York
+Orion,2,Chicago
+Welsh,2,Chicago
+Reno,2,Los_Angeles
+Yoakum County,4,Chicago
+Ventnor City,4,New_York
+Bruce,2,Chicago
+Orange,2,Los_Angeles
+Arkansas State University,4,Chicago
+Kewaskum,4,Chicago
+Bastyr University,4,Los_Angeles
+Santa Susana Mountains,4,Los_Angeles
+Homeland,3,Los_Angeles
+Lake Hallie,4,Chicago
+Foundry United Methodist Church,6,New_York
+Williston Park,4,New_York
+La France,3,New_York
+Treynor,4,Chicago
+Port Orange,3,New_York
+Jackson Heights,3,New_York
+North Canton,3,New_York
+Antigo,3,Chicago
+Tiptonville,4,Chicago
+Verona,3,Chicago
+East Texas Baptist University,5,Chicago
+Walthall County,5,Chicago
+Kelseyville,3,Los_Angeles
+Castaic,4,Los_Angeles
+Eureka,2,Los_Angeles
+Cave Junction,3,Los_Angeles
+"Trinity Episcopal Cathedral (Portland, Oregon)",9,Los_Angeles
+Templeton,3,Los_Angeles
+Bohemia,3,New_York
+Wyocena,4,Chicago
+Double Oak,3,Chicago
+Pepin,3,Chicago
+Crandon Lakes,5,New_York
+Wayne Lakes,3,New_York
+Highland,2,Los_Angeles
+Tri-Valley University,5,Los_Angeles
+Sabine County,3,Chicago
+Canyon City,3,Los_Angeles
+Hawthorn,3,New_York
+Talahi Island,5,New_York
+Lavaca County,4,Chicago
+Kress,3,Chicago
+Aromas,3,Los_Angeles
+West Swanzey,5,New_York
+Oquawka,5,Chicago
+Governors State University,5,Chicago
+Shasta Lake,4,Los_Angeles
+Santa Cruz County,4,Los_Angeles
+Juno Beach,3,New_York
+Bellair-Meadowbrook Terrace,8,New_York
+Thousand Palms,3,Los_Angeles
+Dwight,2,Chicago
+Slaughterville,4,Chicago
+Hawaiian Gardens,3,Los_Angeles
+Dakota,2,Chicago
+Oroville,3,Los_Angeles
+Roman Forest,3,Chicago
+Granite Bay,3,Los_Angeles
+Vallejo,3,Los_Angeles
+Shelter Cove,3,Los_Angeles
+Paulding County,4,New_York
+Northern Oregon Coast Range,5,Los_Angeles
+Tangent,2,Los_Angeles
+Dundalk,3,New_York
+Cutchogue,4,New_York
+Gonzaga University,4,Los_Angeles
+Curtis,2,Chicago
+Petaluma,4,Los_Angeles
+Silver Lake (Mojave),7,Los_Angeles
+Buena Vista City,4,New_York
+Kempner,4,Chicago
+Lincoln Beach,3,Los_Angeles
+California Coast University,4,Los_Angeles
+McMillin,4,Los_Angeles
+Rancho Petaluma Adobe,6,Los_Angeles
+Carson Mansion,3,Los_Angeles
+Camilla,2,New_York
+Culpeper,3,New_York
+Challenge-Brownsville,6,Los_Angeles
+Seven Corners,3,New_York
+San Jacinto,3,Los_Angeles
+Merigold,3,Chicago
+Sun Valley,3,Los_Angeles
+Dawson Springs,3,Chicago
+Summer Lake (Oregon),6,Los_Angeles
+Elkin,3,New_York
+Hayden Lake,3,Los_Angeles
+Yorkshire,2,New_York
+Linglestown,4,New_York
+New Orleans University,4,Chicago
+Astor,3,New_York
+Lewisburg,3,Chicago
+Moraga,3,Los_Angeles
+Cresaptown,4,New_York
+Fletcher,2,New_York
+Hessmer,4,Chicago
+Larimore,4,Chicago
+Lake Marcel-Stillwater,6,Los_Angeles
+Lake Centennial (Maryland),6,New_York
+West Wareham,4,New_York
+Stamping Ground,4,New_York
+Southside Place,4,Chicago
+Wilkin County,4,Chicago
+Pepin County,4,Chicago
+Lake Bluff,3,Chicago
+Glades County,4,New_York
+Lemannville,4,Chicago
+South Whittier,3,Los_Angeles
+Sanatoga,3,New_York
+Mira Monte,3,Los_Angeles
+Slaton,4,Chicago
+Arp,3,Chicago
+Mammoth Spring,4,Chicago
+Parkway,3,Los_Angeles
+Groton,3,Chicago
+Brook Park,3,New_York
+Eastmont,3,Los_Angeles
+Elkhart Lake,4,Chicago
+Reagan County,4,Chicago
+Walker Mill,3,New_York
+Lexington City,3,New_York
+Six Mile Run,4,New_York
+South Hill,3,Los_Angeles
+Churchill County,4,Los_Angeles
+Rocklin,3,Los_Angeles
+Continental Courts,3,New_York
+San Andreas,3,Los_Angeles
+Holstein,2,Chicago
+St. Jacob,4,Chicago
+Rockdale County,4,New_York
+Eastern Mennonite University,5,New_York
+Shoal Creek Drive,5,Chicago
+Bushyhead,4,Chicago
+DeFuniak Springs,6,Chicago
+Spring Valley Lake,4,Los_Angeles
+Johnson Park,3,Los_Angeles
+Rancho Calaveras,5,Los_Angeles
+Cudjoe Key,4,New_York
+Farmers Branch,3,Chicago
+Waxahachie,4,Chicago
+Elmhurst,3,Chicago
+Lenoir County,5,New_York
+Cabool,3,Chicago
+Okanogan,4,Los_Angeles
+Old Fig Garden,4,Los_Angeles
+Park Ridge,3,Chicago
+Shoshone County,5,Los_Angeles
+Pingree Grove,4,Chicago
+Tiger,2,New_York
+Borrego Springs,4,Los_Angeles
+Charles County,3,New_York
+Central State University,4,New_York
+Savannah State University,4,New_York
+Exira,3,Chicago
+Camarillo,4,Los_Angeles
+Oakbrook Terrace,4,Chicago
+Santa Paula,3,Los_Angeles
+North Scituate,5,New_York
+Bee County,3,Chicago
+Fife,3,Los_Angeles
+Vardaman,4,Chicago
+Reddell,3,Chicago
+Camino,3,Los_Angeles
+Lavaca County,4,Chicago
+1040 Fifth Avenue,7,New_York
+Moreno Valley,4,Los_Angeles
+Peninsula,3,New_York
+Mack,2,New_York
+Quitman County,4,Chicago
+Grizzly Flats,4,Los_Angeles
+Hockessin,5,New_York
+La Grulla,4,Chicago
+Redwood Valley,4,Los_Angeles
+Camarillo,4,Los_Angeles
+North Aurora,3,Chicago
+Texhoma,3,Chicago
+Sudden Valley,3,Los_Angeles
+Primera,2,Chicago
+Auberry,4,Los_Angeles
+Reeves County,4,Chicago
+Edmonson County,5,Chicago
+University of Sacramento,4,Los_Angeles
+Marshall B. Ketchum University,7,Los_Angeles
+White Center,3,Los_Angeles
+Cascade Valley,3,Los_Angeles
+Double Springs,3,Chicago
+Montgomery,2,Chicago
+Centerton,3,Chicago
+Jackson School of Geosciences,6,Chicago
+Wheelersburg,3,New_York
+Sedan,2,Chicago
+"University of California College of the Law, San Francisco",11,Los_Angeles
+Calumet City,4,Chicago
+Mendenhall,4,Chicago
+Blue Mound,3,Chicago
+Whitney,2,Los_Angeles
+Johnson Park,3,Los_Angeles
+Garden Acres,3,Los_Angeles
+Cornell University College of Veterinary Medicine,7,New_York
+Alma Center,3,Chicago
+Durfee Hall,4,New_York
+Cedarville University,4,New_York
+Chester Center,3,New_York
+Orting,3,Los_Angeles
+Parkston,3,Chicago
+Bay Shore,3,New_York
+Happy Camp,3,Los_Angeles
+Itasca County,4,Chicago
+World Golf Village,4,New_York
+Port Townsend,3,Los_Angeles
+Branford Center,4,New_York
+Paramus,3,New_York
+West Pittston,4,New_York
+East Valley,3,Los_Angeles
+East Patchogue,4,New_York
+Pine Flat Dam,4,Los_Angeles
+Satsop,4,Los_Angeles
+Cockrell Hill,4,Chicago
+Potter Lake,3,Chicago
+Boerne,3,Chicago
+Oklahoma Wesleyan University,4,Chicago
+Corte Madera,3,Los_Angeles
+Perris,4,Los_Angeles
+West Hill,3,New_York
+Wentworth,3,New_York
+Hot Springs,3,Chicago
+Lake Noquebay,5,Chicago
+Saint Martin's University,6,Los_Angeles
+Carson City,3,Los_Angeles
+Chapmanville,3,New_York
+Spurgeon,3,New_York
+Upper Sandusky,4,New_York
+Roche Harbor,3,Los_Angeles
+June Lake (California),6,Los_Angeles
+Galion,3,New_York
+Eastern Kentucky University,4,New_York
+Tainter Lake,5,Chicago
+San Bernardino County,4,Los_Angeles
+Donald,2,Los_Angeles
+Southern Oregon University,4,Los_Angeles
+Baker City,3,Los_Angeles
+Silver Lake (Mojave),7,Los_Angeles
+Summerton,3,New_York
+Demopolis,3,Chicago
+South Connellsville,5,New_York
+National Hispanic University,4,Los_Angeles
+Lapwai,3,Los_Angeles
+Paradise Garage,3,New_York
+Bunkerville,4,Los_Angeles
+Red Willow County,4,Chicago
+North Brooksville,4,New_York
+Oak Harbor,3,Los_Angeles
+Wink,3,Chicago
+Whitacre College of Engineering,6,Chicago
+Rosaryville,4,New_York
+South Coast Repertory,5,Los_Angeles
+West Middlesex,3,New_York
+Minkler,3,Los_Angeles
+Woodbury University,4,Los_Angeles
+Golden Hills,3,Los_Angeles
+Roeville,4,Chicago
+Rush University,3,Chicago
+Coquille,3,Los_Angeles
+Rolling Fields,3,New_York
+Lake St. Louis,5,Chicago
+"Cathedral of Our Lady of Lourdes (Spokane, Washington)",14,Los_Angeles
+River Edge,3,New_York
+Marlin,3,Chicago
+Phoenix Lake,3,Los_Angeles
+Stonecrest,4,New_York
+Glenvar,3,New_York
+Graham School of Continuing Liberal and Professional Studies,9,Chicago
+Norton County,3,Chicago
+Framingham State University,5,New_York
+The Steve Allen Theater,5,Los_Angeles
+Big Thicket Lake Estates,6,Chicago
+Loyall,3,New_York
+Lake Decatur,3,Chicago
+Tinton Falls,4,New_York
+Humble,2,Chicago
+Adelphi University,4,New_York
+York Harbor,3,New_York
+Lower Lake,3,Los_Angeles
+Tumwater,3,Los_Angeles
+Loop,2,New_York
+Sonoma County,4,Los_Angeles
+Chenango County,4,New_York
+Andrew W. Mellon Auditorium,6,New_York
+East Porterville,4,Los_Angeles
+Legend Lake,3,Chicago
+Tom Green County,4,Chicago
+Lake Crescent,3,Los_Angeles
+Bayonne,3,New_York
+"California State Polytechnic University, Pomona",7,Los_Angeles
+Bayboro,3,New_York
+Reidland,3,Chicago
+Barstow,3,Los_Angeles
+Mooringsport,4,Chicago
+Le Center,3,Chicago
+Boulevard Park,4,Los_Angeles
+Lefors,3,Chicago
+Saylorville,4,Chicago
+Orpheum Theatre (Los Angeles),9,Los_Angeles
+Licking,3,Chicago
+Old Brookville,4,New_York
+Loudon County,4,New_York
+Michie,3,Chicago
+Onyx,3,Los_Angeles
+Gove County,4,Chicago
+Baker City,3,Los_Angeles
+San Anselmo,4,Los_Angeles
+Woodland,2,Los_Angeles
+Lake Ellsworth (Oklahoma),6,Chicago
+Herald,2,Los_Angeles
+Refugio,3,Chicago
+Lightstreet,3,New_York
+Baldwin County,3,Chicago
+Rio del Mar,4,Los_Angeles
+Ojai,3,Los_Angeles
+LaSalle Parish,4,Chicago
+Cannon Beach,3,Los_Angeles
+Boulder City,3,Los_Angeles
+Bertsch-Oceanview,6,Los_Angeles
+Willow Grove,3,New_York
+Vandenberg AFB,5,Los_Angeles
+Stevens County,3,Los_Angeles
+New Cuyama,4,Los_Angeles
+Hartley County,4,Chicago
+Tualatin,4,Los_Angeles
+La Puerta,3,Chicago
+Blackstone Library,4,Chicago
+Slatedale,4,New_York
+Highlands County,4,New_York
+Prairie Heights,3,Los_Angeles
+Somers Point,4,New_York
+Carson County,3,Chicago
+Elko,3,Los_Angeles
+Blue Berry Hill,4,Chicago
+Cathedral Lakes,4,Los_Angeles
+Sul Ross State University,5,Chicago
+Whiteman AFB,4,Chicago
+Dawsonville,3,New_York
+Fithian,4,Chicago
+Queen Anne's County,6,New_York
+Gold Key Lake,4,New_York
+Orange Blossom,3,Los_Angeles
+"Cathedral of Saint Paul (Birmingham, Alabama)",11,Chicago
+Astor Place Theatre,5,New_York
+Fort Jones,3,Los_Angeles
+San Francisco State University,5,Los_Angeles
+Channel Islands Beach,4,Los_Angeles
+Kenton,3,New_York
+Bryn Athyn,5,New_York
+Shell Point,3,New_York
+Cross Lake,3,New_York
+Ceres,3,Los_Angeles
+Greens Landing,3,New_York
+Hanover Theatre for the Performing Arts,8,New_York
+Kingsburg,3,Los_Angeles
+Hendry County,4,New_York
+Reynoldsville,3,New_York
+Oakbrook,3,New_York
+Fairdale,3,New_York
+Copan,3,Chicago
+Crooked River Ranch,5,Los_Angeles
+Kane,2,New_York
+Texas Tech University College of Architecture,7,Chicago
+Town Hall Seattle,4,Los_Angeles
+Bay Area Medical Academy,5,Los_Angeles
+Northampton County,4,New_York
+New Miami,3,New_York
+Rhodhiss,5,New_York
+Lincroft,3,New_York
+Holcomb,3,Chicago
+Santee,3,Los_Angeles
+Alice Lloyd College,4,New_York
+New Kent,3,New_York
+Stearns County,4,Chicago
+Mukilteo,4,Los_Angeles
+South Whittier,3,Los_Angeles
+Estacada,4,Los_Angeles
+Pike Creek Valley,4,New_York
+Tatamy,3,New_York
+Hester,3,Chicago
+Malakoff,4,Chicago
+South Hill,3,Los_Angeles
+Yoncalla,4,Los_Angeles
+Lower Monumental Dam,5,Los_Angeles
+Hales Corners,4,Chicago
+Maple Lake,3,Chicago
+Maltby,4,Los_Angeles
+222 Building (Appleton),9,Chicago
+Lake Bosworth,4,Los_Angeles
+Atlantic University,3,New_York
+North Alamo,3,Chicago
+Village Shires,4,New_York
+Battle Ground,3,Los_Angeles
+Erlanger,4,New_York
+Keefton,3,Chicago
+Yeagertown,4,New_York
+Greer County,4,Chicago
+Battle Lake,3,Chicago
+Minorca,3,Chicago
+Wilson's Mills,5,New_York
+Rainbow,2,Los_Angeles
+Anson,2,Chicago
+Herricks,3,New_York
+Jacobus,3,New_York
+Wilton Center,4,New_York
+New Kent,3,New_York
+Bandera County,4,Chicago
+Rutherfordton,4,New_York
+Grand Coulee,4,Los_Angeles
+Oakridge,3,Los_Angeles
+New Rochelle,3,New_York
+Bermuda Dunes,3,Los_Angeles
+Kaufman,3,Chicago
+Eastman Lake,4,Los_Angeles
+Ludowici,4,New_York
+Monte Sereno,4,Los_Angeles
+Renville,3,Chicago
+Brooktrails,3,Los_Angeles
+Compton,3,Los_Angeles
+Ingleside,4,Chicago
+Roanoke County,4,New_York
+Shabbona,4,Chicago
+University of Antelope Valley,5,Los_Angeles
+Lucas Valley-Marinwood,6,Los_Angeles
+Cloquet,3,Chicago
+University of Georgia College of Environment & Design,9,New_York
+Salve Regina University,4,New_York
+Brooklyn,2,New_York
+West Burlington,3,Chicago
+Brightwood,3,New_York
+San Pablo,3,Los_Angeles
+St. Lawrence County,5,New_York
+Jonesburg,3,Chicago
+Silver Lake (Mojave),7,Los_Angeles
+Imperial Beach,3,Los_Angeles
+Triad Theatre,4,New_York
+International Residential College,4,New_York
+Beckemeyer,4,Chicago
+Lompoc,3,Los_Angeles
+West Hempstead,4,New_York
+Vandling,3,New_York
+Salish Sea,4,Los_Angeles
+Ivy,2,New_York
+Clearlake,3,Los_Angeles
+Lake Arrowhead Reservoir,5,Los_Angeles
+St. Lucie Village,5,New_York
+Dallas,2,Chicago
+Perry,2,New_York
+Coaldale,4,New_York
+Colonial Heights City,4,New_York
+Monroeville,5,New_York
+Pearlington,3,Chicago
+Toomsuba,5,Chicago
+Dermott,2,Chicago
+Mulino,3,Los_Angeles
+Paulding,3,New_York
+Lake Isabella,3,Los_Angeles
+The Montage Reno,4,Los_Angeles
+Oak Creek,3,Chicago
+Kelseyville,3,Los_Angeles
+Menlo Park,4,Los_Angeles
+"All Saints Episcopal Church (Pasadena, California)",11,Los_Angeles
+Hoopa,3,Los_Angeles
+Mayo,2,New_York
+Wimberley,3,Chicago
+Little Canada,3,Chicago
+French Camp,3,Los_Angeles
+Blanco County,3,Chicago
+Suncrest,3,Los_Angeles
+Hickory,3,New_York
+Ventura County,4,Los_Angeles
+St. Lawrence,4,New_York
+Schurz,3,Los_Angeles
+Ralston College,4,New_York
+Meadow Vista,4,Los_Angeles
+Lake Artemesia,4,New_York
+"Saint Sava Serbian Orthodox Church (Merrillville, Indiana)",13,Chicago
+Meeker County,4,Chicago
+Cape Neddick,5,New_York
+Callaway County,4,Chicago
+Wrights Lake,4,Los_Angeles
+Lake Arrowhead Reservoir,5,Los_Angeles
+Lakeshire,3,Chicago
+West Carroll Parish,4,Chicago
+Tower Lakes,3,Chicago
+Muskogee County,5,Chicago
+Las Vegas,3,Los_Angeles
+Lake Washington (Florida),6,New_York
+Piedmont University,4,Los_Angeles
+Cana,2,New_York
+Basilica of Saint John the Evangelist,8,New_York
+Putney,3,New_York
+American Jewish University,4,Los_Angeles
+Bertram,3,Chicago
+Becker,2,Chicago
+McChord AFB,4,Los_Angeles
+Yreka,4,Los_Angeles
+Toast,2,New_York
+Parklawn,3,Los_Angeles
+Corbin City,4,New_York
+Gastonville,4,New_York
+June Lake (California),6,Los_Angeles
+Eastern Washington University,4,Los_Angeles
+Glenside,3,New_York
+Manitowoc,5,Chicago
+Hemphill,3,Chicago
+Moorefield,4,New_York
+Bunkerville,4,Los_Angeles
+Maple Heights-Lake Desire,6,Los_Angeles
+South Williamsport,4,New_York
+Stowell,3,Chicago
+Daniel B. Warnell School of Forestry and Natural Resources,12,New_York
+Biggs,3,Los_Angeles
+Grand Saline,3,Chicago
+East Orosi,4,Los_Angeles
+Bensville,4,New_York
+Yoakum County,4,Chicago
+Lake Preston,3,Chicago
+Cottonwood Falls,4,Chicago
+East Quincy,3,Los_Angeles
+George Mason University,4,New_York
+Plumas Lake,4,Los_Angeles
+Vincent,2,Los_Angeles
+Pleasantdale,3,New_York
+San Miguel,3,Los_Angeles
+New London,3,New_York
+Stillwater,3,Chicago
+North Central Missouri College,5,Chicago
+Hickory Hills,4,Chicago
+West Brow,3,New_York
+Mira Monte,3,Los_Angeles
+Springboro,3,New_York
+Irwin County,4,New_York
+Santa Clara University,4,Los_Angeles
+Gardendale,3,Chicago
+Warden,3,Los_Angeles
+Shenandoah University,4,New_York
+Aquasco,3,New_York
+Whitaker,3,New_York
+Erin,2,Chicago
+Banks Lake,3,Los_Angeles
+Fall River Mills,4,Los_Angeles
+Harriston,4,New_York
+Accomack County,5,New_York
+Taholah,4,Los_Angeles
+Riverview,3,New_York
+Kingsbury,3,Los_Angeles
+Temescal Mountains,4,Los_Angeles
+Labish Village,4,Los_Angeles
+Norvelt,3,New_York
+Antioch University Santa Barbara,6,Los_Angeles
+Lyman County,4,Chicago
+Troup County,4,New_York
+Indian Field,3,New_York
+Oxon Hill,4,New_York
+Grantsboro,3,New_York
+"Cathedral of Our Lady of Lourdes (Spokane, Washington)",14,Los_Angeles
+University of Pittsburgh Bradford,5,New_York
+Trillium Lake,4,Los_Angeles
+Massachusetts School of Professional Psychology,6,New_York
+Porter Heights,3,Chicago
+Columbia Pacific University,4,Los_Angeles
+Suisun Bay,5,Los_Angeles
+Saw Creek,3,New_York
+Bellbrook,3,New_York
+Innsbrook,4,New_York
+Big Run,3,New_York
+New Vernon,3,New_York
+Easley,3,New_York
+Elba,3,Chicago
+Kanawha,4,Chicago
+Serenada,3,Chicago
+Paul Smiths,3,New_York
+North Highlands,3,Los_Angeles
+Blanchester,3,New_York
+Ocean Gate,3,New_York
+Deuel County,4,Chicago
+"Our Lady of the Rosary Cathedral (San Bernardino, California)",13,Los_Angeles
+Virginia City,3,Los_Angeles
+Lake Holm,3,Los_Angeles
+Rosaryville,4,New_York
+Saybrook,3,Chicago
+Rancho Calaveras,5,Los_Angeles
+South Uniontown,4,New_York
+Herguan University,4,Los_Angeles
+Shasta College,4,Los_Angeles
+Glen Head,3,New_York
+Denair,3,Los_Angeles
+Agate Lake,4,Los_Angeles
+Bridgehampton,3,New_York
+East Uniontown,4,New_York
+New Hamburg,3,New_York
+Sultana,4,Los_Angeles
+Fort Bend County,4,Chicago
+Tulare County,4,Los_Angeles
+Pixley,3,Los_Angeles
+"St. Andrew's Catholic Church (Pasadena, California)",14,Los_Angeles
+Green Park,3,Chicago
+Lincolnshire,3,Chicago
+Dalton Gardens,3,Los_Angeles
+Collins Lake,3,Los_Angeles
+Lehigh Acres,4,New_York
+Amherst County,4,New_York
+Mount Vernon Nazarene University,6,New_York
+Gibson,2,Chicago
+Ohio Technical College,4,New_York
+Jefferson Hills,3,New_York
+University of California-Santa Barbara,7,Los_Angeles
+Summertown,3,Chicago
+Mulberry Grove,4,Chicago
+North Lewisburg,4,New_York
+Diablo Lake,3,Los_Angeles
+Challenge-Brownsville,6,Los_Angeles
+Texas A&M College of Science,8,Chicago
+Suisun City,5,Los_Angeles
+South Barre,3,New_York
+State University of New York at Canton,8,New_York
+Marin City,3,Los_Angeles
+Bay Point,3,Los_Angeles
+Fort Jones,3,Los_Angeles
+"Blessed Sacrament Catholic Church, Hollywood",7,Los_Angeles
+Maharishi International University,6,Chicago
+Carpentersville,4,Chicago
+McGovern,3,New_York
+Innovation,2,New_York
+Southlake,3,Chicago
+Great Neck Estates,4,New_York
+Apollo,2,New_York
+Asheville,3,New_York
+Rock Mills,3,Chicago
+Spring Green,3,Chicago
+Poway,3,Los_Angeles
+Potomac Mills,5,New_York
+Isanti County,4,Chicago
+Lake Lorraine,3,Chicago
+"Rosary Cathedral (Toledo, Ohio)",9,New_York
+Lake Merwin,4,Los_Angeles
+Lake Winnebago,4,Chicago
+Nemacolin,4,New_York
+Combine,2,Chicago
+Bessemer,4,Chicago
+Metcalfe,3,Chicago
+Southwest Baptist University,4,Chicago
+Surgoinsville,5,New_York
+El Segundo,3,Los_Angeles
+Toftrees,4,New_York
+Gardendale,3,Chicago
+Arley,3,Chicago
+Eastland,3,Chicago
+Wadsworth,3,New_York
+Lester Prairie,3,Chicago
+Kuttawa,4,Chicago
+Union Parish,3,Chicago
+Atglen,3,New_York
+Elverta,4,Los_Angeles
+Brook,2,Chicago
+Lewis County,3,Los_Angeles
+University of North Carolina at Greensboro,7,New_York
+Canyon Creek,3,Los_Angeles
+Lake Cherokee,3,Chicago
+Lake Steilacoom,6,Los_Angeles
+Atlantic Beach,3,New_York
+Doniphan,4,Chicago
+Eureka,2,Los_Angeles
+East Oakdale,4,Los_Angeles
+Rio Linda,3,Los_Angeles
+Holy Cross Church (Bronx),8,New_York
+Briaroaks,4,Chicago
+Wiggins,3,Chicago
+Bethalto,4,Chicago
+Merrill,3,Chicago
+Glade Spring,4,New_York
+Antigo,3,Chicago
+Grapeview,3,Los_Angeles
+Savona,3,New_York
+Emerald Lake Hills,4,Los_Angeles
+Southern California Institute of Architecture,6,Los_Angeles
+East Carroll Parish,4,Chicago
+Wheatfield,3,Chicago
+Bodega,3,Los_Angeles
+Searcy County,4,Chicago
+Twin Valley,3,Chicago
+Saganaga Lake,5,Chicago
+Remy,3,Chicago
+North Lakeport,4,Los_Angeles
+Schaller,3,Chicago
+Goulds,4,New_York
+Glen Head,3,New_York
+Campbell,2,Los_Angeles
+Benton Park,4,Los_Angeles
+Shawsville,4,New_York
+Nashotah,4,Chicago
+Moore Haven,3,New_York
+Atoka County,4,Chicago
+Salamanca,3,New_York
+Texas A&M College of Architecture,8,Chicago
+Lonoke County,5,Chicago
+Toccoa,4,New_York
+Garrett County,3,New_York
+Lake Havasu City,6,Los_Angeles
+Pasadena Park,4,Chicago
+Culberson County,5,Chicago
+O'Fallon,5,Chicago
+Minor Hill,3,Chicago
+Potholes Reservoir,4,Los_Angeles
+Somonauk,4,Chicago
+District of Columbia,4,New_York
+Ridgetop,3,Chicago
+Hollis,3,Chicago
+Haysi,3,New_York
+De Graff,3,New_York
+State University of New York at Cortland,9,New_York
+Cathedral Lakes,4,Los_Angeles
+Artondale,3,Los_Angeles
+Montrose-Ghent,6,New_York
+McCallum Theatre,4,Los_Angeles
+Odell Lake (Oregon),7,Los_Angeles
+Decaturville,4,Chicago
+Carlin,3,Los_Angeles
+Mecklenburg County,5,New_York
+Earle,3,Chicago
+Chesterfield County,4,New_York
+Bakerstown,3,New_York
+Los Altos,3,Los_Angeles
+Cape Neddick,5,New_York
+Talco,3,Chicago
+Lake Royale,3,New_York
+Kirkwood,3,Chicago
+Amelia Court House,4,New_York
+Spirit Lake,3,Chicago
+Klondike Corner,5,New_York
+St. Paul Park,5,Chicago
+Forty Fort,3,New_York
+Saunders Lake,4,Los_Angeles
+Ladera Ranch,4,Los_Angeles
+Raytown,3,Chicago
+Killen,3,Chicago
+Crooked River Ranch,5,Los_Angeles
+Klamath,3,Los_Angeles
+Fontbonne University,4,Chicago
+El Centro,3,Los_Angeles
+Stanislaus County,5,Los_Angeles
+North Hudson,3,Chicago
+Beaumont,3,Chicago
+Herb Parsons Lake,4,Chicago
+Somerville,3,New_York
+Albemarle,4,New_York
+Lake Crabtree,4,New_York
+Lillington,4,New_York
+Chireno,4,Chicago
+Lindsay,2,Los_Angeles
+Wauconda,4,Chicago
+Calverton,3,New_York
+Mountlake Terrace,4,Los_Angeles
+Batesburg-Leesville,6,New_York
+Delaware State University,4,New_York
+Swansea,3,Chicago
+Pomona,3,Los_Angeles
+Dallas County,3,Chicago
+"Cathedral of the Immaculate Conception (Burlington, Vermont)",13,New_York
+Lake Francis Case,4,Chicago
+Du Quoin,4,Chicago
+Roberts County,3,Chicago
+Stevenson Ranch,4,Los_Angeles
+Bethesda University,4,Los_Angeles
+Tariffville,3,New_York
+Salem,2,Los_Angeles
+Copenhagen,3,New_York
+Folsom,3,Los_Angeles
+Wilsonville,3,Los_Angeles
+Cotati,3,Los_Angeles
+Krotz Springs,4,Chicago
+Casa Mañana,4,Chicago
+Hood River,3,Los_Angeles
+Thayer,3,Chicago
+Wheaton College,4,New_York
+New Columbia,3,New_York
+Wewahitchka,6,Chicago
+Rose Lodge,3,Los_Angeles
+Yoakum County,4,Chicago
+Lucerne Valley,4,Los_Angeles
+West Brattleboro,5,New_York
+Georgia Military College,4,New_York
+Lufkin,4,Chicago
+Soap Lake,3,Los_Angeles
+Stephenson County,4,Chicago
+Civic Opera House (Chicago),7,Chicago
+Horace,2,Chicago
+Mono County,3,Los_Angeles
+Brushy Creek,4,Chicago
+White River Junction,4,New_York
+Dasher,3,New_York
+Colquitt County,5,New_York
+Santa Margarita Lake,4,Los_Angeles
+Rancho Viejo,4,Chicago
+San Benito County,4,Los_Angeles
+Sunriver,3,Los_Angeles
+Shelby County,3,Chicago
+Yarrow Point,4,Los_Angeles
+Avila University,4,Chicago
+National University of Health Sciences,6,Chicago
+Petersburg City,4,New_York
+Vincent,2,Los_Angeles
+St. Andrews,4,New_York
+"California State University, Los Angeles",7,Los_Angeles
+Altheimer,4,Chicago
+Garvin County,4,Chicago
+Pompton Lakes,4,New_York
+West Hamburg,3,New_York
+Saunders Lake,4,Los_Angeles
+University Heights,3,New_York
+Swisher County,4,Chicago
+Lewisville,3,Chicago
+Kimble County,4,Chicago
+Calvert,3,Chicago
+Baldwinsville,4,New_York
+Forest Glen,3,New_York
+Sunnyvale,3,Los_Angeles
+Lakeway,3,Chicago
+Northwestern University,4,Chicago
+Cornwells Heights,4,New_York
+Skyline,3,Chicago
+El Centro,3,Los_Angeles
+Sacred Heart,3,Chicago
+Dauphin County,4,New_York
+Dallas County,3,Chicago
+Lake Norman of Catawba,7,New_York
+Red Hill,3,New_York
+Maranatha Bible School,6,Chicago
+Buttonwillow,3,Los_Angeles
+Quarryville,4,New_York
+Hoyt,3,Chicago
+Big Pine Key,4,New_York
+Bladensburg,4,New_York
+Glen Head,3,New_York
+Lake San Marcos,4,Los_Angeles
+"Washington State University College of Agricultural, Human, and Natural Resource Sciences",14,Los_Angeles
+University of Alabama in Huntsville,6,Chicago
+LaMoure,4,Chicago
+Excelsior Springs,4,Chicago
+Bolindale,3,New_York
+Lake Panorama,3,Chicago
+Vermilion County,5,Chicago
+Merkel,3,Chicago
+Home Gardens,3,Los_Angeles
+Johnston City,3,Chicago
+"University of Maryland, Baltimore County",7,New_York
+Ben Hill County,4,New_York
+Winter Gardens,3,Los_Angeles
+Doffing,4,Chicago
+Prince George,3,New_York
+La Salle Extension University,5,Chicago
+Grantwood Village,4,Chicago
+Kinsey,3,Chicago
+Texas Southern University,4,Chicago
+Iola,3,Chicago
+Bryn Athyn,5,New_York
+Duquesne,4,New_York
+Crooks,3,Chicago
+Grapevine Mountains,4,Los_Angeles
+Cleona,3,New_York
+Combined Locks,3,Chicago
+UCLA Luskin School of Public Affairs,8,Los_Angeles
+Laytonsville,4,New_York
+Chester Gap,3,New_York
+Coweta,4,Chicago
+Buena Vista City,4,New_York
+Kelly Ridge,3,Los_Angeles
+Crooked River Ranch,5,Los_Angeles
+East Alton,3,Chicago
+Mississippi College,3,Chicago
+Golden Hills,3,Los_Angeles
+St. Lucie County,5,New_York
+Racine County,4,Chicago
+Avonia,3,New_York
+Calumet Park,4,Chicago
+Ashley County,3,Chicago
+North Auburn,3,Los_Angeles
+Mazon,3,Chicago
+Maple Heights-Lake Desire,6,Los_Angeles
+Buckhall,3,New_York
+Point Loma Nazarene University,6,Los_Angeles
+Lockney,3,Chicago
+Shelton,3,New_York
+Arroyo Grande,5,Los_Angeles
+Sleepy Hollow,3,New_York
+Geffen Playhouse,4,Los_Angeles
+Deville,3,Chicago
+Charles E. Nelson House,6,Los_Angeles
+Delshire,4,New_York
+Upper Montclair,4,New_York
+State Center,3,Chicago
+Rockledge,3,New_York
+Stockton Lake,4,Chicago
+D'Iberville,6,Chicago
+The Acreage,4,New_York
+Eupora,3,Chicago
+Feather Sound,3,New_York
+Proctorville,4,New_York
+"Immanuel Presbyterian Church (Los Angeles, California)",11,Los_Angeles
+Stallion Springs,4,Los_Angeles
+Western College for Women,5,New_York
+South Elgin,3,Chicago
+Edison,2,New_York
+Grayson College,4,Chicago
+Peppermill Village,4,New_York
+Curwensville,4,New_York
+Nederland,2,Chicago
+Coronita,4,Los_Angeles
+Yankton County,5,Chicago
+Quakertown,4,New_York
+Bowie County,4,Chicago
+Minneota,4,Chicago
+Jenks Lake,4,Los_Angeles
+Natalbany,4,Chicago
+Whidbey Island Station,6,Los_Angeles
+Swissvale,3,New_York
+Pekin,3,Chicago
+Mount Zion,3,Chicago
+South San Jose Hills,5,Los_Angeles
+Jackson School of Geosciences,6,Chicago
+Lake Tonawanda,5,New_York
+Southern California Institute of Architecture,6,Los_Angeles
+Middlebury Institute of International Studies at Monterey,9,Los_Angeles
+Wallowa Mountains,5,Los_Angeles
+Ironton,4,New_York
+Shepherd University,3,New_York
+Hattiesburg,4,Chicago
+Mamers,3,New_York
+New York Institute of Technology,6,New_York
+Pinebluff,4,New_York
+Queen Anne Hotel,4,Los_Angeles
+Stinnett,4,Chicago
+North Gate,3,Los_Angeles
+The Grief Recovery Institute,5,Los_Angeles
+Cedarburg,3,Chicago
+Asotin County,4,Los_Angeles
+Texas A&M University–Corpus Christi,9,Chicago
+Hackneyville,4,Chicago
+Blue Ball,3,New_York
+Westernport,3,New_York
+Elko,3,Los_Angeles
+Kelso,3,Los_Angeles
+MacArthur,3,New_York
+Conway County,3,Chicago
+Falls County,3,Chicago
+Gibsonton,4,New_York
+Snoqualmie,4,Los_Angeles
+Indiana,2,New_York
+Deschutes County,5,Los_Angeles
+North Beach Haven,4,New_York
+Middlesex University,5,New_York
+New London,3,New_York
+Spring Ridge,3,New_York
+Claysburg,4,New_York
+Eastern Goleta Valley,5,Los_Angeles
+McKee City,4,New_York
+Sister Bay,3,Chicago
+River Grove,3,Chicago
+Ukiah,3,Los_Angeles
+Young County,3,Chicago
+Burke,2,New_York
+Coldwater Lake (Washington),7,Los_Angeles
+Cross Lake,3,New_York
+Parkston,3,Chicago
+Bingen,3,Los_Angeles
+Sunnyvale,3,Los_Angeles
+Lawtell,3,Chicago
+Fielding Graduate University,5,Los_Angeles
+New Melones Lake,5,Los_Angeles
+Gibraltar Dam,4,Los_Angeles
+Highland Holiday,3,New_York
+Trent Woods,3,New_York
+Santa Susana Mountains,4,Los_Angeles
+Squaw Valley,4,Los_Angeles
+Whiting,3,Chicago
+Franklin Parish,3,Chicago
+McCulloch County,5,Chicago
+Kittitas,3,Los_Angeles
+New Springfield,3,New_York
+Elloree,3,New_York
+East View,3,New_York
+Tower 49,5,New_York
+Sultan,2,Los_Angeles
+Mahnomen County,5,Chicago
+Lyndon Baines Johnson Department of Education Building,10,New_York
+Belle Plaine,4,Chicago
+Lincoln Center,3,Chicago
+Idabel,3,Chicago
+Chadwick,3,Chicago
+Soddy-Daisy,5,New_York
+Marcus Hook,3,New_York
+Parrish,3,Chicago
+"First Baptist Church (Petersburg, Virginia)",10,New_York
+Grassflat,3,New_York
+Bell Hill,3,Los_Angeles
+Royce Hall,3,Los_Angeles
+Abita Springs,4,Chicago
+Paradise Park,3,Los_Angeles
+Green,2,New_York
+Texas Tech University College of Human Sciences,8,Chicago
+Codington County,4,Chicago
+Towson University,4,New_York
+Oak View,3,Los_Angeles
+American Sports University,4,Los_Angeles
+Rocksprings,3,Chicago
+North Lewisburg,4,New_York
+Wood Dale,3,Chicago
+Moncure,3,New_York
+Bootjack,3,Los_Angeles
+North Platte,3,Chicago
+Bonney Lake,4,Los_Angeles
+Benedictine College,4,Chicago
+Nicasio Reservoir,5,Los_Angeles
+Union Beach,3,New_York
+Ripon,3,Los_Angeles
+Mims,3,New_York
+Triadelphia,5,New_York
+Sewell,3,New_York
+German Valley,3,Chicago
+Larkspur,4,Los_Angeles
+Cedar Flat,3,Los_Angeles
+White Mills,3,New_York
+Naytahwaush,5,Chicago
+Sonnencroft,4,New_York
+American Sports University,4,Los_Angeles
+DeSoto,3,Chicago
+Grambling State University,5,Chicago
+Nicollet,4,Chicago
+Lidgerwood,4,Chicago
+Brooklawn,3,New_York
+Arkansas State University Paragould,6,Chicago
+Gilroy,3,Los_Angeles
+Hayfork,3,Los_Angeles
+Tulelake,4,Los_Angeles
+Lincoln University,3,Chicago
+Hilltop,3,New_York
+Terrace Heights,4,Los_Angeles
+Nez Perce County,5,Los_Angeles
+Blue Mountains (Pacific Northwest),7,Los_Angeles
+O'Neill Forebay,6,Los_Angeles
+Lubbock Christian University,5,Chicago
+Saint Thomas Church (Manhattan),7,New_York
+Middlebury College,4,New_York
+New Preston,3,New_York
+Shark River Hills,4,New_York
+Donner Lake,4,Los_Angeles
+Day Valley,3,Los_Angeles
+Barnwell County,4,New_York
+Borax Lake (Oregon),7,Los_Angeles
+Lookingglass,3,Los_Angeles
+Elkhorn Mountains (Oregon),8,Los_Angeles
+Caledonia,3,Chicago
+Redington Shores,4,New_York
+Ocean View,3,New_York
+Van Wert County,4,New_York
+Story County,3,Chicago
+Northwest University,3,Los_Angeles
+Scissors,2,Chicago
+Bemidji State University,6,Chicago
+Stanford University,3,Los_Angeles
+Canonsburg,4,New_York
+Fort Lauderdale,3,New_York
+Darmstadt,3,Chicago
+Meeker County,4,Chicago
+Lake Crescent,3,Los_Angeles
+Oakes,3,Chicago
+Aventura,3,New_York
+Manassas,3,New_York
+Tranquillity,4,Los_Angeles
+Sacramento,2,Los_Angeles
+Grove Hill,3,Chicago
+Academy of Art University,5,Los_Angeles
+Harrisonville,3,Chicago
+Reedley College,4,Los_Angeles
+McSwain,4,Los_Angeles
+Prior Lake,3,Chicago
+Mount Angel,3,Los_Angeles
+Dodge Center,3,Chicago
+Rouse,3,Los_Angeles
+Mountain Lake,3,Chicago
+St. Gabriel,4,Chicago
+Inglenook,4,New_York
+Soldiers Grove,3,Chicago
+Hockessin,5,New_York
+Island County,3,Los_Angeles
+Mounds View,4,Chicago
+North Lynnwood,4,Los_Angeles
+Naples Manor,3,New_York
+Spring Creek,3,Los_Angeles
+Highland-on-the-Lake,8,New_York
+Barclay,3,New_York
+Eagle Eye Art Academy,5,Chicago
+Galveston County,4,Chicago
+Lon Morris College,4,Chicago
+Lanett,3,Chicago
+Granite Bay,3,Los_Angeles
+Duenweg,4,Chicago
+Quasqueton,5,Chicago
+Ronda,3,New_York
+State University of New York at Fredonia,9,New_York
+Belvedere Park,4,New_York
+Swarthmore College,5,New_York
+Roxana,3,Chicago
+Grays Harbor County,5,Los_Angeles
+San Leandro,3,Los_Angeles
+Saratoga County,4,New_York
+Solar Star,3,Los_Angeles
+Fleetwood,3,New_York
+Ocean Shores,3,Los_Angeles
+De Leon Springs,4,New_York
+Rouse,3,Los_Angeles
+Gibson City,3,Chicago
+Moweaqua,5,Chicago
+South San Francisco,4,Los_Angeles
+June Lake (California),6,Los_Angeles
+Quiogue,4,New_York
+Beatty,3,Los_Angeles
+Beaufort County,4,New_York
+West Goshen,4,Los_Angeles
+McDonough,4,New_York
+Grass Valley,3,Los_Angeles
+Anna Maria,3,New_York
+One Main Place (Dallas),7,Chicago
+Red Lick,3,Chicago
+Farmersville,3,Los_Angeles
+Leachville,4,Chicago
+Atchison County,5,Chicago
+Multnomah County,5,Los_Angeles
+East Brewton,4,Chicago
+Walnut Cove,3,New_York
+Waldwick,3,New_York
+Yucca Valley,4,Los_Angeles
+Clearwater,3,New_York
+Olyphant,4,New_York
+Rockingham,4,New_York
+Twinsburg Heights,4,New_York
+Millwood,3,Los_Angeles
+Walden University,4,Chicago
+Hale County,3,Chicago
+San Andreas Lake,4,Los_Angeles
+Duboistown,5,New_York
+Stockdale,3,Chicago
+Chadbourn,5,New_York
+Graham School of Continuing Liberal and Professional Studies,9,Chicago
+Waukon,4,Chicago
+Crest,2,Los_Angeles
+Clovis,3,Los_Angeles
+Bladenboro,4,New_York
+Priest Lake,3,Los_Angeles
+Ventnor City,4,New_York
+Camino Tassajara,6,Los_Angeles
+Pana,3,Chicago
+New Kensington,3,New_York
+Gallipolis,4,New_York
+Eureka Theatre Company,4,Los_Angeles
+Scotia,3,New_York
+Whitman County,4,Los_Angeles
+Hilliard,3,New_York
+Hansford County,4,Chicago
+Borger,3,Chicago
+Schnecksville,5,New_York
+Massapequa Park,5,New_York
+Meriwether County,6,New_York
+Torrance,3,Los_Angeles
+Mayflower Village,4,Los_Angeles
+Westmoreland County,4,New_York
+Cross Lanes,3,New_York
+Plum Grove,3,Chicago
+Lake Ellsworth (Oklahoma),6,Chicago
+"Ten Mile Lake (Cass County, Minnesota)",10,Chicago
+Marylhurst University,5,Los_Angeles
+Stottville,4,New_York
+Meadowbrook,4,New_York
+Westlake Village,4,Los_Angeles
+Callahan,3,New_York
+La Homa,4,Chicago
+Crooksville,4,New_York
+Iona,3,New_York
+Gig Harbor,3,Los_Angeles
+"Third Church of Christ, Scientist (Washington, D.C.)",14,New_York
+Newellton,4,Chicago
+Cottle County,4,Chicago
+Holiday Shores,3,Chicago
+Elk County,3,New_York
+Port Royal,3,New_York
+Florida A&M University,6,New_York
+Vista,2,Los_Angeles
+Steubenville,4,New_York
+West Jefferson,3,New_York
+Northeastern Illinois University,5,Chicago
+Pawnee City,4,Chicago
+Rush City,3,Chicago
+Macopin,4,New_York
+Dieterich,3,Chicago
+California Maritime Academy,4,Los_Angeles
+Terrytown,3,Chicago
+St. Augustine Beach,5,New_York
+Cameron County,3,Chicago
+Rothschild,3,Chicago
+Willapa Bay,5,Los_Angeles
+New York Theatre Workshop,5,New_York
+Fairfield,3,Los_Angeles
+Mower County,4,Chicago
+Posey County,4,Chicago
+Bradley Junction,3,New_York
+Hope International University,4,Los_Angeles
+Clymer,4,New_York
+North Lake (Dallas),6,Chicago
+Bermuda Dunes,3,Los_Angeles
+Brisbane,2,Los_Angeles
+Cavalier County,4,Chicago
+Mead Valley,3,Los_Angeles
+Grimes County,4,Chicago
+Eugene,2,Los_Angeles
+University of Saint Mary,5,Chicago
+Ouachita Mountains,5,Chicago
+Dyersburg,4,Chicago
+North Central Missouri College,5,Chicago
+Snake Range,3,Los_Angeles
+Tunkhannock,5,New_York
+Ilwaco,4,Los_Angeles
+New Lisbon,3,Chicago
+Blum,3,Chicago
+Orchards,4,Los_Angeles
+Neotsu,3,Los_Angeles
+Alderwood Manor,4,Los_Angeles
+Lake Wisconsin,3,Chicago
+Trojan Nuclear Power Plant,6,Los_Angeles
+Ball,2,Chicago
+Indian Rocks Beach,4,New_York
+McCulloch County,5,Chicago
+Bangor Base,4,Los_Angeles
+East San Gabriel,4,Los_Angeles
+The Lakes,3,Chicago
+Ronda,3,New_York
+Port Townsend,3,Los_Angeles
+"Third Church of Christ, Scientist (Washington, D.C.)",14,New_York
+Suffolk University,4,New_York
+San Emigdio Mountains,5,Los_Angeles
+Arcadia,3,Los_Angeles
+Osborne,3,Chicago
+Louisiana State University Business Education Complex,7,Chicago
+Queen Anne Hotel,4,Los_Angeles
+Fort Hood,3,Chicago
+West Lawn,3,New_York
+Bluff City,4,New_York
+Roberts County,3,Chicago
+Suisun City,5,Los_Angeles
+Fordyce,3,Chicago
+Old Dominion University POD,5,New_York
+Temple University,3,New_York
+Gig Harbor,3,Los_Angeles
+Inman Mills,4,New_York
+South Monrovia Island,5,Los_Angeles
+Edgefield County,4,New_York
+Alhambra,4,Los_Angeles
+Cole County,3,Chicago
+Santa Susana,3,Los_Angeles
+Rancho Santiago Community College District,7,Los_Angeles
+Yakima,3,Los_Angeles
+Beale AFB,4,Los_Angeles
+Norfolk County,3,New_York
+Round Rock,3,Chicago
+University of Southern Indiana,5,Chicago
+Emsworth,4,New_York
+Port Clinton,3,New_York
+Pepperdine University,4,Los_Angeles
+Shenandoah Heights,4,New_York
+Nicollet,4,Chicago
+Penn Valley,3,Los_Angeles
+West Sacramento,3,Los_Angeles
+Winder,3,New_York
+South Mansfield,3,Chicago
+Badin,3,New_York
+Menlo Park Terrace,5,New_York
+Susan Moore,3,Chicago
+Cheatham County,4,Chicago
+Isola,3,Chicago
+North Lakeport,4,Los_Angeles
+Goodwater,3,Chicago
+Las Quintas Fronterizas,7,Chicago
+Francis Marion University,4,New_York
+Gloversville,4,New_York
+Bear Valley Springs,4,Los_Angeles
+Henry,2,Chicago
+Sevierville,4,New_York
+Cuba City,3,Chicago
+Jackson,2,Chicago
+Antioch University Santa Barbara,6,Los_Angeles
+Brockway,3,New_York
+Catheys Valley,5,Los_Angeles
+University of North Carolina at Pembroke,7,New_York
+Berthold,3,Chicago
+Shattuck,3,Chicago
+Maple Heights-Lake Desire,6,Los_Angeles
+South Henderson,3,New_York
+Eureka County,3,Los_Angeles
+Murrieta,3,Los_Angeles
+Lake Kanawauke,6,New_York
+Kent Estates,3,Chicago
+Mason City,3,Chicago
+Valinda,3,Los_Angeles
+"Blessed Sacrament Catholic Church, Hollywood",7,Los_Angeles
+DeGray Lake,4,Chicago
+Arthurtown,3,New_York
+Kewaunee Power Station,6,Chicago
+Modesto,3,Los_Angeles
+Ironton,4,New_York
+Linn Valley,3,Chicago
+McCormick County,4,New_York
+West Fork,3,Chicago
+Waskom,4,Chicago
+Trout Lake,3,Los_Angeles
+Little San Bernardino Mountains,5,Los_Angeles
+Abernathy,4,Chicago
+Runnemede,4,New_York
+Coopertown,3,Chicago
+Cowlitz County,4,Los_Angeles
+"Cathedral of Saint Patrick (Harrisburg, Pennsylvania)",12,New_York
+Oxnard,3,Los_Angeles
+Funeral Mountains,3,Los_Angeles
+Birchwood Lakes,4,New_York
+"Saint John the Baptist Cathedral (Fresno, California)",12,Los_Angeles
+Butte County,4,Los_Angeles
+Quinter,3,Chicago
+Newman Grove,3,Chicago
+Jacksonville,2,New_York
+Lakewood Shores,4,Chicago
+Helena-West Helena,5,Chicago
+Empire,2,Los_Angeles
+Calaveras County,4,Los_Angeles
+University of Baltimore,4,New_York
+Shoreacres,3,Chicago
+Indian Wells,3,Los_Angeles
+Melody Hill,3,Chicago
+Fortuna,3,Los_Angeles
+Estherwood,3,Chicago
+Gananda,3,New_York
+Swift Reservoir,3,Los_Angeles
+Troutdale,3,Los_Angeles
+Ironton,4,New_York
+Pacolet,3,New_York
+Crooked Lake Park,5,New_York
+Oakridge,3,Los_Angeles
+Bayou Blue,4,Chicago
+Shasta College,4,Los_Angeles
+Red Lick,3,Chicago
+Riverbend,3,Los_Angeles
+Colma,3,Los_Angeles
+Screven,3,New_York
+Santa Margarita Lake,4,Los_Angeles
+Eastover,3,New_York
+Cutten,3,Los_Angeles
+Lake Success (California),6,Los_Angeles
+Shelton,3,New_York
+Mason Neck,3,New_York
+Morgan's Point Resort,6,Chicago
+Firthcliffe,4,New_York
+Oikos University,4,Los_Angeles
+East Providence,3,New_York
+Cle Elum,4,Los_Angeles
+Fox Performing Arts Center,5,Los_Angeles
+George Washington University School of Nursing,7,New_York
+Avalon Regal Theater,5,Chicago
+Carl Junction,3,Chicago
+John Brown University,4,Chicago
+Tahoe Vista,4,Los_Angeles
+Gnadenhutten,5,New_York
+Mercer Island,4,Los_Angeles
+Grundy,3,New_York
+Orofino,3,Los_Angeles
+Hasson Heights,4,New_York
+Jacksonville University,3,New_York
+Bloomville,3,New_York
+Ritzville,4,Los_Angeles
+Manhasset Hills,5,New_York
+Little Ferry,3,New_York
+Winnebago,3,Chicago
+Kirksville,4,Chicago
+Bellerose Terrace,5,New_York
+Lucas County,3,New_York
+Huntersville,4,New_York
+Greers Ferry,4,Chicago
+The Meadows,3,New_York
+Ephesus,3,New_York
+Ansley,3,Chicago
+Fircrest,3,Los_Angeles
+Lake Village,3,Chicago
+Benld,3,Chicago
+Nipomo,4,Los_Angeles
+Mellette County,4,Chicago
+Beechmont,4,Chicago
+Sky Valley,3,Los_Angeles
+South Monrovia Island,5,Los_Angeles
+Redmond,3,Los_Angeles
+Irwinton,4,New_York
+Cave Springs,3,Chicago
+Shelburne Falls,4,New_York
+Erie County,4,New_York
+Kirbyville,3,Chicago
+Crystal Lake Recreation Area,5,Los_Angeles
+McCord,3,Chicago
+Okeechobee,4,New_York
+Pennington Gap,4,New_York
+Weeping Water,4,Chicago
+Inyo County,4,Los_Angeles
+Vienna Center,3,New_York
+Despard,3,New_York
+Middle Valley,3,New_York
+Beauregard,4,Chicago
+Dorchester County,4,New_York
+Hugoton,3,Chicago
+Santa Paula,3,Los_Angeles
+Danielsville,4,New_York
+Vacaville,3,Los_Angeles
+Trussville,4,Chicago
+North San Pedro,4,Chicago
+Mojave Forks Dam,5,Los_Angeles
+Milton-Freewater,5,Los_Angeles
+La Farge,4,Chicago
+O'Neill Forebay,6,Los_Angeles
+Privateer,3,New_York
+Lockney,3,Chicago
+Mono County,3,Los_Angeles
+Westworth Village,4,Chicago
+Stebbins,4,Los_Angeles
+Lake Youngs,4,Los_Angeles
+Statesboro,3,New_York
+Sarasota Opera House,6,New_York
+Hillside,3,Chicago
+St. Stanislaus Kostka Church (Chicago),11,Chicago
+Misenheimer,4,New_York
+Humboldt County,5,Los_Angeles
+Salinas,3,Los_Angeles
+Ruch,3,Los_Angeles
+Abram,3,Chicago
+St. Basil Catholic Church,6,Los_Angeles
+Strodes Mills,4,New_York
+Avenel,3,New_York
+Keuka Park,4,New_York
+Lake Byllesby (Cannon River),9,Chicago
+Aguanga,3,Los_Angeles
+Prunedale,3,Los_Angeles
+North Creek,3,New_York
+North Central University,4,Chicago
+Santa Susana Mountains,4,Los_Angeles
+Diablo,2,Los_Angeles
+Buna,2,Chicago
+Boring,2,Los_Angeles
+Amador Pines,4,Los_Angeles
+Irvine Lake,4,Los_Angeles
+Manchaca,4,Chicago
+Shingletown,4,Los_Angeles
+Cerritos,4,Los_Angeles
+Lamar University,3,Chicago
+Arden-Arcade,5,Los_Angeles
+Pendergrass,4,New_York
+Merrill,3,Chicago
+Loyola,3,Los_Angeles
+Hickory Hills,4,Chicago
+Croton-on-Hudson,7,New_York
+Breinigsville,5,New_York
+Lagunitas-Forest Knolls,7,Los_Angeles
+Budd Lake,4,New_York
+Mount Crawford,3,New_York
+Dasher,3,New_York
+Wheelersburg,3,New_York
+East Prospect,3,New_York
+Rockford,3,Chicago
+Fox Point,3,Chicago
+Nowthen,3,Chicago
+Fairfield Bay,4,Chicago
+McKinleyville,4,Los_Angeles
+Heidlersburg,5,New_York
+Hope International University,4,Los_Angeles
+Blue Island,3,Chicago
+Friends University,3,Chicago
+Curlew Lake,4,Los_Angeles
+Fort Dick,3,Los_Angeles
+Harney Lake,4,Los_Angeles
+Yucca Valley,4,Los_Angeles
+Okeechobee,4,New_York
+Laytonville,4,Los_Angeles
+LeRoy,3,Chicago
+McKees Rocks,5,New_York
+Crystal Springs,3,Chicago
+Willow Oak,3,New_York
+Churchville,3,New_York
+Pierce County,3,Los_Angeles
+Whitehorn Cove,4,Chicago
+Coarsegold,3,Los_Angeles
+Lake Summerset,4,Chicago
+Long Creek,3,Chicago
+La Crescent,3,Chicago
+Wentzville,4,Chicago
+University of St. Thomas,6,Chicago
+Stroud,3,Chicago
+Galatia,3,Chicago
+Hollister,3,Los_Angeles
+Kenner,3,Chicago
+Olpe,3,Chicago
+Buncombe County,4,New_York
+Hope International University,4,Los_Angeles
+Plumerville,3,Chicago
+Caddo Parish,4,Chicago
+Kelseyville,3,Los_Angeles
+Mims,3,New_York
+Cienegas Terrace,5,Chicago
+Buchanan County,4,Chicago
+"Basilica of the Sacred Hearts of Jesus and Mary (Southampton, New York)",17,New_York
+Deephaven,3,Chicago
+DigiPen Institute of Technology,6,Los_Angeles
+Kennesaw,4,New_York
+Green Acres,3,Chicago
+Grizzly Bay,4,Los_Angeles
+Skagit County,4,Los_Angeles
+Great Falls Crossing,4,New_York
+Phenix City,4,Chicago
+Primghar,3,Chicago
+Imperial Beach,3,Los_Angeles
+Southern Oregon University,4,Los_Angeles
+Pana,3,Chicago
+Orange Blossom,3,Los_Angeles
+Cherry Hill,3,New_York
+Bellevue,3,Los_Angeles
+Alliant International University,5,Los_Angeles
+Fort Recovery,3,New_York
+Sunflower,2,Chicago
+Woodmont,3,New_York
+Junction City,3,Chicago
+Lac qui Parle,5,Chicago
+Kingsburg,3,Los_Angeles
+Wood Village,3,Los_Angeles
+Fountain Hill,3,New_York
+Painted Post,3,New_York
+Rib Mountain,3,Chicago
+"University of California, San Francisco",7,Los_Angeles
+New Rockford,3,Chicago
+University of Mary,4,Chicago
+Cashmere,3,Los_Angeles
+Goldendale,3,Los_Angeles
+Tehaleh,4,Los_Angeles
+Evansdale,3,Chicago
+University of Jamestown,4,Chicago
+Park Forest,3,Chicago
+Lake Bryan,3,Chicago
+Dyersburg,4,Chicago
+Whittier,3,Los_Angeles
+Antelope,3,Los_Angeles
+Llano County,4,Chicago
+Dellwood,3,Chicago
+Brillion,3,Chicago
+Marlow Heights,4,New_York
+Tuttle Creek Lake,5,Chicago
+Saylorsburg,4,New_York
+Seagraves,3,Chicago
+Fullerton,3,Los_Angeles
+Searingtown,4,New_York
+San Jose Center for the Performing Arts,8,Los_Angeles
+Cavetown,3,New_York
+Le Mars,3,Chicago
+South Pittsburg,3,Chicago
+Lake of the Arbuckles,7,Chicago
+Como Lake (Minnesota),6,Chicago
+Panola College,5,Chicago
+Joe Pool Lake,4,Chicago
+Confluence,3,New_York
+Bergman,3,Chicago
+South San Jose Hills,5,Los_Angeles
+Camas,3,Los_Angeles
+Anderson Lake (California),6,Los_Angeles
+Kasson,3,Chicago
+Lincoln Parish,3,Chicago
+Tiburon,3,Los_Angeles
+Moapa Valley,4,Los_Angeles
+Desert Hills,3,Los_Angeles
+Mountain Park,3,New_York
+San Leandro,3,Los_Angeles
+Nicasio Reservoir,5,Los_Angeles
+Boulder Creek,3,Los_Angeles
+Laguna Beach,3,Los_Angeles
+Southern Wesleyan University,4,New_York
+Estelle,3,Chicago
+Paulding,3,New_York
+Broomall,4,New_York
+Lake Quivira,4,Chicago
+Eastman,3,New_York
+Anniston,3,Chicago
+Lake Avenue Congregational Church,5,Los_Angeles
+Pinetops,3,New_York
+Elmhurst,3,Chicago
+North Bonneville,3,Los_Angeles
+Rancho Alegre,4,Chicago
+Trinity,2,New_York
+Art Center College of Design,6,Los_Angeles
+Greers Ferry,4,Chicago
+Saxtons River,5,New_York
+Radcliffe,3,Chicago
+Salmon Creek,3,Los_Angeles
+Glenside,3,New_York
+Orofino,3,Los_Angeles
+Desert Hills,3,Los_Angeles
+Farina,3,Chicago
+Lincoln City,3,Los_Angeles
+Middle Tennessee School of Anesthesia,7,Chicago
+Kibler,3,Chicago
+White Salmon,3,Los_Angeles
+Oakleaf Plantation,4,New_York
+Whitsett,3,New_York
+Rosemont,3,Los_Angeles
+Cairn University,4,New_York
+Brea,3,Los_Angeles
+Jeanerette,4,Chicago
+Fort Cobb,3,Chicago
+West Hurley,3,New_York
+Coalfield,3,New_York
+Beatty,3,Los_Angeles
+Chariton County,4,Chicago
+Sulphur,3,Chicago
+Sarasota County,5,New_York
+Bagley,3,Chicago
+Wellsboro,3,New_York
+Gardena,3,Los_Angeles
+Earlimart,4,Los_Angeles
+Sandstone,3,Chicago
+Culpeper County,4,New_York
+Huber Heights,4,New_York
+St. Basil Catholic Church,6,Los_Angeles
+DeVry University Decatur Campus,7,New_York
+Pittsylvania County,5,New_York
+Blennerhassett,6,New_York
+Ellisville,3,Chicago
+Stafford,3,Chicago
+James Madison University,4,New_York
+Hackberry,3,Chicago
+Central Oregon Coast Range,5,Los_Angeles
+East Rockingham,4,New_York
+Haverhill,4,New_York
+Mirrormont,5,Los_Angeles
+Carolina Shores,3,New_York
+Moraine,3,New_York
+Rineyville,4,New_York
+Sonoma State University,5,Los_Angeles
+Clarendon College,4,Chicago
+Richland,3,Los_Angeles
+Fort Campbell North,4,Chicago
+Falling Water,3,New_York
+Wimauma,4,New_York
+"Our Lady of Sorrows Church (Santa Barbara, California)",13,Los_Angeles
+Lauderdale,4,Chicago
+Betts House (Yale University),8,New_York
+University of Alabama in Huntsville,6,Chicago
+Baywood,3,New_York
+Hulmeville,4,New_York
+Austinburg,3,New_York
+Civic Center Music Hall,5,Chicago
+Multnomah County,5,Los_Angeles
+Gibsonburg,3,New_York
+Stepney,3,New_York
+Elberfeld,4,Chicago
+McComb,3,Chicago
+Haskins,3,New_York
+Oran,3,Chicago
+Henry Hagg Lake,5,Los_Angeles
+Cloverleaf,3,Chicago
+Campbell,2,Los_Angeles
+Lower Burrell,3,New_York
+Soap Lake,3,Los_Angeles
+Ruhenstroth,5,Los_Angeles
+Los Angeles County,4,Los_Angeles
+White Pine,3,New_York
+Walkersville,4,New_York
+Bolivar Peninsula,4,Chicago
+Sugar Pine Reservoir,4,Los_Angeles
+Loew's Jersey Theatre,7,New_York
+Yates Center,4,Chicago
+Jesup,3,New_York
+South Glens Falls,5,New_York
+McAlester,4,Chicago
+New Cumberland,3,New_York
+Sardis City,4,Chicago
+Tiburon,3,Los_Angeles
+Okarche,3,Chicago
+Bellevue,3,Los_Angeles
+Round Hill Village,4,Los_Angeles
+Highpoint,3,New_York
+Carrollwood,3,New_York
+Fifth Ward,3,Chicago
+Taft Heights,4,Los_Angeles
+Demorest,4,New_York
+Ilwaco,4,Los_Angeles
+Upper Nyack,4,New_York
+Bodega Bay,4,Los_Angeles
+Plant Scherer,3,New_York
+Brantley County,5,New_York
+Elim,3,New_York
+Youngsville,4,Chicago
+Brambleton,4,New_York
+Wilmer,3,Chicago
+Rocky Point,3,New_York
+Bala Cynwyd,4,New_York
+Precious Blood Catholic Church (Los Angeles),9,Los_Angeles
+Philadelphia University,3,New_York
+Caddo Parish,4,Chicago
+Shenandoah University,4,New_York
+Union Gap,3,Los_Angeles
+Brandywine,4,New_York
+Trezevant,4,Chicago
+York,2,New_York
+New Castle Northwest,4,New_York
+Indian Field,3,New_York
+Caddo Mills,4,Chicago
+"Florida State University College of Motion Picture, Television and Recording Arts",13,New_York
+Sallisaw,4,Chicago
+Wildwood Lake,4,New_York
+Laurence Harbor,3,New_York
+Cass Lake (Minnesota),6,Chicago
+Gautier,3,Chicago
+Spokane County,4,Los_Angeles
+Charter Oak,3,Los_Angeles
+North Powder,3,Los_Angeles
+Ste. Genevieve,4,Chicago
+Dunn,2,New_York
+Dalton,2,New_York
+Gordon County,3,New_York
+Knott County,4,New_York
+Waycross,3,New_York
+Henry,2,Chicago
+LaPorte County,4,Chicago
+Selmer,3,Chicago
+Greenville,3,New_York
+Central Square,3,New_York
+Mount Madison,3,New_York
+Obetz,3,New_York
+Lake Dalecarlia,5,Chicago
+Nooksack,4,Los_Angeles
+Le Mars,3,Chicago
+Daly City,4,Los_Angeles
+Sheldon,2,Chicago
+Bonner County,4,Los_Angeles
+Waller,3,Los_Angeles
+Elko,3,Los_Angeles
+Menlo Park,4,Los_Angeles
+Ritzville,4,Los_Angeles
+Lake Morton-Berrydale,6,Los_Angeles
+Rush City,3,Chicago
+McKinleyville,4,Los_Angeles
+Los Altos Hills,4,Los_Angeles
+Carlyss,3,Chicago
+East Aurora,3,New_York
+Shell Ridge,3,Los_Angeles
+Mecca,3,Los_Angeles
+Whitewright,3,Chicago
+Rock Church (San Diego),7,Los_Angeles
+Wrights Lake,4,Los_Angeles
+Chapman University,3,Los_Angeles
+"Flatiron Building (Fort Worth, Texas)",10,Chicago
+Arcadia University,4,New_York
+Silkworth,3,New_York
+Scurry County,4,Chicago
+Bainbridge Island,4,Los_Angeles
+Ida Grove,3,Chicago
+Erwinville,3,Chicago
+Moscow,2,Los_Angeles
+Olmito,3,Chicago
+Carthage,3,Chicago
+Smiths Station,4,Chicago
+Samuel Merritt University,4,Los_Angeles
+Nantahala Lake,5,New_York
+Ida Grove,3,Chicago
+Yarrow Point,4,Los_Angeles
+Imperial,2,Los_Angeles
+Olyphant,4,New_York
+Arkabutla Lake,6,Chicago
+Hendry County,4,New_York
+West Allis,4,Chicago
+Delphos,3,New_York
+Horse Shoe,3,New_York
+Oneida County,4,New_York
+George Fox University,4,Los_Angeles
+Solar Energy Generating Systems,5,Los_Angeles
+Centralhatchee,4,New_York
+McCormick,3,New_York
+Knightsen,3,Los_Angeles
+Fruitridge Pocket,4,Los_Angeles
+Northwestern Oklahoma State University,6,Chicago
+Anderson Lake (California),6,Los_Angeles
+Clearlake,3,Los_Angeles
+Rosita,3,Chicago
+Shenorock,4,New_York
+Alderwood Manor,4,Los_Angeles
+Hemphill County,4,Chicago
+Naples,2,New_York
+Satanta,3,Chicago
+Gibraltar Dam,4,Los_Angeles
+South Hill,3,Los_Angeles
+Concrete,2,Los_Angeles
+Hicksville,4,New_York
+Lopez Lake,3,Los_Angeles
+Cold Springs,3,Los_Angeles
+"California State University, Bakersfield",6,Los_Angeles
+Lafourche Crossing,5,Chicago
+Southern Oregon University,4,Los_Angeles
+Botsford,3,New_York
+South Mountain (eastern Pennsylvania),7,New_York
+Glenview,3,Chicago
+South Vacherie,5,Chicago
+Wekiwa Springs,5,New_York
+Eustace,4,Chicago
+South Apopka,5,New_York
+Shenandoah Heights,4,New_York
+Indian Trail,3,New_York
+North Puyallup,5,Los_Angeles
+Riegelsville,5,New_York
+Iberia Parish,4,Chicago
+Waldport,3,Los_Angeles
+Bartonsville,4,New_York
+North Tonawanda Barrel Organ Factory,8,New_York
+McRae,3,Chicago
+DeForest,3,Chicago
+Churchill County,4,Los_Angeles
+South Beloit,4,Chicago
+Bradford Woods,3,New_York
+Waukesha County Technical College,7,Chicago
+Rockmart,3,New_York
+Imperial,2,Los_Angeles
+Beech Mountain,4,New_York
+Los Altos Hills,4,Los_Angeles
+Sebastian County,3,Chicago
+Snyder,3,Chicago
+Northwest Technical College,4,Chicago
+Mission Viejo,3,Los_Angeles
+Lake Bosworth,4,Los_Angeles
+St. Paul's Cathedral (San Diego),11,Los_Angeles
+Lompoc,3,Los_Angeles
+Dimmitt,3,Chicago
+Langhorne,4,New_York
+Half Moon Bay,4,Los_Angeles
+Coal City,3,Chicago
+Pensacola Station,4,Chicago
+Morongo Valley,4,Los_Angeles
+Evans County,3,New_York
+Watson Pond,3,New_York
+Suamico,3,Chicago
+Crowley Lake,4,Los_Angeles
+Danielson,3,New_York
+Jamul,3,Los_Angeles
+Briar Chapel,4,New_York
+Trojan Nuclear Power Plant,6,Los_Angeles
+Owyhee,4,Los_Angeles
+Whitman County,4,Los_Angeles
+Marathon County,3,Chicago
+Pe Ell,3,Los_Angeles
+Tutwiler,4,Chicago
+Winters,3,Los_Angeles
+Sharp County,3,Chicago
+Coulee Dam,4,Los_Angeles
+Neoga,3,Chicago
+Lenoir,4,New_York
+Pine Lake,3,New_York
+Bala Cynwyd,4,New_York
+North Plymouth,3,New_York
+Cold Springs,3,Los_Angeles
+Dauphin,3,New_York
+Assumption,2,Chicago
+Twentynine Palms,6,Los_Angeles
+Tustin,3,Los_Angeles
+Centre,2,Chicago
+University of Arkansas for Medical Sciences,7,Chicago
+Meadowlakes,4,Chicago
+Homeacre-Lyndora,7,New_York
+Guerneville,4,Los_Angeles
+Griggstown,4,New_York
+East Bank,3,New_York
+Pigeon Forge,3,New_York
+Webb,2,Chicago
+University of Findlay,4,New_York
+San Leandro,3,Los_Angeles
+Bulloch County,4,New_York
+Ringtown,3,New_York
+Shelburne Falls,4,New_York
+Tangent,2,Los_Angeles
+Lucerne Valley,4,Los_Angeles
+Muskingum University,5,New_York
+Galt,3,Los_Angeles
+South Mount Vernon,4,New_York
+Ulster County,4,New_York
+Nice,2,Los_Angeles
+Pioche,3,Los_Angeles
+Ringwood,3,New_York
+Boundary County,3,Los_Angeles
+Richmond,2,New_York
+Tuttle,3,Chicago
+Corrigan,3,Chicago
+South Dos Palos,5,Los_Angeles
+Suffolk City,4,New_York
+Newfoundland,3,New_York
+Bourg,3,Chicago
+Allen,2,Chicago
+Toll House Inn,4,New_York
+Brantleyville,5,Chicago
+Hokes Bluff,4,Chicago
+Glasford,3,Chicago
+Mill Plain,3,New_York
+Oronogo,4,Chicago
+Troutdale,3,Los_Angeles
+Norborne,3,Chicago
+Academy of Art University,5,Los_Angeles
+Oroville,3,Los_Angeles
+Albert City,3,Chicago
+Searles Lake,4,Los_Angeles
+Blue Mountain Lake (Arkansas),7,Chicago
+West View,3,New_York
+Lubeck,3,New_York
+Belington,3,New_York
+League City,3,Chicago
+Clairton,3,New_York
+Mount Shasta,3,Los_Angeles
+Metcalfe County,4,Chicago
+Lake Oroville,4,Los_Angeles
+Happy Valley,3,Los_Angeles
+Green Village,3,New_York
+Bromley,3,New_York
+Darlington,3,New_York
+Alderwood Manor,4,Los_Angeles
+Alliance,2,New_York
+San Felipe,3,Chicago
+Strawn,3,Chicago
+Seeley,3,Los_Angeles
+McDonald County,3,Chicago
+Bonne Terre,3,Chicago
+Cedar Ridge,3,Los_Angeles
+Fort Clark Springs,4,Chicago
+Lakeland South,4,Los_Angeles
+Lewis County,3,Los_Angeles
+Cambrian Park,4,Los_Angeles
+Hudson County,3,New_York
+State University of New York at New Paltz,10,New_York
+Hyndman,4,New_York
+Sausalito,4,Los_Angeles
+Laurel Lake,3,New_York
+Soap Lake,3,Los_Angeles
+Bardstown,3,New_York
+Esperance,3,Los_Angeles
+Flora,2,Chicago
+Marinette,3,Chicago
+Lake Zurich,3,Chicago
+Stagecoach,3,Los_Angeles
+Sequoyah County,5,Chicago
+Beatty,3,Los_Angeles
+Fresno Pacific University,5,Los_Angeles
+Reston,3,New_York
+Kelso,3,Los_Angeles
+St. Martinville,5,Chicago
+Kayak Point,4,Los_Angeles
+St. Peters,4,Chicago
+South Milwaukee,3,Chicago
+Carver,3,Chicago
+Arroyo Colorado Estates,6,Chicago
+Cherry Grove,3,New_York
+Mojave,3,Los_Angeles
+El Dorado County,4,Los_Angeles
+Lake Lahontan (reservoir),8,Los_Angeles
+Sheatown,3,New_York
+South Apopka,5,New_York
+Tulelake,4,Los_Angeles
+Sioux City,4,Chicago
+Waymart,3,New_York
+Cameron Park,3,Los_Angeles
+Benton Park,4,Los_Angeles
+Duarte,4,Los_Angeles
+Saint Mary's University of Minnesota,8,Chicago
+Linnell Camp,4,Los_Angeles
+Talty,3,Chicago
+Cotati,3,Los_Angeles
+Lake Memphremagog,7,New_York
+Planada,3,Los_Angeles
+Marquette Plaza,4,Chicago
+Newcomerstown,5,New_York
+Neptune Beach,3,New_York
+Le Mars,3,Chicago
+Camp Pendleton South,4,Los_Angeles
+New Milford,3,New_York
+San Luis Obispo County,5,Los_Angeles
+Silver Lakes,3,Los_Angeles
+Whitfield County,4,New_York
+East Douglas,3,New_York
+Reinhardt University,4,New_York
+Barry University,3,New_York
+Yosemite Lakes,5,Los_Angeles
+Hodgeman County,5,Chicago
+Lake Kerr,3,New_York
+Poplarville,4,Chicago
+National Normal University,4,New_York
+Elk Creek,3,New_York
+Cedar Ridge,3,Los_Angeles
+Neah Bay,4,Los_Angeles
+Lampasas,3,Chicago
+Kanawha,4,Chicago
+Contra Costa Centre,4,Los_Angeles
+Keosauqua,5,Chicago
+Dewar,3,Chicago
+Venango County,4,New_York
+Montebello,3,Los_Angeles
+Yatesville,4,New_York
+Garden City Park,4,New_York
+Mead Valley,3,Los_Angeles
+Frost,2,Chicago
+Country Walk,3,New_York
+Weston Lakes,4,Chicago
+Clearlake Riviera,4,Los_Angeles
+Vass,3,New_York
+Everett,3,Los_Angeles
+Azle,3,Chicago
+Terre Hill,3,New_York
+Lake St. Croix Beach,6,Chicago
+West Pittston,4,New_York
+Sonterra,3,Chicago
+Arden-Arcade,5,Los_Angeles
+Athens County,3,New_York
+Hot Spring County,4,Chicago
+Cokato,4,Chicago
+Camanche North Shore,6,Los_Angeles
+Little Round Lake,4,Chicago
+Boron,2,Los_Angeles
+China Spring,3,Chicago
+Evans City,3,New_York
+Soulsbyville,4,Los_Angeles
+Emma,2,New_York
+Cleves,3,New_York
+Stanleytown,3,New_York
+Cornell Tech,3,New_York
+East Herkimer,5,New_York
+Freedom,2,Los_Angeles
+Bryn Athyn,5,New_York
+Nashville,2,Chicago
+Mustang Ridge,3,Chicago
+Fairton,3,New_York
+University of Virginia Center for Politics,7,New_York
+North Wildwood,4,New_York
+Colesburg,4,Chicago
+Bergen Performing Arts Center,5,New_York
+"Lost Lake (Santiam Pass, Linn County, Oregon)",13,Los_Angeles
+Fredericksburg City,5,New_York
+Halls,3,New_York
+Tehachapi,5,Los_Angeles
+Moorefield,4,New_York
+Lake Forest,3,Los_Angeles
+South Pottstown,4,New_York
+Inverness Highlands South,5,New_York
+Kulpmont,4,New_York
+Kingman County,4,Chicago
+Parkway,3,Los_Angeles
+Deans,3,New_York
+Athol,3,Los_Angeles
+Orangeburg,3,New_York
+Modoc County,4,Los_Angeles
+Lovejoy,3,New_York
+Old Fig Garden,4,Los_Angeles
+Shenandoah County,4,New_York
+International Vedic Hindu University,5,New_York
+Pemiscot County,5,Chicago
+Searles Valley,4,Los_Angeles
+Columbia Pacific University,4,Los_Angeles
+Glide,2,Los_Angeles
+Colbert County,4,Chicago
+Terrell,3,Chicago
+Bethel Island,4,Los_Angeles
+Manila,2,Chicago
+Georgia Southwestern State University,5,New_York
+Lake Forest,3,Los_Angeles
+Loch Lomond (California),7,Los_Angeles
+Panama City Beach,4,Chicago
+Rose Lodge,3,Los_Angeles
+Audrain County,4,Chicago
+Hernando Beach,4,New_York
+Bell,2,Los_Angeles
+Francis Marion University,4,New_York
+Lake Harris (Florida),6,New_York
+Tukwila,4,Los_Angeles
+Whippany,4,New_York
+Overbrook,3,Chicago
+Toluca,4,Chicago
+Opelika,4,Chicago
+Santa Ynez,4,Los_Angeles
+Somersworth,4,New_York
+Mount Tabor,3,New_York
+Whatcom County,4,Los_Angeles
+Homeworth,3,New_York
+New Kent,3,New_York
+Castle Hayne,4,New_York
+Florida State University College of Arts and Sciences,9,New_York
+Piseco Lake,5,New_York
+Ballinger,3,Chicago
+East Central University,4,Chicago
+La Verne,3,Los_Angeles
+Salem,2,Los_Angeles
+Tolono,3,Chicago
+Canyonville,3,Los_Angeles
+Oakmont,3,New_York
+South Dayton,3,New_York
+Evarts,4,New_York
+William Paterson University of New Jersey,7,New_York
+Beaverton,3,Los_Angeles
+California Polytechnic State University,5,Los_Angeles
+Sun Valley,3,Los_Angeles
+Mechanicsburg,3,New_York
+University of the West,5,Los_Angeles
+South Milwaukee,3,Chicago
+Encinitas,3,Los_Angeles
+Mountain Lodge Lake,4,New_York
+Travis County,3,Chicago
+Perry Hall,3,New_York
+Beale AFB,4,Los_Angeles
+St. Thomas the Apostle Catholic Church (Los Angeles),12,Los_Angeles
+San Perlita,4,Chicago
+Angwin,3,Los_Angeles
+Raymore,3,Chicago
+Soap Lake,3,Los_Angeles
+Middle Amana,4,Chicago
+Northern Vermont University,4,New_York
+Council Bluffs,3,Chicago
+Indiantown,3,New_York
+June Lake (California),6,Los_Angeles
+Cottage Lake,4,Los_Angeles
+Bouquet Reservoir,4,Los_Angeles
+Kermit,3,Chicago
+Ozawkie,4,Chicago
+Vine Hill,3,Los_Angeles
+Kathleen,2,New_York
+Visalia,3,Los_Angeles
+Naytahwaush,5,Chicago
+Oglethorpe University,5,New_York
+Lynchburg City,4,New_York
+Clarksdale,4,Chicago
+Lake Milton,3,New_York
+Perquimans County,5,New_York
+Mooresburg,4,New_York
+Plattsburgh West,4,New_York
+Kittitas County,4,Los_Angeles
+Silver Grove,3,New_York
+Marionville,3,Chicago
+Enetai,3,Los_Angeles
+Grand Ronde,3,Los_Angeles
+Mirror Lake (California),6,Los_Angeles
+Wonder Lake,3,Chicago
+Louisiana,2,Chicago
+The Beverly Hills Hotel,5,Los_Angeles
+Hidden Meadows,3,Los_Angeles
+Rio Grande City,4,Chicago
+Old Field,3,New_York
+Redmond,3,Los_Angeles
+North Apollo,3,New_York
+Oyster Bay Cove,5,New_York
+New Rockford,3,Chicago
+Patterson Springs,3,New_York
+Fennimore,5,Chicago
+Stallion Springs,4,Los_Angeles
+Waukegan,5,Chicago
+Powers Lake,3,Chicago
+Galion,3,New_York
+Eureka Inn,3,Los_Angeles
+Shady Shores,3,Chicago
+Jefferson City,3,Chicago
+Gibsland,4,Chicago
+Bull Run Mountains,4,New_York
+Neffs,3,New_York
+Seth Ward,3,Chicago
+Coalfield,3,New_York
+Alum Rock,3,Los_Angeles
+Belle Glade,4,New_York
+Bay Ridge Christian College,5,Chicago
+Ralston College,4,New_York
+Boston Heights,3,New_York
+Whitney,2,Los_Angeles
+Fruitdale,3,Los_Angeles
+Skokie Lagoons,5,Chicago
+Crest Hill,3,Chicago
+Amagansett,4,New_York
+Sand Ridge,3,New_York
+Tulane University,4,Chicago
+Rosenhayn,4,New_York
+St. Maries,5,Los_Angeles
+Dover Plains,3,New_York
+Fostoria,4,New_York
+Pond Creek,3,Chicago
+Huttig,3,Chicago
+Gastonia,3,New_York
+Assumption Parish,3,Chicago
+Waller County,4,Chicago
+Lake Kampeska,5,Chicago
+Hotel Texas,3,Chicago
+Millbury,3,New_York
+Three Lakes,3,New_York
+Marquette University,4,Chicago
+Daniels Farm,4,New_York
+Terra Alta,3,New_York
+Basking Ridge,4,New_York
+River Road,3,Los_Angeles
+Playwrights Horizons,4,New_York
+Kitsap Lake,4,Los_Angeles
+Kanuga Conference Center,5,New_York
+Smoke Rise,3,Chicago
+Proto-Cathedral of St. James the Greater,11,Los_Angeles
+Teaticket,5,New_York
+Lopatcong Overlook,6,New_York
+Conehatta,3,Chicago
+Wakeman,3,New_York
+University Place,3,Los_Angeles
+Rolling Meadows,3,Chicago
+Kenmare,3,Chicago
+Lakehead,3,Los_Angeles
+Carson,2,Los_Angeles
+Cherry Hill Mall,4,New_York
+Summerton,3,New_York
+Kekoskee,4,Chicago
+Makanda,3,Chicago
+Fourmile Lake (Oregon),7,Los_Angeles
+Bidwell,3,New_York
+Sacramento,2,Los_Angeles
+Grape Creek,3,Chicago
+Lake Mohegan,5,New_York
+Jocassee Dam,5,New_York
+Pittsburgh Playhouse,3,New_York
+Clear Lake Shores,4,Chicago
+Rockwall County,4,Chicago
+Packwood Lake,4,Los_Angeles
+Trumbauersville,6,New_York
+St. Georges,4,New_York
+Parkston,3,Chicago
+Pandora,2,New_York
+Mount Pulaski,3,Chicago
+Washington Adventist University,4,New_York
+Modesto,3,Los_Angeles
+Colbert County,4,Chicago
+Vance,3,Chicago
+Diaz,2,Chicago
+Sparkill,3,New_York
+Theresa,2,Chicago
+Waller County,4,Chicago
+Dickson,3,Chicago
+Siletz,4,Los_Angeles
+New Orleans,3,Chicago
+West Fork,3,Chicago
+Canal Winchester,3,New_York
+Greenhills,3,New_York
+Williston,3,Chicago
+Metcalfe County,4,Chicago
+Eucalyptus Hills,3,Los_Angeles
+"Cathedral of the Immaculate Conception (Syracuse, New York)",13,New_York
+Diaz Lake,3,Los_Angeles
+Lake Holm,3,Los_Angeles
+LaMoure County,5,Chicago
+Los Angeles Mission College,5,Los_Angeles
+Dallam County,4,Chicago
+Pateros,4,Los_Angeles
+New Madison,3,New_York
+San Francisco County,4,Los_Angeles
+William Jessup University,5,Los_Angeles
+Farina,3,Chicago
+St. Basil Catholic Church,6,Los_Angeles
+Chehalis,4,Los_Angeles
+Prunedale,3,Los_Angeles
+Orange Lake (New York),7,New_York
+Buckingham County,4,New_York
+Mosier,3,Los_Angeles
+Carmel-by-the-Sea,9,Los_Angeles
+Porterville,3,Los_Angeles
+Osino,3,Los_Angeles
+Demopolis,3,Chicago
+Crittenden,4,New_York
+Middleburg Heights,4,New_York
+Stansberry Lake,5,Los_Angeles
+Greenock,4,New_York
+Plover,3,Chicago
+Moosic Mountains,5,New_York
+Thief River Falls,4,Chicago
+Belden Place,4,Los_Angeles
+Gardena,3,Los_Angeles
+Bluford,3,Chicago
+Lathrop,4,Los_Angeles
+Hamblen County,4,New_York
+St. Martin Parish,5,Chicago
+Madison Center,3,New_York
+Saint Anthony Cathedral Basilica,5,Chicago
+Evendale,3,New_York
+Fleming Island,4,New_York
+East Bernard,3,Chicago
+Misericordia University,4,New_York
+Traer,3,Chicago
+China Lake Acres,4,Los_Angeles
+Mojave,3,Los_Angeles
+"University of California College of the Law, San Francisco",11,Los_Angeles
+Southern Illinois University Edwardsville,6,Chicago
+Otter Tail Lake,4,Chicago
+Morse,2,Chicago
+Immaculata University,4,New_York
+Craig County,3,Chicago
+Pontoon Beach,4,Chicago
+Saxapahaw,4,New_York
+Home Garden,3,Los_Angeles
+Oconto Falls,4,Chicago
+St. Hedwig,5,Chicago
+East Rancho Dominguez,4,Los_Angeles
+"St. Mark's Episcopal Cathedral, Seattle",10,Los_Angeles
+Haileyville,4,Chicago
+Funeral Mountains,3,Los_Angeles
+Memphis,2,Chicago
+Vermilion Parish,5,Chicago
+Astor,3,New_York
+Emporia State University,5,Chicago
+Beaver Dam,3,Chicago
+Richland County,4,New_York
+Lake Norman of Catawba,7,New_York
+Dunmore,3,New_York
+Nassau Lake,3,New_York
+Claiborne Parish,5,Chicago
+Palos Verdes Estates,6,Los_Angeles
+McLean County,4,Chicago
+Picnic Point,4,Los_Angeles
+Oceano,4,Los_Angeles
+Legend Lake,3,Chicago
+Lagunitas-Forest Knolls,7,Los_Angeles
+Moyie Springs,4,Los_Angeles
+Val Verde Park,4,Chicago
+Proto-Cathedral of St. James the Greater,11,Los_Angeles
+Thruston,3,Chicago
+Pequot Lakes,5,Chicago
+Plainville,3,Chicago
+Imboden,3,Chicago
+Framingham State University,5,New_York
+Coleman County,3,Chicago
+Alondra Park,4,Los_Angeles
+Ackerman,4,Chicago
+Cloverdale,3,Los_Angeles
+Plummer,3,Los_Angeles
+Fernley,3,Los_Angeles
+Tampa,2,New_York
+Big Spirit Lake,4,Chicago
+Harrisburg,3,New_York
+Summerlin South,4,Los_Angeles
+Grindstone,3,New_York
+Ochoco Mountains,4,Los_Angeles
+Palmdale,4,Los_Angeles
+Miami Beach,3,New_York
+Summer Lake (Oregon),6,Los_Angeles
+Chiloquin,4,Los_Angeles
+Buellton,4,Los_Angeles
+Strathmoor Village,5,New_York
+Gray Court,3,New_York
+Barnardsville,4,New_York
+Hazardville,3,New_York
+Saylorsburg,4,New_York
+Paulina Lake,4,Los_Angeles
+Wellford,3,New_York
+Cove City,4,New_York
+Ethridge,3,Chicago
+Patrick County,3,New_York
+Rock Island,3,Chicago
+The Villages,3,New_York
+Peninsula,3,New_York
+Rock Rapids,3,Chicago
+Stallion Springs,4,Los_Angeles
+Woburn,4,New_York
+Lincroft,3,New_York
+Yucca Valley,4,Los_Angeles
+Chokoloskee,5,New_York
+Ostrander,4,New_York
+41 Cooper Square,5,New_York
+Mullan,3,Los_Angeles
+Pend Oreille County,5,Los_Angeles
+Ottoville,3,New_York
+North El Monte,4,Los_Angeles
+Grace Church (Manhattan),6,New_York
+Fowler,3,Los_Angeles
+Foresthill,5,Los_Angeles
+Illinois College of Optometry,6,Chicago
+Our Lady of Lebanon Maronite Cathedral (Brooklyn),11,New_York
+Hudson Lake,3,Chicago
+Johnstonville,3,Los_Angeles
+James City County,4,New_York
+University of Mount Union,5,New_York
+Malibu,3,Los_Angeles
+"Saint Sava Serbian Orthodox Church (Merrillville, Indiana)",13,Chicago
+Trevose,4,New_York
+Ashmore Estates,4,Chicago
+Puente Hills,4,Los_Angeles
+Leavenworth County,5,Chicago
+Raymondville,3,Chicago
+Henderson,2,Los_Angeles
+South University,3,New_York
+Palm Beach Atlantic University,5,New_York
+McQueeney,4,Chicago
+Magazine,2,Chicago
+Patterson Tract,3,Los_Angeles
+Lincoln Beach,3,Los_Angeles
+Cedar Point,3,New_York
+Hazard,2,New_York
+Fairway,3,Chicago
+Lipscomb County,4,Chicago
+Meriwether County,6,New_York
+Round Lake Park,4,Chicago
+Wellston,3,New_York
+Port Hadlock-Irondale,7,Los_Angeles
+Dale City,3,New_York
+Lake Gaston,3,New_York
+Penn Wynne,3,New_York
+Agoura Hills,4,Los_Angeles
+Racetrack Playa,5,Los_Angeles
+Cherry Lake,3,Los_Angeles
+Milpitas,4,Los_Angeles
+Tyronza,4,Chicago
+Adelanto,3,Los_Angeles
+Tishomingo County,6,Chicago
+Pine Lake,3,New_York
+Welch College,4,Chicago
+Zapata County,4,Chicago
+Rossmoor,3,Los_Angeles
+Pratt Institute,4,New_York
+Oakboro,3,New_York
+Las Vegas,3,Los_Angeles
+Mount Zion,3,Chicago
+Felida,3,Los_Angeles
+Pitkin,3,Chicago
+Lubbock Christian University,5,Chicago
+Lake St. Croix Beach,6,Chicago
+East Lake (Oregon),6,Los_Angeles
+Canfield,3,New_York
+Los Olivos,4,Los_Angeles
+Northeast Wisconsin Technical College,5,Chicago
+Farmersville,3,Los_Angeles
+Rohnert Park,4,Los_Angeles
+McKinney Acres,4,Chicago
+Defiance County,4,New_York
+Nacogdoches,5,Chicago
+Carmel Valley Village,5,Los_Angeles
+Spokane Valley,4,Los_Angeles
+Osceola County,5,New_York
+Jacinto City,4,Chicago
+Millington,3,Chicago
+Mertzon,4,Chicago
+Loma Linda,4,Los_Angeles
+South Cle Elum,5,Los_Angeles
+Dixon Lane-Meadow Creek,7,Los_Angeles
+Rainbow Lakes Estates,4,New_York
+Mignon,3,Chicago
+Bonita,3,Los_Angeles
+Lake Riverside,3,Los_Angeles
+Woods Creek,3,Los_Angeles
+Strattanville,4,New_York
+Mammoth Lakes,4,Los_Angeles
+McRae-Helena,5,New_York
+Thibodaux,4,Chicago
+Mellette County,4,Chicago
+Alabaster,4,Chicago
+Adairsville,4,New_York
+Brinnon,3,Los_Angeles
+Ship Bottom,3,New_York
+Farmers Branch,3,Chicago
+Blythe,3,Los_Angeles
+Lacombe,3,Chicago
+West Carthage,3,New_York
+George Mason University,4,New_York
+Wabasso Beach,5,New_York
+Geyserville,4,Los_Angeles
+Snohomish,4,Los_Angeles
+Condon,3,Los_Angeles
+Mountain House,3,Los_Angeles
+Leisure Village,3,New_York
+Western Kentucky University,4,Chicago
+Taunton,3,New_York
+South Elgin,3,Chicago
+"Cathedral of the Immaculate Conception (Burlington, Vermont)",13,New_York
+Mandaree,3,Chicago
+Okemah,3,Chicago
+Issaquah,5,Los_Angeles
+Three Springs,3,New_York
+Solar Star,3,Los_Angeles
+Gallatin,3,Chicago
+Mitchell,2,Chicago
+Ansonia,3,New_York
+Holts Summit,4,Chicago
+Hale Center,3,Chicago
+Dworshak Dam,5,Los_Angeles
+South Paris,3,New_York
+Pine Knot,3,New_York
+Weaver,2,Chicago
+San Clemente Dam,4,Los_Angeles
+Barnhart,4,Chicago
+Mono Lake,3,Los_Angeles
+Quapaw,4,Chicago
+Bardonia,3,New_York
+Oconomowoc Lake,6,Chicago
+Bradenton Beach,4,New_York
+Los Ebanos,5,Chicago
+Lebec,3,Los_Angeles
+Roseville,3,Los_Angeles
+Stutsman County,5,Chicago
+Casa Loma,3,Los_Angeles
+Meadowbrook,4,New_York
+Oak Brook,3,Chicago
+Manhattan Beach,3,Los_Angeles
+Lake Madison,3,Chicago
+Sugarcreek,3,New_York
+Auxier,3,New_York
+Olivehurst,3,Los_Angeles
+West Plains,3,Chicago
+Evansdale,3,Chicago
+Soap Lake,3,Los_Angeles
+Glenmont,3,New_York
+Rockland,3,New_York
+Ventura County,4,Los_Angeles
+Finzel,3,New_York
+Post Falls,3,Los_Angeles
+Cathcart,3,Los_Angeles
+Napavine,4,Los_Angeles
+Creedmoor,3,New_York
+Tipp City,3,New_York
+Eva,2,Chicago
+Redding,3,Los_Angeles
+Louisville,2,New_York
+Vernon Parish,3,Chicago
+Cedarhurst,3,New_York
+Crystal Lake,3,Chicago
+Ochlocknee,4,New_York
+Island City,3,Los_Angeles
+Elizabeth Lake,3,Los_Angeles
+Moxee,3,Los_Angeles
+Grey Forest,3,Chicago
+Jurupa Valley,5,Los_Angeles
+Round Hill Village,4,Los_Angeles
+Lake Benton,3,Chicago
+Lake Ripley,3,Chicago
+Gasquet,3,Los_Angeles
+Chenoa,4,Chicago
+Winnebago,3,Chicago
+California State University,4,Los_Angeles
+Passaic,3,New_York
+Sawmills,3,New_York
+Erin,2,Chicago
+Brewer,3,New_York
+Linn Valley,3,Chicago
+Edgewood,3,New_York
+Academy of Art University,5,Los_Angeles
+Morton,3,Chicago
+Randallstown,3,New_York
+Girard,3,New_York
+Warfield Theatre,4,Los_Angeles
+San Andreas Lake,4,Los_Angeles
+Yakima,3,Los_Angeles
+La Grande,3,Los_Angeles
+Tuttle,3,Chicago
+Rockingham County,5,New_York
+Pagedale,3,Chicago
+Sonterra,3,Chicago
+Benton Park,4,Los_Angeles
+Tiptonville,4,Chicago
+Rollingwood,3,Los_Angeles
+Garnett,3,Chicago
+Lake Carmi,4,New_York
+Earle,3,Chicago
+Blue Mounds,4,Chicago
+House on the Rock,5,Chicago
+Falmouth Foreside,5,New_York
+Lowden,3,Chicago
+Salina,3,Chicago
+Doerun,3,New_York
+Calimesa,4,Los_Angeles
+Yonah,3,New_York
+Holstein,2,Chicago
+Whatcom County,4,Los_Angeles
+Puget Island,4,Los_Angeles
+Coulee Dam,4,Los_Angeles
+Scituate Reservoir,5,New_York
+Melcher-Dallas,5,Chicago
+"Cathedral of the Most Sacred Heart of Jesus (Knoxville, Tennessee)",16,New_York
+Lake Oswego,3,Los_Angeles
+Candler County,4,New_York
+Wheeler,2,Chicago
+Chickamauga,4,New_York
+Thrall,3,Chicago
+Stillman Valley,4,Chicago
+Whitney Peak Hotel,4,Los_Angeles
+First Presbyterian Church (Tulsa),8,Chicago
+Mill Plain,3,New_York
+West Carson,3,Los_Angeles
+East Atlantic Beach,4,New_York
+Weston,3,New_York
+Keedysville,5,New_York
+Park Falls,3,Chicago
+Epps,3,Chicago
+Bainbridge Island,4,Los_Angeles
+Old Field,3,New_York
+Strawberry,2,Los_Angeles
+Bray,2,Chicago
+Cape Charles,3,New_York
+William Carey University,4,Chicago
+Seven Valleys,4,New_York
+Valley City State University,5,Chicago
+Tuscaloosa County,4,Chicago
+Kenilworth,4,New_York
+Montara,3,Los_Angeles
+Piney Grove,4,New_York
+Discovery Bay,3,Los_Angeles
+Amarillo,3,Chicago
+Fall River Mills,4,Los_Angeles
+Cathlamet,4,Los_Angeles
+Port Townsend,3,Los_Angeles
+Darul Uloom Al-Madania,9,New_York
+Arapaho,4,Chicago
+Dalton Gardens,3,Los_Angeles
+Leland Grove,4,Chicago
+Dysart,3,Chicago
+Irvine,3,Los_Angeles
+Tall Timbers,4,New_York
+Lake Eleanor,3,Los_Angeles
+Coos Bay,4,Los_Angeles
+Collinwood,4,Chicago
+June Lake (California),6,Los_Angeles
+Port Royal,3,New_York
+Louisville,2,New_York
+Damiansville,5,Chicago
+Wynne,3,Chicago
+White Pine County,4,Los_Angeles
+Malvern,3,Chicago
+Jamestown West,4,New_York
+Keysville,3,New_York
+Lost Hills,3,Los_Angeles
+Boring,2,Los_Angeles
+Dunkerton,4,Chicago
+Sharonville,3,New_York
+Greenville,3,New_York
+Moorpark,3,Los_Angeles
+Glassmanor,4,New_York
+Lake Mary,3,New_York
+View Park-Windsor Hills,6,Los_Angeles
+Godley,3,Chicago
+Troy Hills,3,New_York
+Long Island University,4,New_York
+Indiantown,3,New_York
+Odell,3,Los_Angeles
+Tuxedo Park,4,New_York
+Walton Hills,4,New_York
+Terry County,3,Chicago
+Cerritos,4,Los_Angeles
+"Sacred Heart Church (Bowie, Maryland)",10,New_York
+Condon,3,Los_Angeles
+Del Monte Forest,4,Los_Angeles
+South Berwick,3,New_York
+Round Rock,3,Chicago
+Edisto,3,New_York
+Hillside,3,Chicago
+Harris Theater (Pittsburgh),6,New_York
+Breesport,4,New_York
+Arcadia Lakes,4,New_York
+Valley Springs,3,Los_Angeles
+Trophy Club,4,Chicago
+Fairfield,3,Los_Angeles
+Ste. Genevieve,4,Chicago
+Black Jack,3,Chicago
+Lobelville,4,Chicago
+Tehama County,4,Los_Angeles
+University of Western States,5,Los_Angeles
+North Massapequa,5,New_York
+Stayton,3,Los_Angeles
+Valley Cottage,3,New_York
+Nags Head,4,New_York
+University of Wisconsin–Marshfield/Wood County,10,Chicago
+Malibu,3,Los_Angeles
+Country Club,3,New_York
+Guthrie County,5,Chicago
+Bonanza,3,New_York
+Teays Valley,4,New_York
+Martin Lake,3,Chicago
+Escatawpa,4,Chicago
+American Jewish University,4,Los_Angeles
+Rancho Cucamonga,6,Los_Angeles
+Allouez,4,Chicago
+Havelock,3,New_York
+North Puyallup,5,Los_Angeles
+Freemansburg,5,New_York
+Mountain State University,4,New_York
+Fontbonne University,4,Chicago
+Great Neck Estates,4,New_York
+Oppelo,3,Chicago
+Shafer,3,Chicago
+California Lutheran University,4,Los_Angeles
+Piedmont University,4,Los_Angeles
+Cash,2,New_York
+Rich Hill,3,Chicago
+Alkali Lake (Oregon),7,Los_Angeles
+Clemson,3,New_York
+California Pacific School of Theology,6,Los_Angeles
+Stevens Point,3,Chicago
+Idabel,3,Chicago
+Edwards AFB,3,Los_Angeles
+Alex,2,Chicago
+California State University,4,Los_Angeles
+Maytown,3,New_York
+Lake California,3,Los_Angeles
+South Point,3,New_York
+Bastyr University,4,Los_Angeles
+Roan Mountain,4,New_York
+Parshall,4,Chicago
+Ben Hill County,4,New_York
+Precious Blood Catholic Church (Los Angeles),9,Los_Angeles
+Garnavillo,4,Chicago
+Arcadia University,4,New_York
+Desert Edge,3,Los_Angeles
+Georgia Southwestern State University,5,New_York
+Antioch University Santa Barbara,6,Los_Angeles
+Idamay,4,New_York
+Machias,3,Los_Angeles
+Macungie,4,New_York
+Central Washington University,4,Los_Angeles
+Snydertown,4,New_York
+Allardt,3,Chicago
+Redwood Valley,4,Los_Angeles
+Concord University,3,New_York
+Florida State University College of Arts and Sciences,9,New_York
+Satanta,3,Chicago
+Hardwick,3,New_York
+Challenge-Brownsville,6,Los_Angeles
+War,2,New_York
+Kernville,3,Los_Angeles
+Etowah County,5,Chicago
+Bulverde,3,Chicago
+One Main Place (Dallas),7,Chicago
+Wauzeka,4,Chicago
+Chattahoochee County,7,New_York
+Durhamville,3,New_York
+Gananda,3,New_York
+Rice Tracts,4,Chicago
+Ruch,3,Los_Angeles
+Hill Country Village,4,Chicago
+Raven,2,New_York
+Lesage,3,New_York
+Vandenberg Village,5,Los_Angeles
+Kennesaw State University College of Humanities and Social Sciences,12,New_York
+Falls Church,3,New_York
+Lanett,3,Chicago
+Wyocena,4,Chicago
+Dane,2,Chicago
+Corcoran,3,Los_Angeles
+Sloatsburg,4,New_York
+Cos Cob,3,New_York
+Panama,2,Chicago
+Towamensing Trails,5,New_York
+Good Thunder,3,Chicago
+Rosalia,3,Los_Angeles
+Arcata,3,Los_Angeles
+Woodmont,3,New_York
+Alderwood Manor,4,Los_Angeles
+Lackawanna County,5,New_York
+Vandenberg AFB,5,Los_Angeles
+Four Lakes,3,Los_Angeles
+Chiloquin,4,Los_Angeles
+Kitsap County,4,Los_Angeles
+Stanislaus County,5,Los_Angeles
+Grass Valley,3,Los_Angeles
+Nisswa,4,Chicago
+Cathedral City,4,Los_Angeles
+Millbrae,4,Los_Angeles
+Liberty University,3,New_York
+Institute of Buddhist Studies,5,Los_Angeles
+Lasara,3,Chicago
+Toomsuba,5,Chicago
+Lake Dallas,3,Chicago
+Hennepin,4,Chicago
+Bayview,3,Los_Angeles
+Mount Mercy University,4,Chicago
+Val Verde,3,Los_Angeles
+Barker Ten Mile,5,New_York
+Cathedral of Saint Paul (Minnesota),9,Chicago
+Phelps,3,New_York
+Littlefield,3,Chicago
+Burns Flat,3,Chicago
+Brown College,3,Chicago
+Armona,3,Los_Angeles
+East Tulare Villa,5,Los_Angeles
+Rose Lodge,3,Los_Angeles
+Pace University,3,New_York
+Stonybrook,4,New_York
+Forks,3,Los_Angeles
+University of Redlands,5,Los_Angeles
+Pearcy,3,Chicago
+Collegedale,3,New_York
+Tioga Terrace,5,New_York
+Rossmoor,3,Los_Angeles
+Interlaken,3,Los_Angeles
+Chesterbrook,3,New_York
+Lago Vista,3,Chicago
+Krugerville,4,Chicago
+Midtown,3,New_York
+Pottsgrove,4,New_York
+Elton,2,Chicago
+Clarkston Heights-Vineland,7,Los_Angeles
+Sterrett,3,Chicago
+Taft Mosswood,5,Los_Angeles
+Poway,3,Los_Angeles
+Rancho Mission Viejo,5,Los_Angeles
+UCLA Luskin School of Public Affairs,8,Los_Angeles
+Slippery Rock,4,New_York
+Fulton County,4,New_York
+"Saint Sophia Cathedral, Los Angeles",7,Los_Angeles
+Normandy,3,Chicago
+Buellton,4,Los_Angeles
+Squirrel Mountain Valley,4,Los_Angeles
+Plummer,3,Los_Angeles
+Hutchinson,3,Chicago
+Hessmer,4,Chicago
+Matawan,3,New_York
+International Vedic Hindu University,5,New_York
+Griffin,2,New_York
+Meadowdale,4,Los_Angeles
+Atwater,3,Los_Angeles
+Lake Elmore,4,New_York
+Yorkshire,2,New_York
+Racine,3,Chicago
+Bronxville,4,New_York
+Four Lakes,3,Los_Angeles
+Home Garden,3,Los_Angeles
+Western Illinois University,4,Chicago
+Dunnavant,4,Chicago
+Ray County,3,Chicago
+Homer Glen,3,Chicago
+University of La Verne,5,Los_Angeles
+Carson Mansion,3,Los_Angeles
+Terrebonne,3,Los_Angeles
+Koppel,3,New_York
+South Lockport,4,New_York
+Sterling City,3,Chicago
+Capon Bridge,4,New_York
+Hampton University,3,New_York
+Cortland West,4,New_York
+South Weldon,3,New_York
+Barrow County,4,New_York
+Pittsburg State University,6,Chicago
+D–Q University,5,Los_Angeles
+Santa Fe Springs,4,Los_Angeles
+Franklin Grove,3,Chicago
+Northland International University,5,Chicago
+Margate City,4,New_York
+University of Hartford,4,New_York
+University of Sacramento,4,Los_Angeles
+Our Lady of Lebanon Maronite Cathedral (Brooklyn),11,New_York
+Winchester,3,New_York
+Breckinridge Center,5,Chicago
+Moyie Springs,4,Los_Angeles
+Wheatfield,3,Chicago
+Apache,2,Chicago
+Sumas,3,Los_Angeles
+Ash Grove,3,Chicago
+New Lisbon,3,Chicago
+Golinda,3,Chicago
+Ingold,3,New_York
+Kayak Point,4,Los_Angeles
+Alamance County,4,New_York
+Elsa,2,Chicago
+Monroeville,5,New_York
+"Cathedral of Saint Joseph (Jefferson City, Missouri)",12,Chicago
+Fort Bragg,3,Los_Angeles
+Cincinnati Music Hall,4,New_York
+Plattsmouth,4,Chicago
+Cooper,2,Chicago
+Denair,3,Los_Angeles
+McMillin,4,Los_Angeles
+Blowing Rock,4,New_York
+Gig Harbor,3,Los_Angeles
+Pensacola State College,5,Chicago
+Gibraltar Dam,4,Los_Angeles
+Hasley Canyon,4,Los_Angeles
+San Perlita,4,Chicago
+Rock Church (San Diego),7,Los_Angeles
+June Lake (California),6,Los_Angeles
+North Brentwood,3,New_York
+San Luis Dam,4,Los_Angeles
+Pemadumcook Chain of Lakes,8,New_York
+Saylorville,4,Chicago
+Scottdale,3,New_York
+Lake Saint Clair,4,Chicago
+Cairnbrook,4,New_York
+Blennerhassett,6,New_York
+Poplar Hills,4,New_York
+Schurz,3,Los_Angeles
+Livingston Manor,4,New_York
+Rossmoor,3,Los_Angeles
+South Huntington,3,New_York
+Compton,3,Los_Angeles
+Beacon Hill,3,Los_Angeles
+Asbury Park,4,New_York
+Karnes County,4,Chicago
+Ridgebury,3,New_York
+Augusta State University,5,New_York
+East Carroll Parish,4,Chicago
+Pacolet,3,New_York
+Verdi,3,Los_Angeles
+Holiday Island,3,Chicago
+Bracey,3,New_York
+Assumption,2,Chicago
+Rainsville,4,Chicago
+Webber International University,5,New_York
+Darrington,3,Los_Angeles
+Odell Lake (Oregon),7,Los_Angeles
+Little Elm,3,Chicago
+Lake Winnibigoshish,7,Chicago
+Shreve,3,New_York
+North Apollo,3,New_York
+Biola,3,Los_Angeles
+Mineola,3,New_York
+Jacinto City,4,Chicago
+Coolville,3,New_York
+Sorrento,3,Chicago
+Blair,2,Chicago
+William Paterson University,4,New_York
+Bay Harbor Islands,4,New_York
+Staten Island,4,New_York
+Exton,3,New_York
+Connecticut Farms,3,New_York
+Sherrard,4,Chicago
+Institute of Buddhist Studies,5,Los_Angeles
+Lake Land'Or,5,New_York
+Crimora,4,New_York
+Dumfries,3,New_York
+Hanson County,4,Chicago
+Hotel Texas,3,Chicago
+Great Notch,3,New_York
+Woodland,2,Los_Angeles
+Lake Hughes,3,Los_Angeles
+Battell Chapel,4,New_York
+County Center,3,New_York
+Meadow Vale,4,New_York
+Atkinson County,4,New_York
+Savannah Technical College,4,New_York
+Plant City,3,New_York
+Harwood Heights,4,Chicago
+Albany County,3,New_York
+Green Harbor,3,New_York
+Golden Valley,3,Chicago
+Asotin,3,Los_Angeles
+Hermosa Beach,4,Los_Angeles
+Olla,3,Chicago
+Miami-Dade County,5,New_York
+Five Branches University,4,Los_Angeles
+Winnie,2,Chicago
+Hines,3,Los_Angeles
+Lake Lorelei,4,New_York
+Paradise Theater (Bronx),7,New_York
+North New Hyde Park,5,New_York
+White County,3,Chicago
+Echo,2,Los_Angeles
+Medina County,4,New_York
+Desert Hills,3,Los_Angeles
+Muscogee County,5,New_York
+Norris Canyon,4,Los_Angeles
+Running Springs,3,Los_Angeles
+Caruthers,4,Los_Angeles
+Rocky Mount,3,New_York
+University of Wisconsin–Waukesha,8,Chicago
+Mansfield Center,4,New_York
+Clinch County,4,New_York
+Crest Theatre,3,Los_Angeles
+Frost,2,Chicago
+Oatfield,3,Los_Angeles
+Howell County,4,Chicago
+Carrollton,3,Chicago
+Searcy County,4,Chicago
+Manatee County,4,New_York
+Lake St. Louis,5,Chicago
+McNair,4,New_York
+Shrine of the Sacred Heart,7,New_York
+Rio Dell,3,Los_Angeles
+Silver Firs,4,Los_Angeles
+Vernonia,3,Los_Angeles
+Lakewood Shores,4,Chicago
+Orpheum Theatre (Minneapolis),8,Chicago
+Ames Lake,3,Los_Angeles
+Aloha,2,Los_Angeles
+Cabazon,3,Los_Angeles
+Ogle County,4,Chicago
+San Rafael,3,Los_Angeles
+"School of International and Public Affairs, Columbia University",10,New_York
+Orland Park,4,Chicago
+Hayfork,3,Los_Angeles
+East Marion,3,New_York
+Cameron Park,3,Los_Angeles
+Bedford Heights,4,New_York
+Saegertown,4,New_York
+Colbert County,4,Chicago
+Edmonston,4,New_York
+Alondra Park,4,Los_Angeles
+Cornell University College of Veterinary Medicine,7,New_York
+Amite County,4,Chicago
+White Knoll,3,New_York
+Mexico,2,Chicago
+New Eagle,3,New_York
+Onset,3,New_York
+Martin's Additions,5,New_York
+Oklahoma State University–Oklahoma City,7,Chicago
+Momence,3,Chicago
+Fort Drum,3,New_York
+Sulligent,3,Chicago
+North Highlands,3,Los_Angeles
+Pecan Hill,4,Chicago
+Beavercreek,3,New_York
+Carbon12,4,Los_Angeles
+Camden County,4,New_York
+Monett,3,Chicago
+Oswego,3,Chicago
+Swartz,3,Chicago
+Continental Bank Building,4,New_York
+French Valley,3,Los_Angeles
+Pin Oak Acres,4,Chicago
+Gove County,4,Chicago
+Heritage Village,3,New_York
+Larue County,4,New_York
+The Sphere College Project,5,New_York
+San Clemente,3,Los_Angeles
+Boyes Hot Springs,5,Los_Angeles
+McLean,3,New_York
+Stone Mountain,3,New_York
+Raymondville,3,Chicago
+Esperance,3,Los_Angeles
+El Dorado County,4,Los_Angeles
+Carrizo Hill,5,Chicago
+Simsboro,3,Chicago
+Franciscan University of Steubenville,8,New_York
+Moses Lake North,4,Los_Angeles
+Butlertown,3,New_York
+Clendenin,4,New_York
+Mound Bayou,4,Chicago
+Placerville,4,Los_Angeles
+Sneads,3,Chicago
+Myrtle Creek,4,Los_Angeles
+Crescent City,4,Los_Angeles
+Atwood Lake,4,New_York
+Bret Harte,4,Los_Angeles
+Altavista,3,New_York
+Hawke Castle,4,Los_Angeles
+Ellsinore,5,Chicago
+Wheelersburg,3,New_York
+Ashdown,3,Chicago
+Melody Hill,3,Chicago
+Burwell,3,Chicago
+Lucas,2,Chicago
+Morocco,2,Chicago
+Herington,4,Chicago
+Lake Mojave,3,Los_Angeles
+Goldsboro,4,New_York
+Presidential Lakes Estates,4,New_York
+Seal Beach,3,Los_Angeles
+Spanaway,3,Los_Angeles
+Grenloch,3,New_York
+Kalama,3,Los_Angeles
+Sawgrass,3,New_York
+Bonham,3,Chicago
+Sauk County,4,Chicago
+Lake Sherwood,3,Los_Angeles
+Yreka,4,Los_Angeles
+Beatty,3,Los_Angeles
+Branson,3,Chicago
+Salem State University,4,New_York
+Cathedral Basilica of St. Joseph (San Jose),12,Los_Angeles
+Kopperston,4,New_York
+Circleville,3,New_York
+Como Lake (Minnesota),6,Chicago
+Bremer County,4,Chicago
+Grovetown,3,New_York
+Avalon Regal Theater,5,Chicago
+Corfu,3,New_York
+Arcadia,3,Los_Angeles
+Bakersfield,4,Los_Angeles
+Fort Cobb,3,Chicago
+Eureka,2,Los_Angeles
+American Canyon,3,Los_Angeles
+Weston Reservoir,4,New_York
+East Richmond Heights,4,Los_Angeles
+Olallie Scenic Area,6,Los_Angeles
+Palm Harbor,3,New_York
+Peletier,3,New_York
+Raintree Plantation,4,Chicago
+Del Rey,3,Los_Angeles
+Knowlton Hall,4,New_York
+La Monte,3,Chicago
+Pearl City,3,Chicago
+Mountain Mesa,3,Los_Angeles
+Salem,2,Los_Angeles
+Gurnee,3,Chicago
+Lavaca,3,Chicago
+Lovettsville,5,New_York
+Mathiston,4,Chicago
+Nez Perce County,5,Los_Angeles
+Fort Rucker,4,Chicago
+Pigeon Creek,3,New_York
+Austin Peay State University,6,Chicago
+Rosalia,3,Los_Angeles
+Old Dominion University POD,5,New_York
+San José State University,5,Los_Angeles
+"St. Mark's Episcopal Cathedral, Seattle",10,Los_Angeles
+Ashmore Estates,4,Chicago
+Goleta,4,Los_Angeles
+St. Martinville,5,Chicago
+Wasco,3,Los_Angeles
+Laurel Lake,3,New_York
+Bayview,3,Los_Angeles
+Thomas University,3,New_York
+Bourg,3,Chicago
+Rosemead,3,Los_Angeles
+Clatsop County,5,Los_Angeles
+Santa Paula,3,Los_Angeles
+Alta,2,Chicago
+Cement,2,Chicago
+Sherwood Manor,4,New_York
+Toombs County,4,New_York
+Faulkner County,4,Chicago
+Amery,3,Chicago
+Trinity Washington University,4,New_York
+La Mirada,4,Los_Angeles
+Tigard,3,Los_Angeles
+Mark Twain Lake,4,Chicago
+Lake Amador,4,Los_Angeles
+Reedsport,4,Los_Angeles
+Samuel Merritt University,4,Los_Angeles
+West Orange,3,Chicago
+White Bear Lake,4,Chicago
+Lake Monroe (Florida),6,New_York
+Brazos County,4,Chicago
+Douglass Hills,4,New_York
+Ogden Dunes,4,Chicago
+Oatfield,3,Los_Angeles
+Silverdale,3,Los_Angeles
+Tamalpais-Homestead Valley,8,Los_Angeles
+Snohomish,4,Los_Angeles
+Dorris,3,Los_Angeles
+East Pasadena,3,Los_Angeles
+Boiling Springs,3,New_York
+Autauga County,5,Chicago
+Gustine,3,Los_Angeles
+Snohomish County,5,Los_Angeles
+Adams,2,Chicago
+Arab,2,Chicago
+IBM Almaden Research Center,6,Los_Angeles
+Columbus Technical College,4,New_York
+Fossil,2,Los_Angeles
+Buena Vista Lake,4,Los_Angeles
+Hickory Creek,4,Chicago
+Bristol University,3,Los_Angeles
+Highgrove,3,Los_Angeles
+Wheaton College,4,New_York
+Monroe North,3,Los_Angeles
+Fremont,3,Los_Angeles
+Proctor,3,Chicago
+Spring Mount,3,New_York
+Golden Grove,3,New_York
+"California State University, Los Angeles",7,Los_Angeles
+Weiner,3,Chicago
+Mountain Creek Lake,4,Chicago
+Prairie Grove,3,Chicago
+Cedar Lake (New York),7,New_York
+Bally,3,New_York
+Old Orchard,3,New_York
+Olpe,3,Chicago
+Santa Rosa Range,4,Los_Angeles
+Newville,3,New_York
+Oregon County,3,Chicago
+Cleone,3,Los_Angeles
+Willow Creek,3,Los_Angeles
+Normal,2,Chicago
+Willisville,4,Chicago
+Orosi,3,Los_Angeles
+Dupont,3,New_York
+Cochran County,4,Chicago
+Hot Springs,3,Chicago
+San Pasqual,4,Los_Angeles
+Barnsdall,4,Chicago
+Floydada,3,Chicago
+Mellette County,4,Chicago
+Mount Cobb,3,New_York
+Vanguard University of Southern California,6,Los_Angeles
+Ramapo College of New Jersey,7,New_York
+Blanco County,3,Chicago
+Orleans Parish,4,Chicago
+Chapman,2,Chicago
+Boulder Creek,3,Los_Angeles
+West Hamlin,3,New_York
+Follansbee,5,New_York
+Litchfield County,4,New_York
+Grenada Lake,4,Chicago
+University of Rochester,4,New_York
+Mira Monte,3,Los_Angeles
+Glenn Heights,3,Chicago
+"State Theatre (State College, Pennsylvania)",9,New_York
+Pierce City,3,Chicago
+Kings Beach,3,Los_Angeles
+Willisville,4,Chicago
+Olde Stockdale,5,Los_Angeles
+Magalia,3,Los_Angeles
+Glenwood City,4,Chicago
+Martin Next Generation Solar Energy Center,7,New_York
+Big Beaver,3,New_York
+Bella Villa,3,Chicago
+Mount Ivy,3,New_York
+School of Visual Arts,5,New_York
+Loveland Park,4,New_York
+Cape May Court House,5,New_York
+Ingleside,4,Chicago
+Palm Valley,3,New_York
+Pataskala,4,New_York
+Walker Lake (Nevada),6,Los_Angeles
+San Leon,3,Chicago
+Saylorville,4,Chicago
+Somerville,3,New_York
+Kieler,3,Chicago
+St. Bonaventure University,6,New_York
+Schwana,3,Los_Angeles
+Grayslake,4,Chicago
+University of Wisconsin–Parkside,7,Chicago
+Roxie,3,Chicago
+Rocklin,3,Los_Angeles
+Fond du Lac,4,Chicago
+Parksley,3,New_York
+Point Place,3,Chicago
+Middle Amana,4,Chicago
+Mountainburg,3,Chicago
+Jackpot,3,Los_Angeles
+Martha Lake,3,Los_Angeles
+St. Augustine's Church (Bronx),11,New_York
+Walla Walla East,4,Los_Angeles
+Rosalia,3,Los_Angeles
+Barker Reservoir,4,Chicago
+Carmel Valley Village,5,Los_Angeles
+New Kingstown,4,New_York
+Munford,3,Chicago
+Patrick Springs,3,New_York
+San Rafael,3,Los_Angeles
+Jackling House,4,Los_Angeles
+Strafford County,5,New_York
+Sheatown,3,New_York
+Lakemore,3,New_York
+Omaha Community Playhouse,4,Chicago
+Murray County,3,New_York
+Roche Harbor,3,Los_Angeles
+Norman,2,Chicago
+Baldwin Park,3,Los_Angeles
+Groveton,4,New_York
+Alexandria City,3,New_York
+Port Angeles,3,Los_Angeles
+Rock Spring,3,New_York
+Lake Telemark,4,New_York
+Christiana,3,Chicago
+Lowden,3,Chicago
+Encinitas,3,Los_Angeles
+Rio Linda,3,Los_Angeles
+Valinda,3,Los_Angeles
+Harwick,3,New_York
+Oak View,3,Los_Angeles
+Midway South,4,Chicago
+Wade,2,Chicago
+Gasconade County,5,Chicago
+Happy,2,Chicago
+Alvin,2,Chicago
+Oroville,3,Los_Angeles
+Wyocena,4,Chicago
+Lake California,3,Los_Angeles
+Welaka,3,New_York
+Daphne,2,Chicago
+Hitchcock,3,Chicago
+Bremerton,4,Los_Angeles
+Lake Apopka,5,New_York
+Sonoma County,4,Los_Angeles
+Mayodan,3,New_York
+Bokchito,3,Chicago
+Eastman Lake,4,Los_Angeles
+Rio Hondo,4,Chicago
+Piketon,3,New_York
+Clementon,3,New_York
+Maple Heights-Lake Desire,6,Los_Angeles
+Canyon Creek,3,Los_Angeles
+Lake Delton,4,Chicago
+Ringling,3,Chicago
+Driscoll,3,Chicago
+Moorland,3,New_York
+Chino,3,Los_Angeles
+El Verano,4,Los_Angeles
+Loma Linda,4,Los_Angeles
+Western Kentucky University,4,Chicago
+Summerland,3,Los_Angeles
+Martinsville City,5,New_York
+Plum Grove,3,Chicago
+Vineyard Haven,4,New_York
+Cammack Village,5,Chicago
+Truckee,3,Los_Angeles
+Urbana University,4,New_York
+Iowa Falls,3,Chicago
+Delafield,4,Chicago
+Glen Burnie,4,New_York
+Navarre Beach,4,Chicago
+Riviera,3,Chicago
+70 Vestry,5,New_York
+Thomas Jefferson Building,4,New_York
+Naval Postgraduate School,4,Los_Angeles
+Hayden Lake,3,Los_Angeles
+Yulee,4,New_York
+DeForest,3,Chicago
+Machesney Park,5,Chicago
+John Paul the Great Catholic University,7,Los_Angeles
+Manheim,3,New_York
+Lake Ozark,3,Chicago
+Coeburn,4,New_York
+Renovo,3,New_York
+Gregory County,3,Chicago
+Blue Hole (Castalia),7,New_York
+Pierz,3,Chicago
+Port Gamble Tribal Community,5,Los_Angeles
+Lake Carmi,4,New_York
+Bertie County,4,New_York
+Orange Beach,3,Chicago
+Daniel Baker College,4,Chicago
+Willow Grove,3,New_York
+Rosman,3,New_York
+Piedmont University,4,Los_Angeles
+Simi Hills,4,Los_Angeles
+Saranap,4,Los_Angeles
+Herington,4,Chicago
+Owens Cross Roads,5,Chicago
+Hill-Crest,4,Los_Angeles
+Lehighton,4,New_York
+Academy of Art University,5,Los_Angeles
+Aptos Hills-Larkin Valley,9,Los_Angeles
+Tanglewilde,5,Los_Angeles
+Willow Park,3,Chicago
+Union Bridge,3,New_York
+St. Paul the Apostle Church and School,9,Los_Angeles
+Celeste,2,Chicago
+Two Rivers,3,Chicago
+Improv Asylum,4,New_York
+McRae,3,Chicago
+San Felipe,3,Chicago
+Lawson,3,Chicago
+St. Tammany Parish,6,Chicago
+Monahans,4,Chicago
+Penbrook,3,New_York
+Terre Hill,3,New_York
+Destrehan,4,Chicago
+Brambleton,4,New_York
+Sarepta,4,Chicago
+Karlstad,3,Chicago
+28 State Street,5,New_York
+Premont,3,Chicago
+Carlisle-Rockledge,6,Chicago
+Oakfield,3,Chicago
+Anaheim University,4,Los_Angeles
+Mullan,3,Los_Angeles
+Stockton,3,Los_Angeles
+Harkers Island,5,New_York
+Marymount University,4,New_York
+Wetumka,4,Chicago
+Santa Clara University,4,Los_Angeles
+Corona,2,Los_Angeles
+Arena,2,Chicago
+Glassport,3,New_York
+Elko County,4,Los_Angeles
+Sequim,3,Los_Angeles
+Texas Tech University College of Education,7,Chicago
+Azusa Pacific University,5,Los_Angeles
+Guilford Center,4,New_York
+Tullahoma,4,Chicago
+North Fair Oaks,4,Los_Angeles
+Wingdale,3,New_York
+Blue Mountain,3,Chicago
+Big River,3,Los_Angeles
+Cochran,3,New_York
+Kitsap County,4,Los_Angeles
+Revere,3,New_York
+Skyline Acres,4,New_York
+Diamond City,3,Chicago
+Barber County,3,Chicago
+Health Education Campus,4,New_York
+Universal City,3,Chicago
+Troutman,3,New_York
+Armstrong County,3,New_York
+"Landmark Theatre (Syracuse, New York)",9,New_York
+Tunica Resorts,4,Chicago
+McKinley,3,New_York
+Mount Sterling,3,New_York
+Boothwyn,3,New_York
+Holts Summit,4,Chicago
+Montesano,4,Los_Angeles
+Lexington,2,New_York
+Waskom,4,Chicago
+University of South Carolina Aiken,6,New_York
+Lake Kerr,3,New_York
+Catalina Casino,4,Los_Angeles
+La Croft,3,New_York
+Falmouth Foreside,5,New_York
+Startup,2,Los_Angeles
+St. Augustine Beach,5,New_York
+"University of California, Merced",6,Los_Angeles
+Roseboro,3,New_York
+Sadsburyville,4,New_York
+Syracuse University School of Education,6,New_York
+Troutdale,3,Los_Angeles
+Mississippi Valley State University,5,Chicago
+Naval Academy,3,New_York
+Taft Mosswood,5,Los_Angeles
+Priest River,3,Los_Angeles
+Hodges University,4,New_York
+Cape May Court House,5,New_York
+Oneida County,4,New_York
+Wanakah,4,New_York
+Caliente,3,Los_Angeles
+University Center Rochester,4,Chicago
+Ebensburg,3,New_York
+Lake Bemidji,5,Chicago
+Pat Mayse Lake,5,Chicago
+Frenchman's Tower,6,Los_Angeles
+Tuscarawas County,6,New_York
+Pacific University,3,Los_Angeles
+Tuscaloosa County,4,Chicago
+Lebanon,2,New_York
+Biggs,3,Los_Angeles
+Edgecliff Village,4,Chicago
+University of Virginia,4,New_York
+Joseph,2,Los_Angeles
+Seabrook Beach,4,New_York
+Kinney County,4,Chicago
+Clermont chain of lakes,6,New_York
+Dana Point,3,Los_Angeles
+Horseshoe Bay,4,Chicago
+Tye,3,Chicago
+Delaware Water Gap,4,New_York
+New Summerfield,4,Chicago
+Alexander County,3,New_York
+Idyllwild-Pine Cove,7,Los_Angeles
+Harkers Island,5,New_York
+Frazier Park,5,Los_Angeles
+Glasco,3,New_York
+Burney,3,Los_Angeles
+Holiday City-Berkeley,5,New_York
+La Harpe,4,Chicago
+Rodney Village,3,New_York
+Saint Mary's University of Minnesota,8,Chicago
+Colby,3,Chicago
+Poway,3,Los_Angeles
+Kenhorst,3,New_York
+West Virginia University,4,New_York
+Hempstead County,4,Chicago
+South Coventry,3,New_York
+Farrell,3,New_York
+Seaboard,3,New_York
+Glide Memorial Church,4,Los_Angeles
+Polonia,3,Chicago
+Rivergrove,3,Los_Angeles
+Santa Monica,3,Los_Angeles
+Sudden Valley,3,Los_Angeles
+Frost,2,Chicago
+Palos Hills,4,Chicago
+Mooringsport,4,Chicago
+Esmeralda County,4,Los_Angeles
+Camp Pendleton South,4,Los_Angeles
+San Diego,3,Los_Angeles
+Federal Way,3,Los_Angeles
+Grenelefe,4,New_York
+Paisley,3,New_York
+Godley,3,Chicago
+Lebec,3,Los_Angeles
+Raubsville,4,New_York
+Raleigh Hills,3,Los_Angeles
+Mount Orab,4,New_York
+Arcadia University,4,New_York
+McChord AFB,4,Los_Angeles
+Fall Lake (New York),7,New_York
+Birch Bay,3,Los_Angeles
+Falkville,3,Chicago
+Lake Nottely,4,New_York
+Mary Sharp College,4,Chicago
+Menifee County,5,New_York
+Kopperston,4,New_York
+Kenner,3,Chicago
+University of Texas at Austin College of Liberal Arts,10,Chicago
+Coward,3,New_York
+Meadowdale,4,Los_Angeles
+Perryton,3,Chicago
+North Weeki Wachee,7,New_York
+Ivalee,4,Chicago
+Terrace Heights,4,Los_Angeles
+Ashkum,3,Chicago
+Herguan University,4,Los_Angeles
+Stevenson Ranch,4,Los_Angeles
+Boronda,3,Los_Angeles
+Esmeralda County,4,Los_Angeles
+Orland,3,Los_Angeles
+Hilmar-Irwin,6,Los_Angeles
+Civic Center Music Hall,5,Chicago
+LIU Post,4,New_York
+Florida National University,4,New_York
+Minong,3,Chicago
+Missouri Valley,3,Chicago
+Lower Brule,4,Chicago
+South Dos Palos,5,Los_Angeles
+Diablo Lake,3,Los_Angeles
+Windermere,4,New_York
+Oakridge,3,Los_Angeles
+Walhalla,3,New_York
+Trophy Club,4,Chicago
+Burr Ridge,4,Chicago
+Grand Mound,3,Los_Angeles
+Beesleys Point,4,New_York
+Piñon Hills,4,Los_Angeles
+Troutdale,3,Los_Angeles
+Big Wells,3,Chicago
+North Adams,3,New_York
+Aumsville,4,Los_Angeles
+Florida State University College of Social Sciences,8,New_York
+Loon Lake,4,Los_Angeles
+Merriam Woods,4,Chicago
+Earle,3,Chicago
+Winlock,3,Los_Angeles
+Leisure Village West,4,New_York
+Ravenwood,3,Chicago
+Venice,2,New_York
+Times Square Church,4,New_York
+Crisfield,3,New_York
+Kissimmee,4,New_York
+Oxford Junction,3,Chicago
+Bonadelle Ranchos,6,Los_Angeles
+Savannah Technical College,4,New_York
+Summersville,4,New_York
+Naples Manor,3,New_York
+Arbuckle,3,Los_Angeles
+Big Lake,3,Chicago
+Stonewall County,4,Chicago
+Elton,2,Chicago
+Opelousas,4,Chicago
+Mendocino,3,Los_Angeles
+Buckhorn,3,Los_Angeles
+Vallejo,3,Los_Angeles
+Central Square,3,New_York
+Chesterbrook,3,New_York
+Mountain Lodge Lake,4,New_York
+Ochoco Mountains,4,Los_Angeles
+Somonauk,4,Chicago
+Glenvar Heights,4,New_York
+Bonsall,3,Los_Angeles
+South Cle Elum,5,Los_Angeles
+Martensdale,4,Chicago
+Keno,3,Los_Angeles
+Ransom County,4,Chicago
+University of Maine at Machias,7,New_York
+Middlebury Institute of International Studies at Monterey,9,Los_Angeles
+Elma,3,Los_Angeles
+Faulk County,4,Chicago
+Grinnell,3,Chicago
+Lavon,3,Chicago
+University of Saint Joseph,5,New_York
+Dakota,2,Chicago
+Nutter Fort,4,New_York
+Altoona,3,New_York
+Solana Beach,4,Los_Angeles
+Loma Linda University,5,Los_Angeles
+Bay Area Medical Academy,5,Los_Angeles
+District Heights,3,New_York
+University of the People,5,Los_Angeles
+Dewart,3,New_York
+Our Lady of the Wayside Church,8,Los_Angeles
+Clarksville,4,Chicago
+Oriental,2,New_York
+Zena,3,New_York
+Elkhorn City,5,New_York
+Krotz Springs,4,Chicago
+New Martinsville,4,New_York
+West Pittsburg,3,New_York
+Nuevo,2,Los_Angeles
+Columbus,2,New_York
+One St. Petersburg,5,New_York
+Cleora,3,Chicago
