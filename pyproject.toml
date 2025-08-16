@@ -22,9 +22,6 @@ pytest = "^8.3.5"
 ruff = "^0.11.11"
 pyright = "^1.1.401"
 
-[build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
 
 [tool.isort]
 profile = "black"
@@ -46,3 +43,13 @@ extend-select = ["UP", "TID", "I", "F", "E", "ARG"]
 [tool.pyright]
 typeCheckingMode = "basic"
 ignore = ["tests/_comparison"]
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.semantic_release]
+version_variables = ["sae_probes/__init__.py:__version__"]
+version_toml = ["pyproject.toml:tool.poetry.version"]
+build_command = "pip install poetry && poetry build"
+branches = { main = { match = "main" }, alpha = { match = "alpha", prerelease = true }, beta = { match = "beta", prerelease = true } }

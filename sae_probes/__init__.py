@@ -1,3 +1,5 @@
+__version__ = "0.1.0"
+
 from .generate_model_activations import generate_dataset_activations
 from .run_baselines import (
     run_all_baseline_class_imbalance,

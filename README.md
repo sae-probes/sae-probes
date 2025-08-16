@@ -5,30 +5,12 @@ This repository conains the code for the paper [_Are Sparse Autoencoders Useful?
 # Installation
 
 ```
-pip install sae-probes-benchmark
+pip install sae-probes
 ```
 
 ## Running evaluations
 
 You can run benchmarks directly; any missing model activations are generated on demand. If you don't pass a `model_cache_path`, a temporary directory is used and cleaned up when the function completes. To persist activations across runs (recommended for repeated experiments), provide a `model_cache_path`.
-
-### Optional: Pre-generating model activations
-
-Pre-generating can speed up repeated runs and lets you inspect the saved tensors. It's optional because benchmarks will auto-generate missing activations.
-
-```python
-from sae_probes import generate_dataset_activations
-
-generate_dataset_activations(
-  model_name="gemma-2-2b", # the TransformerLens name of the model
-  hook_names=["blocks.12.hook_resid_post"], # Any TLens hook names
-  batch_size=64,
-  device="cuda",
-  model_cache_path="/path/to/save/activations",
-)
-```
-
-If you skip pre-generation, the benchmarks will create any missing activations automatically. Passing a `model_cache_path` persists them; if omitted, activations will be written to a temporary directory that is deleted after the run.
 
 ## Training Probes
 
@@ -74,7 +56,6 @@ run_baseline_evals(
   model_name="gemma-2-2b",
   hook_name="blocks.12.hook_resid_post",
   setting="normal",  # or "scarcity", "imbalance"
-  method="logreg",   # or "pca", "knn", "xgboost", "mlp"
   results_path="/results/output/path",
   # model_cache_path is optional; if omitted, a temp dir is used and cleared after
   model_cache_path="/path/to/saved/activations",
@@ -89,6 +70,24 @@ Both SAE and baseline probes now save results as **JSON files** with consistent 
 - **Baseline results**: `baseline_results_{model_name}/{setting}_setting/{dataset}_{hook_name}_{method}.json`
 
 Each JSON file contains a list with metrics and metadata for easy comparison between SAE and baseline approaches.
+
+#### Optional: Pre-generating model activations
+
+Pre-generating can speed up repeated runs and lets you inspect the saved tensors. It's optional because benchmarks will auto-generate missing activations on their first run if missing.
+
+```python
+from sae_probes import generate_dataset_activations
+
+generate_dataset_activations(
+  model_name="gemma-2-2b", # the TransformerLens name of the model
+  hook_names=["blocks.12.hook_resid_post"], # Any TLens hook names
+  batch_size=64,
+  device="cuda",
+  model_cache_path="/path/to/save/activations",
+)
+```
+
+If you skip pre-generation, the benchmarks will create any missing activations automatically. Passing a `model_cache_path` persists them; if omitted, activations will be written to a temporary directory that is deleted after the run.
 
 ## Citation
 
