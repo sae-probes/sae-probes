@@ -259,7 +259,7 @@ def test_get_OOD_datasets_with_translation():
     # and "66_living-room_translations.csv" to "66_living-room_translations.csv" (it only removes "_OOD.csv" if present).
     assert "66_living-room" in datasets  # from 66_living-room_OOD.csv
     assert (
-        "66_living-room_translations.csv" in datasets
+        "66_living-room_translations" in datasets
     )  # from 66_living-room_translations.csv
 
     # Example of another OOD dataset

@@ -98,7 +98,7 @@ def generate_single_dataset_activations(
     batch_size: int = 32,
     OOD: bool = False,
 ):
-    dataset = pd.read_csv(dataset_path)
+    dataset = pd.read_csv(dataset_path, compression="gzip")
     if "prompt" not in dataset.columns:
         return
     dataset_short_name = str(dataset_path).split("/")[-1].split(".")[0]
@@ -229,7 +229,7 @@ def ensure_dataset_activations(
         dataset_path = (
             DATA_PATH
             / ("OOD data" if OOD else "cleaned_data")
-            / f"{dataset}{'_OOD' if OOD else ''}.csv"
+            / f"{dataset}{'_OOD' if OOD else ''}.csv.gz"
         )
         hooks_for_dataset = [h for d, h in to_generate if d == dataset]
         generate_single_dataset_activations(
