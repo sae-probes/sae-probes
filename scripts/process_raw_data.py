@@ -35,7 +35,7 @@ def process_csv_file(input_path: Path, output_path: Path) -> None:
 
     Args:
         input_path: Path to input CSV file
-        output_path: Path where output .csv.gz file should be saved
+        output_path: Path where output .csv.zst file should be saved
     """
     try:
         # Read the CSV file
@@ -50,7 +50,7 @@ def process_csv_file(input_path: Path, output_path: Path) -> None:
         output_path.parent.mkdir(parents=True, exist_ok=True)
 
         # Save as gzipped CSV
-        df.to_csv(output_path, compression="gzip", index=False)
+        df.to_csv(output_path, compression={"method": "zstd", "level": 17}, index=False)
         print(f"  Saved as gzipped CSV: {output_path}")
 
     except Exception as e:
@@ -95,8 +95,8 @@ def main() -> None:
         # Calculate relative path from raw_data_dir
         relative_path = csv_file.relative_to(raw_data_dir)
 
-        # Create output path with .csv.gz extension
-        output_path = output_base_dir / relative_path.with_suffix(".csv.gz")
+        # Create output path with .csv.zst extension
+        output_path = output_base_dir / relative_path.with_suffix(".csv.zst")
 
         # Process the file
         process_csv_file(csv_file, output_path)

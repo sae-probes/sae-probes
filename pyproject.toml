@@ -26,6 +26,7 @@ pandas = "^2.2.3"
 sae-bench = "^0.4.0"
 xgboost = "^3.0.2"
 hf-transfer = "^0.1.9"
+zstandard = ">=0.19.0"
 
 
 [tool.poetry.group.dev.dependencies]

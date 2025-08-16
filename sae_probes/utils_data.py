@@ -16,7 +16,7 @@ from sae_probes.generate_model_activations import ensure_dataset_activations
 @cache
 def get_binary_df() -> pd.DataFrame:
     # returns a list of the data tags for all binary classification datasets
-    df = pd.read_csv(DATA_PATH / "probing_datasets_MASTER.csv.gz", compression="gzip")
+    df = pd.read_csv(DATA_PATH / "probing_datasets_MASTER.csv.zst", compression="zstd")
     # Filter for Binary Classification datasets
     binary_datasets = df[df["Data type"] == "Binary Classification"]
     return binary_datasets  # type: ignore
@@ -35,9 +35,9 @@ def read_dataset_df(dataset_tag):
     dataset_save_name = df[df["Dataset Tag"] == dataset_tag]["Dataset save name"].iloc[  # type: ignore
         0
     ]
-    zipped_dataset_save_name = dataset_save_name + ".gz"
+    zipped_dataset_save_name = dataset_save_name + ".zst"
     # Read and return the dataset from the save location
-    return pd.read_csv(DATA_PATH / zipped_dataset_save_name, compression="gzip")
+    return pd.read_csv(DATA_PATH / zipped_dataset_save_name, compression="zstd")
 
 
 def read_numbered_dataset_df(numbered_dataset_tag: str):
@@ -255,19 +255,19 @@ def get_corrupt_frac():
 
 def get_OOD_datasets(translation: bool = True) -> list[str]:
     # translation tells us if we want that one living room dataset
-    dataset_names = glob.glob(str(DATA_PATH / "OOD data" / "*.csv.gz"))
-    # Extract dataset names from paths by taking the base filename without _OOD.csv.gz
+    dataset_names = glob.glob(str(DATA_PATH / "OOD data" / "*.csv.zst"))
+    # Extract dataset names from paths by taking the base filename without _OOD.csv.zst
     if translation:
         datasets = [
-            os.path.basename(path).replace("_OOD.csv.gz", "") for path in dataset_names
+            os.path.basename(path).replace("_OOD.csv.zst", "") for path in dataset_names
         ]
     else:
         datasets = [
-            os.path.basename(path).replace("_OOD.csv.gz", "")
+            os.path.basename(path).replace("_OOD.csv.zst", "")
             for path in dataset_names
             if "translation" not in path
         ]
-    return [d.replace(".csv.gz", "") for d in datasets]
+    return [d.replace(".csv.zst", "") for d in datasets]
 
 
 def get_xy_OOD(

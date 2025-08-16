@@ -88,7 +88,7 @@ def test_generate_single_dataset_activations(
     generate_single_dataset_activations(
         model=gpt2_model,
         model_name="gpt2",
-        dataset_path=str(DATA_PATH / "cleaned_data" / "119_us_state_TX.csv.gz"),
+        dataset_path=str(DATA_PATH / "cleaned_data" / "119_us_state_TX.csv.zst"),
         hook_names=["blocks.1.hook_resid_post", "blocks.2.hook_resid_post"],
         model_cache_path=tmp_path,
         device="cpu",

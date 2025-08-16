@@ -6,7 +6,7 @@ from sae_probes.constants import DATA_PATH
 from sae_probes.generate_model_activations import generate_single_dataset_activations
 
 TEST_DATASET_NAME = "119_us_state_TX"
-TEST_DATASET_PATH = DATA_PATH / "cleaned_data" / f"{TEST_DATASET_NAME}.csv.gz"
+TEST_DATASET_PATH = DATA_PATH / "cleaned_data" / f"{TEST_DATASET_NAME}.csv.zst"
 
 
 def generate_model_activations(
