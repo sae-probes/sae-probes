@@ -2,7 +2,6 @@ import random
 from dataclasses import dataclass
 from typing import NamedTuple
 
-import matplotlib.pyplot as plt
 import numpy as np
 import xgboost
 from joblib import Parallel, delayed
@@ -65,7 +64,6 @@ def find_best_reg(
     y_train,
     X_test,
     y_test,
-    plot: bool = False,
     n_jobs: int = -1,
     parallel: bool = False,
     penalty: str = "l2",
@@ -156,20 +154,11 @@ def find_best_reg(
         test_auc=float(test_auc),
         val_auc=float(val_auc),
     )
-    if plot:
-        plt.semilogx(Cs, avg_scores)
-        plt.xlabel("Inverse of Regularization Strength (C)")
-        met1_name, met2_name = "auc", "auc"
-        plt.ylabel(f"{met1_name} on validation data")
-        plt.title(
-            f"{'Logistic Regression'} Performance vs Regularization\nBest C = {best_C:.5f}; {met2_name} = {metrics.__dict__[met2_name]:.2f}"
-        )
-        plt.show()
     return BestClassifierResults(metrics=metrics, classifier=final_model, scaler=None)
 
 
 def find_best_pcareg(
-    X_train, y_train, X_test, y_test, plot: float = False, max_pca_comps: int = 100
+    X_train, y_train, X_test, y_test, max_pca_comps: int = 100
 ) -> BestClassifierResults:
     # Standardize the data
     scaler = StandardScaler()
@@ -246,24 +235,11 @@ def find_best_pcareg(
         val_auc=float(val_auc),
     )
 
-    if plot and X_combined_pca_full.shape[0] > 3:
-        plt.semilogx(pca_dimensions, scores)
-        plt.xlabel("Number of PCA Components")
-        plt.xscale("log", base=2)
-        met1_name, met2_name = "auc", "auc"
-        plt.ylabel(f"{met1_name} on validation data")
-        plt.title(
-            f"Best PCA dimension: {best_n_components}, {met2_name} = {metrics.__dict__[met2_name]:.2f}"
-        )
-        plt.show()
-
     assert best_model is not None
     return BestClassifierResults(metrics=metrics, classifier=best_model, scaler=scaler)
 
 
-def find_best_knn(
-    X_train, y_train, X_test, y_test, plot=False, n_jobs=-1
-) -> BestClassifierResults:
+def find_best_knn(X_train, y_train, X_test, y_test, n_jobs=-1) -> BestClassifierResults:
     # Standardize the data
     scaler = StandardScaler()
     X_combined_scaled = scaler.fit_transform(X_train)
@@ -337,15 +313,6 @@ def find_best_knn(
         test_auc=float(test_auc),
         val_auc=float(val_auc),
     )
-
-    if plot and X_train.shape[0] > 3:
-        plt.semilogx(k_values, scores)
-        plt.xlabel("Number of Neighbors (k)")
-        plt.xscale("log", base=2)
-        met1_name, met2_name = "auc", "auc"
-        plt.ylabel(f"{met1_name} on validation data")
-        plt.title(f"Best k: {best_k}, {met2_name} = {metrics.__dict__[met2_name]:.2f}")
-        plt.show()
 
     assert best_model is not None
     return BestClassifierResults(metrics, best_model, scaler)

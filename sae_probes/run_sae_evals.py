@@ -172,7 +172,6 @@ def run_sae_eval(
             y_train=y_train,
             X_test=X_test_filtered,
             y_test=y_test,
-            plot=False,
             n_jobs=-1,
             parallel=False,
             penalty=reg_type,
