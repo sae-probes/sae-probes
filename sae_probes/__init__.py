@@ -1,4 +1,4 @@
-__version__ = "0.1.3"
+__version__ = "0.1.4"
 
 from .generate_model_activations import generate_dataset_activations
 from .run_baselines import (

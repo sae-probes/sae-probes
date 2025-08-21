@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## v0.1.4 (2025-08-21)
+
+### Fix
+
+* fix: removing implicit matplotlib dep from main code ([`7b4d4be`](https://github.com/sae-probes/sae-probes/commit/7b4d4be5d4841b5a149a5555efd18a829a79e69b))
+
+* fix: remove sae-bench dependency ([`ed6833a`](https://github.com/sae-probes/sae-probes/commit/ed6833a74bab65ce440357e019218562e9818add))
+
 ## v0.1.3 (2025-08-16)
 
 ### Performance
