@@ -16,7 +16,9 @@ from sae_probes.generate_model_activations import ensure_dataset_activations
 @cache
 def get_binary_df() -> pd.DataFrame:
     # returns a list of the data tags for all binary classification datasets
-    df = pd.read_csv(DATA_PATH / "probing_datasets_MASTER.csv.zst", compression="zstd")
+    df = pd.read_csv(
+        DATA_PATH.parent.parent / "raw_data" / "probing_datasets_MASTER.csv"
+    )
     # Filter for Binary Classification datasets
     binary_datasets = df[df["Data type"] == "Binary Classification"]
     return binary_datasets  # type: ignore
