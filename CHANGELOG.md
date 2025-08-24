@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v0.1.5 (2025-08-24)
+
+### Fix
+
+* fix: fix formatting for 94_gen_ai csv file (#1) ([`e15b78d`](https://github.com/sae-probes/sae-probes/commit/e15b78dedd6ea9828ebb85abfc2bca34c041c300))
+
 ## v0.1.4 (2025-08-21)
 
 ### Fix
