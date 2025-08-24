@@ -49,8 +49,14 @@ def process_csv_file(input_path: Path, output_path: Path) -> None:
         # Create output directory if it doesn't exist
         output_path.parent.mkdir(parents=True, exist_ok=True)
 
-        # Save as gzipped CSV
-        df.to_csv(output_path, compression={"method": "zstd", "level": 17}, index=False)
+        # Save as gzipped CSV with proper quoting to handle embedded newlines
+        df.to_csv(
+            output_path,
+            compression={"method": "zstd", "level": 17},
+            index=False,
+            quoting=1,  # csv.QUOTE_ALL - quote all fields to handle embedded newlines
+            lineterminator="\n",  # Ensure consistent line endings
+        )
         print(f"  Saved as gzipped CSV: {output_path}")
 
     except Exception as e:

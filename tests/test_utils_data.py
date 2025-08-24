@@ -2,6 +2,8 @@ import numpy as np
 import pandas as pd
 import pytest
 
+from sae_probes.constants import DATA_PATH
+from sae_probes.generate_sae_activations import DATASET_SIZES
 from sae_probes.utils_data import (
     corrupt_ytrain,
     get_binary_df,
@@ -86,6 +88,50 @@ def test_get_dataset_sizes():
     assert sizes["5_hist_fig_ismale"] > 0
     assert "87_glue_cola" in sizes
     assert sizes["87_glue_cola"] > 0
+    assert sizes["94_ai_gen"] == 5000
+
+
+def test_read_numbered_dataset_df_94_ai_gen():
+    # Test with a "numbered" version of a known dataset tag
+    df = read_numbered_dataset_df(
+        "94_ai_gen"
+    )  # The number prefix is part of the filename
+    assert isinstance(df, pd.DataFrame)
+    assert len(df) == 5000
+    assert "target" in df.columns
+
+
+def test_processed_data_has_the_same_length_as_raw_data():
+    for dataset in DATASET_SIZES.keys():
+        df = pd.read_csv(
+            DATA_PATH.parent.parent / "raw_data" / "cleaned_data" / f"{dataset}.csv"
+        )
+        assert len(df) == DATASET_SIZES[dataset]
+
+
+def test_read_numbered_dataset_df_has_the_same_content_as_raw_data():
+    for dataset in DATASET_SIZES.keys():
+        df = read_numbered_dataset_df(dataset)
+        og_df = pd.read_csv(
+            DATA_PATH.parent.parent / "raw_data" / "cleaned_data" / f"{dataset}.csv"
+        )
+        assert len(df) == len(og_df)
+        # iterate over all the rows and assert the values are the same
+        for col in df.columns:
+            if col in og_df.columns:
+                # Truncate string values to 8192 characters for comparison
+                df_col = df[col].reset_index(drop=True)
+                og_col = og_df[col].reset_index(drop=True)
+
+                if df_col.dtype == "object":  # String columns
+                    df_col = df_col.astype(str).str[:8192]
+                    og_col = og_col.astype(str).str[:8192]
+
+                pd.testing.assert_series_equal(
+                    df_col,
+                    og_col,
+                    check_names=False,
+                )
 
 
 def test_get_yvals_returns_numpy_array():
@@ -277,3 +323,30 @@ def test_get_OOD_datasets_without_translation():
     assert (
         "66_living-room" in datasets
     )  # This one does not have "translation" in its name
+
+
+def test_get_train_test_indices_with_94_ai_gen():
+    y = get_yvals("94_ai_gen")
+    size = DATASET_SIZES["94_ai_gen"]
+    num_train = min(size - 100, 1024)
+    print(f"num_train: {num_train}, size: {size}")
+    num_test = y.shape[0] - num_train - 1
+    pos_ratio = 0.5
+    train_indices, test_indices = get_train_test_indices(
+        y, num_train, num_test, pos_ratio, seed=42
+    )
+    assert len(train_indices) == num_train
+    assert len(test_indices) == num_test
+
+
+def test_get_train_test_indices_with_119_us_state_TX():
+    y = get_yvals("119_us_state_TX")
+    size = DATASET_SIZES["119_us_state_TX"]
+    num_train = min(size - 100, 1024)
+    num_test = y.shape[0] - num_train - 1
+    pos_ratio = 0.5
+    train_indices, test_indices = get_train_test_indices(
+        y, num_train, num_test, pos_ratio, seed=42
+    )
+    assert len(train_indices) == num_train
+    assert len(test_indices) == num_test
