@@ -229,16 +229,20 @@ def run_sae_evals(
     binarize: bool = False,
     results_path: str | Path = DEFAULT_RESULTS_PATH,
     model_cache_path: str | Path | None = None,
+    datasets: list[str] | None = None,
+    device: str = "cuda",
 ):
+    if datasets is None:
+        datasets = DATASETS
     with resolve_model_cache_path(model_cache_path) as resolved_cache_path:
         ensure_dataset_activations(
             model_name=model_name,
-            dataset_short_names=DATASETS,
+            dataset_short_names=datasets,
             hook_names=[hook_name],
             model_cache_path=resolved_cache_path,
-            device="cpu",
+            device=device,
         )
-        for dataset in DATASETS:
+        for dataset in datasets:
             # Handle different settings
             if setting == "normal":
                 save_path = get_save_metrics_path(
@@ -269,6 +273,7 @@ def run_sae_evals(
                         binarize=binarize,
                         ks=ks,
                         results_path=results_path,
+                        device=device,
                     )
                     assert success
             elif setting == "scarcity":
@@ -304,6 +309,7 @@ def run_sae_evals(
                             num_train=num_train,
                             ks=ks,
                             results_path=results_path,
+                            device=device,
                         )
                         assert success
             elif setting == "imbalance":
@@ -337,6 +343,7 @@ def run_sae_evals(
                             frac=frac,
                             ks=ks,
                             results_path=results_path,
+                            device=device,
                         )
                         assert success
             else:

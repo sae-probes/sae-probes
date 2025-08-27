@@ -9,6 +9,10 @@ from .run_baselines import (
     run_baseline_evals,
 )
 from .run_sae_evals import run_sae_evals
+from .utils_data import get_numbered_binary_tags
+
+DATASETS = get_numbered_binary_tags()
+
 
 __all__ = [
     "generate_dataset_activations",
@@ -18,4 +22,5 @@ __all__ = [
     "run_all_baseline_corrupt",
     "run_all_baseline_normal",
     "run_all_baseline_scarcity",
+    "DATASETS",
 ]
