@@ -5,7 +5,6 @@ from dataclasses import asdict
 from pathlib import Path
 from typing import Any, Callable, Literal
 
-import numpy as np
 import pandas as pd
 import torch
 from tqdm.auto import tqdm
@@ -19,7 +18,6 @@ from .utils_data import (
     get_classimabalance_num_train,
     get_corrupt_frac,
     get_dataset_sizes,
-    get_datasets,
     get_numbered_binary_tags,
     get_training_sizes,
     get_xy_traintest,
@@ -161,24 +159,24 @@ def run_all_baseline_normal(
     results_path: str | Path = DEFAULT_RESULTS_PATH,
     model_cache_path: str | Path | None = None,
     methods: Sequence[Method] = DEFAULT_METHODS,
+    datasets: list[str] | None = None,
+    device: str = "cuda",
 ):
+    if datasets is None:
+        datasets = DATASETS
     with resolve_model_cache_path(model_cache_path) as resolved_cache_path:
         # Ensure all activations exist
         ensure_dataset_activations(
             model_name=model_name,
-            dataset_short_names=DATASETS,
+            dataset_short_names=datasets,
             hook_names=[hook_name],
             model_cache_path=resolved_cache_path,
-            device="cpu",
+            device=device,
         )
 
-        shuffled_datasets = get_datasets(
-            model_name, hook_name=hook_name, model_cache_path=resolved_cache_path
-        ).copy()
-        np.random.shuffle(shuffled_datasets)
         for method_name in tqdm(methods, desc="Methods", position=0):
             for dataset in tqdm(
-                shuffled_datasets,
+                datasets,
                 desc=f"{method_name} Datasets",
                 position=1,
                 leave=False,
@@ -273,27 +271,27 @@ def run_all_baseline_scarcity(
     results_path: str | Path = DEFAULT_RESULTS_PATH,
     model_cache_path: str | Path | None = None,
     methods: Sequence[Method] = DEFAULT_METHODS,
+    datasets: list[str] | None = None,
+    device: str = "cuda",
 ):
+    if datasets is None:
+        datasets = DATASETS
     with resolve_model_cache_path(model_cache_path) as resolved_cache_path:
         ensure_dataset_activations(
             model_name=model_name,
-            dataset_short_names=DATASETS,
+            dataset_short_names=datasets,
             hook_names=[hook_name],
             model_cache_path=resolved_cache_path,
-            device="cpu",
+            device=device,
         )
 
-        shuffled_datasets = get_datasets(
-            model_name, hook_name=hook_name, model_cache_path=resolved_cache_path
-        ).copy()
-        np.random.shuffle(shuffled_datasets)
         train_sizes = get_training_sizes()
         for method_name in tqdm(methods, desc="Methods", position=0):
             for train in tqdm(
                 train_sizes, desc=f"{method_name} Train Sizes", position=1, leave=False
             ):
                 for dataset in tqdm(
-                    shuffled_datasets,
+                    datasets,
                     desc=f"{method_name} ({train}) Datasets",
                     position=2,
                     leave=False,
@@ -391,27 +389,27 @@ def run_all_baseline_class_imbalance(
     results_path: str | Path = DEFAULT_RESULTS_PATH,
     model_cache_path: str | Path | None = None,
     methods: Sequence[Method] = DEFAULT_METHODS,
+    datasets: list[str] | None = None,
+    device: str = "cuda",
 ):
+    if datasets is None:
+        datasets = DATASETS
     with resolve_model_cache_path(model_cache_path) as resolved_cache_path:
         ensure_dataset_activations(
             model_name=model_name,
-            dataset_short_names=DATASETS,
+            dataset_short_names=datasets,
             hook_names=[hook_name],
             model_cache_path=resolved_cache_path,
-            device="cpu",
+            device=device,
         )
 
-        shuffled_datasets = get_datasets(
-            model_name, hook_name=hook_name, model_cache_path=resolved_cache_path
-        ).copy()
-        np.random.shuffle(shuffled_datasets)
         fracs = get_class_imbalance()
         for method_name in tqdm(methods, desc="Methods", position=0):
             for frac in tqdm(
                 fracs, desc=f"{method_name} Fractions", position=1, leave=False
             ):
                 for dataset in tqdm(
-                    shuffled_datasets,
+                    datasets,
                     desc=f"{method_name} (frac {frac:.2f}) Datasets",
                     position=2,
                     leave=False,
@@ -434,6 +432,8 @@ def run_baseline_evals(
     method: Method = "logreg",
     results_path: str | Path = DEFAULT_RESULTS_PATH,
     model_cache_path: str | Path | None = None,
+    datasets: list[str] | None = None,
+    device: str = "cuda",
 ):
     """Unified function to run baseline evaluations with consistent API to SAE benchmarks.
 
@@ -454,6 +454,8 @@ def run_baseline_evals(
             results_path=results_path,
             model_cache_path=model_cache_path,
             methods=methods,
+            datasets=datasets,
+            device=device,
         )
     elif setting == "scarcity":
         run_all_baseline_scarcity(
@@ -462,6 +464,8 @@ def run_baseline_evals(
             results_path=results_path,
             model_cache_path=model_cache_path,
             methods=methods,
+            datasets=datasets,
+            device=device,
         )
     elif setting == "imbalance":
         run_all_baseline_class_imbalance(
@@ -470,6 +474,8 @@ def run_baseline_evals(
             results_path=results_path,
             model_cache_path=model_cache_path,
             methods=methods,
+            datasets=datasets,
+            device=device,
         )
     else:
         raise ValueError(
@@ -535,24 +541,24 @@ def run_all_baseline_corrupt(
     hook_name: str,
     results_path: str | Path = DEFAULT_RESULTS_PATH,
     model_cache_path: str | Path | None = None,
+    datasets: list[str] | None = None,
+    device: str = "cuda",
 ):
+    if datasets is None:
+        datasets = DATASETS
     with resolve_model_cache_path(model_cache_path) as resolved_cache_path:
         ensure_dataset_activations(
             model_name=model_name,
-            dataset_short_names=DATASETS,
+            dataset_short_names=datasets,
             hook_names=[hook_name],
             model_cache_path=resolved_cache_path,
-            device="cpu",
+            device=device,
         )
 
-        shuffled_datasets = get_datasets(
-            model_name, hook_name=hook_name, model_cache_path=resolved_cache_path
-        ).copy()
-        np.random.shuffle(shuffled_datasets)
         fracs = get_corrupt_frac()
         for frac in tqdm(fracs, desc="Corrupt Fracs (logreg)", position=0):
             for dataset in tqdm(
-                shuffled_datasets,
+                datasets,
                 desc=f"Datasets (logreg, frac {frac:.2f})",
                 position=1,
                 leave=False,

@@ -24,7 +24,7 @@ def get_binary_df() -> pd.DataFrame:
     return binary_datasets  # type: ignore
 
 
-def get_numbered_binary_tags():
+def get_numbered_binary_tags() -> list[str]:
     df = get_binary_df()
     return [name.split("/")[-1].split(".")[0] for name in df["Dataset save name"]]
 
