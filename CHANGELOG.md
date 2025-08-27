@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v0.2.0 (2025-08-27)
+
+### Feature
+
+* feat: adding option to restrict the datasets being run (#2) ([`1c8ba69`](https://github.com/sae-probes/sae-probes/commit/1c8ba69c52a1ee190d25207180350b770d044312))
+
 ## v0.1.5 (2025-08-24)
 
 ### Fix
