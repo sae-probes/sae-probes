@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## v0.2.1 (2025-10-04)
+
+### Fix
+
+* fix: load processed and zipped csv rather than raw data (#3)
+
+This PR fixes a bug where we&#39;re trying to load the raw CSV dataset
+rather than dataset included in the packaged wheel ([`471e57a`](https://github.com/sae-probes/sae-probes/commit/471e57af8d21096620bdd78c76268a5f30a6d583))
+
 ## v0.2.0 (2025-08-27)
 
 ### Feature
