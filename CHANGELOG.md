@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## v0.2.2 (2025-10-30)
+
+### Fix
+
+* fix: handle negative SAE acts when normalizing (#4)
+
+This PR takes the absolute value of activations when calculating their
+mean for normalizing mean-diff sorting. This should have no effect for
+current SAEs, but should help avoid dividing by 0 for SAEs that can take
+on negative activation values, like [AbsTopK
+SAEs](https://arxiv.org/abs/2510.00404). ([`aeb2ce7`](https://github.com/sae-probes/sae-probes/commit/aeb2ce7582e5bbe79cb7607e7b5cb8b559d5c25b))
+
 ## v0.2.1 (2025-10-04)
 
 ### Fix
