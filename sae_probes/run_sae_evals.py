@@ -100,17 +100,20 @@ def get_sorted_indices(X_train_sae, y_train):
 
 
 def get_sorted_indices_new(X_train_sae, y_train):
-    col_sums = X_train_sae.sum(dim=0)
-    col_nonzero_counts = (X_train_sae != 0).sum(dim=0)
-    col_means = col_sums / (col_nonzero_counts + 1e-6)
-
-    # Divide each col by the average of the col
-    X_train_sae_normalized = X_train_sae / (col_means + 1e-6)
+    X_train_sae_normalized = normalize_sae_activations(X_train_sae)
     X_train_diff = X_train_sae_normalized[y_train == 1].mean(
         dim=0
     ) - X_train_sae_normalized[y_train == 0].mean(dim=0)
     sorted_indices = torch.argsort(torch.abs(X_train_diff), descending=True)
     return sorted_indices
+
+
+def normalize_sae_activations(X_sae):
+    # take abs to handle negative values in the SAE activations for novel architectures.
+    col_sums = X_sae.abs().sum(dim=0)
+    col_nonzero_counts = (X_sae != 0).sum(dim=0)
+    col_means = col_sums / (col_nonzero_counts + 1e-6)
+    return X_sae / (col_means + 1e-6)
 
 
 def run_sae_eval(

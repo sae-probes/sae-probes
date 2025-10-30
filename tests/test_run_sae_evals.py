@@ -2,17 +2,124 @@ import json
 from pathlib import Path
 
 import pytest
+import torch
 from sae_lens import SAE
 from transformer_lens import HookedTransformer
 
 from sae_probes.constants import RegType, Setting
-from sae_probes.run_sae_evals import get_save_metrics_path, run_sae_eval, run_sae_evals
+from sae_probes.run_sae_evals import (
+    get_save_metrics_path,
+    normalize_sae_activations,
+    run_sae_eval,
+    run_sae_evals,
+)
 from sae_probes.utils_data import (
     get_class_imbalance,
     get_dataset_sizes,
     get_training_sizes,
 )
 from tests.helpers import TEST_DATASET_NAME, generate_model_activations
+
+
+def test_normalize_sae_activations_basic() -> None:
+    # Test basic normalization with positive values
+    X_sae = torch.tensor([[1.0, 2.0, 0.0], [2.0, 0.0, 3.0], [0.0, 4.0, 6.0]])
+
+    result = normalize_sae_activations(X_sae)
+
+    # Check that result has same shape
+    assert result.shape == X_sae.shape
+
+    # Manually calculate expected values
+    # Column 0: values [1.0, 2.0, 0.0], non-zero count = 2, sum = 3.0, mean = 1.5
+    # Column 1: values [2.0, 0.0, 4.0], non-zero count = 2, sum = 6.0, mean = 3.0
+    # Column 2: values [0.0, 3.0, 6.0], non-zero count = 2, sum = 9.0, mean = 4.5
+
+    expected = torch.tensor(
+        [
+            [1.0 / 1.5, 2.0 / 3.0, 0.0 / 4.5],
+            [2.0 / 1.5, 0.0 / 3.0, 3.0 / 4.5],
+            [0.0 / 1.5, 4.0 / 3.0, 6.0 / 4.5],
+        ]
+    )
+
+    torch.testing.assert_close(result, expected, rtol=1e-5, atol=1e-6)
+
+
+def test_normalize_sae_activations_with_negative_values() -> None:
+    # Test that negative values are handled correctly (abs is taken)
+    X_sae = torch.tensor([[-1.0, 2.0, 0.0], [2.0, 0.0, -3.0], [0.0, -4.0, 6.0]])
+
+    result = normalize_sae_activations(X_sae)
+
+    # Check that result has same shape
+    assert result.shape == X_sae.shape
+
+    # Manually calculate expected values using abs for means
+    # Column 0: abs values [1.0, 2.0, 0.0], non-zero count = 2, sum = 3.0, mean = 1.5
+    # Column 1: abs values [2.0, 0.0, 4.0], non-zero count = 2, sum = 6.0, mean = 3.0
+    # Column 2: abs values [0.0, 3.0, 6.0], non-zero count = 2, sum = 9.0, mean = 4.5
+
+    expected = torch.tensor(
+        [
+            [-1.0 / 1.5, 2.0 / 3.0, 0.0 / 4.5],
+            [2.0 / 1.5, 0.0 / 3.0, -3.0 / 4.5],
+            [0.0 / 1.5, -4.0 / 3.0, 6.0 / 4.5],
+        ]
+    )
+
+    torch.testing.assert_close(result, expected, rtol=1e-5, atol=1e-6)
+
+
+def test_normalize_sae_activations_all_zeros_column() -> None:
+    # Test handling of columns with all zeros
+    X_sae = torch.tensor([[1.0, 0.0, 2.0], [2.0, 0.0, 0.0], [0.0, 0.0, 4.0]])
+
+    result = normalize_sae_activations(X_sae)
+
+    # Check that result has same shape
+    assert result.shape == X_sae.shape
+
+    # Column 1 has all zeros, so col_means[1] = 0 / (0 + 1e-6) = 0
+    # Division by (0 + 1e-6) should give very large values
+    # Column 0: mean = 3.0/2 = 1.5
+    # Column 2: mean = 6.0/2 = 3.0
+
+    expected = torch.tensor(
+        [
+            [1.0 / 1.5, 0.0 / 1e-6, 2.0 / 3.0],
+            [2.0 / 1.5, 0.0 / 1e-6, 0.0 / 3.0],
+            [0.0 / 1.5, 0.0 / 1e-6, 4.0 / 3.0],
+        ]
+    )
+
+    torch.testing.assert_close(result, expected, rtol=1e-5, atol=1e-6)
+
+
+def test_normalize_sae_activations_single_row() -> None:
+    # Test with single row
+    X_sae = torch.tensor([[1.0, 2.0, 0.0, -3.0]])
+
+    result = normalize_sae_activations(X_sae)
+
+    # Each column has at most one non-zero value, so means are just the abs values
+    expected = torch.tensor([[1.0 / 1.0, 2.0 / 2.0, 0.0 / 1e-6, -3.0 / 3.0]])
+
+    torch.testing.assert_close(result, expected, rtol=1e-5, atol=1e-6)
+
+
+def test_normalize_sae_activations_single_column() -> None:
+    # Test with single column
+    X_sae = torch.tensor([[1.0], [0.0], [2.0], [-1.0]])
+
+    result = normalize_sae_activations(X_sae)
+
+    # Column has values [1.0, 0.0, 2.0, -1.0], abs sum = 4.0, non-zero count = 3, mean = 4.0/3
+    expected = torch.tensor(
+        [[1.0 / (4.0 / 3)], [0.0 / (4.0 / 3)], [2.0 / (4.0 / 3)], [-1.0 / (4.0 / 3)]]
+    )
+
+    torch.testing.assert_close(result, expected, rtol=1e-5, atol=1e-6)
 
 
 @pytest.mark.parametrize("reg_type", ["l1", "l2"])
