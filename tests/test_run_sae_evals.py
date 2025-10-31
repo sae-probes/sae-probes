@@ -9,7 +9,8 @@ from transformer_lens import HookedTransformer
 from sae_probes.constants import RegType, Setting
 from sae_probes.run_sae_evals import (
     get_save_metrics_path,
-    normalize_sae_activations,
+    get_sorted_indices,
+    mean_act_normalization,
     run_sae_eval,
     run_sae_evals,
 )
@@ -21,11 +22,11 @@ from sae_probes.utils_data import (
 from tests.helpers import TEST_DATASET_NAME, generate_model_activations
 
 
-def test_normalize_sae_activations_basic() -> None:
+def test_mean_act_normalization_basic() -> None:
     # Test basic normalization with positive values
     X_sae = torch.tensor([[1.0, 2.0, 0.0], [2.0, 0.0, 3.0], [0.0, 4.0, 6.0]])
 
-    result = normalize_sae_activations(X_sae)
+    result = mean_act_normalization(X_sae)
 
     # Check that result has same shape
     assert result.shape == X_sae.shape
@@ -46,11 +47,11 @@ def test_normalize_sae_activations_basic() -> None:
     torch.testing.assert_close(result, expected, rtol=1e-5, atol=1e-6)
 
 
-def test_normalize_sae_activations_with_negative_values() -> None:
+def test_mean_act_normalization_with_negative_values() -> None:
     # Test that negative values are handled correctly (abs is taken)
     X_sae = torch.tensor([[-1.0, 2.0, 0.0], [2.0, 0.0, -3.0], [0.0, -4.0, 6.0]])
 
-    result = normalize_sae_activations(X_sae)
+    result = mean_act_normalization(X_sae)
 
     # Check that result has same shape
     assert result.shape == X_sae.shape
@@ -71,11 +72,11 @@ def test_normalize_sae_activations_with_negative_values() -> None:
     torch.testing.assert_close(result, expected, rtol=1e-5, atol=1e-6)
 
 
-def test_normalize_sae_activations_all_zeros_column() -> None:
+def test_mean_act_normalization_all_zeros_column() -> None:
     # Test handling of columns with all zeros
     X_sae = torch.tensor([[1.0, 0.0, 2.0], [2.0, 0.0, 0.0], [0.0, 0.0, 4.0]])
 
-    result = normalize_sae_activations(X_sae)
+    result = mean_act_normalization(X_sae)
 
     # Check that result has same shape
     assert result.shape == X_sae.shape
@@ -96,11 +97,11 @@ def test_normalize_sae_activations_all_zeros_column() -> None:
     torch.testing.assert_close(result, expected, rtol=1e-5, atol=1e-6)
 
 
-def test_normalize_sae_activations_single_row() -> None:
+def test_mean_act_normalization_single_row() -> None:
     # Test with single row
     X_sae = torch.tensor([[1.0, 2.0, 0.0, -3.0]])
 
-    result = normalize_sae_activations(X_sae)
+    result = mean_act_normalization(X_sae)
 
     # Each column has at most one non-zero value, so means are just the abs values
     expected = torch.tensor([[1.0 / 1.0, 2.0 / 2.0, 0.0 / 1e-6, -3.0 / 3.0]])
@@ -108,11 +109,11 @@ def test_normalize_sae_activations_single_row() -> None:
     torch.testing.assert_close(result, expected, rtol=1e-5, atol=1e-6)
 
 
-def test_normalize_sae_activations_single_column() -> None:
+def test_mean_act_normalization_single_column() -> None:
     # Test with single column
     X_sae = torch.tensor([[1.0], [0.0], [2.0], [-1.0]])
 
-    result = normalize_sae_activations(X_sae)
+    result = mean_act_normalization(X_sae)
 
     # Column has values [1.0, 0.0, 2.0, -1.0], abs sum = 4.0, non-zero count = 3, mean = 4.0/3
     expected = torch.tensor(
@@ -120,6 +121,124 @@ def test_normalize_sae_activations_single_column() -> None:
     )
 
     torch.testing.assert_close(result, expected, rtol=1e-5, atol=1e-6)
+
+
+def test_get_sorted_indices_without_normalization() -> None:
+    X_train_sae = torch.tensor(
+        [
+            [1.0, 2.0, 0.0],
+            [2.0, 3.0, 1.0],
+            [0.0, 0.0, 5.0],
+            [0.0, 1.0, 4.0],
+        ]
+    )
+    y_train = torch.tensor([0, 0, 1, 1])
+
+    sorted_indices = get_sorted_indices(X_train_sae, y_train, normalize_fn=None)
+
+    class_0_mean = torch.tensor([1.5, 2.5, 0.5])
+    class_1_mean = torch.tensor([0.0, 0.5, 4.5])
+    diff = torch.abs(class_1_mean - class_0_mean)
+
+    expected_order = torch.argsort(diff, descending=True)
+
+    torch.testing.assert_close(sorted_indices, expected_order)
+
+
+def test_get_sorted_indices_with_mean_normalization() -> None:
+    X_train_sae = torch.tensor(
+        [
+            [1.0, 10.0, 0.0],
+            [2.0, 20.0, 1.0],
+            [0.0, 0.0, 100.0],
+            [0.0, 5.0, 200.0],
+        ]
+    )
+    y_train = torch.tensor([0, 0, 1, 1])
+
+    sorted_indices = get_sorted_indices(
+        X_train_sae, y_train, normalize_fn=mean_act_normalization
+    )
+
+    X_normalized = mean_act_normalization(X_train_sae)
+    class_0_mean = X_normalized[y_train == 0].mean(dim=0)
+    class_1_mean = X_normalized[y_train == 1].mean(dim=0)
+    diff = torch.abs(class_1_mean - class_0_mean)
+    expected_order = torch.argsort(diff, descending=True)
+
+    torch.testing.assert_close(sorted_indices, expected_order)
+
+
+def test_get_sorted_indices_with_custom_normalization() -> None:
+    X_train_sae = torch.tensor(
+        [
+            [1.0, 5.0, 100.0],
+            [2.0, 6.0, 200.0],
+            [10.0, 6.0, 105.0],
+            [11.0, 7.0, 110.0],
+        ]
+    )
+    y_train = torch.tensor([0, 0, 1, 1])
+
+    def keep_first_dim_only(X: torch.Tensor) -> torch.Tensor:
+        result = torch.zeros_like(X)
+        result[:, 0] = X[:, 0]
+        return result
+
+    sorted_indices = get_sorted_indices(
+        X_train_sae, y_train, normalize_fn=keep_first_dim_only
+    )
+
+    expected_indices = torch.tensor([0, 1, 2])
+
+    torch.testing.assert_close(sorted_indices, expected_indices)
+
+    sorted_indices_without_norm = get_sorted_indices(
+        X_train_sae, y_train, normalize_fn=None
+    )
+    expected_indices_without_norm = torch.tensor([2, 0, 1])
+    torch.testing.assert_close(
+        sorted_indices_without_norm, expected_indices_without_norm
+    )
+
+
+def test_get_sorted_indices_different_normalizations_produce_different_results() -> (
+    None
+):
+    X_train_sae = torch.tensor(
+        [
+            [1.0, 100.0, 0.0],
+            [2.0, 200.0, 1.0],
+            [0.0, 0.0, 50.0],
+            [0.0, 10.0, 60.0],
+        ]
+    )
+    y_train = torch.tensor([0, 0, 1, 1])
+
+    indices_without_norm = get_sorted_indices(X_train_sae, y_train, normalize_fn=None)
+    indices_with_norm = get_sorted_indices(
+        X_train_sae, y_train, normalize_fn=mean_act_normalization
+    )
+
+    assert not torch.equal(indices_without_norm, indices_with_norm)
+
+
+def test_get_sorted_indices_sorts_by_absolute_difference() -> None:
+    X_train_sae = torch.tensor(
+        [
+            [0.0, 0.0, 0.0, 0.0],
+            [0.0, 0.0, 0.0, 0.0],
+            [1.0, -3.0, 2.0, 5.0],
+            [1.0, -3.0, 2.0, 5.0],
+        ]
+    )
+    y_train = torch.tensor([0, 0, 1, 1])
+
+    sorted_indices = get_sorted_indices(X_train_sae, y_train, normalize_fn=None)
+
+    expected_indices = torch.tensor([3, 1, 2, 0])
+
+    torch.testing.assert_close(sorted_indices, expected_indices)
 
 
 @pytest.mark.parametrize("reg_type", ["l1", "l2"])
@@ -526,3 +645,77 @@ def test_run_sae_evals_imbalance_setting(
             break
 
     assert found_valid_result, "No valid result files found for imbalance setting"
+
+
+def test_run_sae_eval_different_normalizations_produce_different_indices(
+    gpt2_l4_sae: SAE, tmp_path: Path, gpt2_model: HookedTransformer
+) -> None:
+    sae_results_path_mean = tmp_path / "sae_cache_mean"
+    sae_results_path_none = tmp_path / "sae_cache_none"
+    model_cache_path = tmp_path / "model_cache"
+    layer: int = 4
+    model_name: str = "gpt2"
+    setting: Setting = "normal"
+    batch_size: int = 32
+    reg_type: RegType = "l1"
+
+    generate_model_activations(gpt2_model, model_cache_path, layers=[layer])
+
+    success_mean: bool = run_sae_eval(
+        sae=gpt2_l4_sae,
+        dataset=TEST_DATASET_NAME,
+        hook_name=f"blocks.{layer}.hook_resid_post",
+        reg_type=reg_type,
+        setting=setting,
+        model_name=model_name,
+        device="cpu",
+        results_path=sae_results_path_mean,
+        model_cache_path=model_cache_path,
+        batch_size=batch_size,
+        ks=[16],
+        mean_diff_normalization="mean",
+    )
+    assert success_mean
+
+    success_none: bool = run_sae_eval(
+        sae=gpt2_l4_sae,
+        dataset=TEST_DATASET_NAME,
+        hook_name=f"blocks.{layer}.hook_resid_post",
+        reg_type=reg_type,
+        setting=setting,
+        model_name=model_name,
+        device="cpu",
+        results_path=sae_results_path_none,
+        model_cache_path=model_cache_path,
+        batch_size=batch_size,
+        ks=[16],
+        mean_diff_normalization="none",
+    )
+    assert success_none
+
+    save_path_mean: Path = get_save_metrics_path(
+        dataset=TEST_DATASET_NAME,
+        hook_name=f"blocks.{layer}.hook_resid_post",
+        reg_type=reg_type,
+        model_name=model_name,
+        setting=setting,
+        sae_results_path=sae_results_path_mean,
+    )
+    save_path_none: Path = get_save_metrics_path(
+        dataset=TEST_DATASET_NAME,
+        hook_name=f"blocks.{layer}.hook_resid_post",
+        reg_type=reg_type,
+        model_name=model_name,
+        setting=setting,
+        sae_results_path=sae_results_path_none,
+    )
+
+    with open(save_path_mean) as f:
+        results_mean: list[dict] = json.load(f)
+    with open(save_path_none) as f:
+        results_none: list[dict] = json.load(f)
+
+    indices_mean = results_mean[0]["indices"]
+    indices_none = results_none[0]["indices"]
+
+    assert indices_mean != indices_none

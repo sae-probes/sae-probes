@@ -2,6 +2,7 @@ import json
 import warnings
 from dataclasses import asdict
 from pathlib import Path
+from typing import Callable, Literal
 
 import torch
 from sae_lens import SAE
@@ -91,16 +92,10 @@ def get_save_metrics_path(
     return save_path
 
 
-def get_sorted_indices(X_train_sae, y_train):
-    X_train_diff = X_train_sae[y_train == 1].mean(dim=0) - X_train_sae[
-        y_train == 0
-    ].mean(dim=0)
-    sorted_indices = torch.argsort(torch.abs(X_train_diff), descending=True)
-    return sorted_indices
-
-
-def get_sorted_indices_new(X_train_sae, y_train):
-    X_train_sae_normalized = normalize_sae_activations(X_train_sae)
+def get_sorted_indices(
+    X_train_sae, y_train, normalize_fn: Callable[[torch.Tensor], torch.Tensor] | None
+):
+    X_train_sae_normalized = normalize_fn(X_train_sae) if normalize_fn else X_train_sae
     X_train_diff = X_train_sae_normalized[y_train == 1].mean(
         dim=0
     ) - X_train_sae_normalized[y_train == 0].mean(dim=0)
@@ -108,7 +103,7 @@ def get_sorted_indices_new(X_train_sae, y_train):
     return sorted_indices
 
 
-def normalize_sae_activations(X_sae):
+def mean_act_normalization(X_sae):
     # take abs to handle negative values in the SAE activations for novel architectures.
     col_sums = X_sae.abs().sum(dim=0)
     col_nonzero_counts = (X_sae != 0).sum(dim=0)
@@ -132,6 +127,9 @@ def run_sae_eval(
     batch_size: int = 128,
     ks: list[int] | None = None,
     results_path: str | Path = DEFAULT_RESULTS_PATH,
+    mean_diff_normalization: (
+        Literal["mean", "none"] | Callable[[torch.Tensor], torch.Tensor]
+    ) = "mean",
 ):
     activations = generate_sae_activations(
         sae=sae,
@@ -159,7 +157,16 @@ def run_sae_eval(
             ks = [16, 128]
 
     all_metrics = []
-    sorted_indices = get_sorted_indices_new(X_train_sae, y_train)
+    normalization = None
+    if mean_diff_normalization == "mean":
+        normalization = mean_act_normalization
+    elif mean_diff_normalization == "none":
+        normalization = None
+    elif callable(mean_diff_normalization):
+        normalization = mean_diff_normalization
+    else:
+        raise ValueError(f"Invalid mean_diff_normalization: {mean_diff_normalization}")
+    sorted_indices = get_sorted_indices(X_train_sae, y_train, normalization)
 
     for k in tqdm(ks):
         top_by_average_diff = sorted_indices[:k]
@@ -234,6 +241,9 @@ def run_sae_evals(
     model_cache_path: str | Path | None = None,
     datasets: list[str] | None = None,
     device: str = "cuda",
+    mean_diff_normalization: (
+        Literal["mean", "none"] | Callable[[torch.Tensor], torch.Tensor]
+    ) = "mean",
 ):
     if datasets is None:
         datasets = DATASETS
@@ -277,6 +287,7 @@ def run_sae_evals(
                         ks=ks,
                         results_path=results_path,
                         device=device,
+                        mean_diff_normalization=mean_diff_normalization,
                     )
                     assert success
             elif setting == "scarcity":
@@ -313,6 +324,7 @@ def run_sae_evals(
                             ks=ks,
                             results_path=results_path,
                             device=device,
+                            mean_diff_normalization=mean_diff_normalization,
                         )
                         assert success
             elif setting == "imbalance":
@@ -347,6 +359,7 @@ def run_sae_evals(
                             ks=ks,
                             results_path=results_path,
                             device=device,
+                            mean_diff_normalization=mean_diff_normalization,
                         )
                         assert success
             else:
