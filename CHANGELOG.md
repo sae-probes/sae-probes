@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## v0.3.0 (2025-10-31)
+
+### Feature
+
+* feat: adding option to customize the mean-diff normalization (#5)
+
+This PR allows the user to further customize the normalization done for
+the mean-diff sorting, or disable it entirely. ([`b671860`](https://github.com/sae-probes/sae-probes/commit/b671860d745b1501088cd3a43d279bdf08407f81))
+
 ## v0.2.2 (2025-10-30)
 
 ### Fix
