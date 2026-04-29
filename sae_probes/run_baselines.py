@@ -3,7 +3,7 @@ import os
 from collections.abc import Sequence
 from dataclasses import asdict
 from pathlib import Path
-from typing import Any, Callable, Literal
+from typing import Callable, Literal
 
 import pandas as pd
 import torch
@@ -36,7 +36,7 @@ from .utils_training import (
 DATASET_SIZES = get_dataset_sizes()
 DATASETS = get_numbered_binary_tags()
 Method = Literal["logreg", "pca", "knn", "xgboost", "mlp"]
-METHODS: dict[Method, Callable[[Any, Any, Any, Any], BestClassifierResults]] = {
+METHODS: dict[Method, Callable[..., BestClassifierResults]] = {
     "logreg": find_best_reg,
     "pca": find_best_pcareg,
     "knn": find_best_knn,
@@ -44,6 +44,7 @@ METHODS: dict[Method, Callable[[Any, Any, Any, Any], BestClassifierResults]] = {
     "mlp": find_best_mlp,
 }
 DEFAULT_METHODS: tuple[Method, ...] = ("logreg",)
+DEFAULT_SEED: int = 42
 
 
 def get_baseline_save_path(
@@ -96,6 +97,7 @@ def run_baseline_dataset_layer(
     model_name: str,
     model_cache_path: str | Path,
     results_path: str | Path = DEFAULT_RESULTS_PATH,
+    seed: int = DEFAULT_SEED,
 ):
     # Generate paths using new JSON format
     metrics_savepath = get_baseline_save_path(
@@ -125,11 +127,12 @@ def run_baseline_dataset_layer(
         hook_name,
         model_name=model_name,
         model_cache_path=model_cache_path,
+        seed=seed,
     )
 
     # Run method and get metrics
     method = METHODS[method_name]
-    results = method(X_train, y_train, X_test, y_test)
+    results = method(X_train, y_train, X_test, y_test, seed=seed)
 
     # Create metrics dict matching SAE format
     metrics = asdict(results.metrics)
@@ -161,6 +164,7 @@ def run_all_baseline_normal(
     methods: Sequence[Method] = DEFAULT_METHODS,
     datasets: list[str] | None = None,
     device: str = "cuda",
+    seed: int = DEFAULT_SEED,
 ):
     if datasets is None:
         datasets = DATASETS
@@ -188,6 +192,7 @@ def run_all_baseline_normal(
                     model_name=model_name,
                     results_path=results_path,
                     model_cache_path=resolved_cache_path,
+                    seed=seed,
                 )
 
 
@@ -204,6 +209,7 @@ def run_baseline_scarcity(
     hook_name: str,
     model_cache_path: str | Path,
     results_path: str | Path = DEFAULT_RESULTS_PATH,
+    seed: int = DEFAULT_SEED,
 ):
     # Generate paths using new JSON format
     metrics_savepath = get_baseline_save_path(
@@ -237,11 +243,12 @@ def run_baseline_scarcity(
         hook_name,
         model_name=model_name,
         model_cache_path=model_cache_path,
+        seed=seed,
     )
 
     # Run method and get metrics
     method = METHODS[method_name]
-    results = method(X_train, y_train, X_test, y_test)
+    results = method(X_train, y_train, X_test, y_test, seed=seed)
 
     # Create metrics dict matching SAE format
     metrics = asdict(results.metrics)
@@ -273,6 +280,7 @@ def run_all_baseline_scarcity(
     methods: Sequence[Method] = DEFAULT_METHODS,
     datasets: list[str] | None = None,
     device: str = "cuda",
+    seed: int = DEFAULT_SEED,
 ):
     if datasets is None:
         datasets = DATASETS
@@ -304,6 +312,7 @@ def run_all_baseline_scarcity(
                         hook_name=hook_name,
                         results_path=results_path,
                         model_cache_path=resolved_cache_path,
+                        seed=seed,
                     )
 
 
@@ -320,6 +329,7 @@ def run_baseline_class_imbalance(
     hook_name: str,
     model_cache_path: str | Path,
     results_path: str | Path = DEFAULT_RESULTS_PATH,
+    seed: int = DEFAULT_SEED,
 ):
     assert 0 < dataset_frac < 1
     dataset_frac = round(dataset_frac * 20) / 20
@@ -354,11 +364,12 @@ def run_baseline_class_imbalance(
         model_name=model_name,
         num_test=num_test,
         model_cache_path=model_cache_path,
+        seed=seed,
     )
 
     # Run method and get metrics
     method = METHODS[method_name]
-    results = method(X_train, y_train, X_test, y_test)
+    results = method(X_train, y_train, X_test, y_test, seed=seed)
 
     # Create metrics dict matching SAE format
     metrics = asdict(results.metrics)
@@ -391,6 +402,7 @@ def run_all_baseline_class_imbalance(
     methods: Sequence[Method] = DEFAULT_METHODS,
     datasets: list[str] | None = None,
     device: str = "cuda",
+    seed: int = DEFAULT_SEED,
 ):
     if datasets is None:
         datasets = DATASETS
@@ -422,6 +434,7 @@ def run_all_baseline_class_imbalance(
                         hook_name=hook_name,
                         results_path=results_path,
                         model_cache_path=resolved_cache_path,
+                        seed=seed,
                     )
 
 
@@ -434,6 +447,7 @@ def run_baseline_evals(
     model_cache_path: str | Path | None = None,
     datasets: list[str] | None = None,
     device: str = "cuda",
+    seed: int = DEFAULT_SEED,
 ):
     """Unified function to run baseline evaluations with consistent API to SAE benchmarks.
 
@@ -456,6 +470,7 @@ def run_baseline_evals(
             methods=methods,
             datasets=datasets,
             device=device,
+            seed=seed,
         )
     elif setting == "scarcity":
         run_all_baseline_scarcity(
@@ -466,6 +481,7 @@ def run_baseline_evals(
             methods=methods,
             datasets=datasets,
             device=device,
+            seed=seed,
         )
     elif setting == "imbalance":
         run_all_baseline_class_imbalance(
@@ -476,6 +492,7 @@ def run_baseline_evals(
             methods=methods,
             datasets=datasets,
             device=device,
+            seed=seed,
         )
     else:
         raise ValueError(
@@ -496,6 +513,7 @@ def run_baseline_corrupt(
     hook_name: str,
     model_cache_path: str | Path,
     results_path: str | Path = DEFAULT_RESULTS_PATH,
+    seed: int = DEFAULT_SEED,
 ):
     assert 0 <= corrupt_frac <= 0.5
     corrupt_frac = round(corrupt_frac * 20) / 20
@@ -514,11 +532,12 @@ def run_baseline_corrupt(
         hook_name,
         model_name=model_name,
         model_cache_path=model_cache_path,
+        seed=seed,
     )
-    y_train = corrupt_ytrain(y_train, corrupt_frac)
+    y_train = corrupt_ytrain(y_train, corrupt_frac, seed=seed)
     # Run method and get metrics
     method = METHODS[method_name]
-    results = method(X_train, y_train, X_test, y_test)
+    results = method(X_train, y_train, X_test, y_test, seed=seed)
     # Create row with dataset and method metrics and save to csv
     row = {
         "dataset": numbered_dataset,
@@ -543,6 +562,7 @@ def run_all_baseline_corrupt(
     model_cache_path: str | Path | None = None,
     datasets: list[str] | None = None,
     device: str = "cuda",
+    seed: int = DEFAULT_SEED,
 ):
     if datasets is None:
         datasets = DATASETS
@@ -571,4 +591,5 @@ def run_all_baseline_corrupt(
                     hook_name=hook_name,
                     results_path=results_path,
                     model_cache_path=resolved_cache_path,
+                    seed=seed,
                 )

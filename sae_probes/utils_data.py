@@ -96,7 +96,7 @@ def get_xyvals(
 
 def get_train_test_indices(y, num_train, num_test, pos_ratio=0.5, seed=42):
     # Set random seed for reproducibility
-    np.random.seed(seed)
+    rng = np.random.RandomState(seed)
 
     # Split positive and negative samples
     pos_indices = np.where(y == 1)[0]
@@ -111,20 +111,20 @@ def get_train_test_indices(y, num_train, num_test, pos_ratio=0.5, seed=42):
     neg_test_size = num_test - pos_test_size
 
     # Sample train indices
-    train_pos = np.random.choice(pos_indices, size=pos_train_size, replace=False)
-    train_neg = np.random.choice(neg_indices, size=neg_train_size, replace=False)
+    train_pos = rng.choice(pos_indices, size=pos_train_size, replace=False)
+    train_neg = rng.choice(neg_indices, size=neg_train_size, replace=False)
 
     # Get remaining indices for test set
     remaining_pos = np.setdiff1d(pos_indices, train_pos)
     remaining_neg = np.setdiff1d(neg_indices, train_neg)
 
     # Sample test indices
-    test_pos = np.random.choice(remaining_pos, size=pos_test_size, replace=False)
-    test_neg = np.random.choice(remaining_neg, size=neg_test_size, replace=False)
+    test_pos = rng.choice(remaining_pos, size=pos_test_size, replace=False)
+    test_neg = rng.choice(remaining_neg, size=neg_test_size, replace=False)
 
     # Combine and shuffle indices
-    train_indices = np.random.permutation(np.concatenate([train_pos, train_neg]))
-    test_indices = np.random.permutation(np.concatenate([test_pos, test_neg]))
+    train_indices = rng.permutation(np.concatenate([train_pos, train_neg]))
+    test_indices = rng.permutation(np.concatenate([test_pos, test_neg]))
 
     return train_indices, test_indices
 
@@ -236,12 +236,12 @@ def get_classimabalance_num_train(
     return num_train, num_test
 
 
-def corrupt_ytrain(ytrain, frac):
+def corrupt_ytrain(ytrain, frac, seed: int = 42):
     assert 0 <= frac <= 0.5
-    np.random.seed(42)
+    rng = np.random.RandomState(seed)
     # Get indices to flip
     num_to_flip = int(len(ytrain) * frac)
-    flip_indices = np.random.choice(len(ytrain), size=num_to_flip, replace=False)
+    flip_indices = rng.choice(len(ytrain), size=num_to_flip, replace=False)
 
     # Create copy and flip selected labels
     ytrain_corrupted = ytrain.copy()
@@ -303,6 +303,7 @@ def get_OOD_traintest(
     model_name: str,
     hook_name: str,
     model_cache_path: str | Path,
+    seed: int = 42,
 ):
     X_train, y_train, _, _ = get_xy_traintest_specify(
         num_train=1024,
@@ -313,6 +314,7 @@ def get_OOD_traintest(
         pos_ratio=0.5,
         num_test=0,
         model_cache_path=model_cache_path,
+        seed=seed,
     )
     X_test, y_test = get_xy_OOD(dataset, model_name, hook_name, model_cache_path)
     return X_train, y_train, X_test, y_test

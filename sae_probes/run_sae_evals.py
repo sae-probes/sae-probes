@@ -130,6 +130,7 @@ def run_sae_eval(
     mean_diff_normalization: (
         Literal["mean", "none"] | Callable[[torch.Tensor], torch.Tensor]
     ) = "mean",
+    seed: int = 42,
 ):
     activations = generate_sae_activations(
         sae=sae,
@@ -142,6 +143,7 @@ def run_sae_eval(
         frac=frac,
         batch_size=batch_size,
         model_cache_path=model_cache_path,
+        seed=seed,
     )
 
     X_train_sae = activations.X_train
@@ -185,6 +187,7 @@ def run_sae_eval(
             n_jobs=-1,
             parallel=False,
             penalty=reg_type,
+            seed=seed,
         )
         metrics = asdict(results.metrics)
 
@@ -244,6 +247,7 @@ def run_sae_evals(
     mean_diff_normalization: (
         Literal["mean", "none"] | Callable[[torch.Tensor], torch.Tensor]
     ) = "mean",
+    seed: int = 42,
 ):
     if datasets is None:
         datasets = DATASETS
@@ -288,6 +292,7 @@ def run_sae_evals(
                         results_path=results_path,
                         device=device,
                         mean_diff_normalization=mean_diff_normalization,
+                        seed=seed,
                     )
                     assert success
             elif setting == "scarcity":
@@ -325,6 +330,7 @@ def run_sae_evals(
                             results_path=results_path,
                             device=device,
                             mean_diff_normalization=mean_diff_normalization,
+                            seed=seed,
                         )
                         assert success
             elif setting == "imbalance":
@@ -360,6 +366,7 @@ def run_sae_evals(
                             results_path=results_path,
                             device=device,
                             mean_diff_normalization=mean_diff_normalization,
+                            seed=seed,
                         )
                         assert success
             else:

@@ -51,6 +51,7 @@ def generate_sae_activations_normal(
     device: str,
     model_cache_path: str | Path,
     batch_size: int = 128,
+    seed: int = 42,
 ) -> Activations:
     size = DATASET_SIZES[dataset]
     num_train = min(size - 100, 1024)
@@ -60,6 +61,7 @@ def generate_sae_activations_normal(
         hook_name,
         model_name=model_name,
         model_cache_path=model_cache_path,
+        seed=seed,
     )
 
     X_train_sae = []
@@ -92,6 +94,7 @@ def generate_sae_activations_scarcity(
     num_train: int,
     model_cache_path: str | Path,
     batch_size: int = 128,
+    seed: int = 42,
 ) -> Activations:
     X_train, y_train, X_test, y_test = get_xy_traintest(
         num_train,
@@ -99,6 +102,7 @@ def generate_sae_activations_scarcity(
         hook_name,
         model_name=model_name,
         model_cache_path=model_cache_path,
+        seed=seed,
     )
 
     X_train_sae = []
@@ -131,6 +135,7 @@ def generate_sae_activations_imbalance(
     frac: float,
     model_cache_path: str | Path,
     batch_size: int = 128,
+    seed: int = 42,
 ) -> Activations:
     """Generate and save SAE activations for class imbalance setting"""
     num_train, num_test = get_classimabalance_num_train(dataset)
@@ -142,6 +147,7 @@ def generate_sae_activations_imbalance(
         model_name=model_name,
         num_test=num_test,
         model_cache_path=model_cache_path,
+        seed=seed,
     )
 
     X_train_sae = []
@@ -175,6 +181,7 @@ def generate_sae_activations(
     frac: float | None,
     model_cache_path: str | Path,
     batch_size: int = 128,
+    seed: int = 42,
 ) -> Activations:
     if setting == "normal":
         return generate_sae_activations_normal(
@@ -185,6 +192,7 @@ def generate_sae_activations(
             device=device,
             batch_size=batch_size,
             model_cache_path=model_cache_path,
+            seed=seed,
         )
     elif setting == "scarcity":
         assert num_train is not None
@@ -197,6 +205,7 @@ def generate_sae_activations(
             num_train=num_train,
             batch_size=batch_size,
             model_cache_path=model_cache_path,
+            seed=seed,
         )
     elif setting == "imbalance":
         assert frac is not None
@@ -209,6 +218,7 @@ def generate_sae_activations(
             frac=frac,
             batch_size=batch_size,
             model_cache_path=model_cache_path,
+            seed=seed,
         )
     else:
         raise ValueError(f"Invalid setting: {setting}")
