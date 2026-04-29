@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v0.4.0 (2026-04-29)
+
+### Feature
+
+* feat: expose random seed as a configurable parameter (#6) ([`b84b5f8`](https://github.com/sae-probes/sae-probes/commit/b84b5f88df71cde0cebb7b55075de37952c16f0d))
+
 ## v0.3.0 (2025-10-31)
 
 ### Feature
