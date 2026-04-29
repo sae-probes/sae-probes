@@ -29,12 +29,12 @@ class BestClassifierResults(NamedTuple):
     scaler: StandardScaler | None
 
 
-def get_cv(X_train: np.ndarray):
+def get_cv(X_train: np.ndarray, seed: int = 42):
     n_samples = X_train.shape[0]
     if n_samples <= 12:
         cv = LeavePOut(2)
     elif n_samples < 128:
-        cv = StratifiedKFold(n_splits=6, shuffle=True, random_state=42)
+        cv = StratifiedKFold(n_splits=6, shuffle=True, random_state=seed)
     else:
         val_size = min(
             int(0.2 * n_samples), 100
@@ -74,7 +74,7 @@ def find_best_reg(
     if (
         X_train.shape[0] > 3
     ):  # cannot reliably to cross val. just going with default parameters
-        cv = get_cv(X_train)
+        cv = get_cv(X_train, seed=seed)
 
         Cs = np.logspace(5, -5, 10)
         avg_scores = []
@@ -158,7 +158,7 @@ def find_best_reg(
 
 
 def find_best_pcareg(
-    X_train, y_train, X_test, y_test, max_pca_comps: int = 100
+    X_train, y_train, X_test, y_test, max_pca_comps: int = 100, seed: int = 42
 ) -> BestClassifierResults:
     # Standardize the data
     scaler = StandardScaler()
@@ -180,7 +180,7 @@ def find_best_pcareg(
     best_n_components = None
     val_auc = None
     if X_combined_pca_full.shape[0] > 3:
-        cv = get_cv(X_train)
+        cv = get_cv(X_train, seed=seed)
         scores = []
 
         for n_components in pca_dimensions:
@@ -191,7 +191,7 @@ def find_best_pcareg(
                 X_fold_train, X_fold_val = X_pca[train_index], X_pca[val_index]
                 y_fold_train, y_fold_val = y_train[train_index], y_train[val_index]
 
-                model = LogisticRegression(random_state=42, max_iter=1000)
+                model = LogisticRegression(random_state=seed, max_iter=1000)
 
                 model.fit(X_fold_train, y_fold_train)
 
@@ -202,14 +202,14 @@ def find_best_pcareg(
             scores.append(avg_score)
             if avg_score > best_score:
                 best_score = avg_score
-                best_model = LogisticRegression(random_state=42, max_iter=1000).fit(
+                best_model = LogisticRegression(random_state=seed, max_iter=1000).fit(
                     X_pca, y_train
                 )
                 best_n_components = n_components
                 val_auc = best_score
     else:
         best_n_components = X_combined_pca_full.shape[0]
-        best_model = LogisticRegression(random_state=42, max_iter=1000).fit(
+        best_model = LogisticRegression(random_state=seed, max_iter=1000).fit(
             X_combined_pca_full, y_train
         )
         y_train_pred_proba = best_model.predict_proba(X_combined_pca_full)[:, 1]
@@ -239,7 +239,9 @@ def find_best_pcareg(
     return BestClassifierResults(metrics=metrics, classifier=best_model, scaler=scaler)
 
 
-def find_best_knn(X_train, y_train, X_test, y_test, n_jobs=-1) -> BestClassifierResults:
+def find_best_knn(
+    X_train, y_train, X_test, y_test, n_jobs=-1, seed: int = 42
+) -> BestClassifierResults:
     # Standardize the data
     scaler = StandardScaler()
     X_combined_scaled = scaler.fit_transform(X_train)
@@ -247,7 +249,7 @@ def find_best_knn(X_train, y_train, X_test, y_test, n_jobs=-1) -> BestClassifier
 
     if X_train.shape[0] > 3:
         # Determine the range of k values to try
-        cv = get_cv(X_train)
+        cv = get_cv(X_train, seed=seed)
         test_split = get_splits(cv, X_train, y_train)
         min_train_vals = float("inf")
         for split in test_split:  # type: ignore
@@ -323,6 +325,7 @@ def find_best_xgboost(
     y_train,
     X_test,
     y_test,
+    seed: int = 42,
 ) -> BestClassifierResults:
     # Check if X_train has less than 3 samples
 
@@ -333,7 +336,7 @@ def find_best_xgboost(
 
     if len(X_train) <= 3:
         # Return default values without performing random search
-        default_model = xgboost.XGBClassifier()
+        default_model = xgboost.XGBClassifier(random_state=seed)
         default_model.fit(X_train_scaled, y_train)
         y_test_pred = default_model.predict(X_test_scaled)
         y_train_proba = default_model.predict_proba(X_train_scaled)[:, 1]
@@ -364,15 +367,18 @@ def find_best_xgboost(
     }
 
     # Cross-validation
-    cv = get_cv(X_train)
+    cv = get_cv(X_train, seed=seed)
     splits = get_splits(cv, X_train_scaled, y_train)
 
     best_auc = 0
     best_params = None
     n_iter = 10
+    rng = random.Random(seed)
     for _ in range(n_iter):
-        params = {k: random.choice(v) for k, v in param_space.items()}
-        model = xgboost.XGBClassifier(**params, eval_metric="logloss")
+        params = {k: rng.choice(list(v)) for k, v in param_space.items()}
+        model = xgboost.XGBClassifier(
+            **params, eval_metric="logloss", random_state=seed
+        )
 
         # Cross-validation
         cv_scores = []
@@ -389,7 +395,11 @@ def find_best_xgboost(
             best_auc = mean_auc
             best_params = params
 
-    best_model = xgboost.XGBClassifier(**best_params, eval_metric="logloss")  # type: ignore
+    best_model = xgboost.XGBClassifier(
+        **best_params,  # type: ignore
+        eval_metric="logloss",
+        random_state=seed,
+    )
     best_model.fit(X_train_scaled, y_train)
     y_test_pred = best_model.predict(X_test_scaled)
     test_f1 = f1_score(y_test, y_test_pred, average="weighted")
@@ -411,7 +421,9 @@ def find_best_xgboost(
 # Example usage with a dataset
 
 
-def find_best_mlp(X_train, y_train, X_test, y_test) -> BestClassifierResults:
+def find_best_mlp(
+    X_train, y_train, X_test, y_test, seed: int = 42
+) -> BestClassifierResults:
     # Combine train and validation sets
     X_combined = X_train
     y_combined = y_train
@@ -425,7 +437,7 @@ def find_best_mlp(X_train, y_train, X_test, y_test) -> BestClassifierResults:
 
     if X_train.shape[0] <= 3:
         best_model = MLPClassifier(
-            hidden_layer_sizes=(32,), max_iter=1000, random_state=42
+            hidden_layer_sizes=(32,), max_iter=1000, random_state=seed
         )
         best_model.fit(X_combined_scaled, y_combined)
         y_train_pred_proba = best_model.predict_proba(X_combined_scaled)[:, 1]  # type: ignore
@@ -450,7 +462,7 @@ def find_best_mlp(X_train, y_train, X_test, y_test) -> BestClassifierResults:
             "solver": ["adam"],  # Solver for weight optimization
         }
 
-        cv = get_cv(X_train)
+        cv = get_cv(X_train, seed=seed)
         splits = get_splits(cv, X_combined_scaled, y_combined)
 
         # MLP model selection based on classification or regression
@@ -460,18 +472,18 @@ def find_best_mlp(X_train, y_train, X_test, y_test) -> BestClassifierResults:
 
         # Number of random configurations to try
         n_iter = 1
-        np.random.seed(42)
+        rng = np.random.RandomState(seed)
 
         for _ in range(n_iter):
             # Sample random hyperparameters
             curr_params = {
                 "hidden_layer_sizes": param_dist["hidden_layer_sizes"][
-                    np.random.randint(len(param_dist["hidden_layer_sizes"]))
+                    rng.randint(len(param_dist["hidden_layer_sizes"]))
                 ],
                 "learning_rate_init": param_dist["learning_rate_init"][
-                    np.random.randint(len(param_dist["learning_rate_init"]))
+                    rng.randint(len(param_dist["learning_rate_init"]))
                 ],
-                "alpha": np.random.choice(param_dist["alpha"]),
+                "alpha": rng.choice(param_dist["alpha"]),
                 "activation": "relu",
                 "solver": "adam",
             }
@@ -480,7 +492,7 @@ def find_best_mlp(X_train, y_train, X_test, y_test) -> BestClassifierResults:
             cv_scores = []
             for train_idx, val_idx in splits:  # type: ignore
                 # Create and fit model
-                model = MLPClassifier(max_iter=1000, random_state=42, **curr_params)
+                model = MLPClassifier(max_iter=1000, random_state=seed, **curr_params)
                 model.fit(X_combined_scaled[train_idx], y_combined[train_idx])
 
                 # Get probabilities and compute AUC
@@ -498,7 +510,7 @@ def find_best_mlp(X_train, y_train, X_test, y_test) -> BestClassifierResults:
         val_auc = best_score
 
         # Retrain on full training data with best params
-        best_model = MLPClassifier(max_iter=1000, random_state=42, **best_params)  # type: ignore
+        best_model = MLPClassifier(max_iter=1000, random_state=seed, **best_params)  # type: ignore
         best_model.fit(X_combined_scaled, y_combined)
 
     # Make predictions on test set

@@ -55,6 +55,7 @@ extend-select = ["UP", "TID", "I", "F", "E", "ARG"]
 [tool.pyright]
 typeCheckingMode = "basic"
 ignore = ["tests/_comparison"]
+reportPrivateImportUsage = false
 
 [build-system]
 requires = ["poetry-core"]
