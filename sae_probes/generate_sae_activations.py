@@ -67,13 +67,13 @@ def generate_sae_activations_normal(
     X_train_sae = []
     for i in range(0, len(X_train), batch_size):
         batch = X_train[i : i + batch_size].to(device)
-        X_train_sae.append(sae.encode(batch).cpu())
+        X_train_sae.append(sae.encode(batch).cpu().float())
     X_train_sae = torch.cat(X_train_sae)
 
     X_test_sae = []
     for i in range(0, len(X_test), batch_size):
         batch = X_test[i : i + batch_size].to(device)
-        X_test_sae.append(sae.encode(batch).cpu())
+        X_test_sae.append(sae.encode(batch).cpu().float())
     X_test_sae = torch.cat(X_test_sae)
 
     return Activations(
@@ -108,13 +108,13 @@ def generate_sae_activations_scarcity(
     X_train_sae = []
     for i in range(0, len(X_train), batch_size):
         batch = X_train[i : i + batch_size].to(device)
-        X_train_sae.append(sae.encode(batch).cpu())
+        X_train_sae.append(sae.encode(batch).cpu().float())
     X_train_sae = torch.cat(X_train_sae)
 
     X_test_sae = []
     for i in range(0, len(X_test), batch_size):
         batch = X_test[i : i + batch_size].to(device)
-        X_test_sae.append(sae.encode(batch).cpu())
+        X_test_sae.append(sae.encode(batch).cpu().float())
     X_test_sae = torch.cat(X_test_sae)
 
     return Activations(
@@ -153,13 +153,13 @@ def generate_sae_activations_imbalance(
     X_train_sae = []
     for i in range(0, len(X_train), batch_size):
         batch = X_train[i : i + batch_size].to(device)
-        X_train_sae.append(sae.encode(batch).cpu())
+        X_train_sae.append(sae.encode(batch).cpu().float())
     X_train_sae = torch.cat(X_train_sae)
 
     X_test_sae = []
     for i in range(0, len(X_test), batch_size):
         batch = X_test[i : i + batch_size].to(device)
-        X_test_sae.append(sae.encode(batch).cpu())
+        X_test_sae.append(sae.encode(batch).cpu().float())
     X_test_sae = torch.cat(X_test_sae)
 
     return Activations(

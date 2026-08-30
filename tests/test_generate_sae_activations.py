@@ -1,5 +1,6 @@
 from pathlib import Path
 
+import torch
 from sae_lens import SAE, HookedSAETransformer
 
 from sae_probes.generate_sae_activations import (
@@ -68,3 +69,22 @@ def test_generate_sae_activations_scarsity(
     assert sae_acts.y_train.shape == (123,)
     assert sae_acts.X_test.shape == (876, 24576)
     assert sae_acts.y_test.shape == (876,)
+
+
+def test_generate_sae_activations_normal_upcasts_low_precision_sae_activations(
+    gpt2_model: HookedSAETransformer, tmp_path: Path, gpt2_l4_sae: SAE
+):
+    model_cache_path = tmp_path / "model_cache"
+    generate_model_activations(gpt2_model, model_cache_path, layers=[4])
+    sae_acts = generate_sae_activations_normal(
+        gpt2_l4_sae.to(torch.bfloat16),
+        dataset=TEST_DATASET_NAME,
+        hook_name="blocks.4.hook_resid_post",
+        model_name="gpt2",
+        device="cpu",
+        model_cache_path=model_cache_path,
+    )
+    # probes are fit with sklearn, which converts via numpy, and numpy has no
+    # bfloat16 dtype, so these must not come back in the SAE's dtype
+    assert sae_acts.X_train.dtype == torch.float32
+    assert sae_acts.X_test.dtype == torch.float32
