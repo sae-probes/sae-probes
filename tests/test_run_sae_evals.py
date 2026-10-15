@@ -1,3 +1,4 @@
+import importlib
 import json
 from pathlib import Path
 
@@ -7,6 +8,7 @@ from sae_lens import SAE
 from transformer_lens import HookedTransformer
 
 from sae_probes.constants import RegType, Setting
+from sae_probes.generate_sae_activations import generate_sae_activations
 from sae_probes.run_sae_evals import (
     get_save_metrics_path,
     get_sorted_indices,
@@ -19,7 +21,12 @@ from sae_probes.utils_data import (
     get_dataset_sizes,
     get_training_sizes,
 )
+from sae_probes.utils_training import find_best_reg
 from tests.helpers import TEST_DATASET_NAME, generate_model_activations
+
+# sae_probes/__init__.py re-exports the run_sae_evals function, which shadows the
+# submodule, so grab the module itself for monkeypatching
+run_sae_evals_module = importlib.import_module("sae_probes.run_sae_evals")
 
 
 def test_mean_act_normalization_basic() -> None:
@@ -719,3 +726,59 @@ def test_run_sae_eval_different_normalizations_produce_different_indices(
     indices_none = results_none[0]["indices"]
 
     assert indices_mean != indices_none
+
+
+def test_run_sae_eval_binarize_thresholds_at_nonzero(
+    gpt2_l4_sae: SAE,
+    tmp_path: Path,
+    gpt2_model: HookedTransformer,
+    monkeypatch: pytest.MonkeyPatch,
+) -> None:
+    model_cache_path = tmp_path / "model_cache"
+    layer: int = 4
+    generate_model_activations(gpt2_model, model_cache_path, layers=[layer])
+
+    captured_activations = []
+    captured_probe_inputs = []
+
+    def capture_activations(**kwargs):
+        activations = generate_sae_activations(**kwargs)
+        captured_activations.append(activations)
+        return activations
+
+    def capture_probe_inputs(**kwargs):
+        captured_probe_inputs.append(kwargs)
+        return find_best_reg(**kwargs)
+
+    monkeypatch.setattr(
+        run_sae_evals_module, "generate_sae_activations", capture_activations
+    )
+    monkeypatch.setattr(run_sae_evals_module, "find_best_reg", capture_probe_inputs)
+
+    run_sae_eval(
+        sae=gpt2_l4_sae,
+        dataset=TEST_DATASET_NAME,
+        hook_name=f"blocks.{layer}.hook_resid_post",
+        reg_type="l2",
+        setting="normal",
+        model_name="gpt2",
+        device="cpu",
+        results_path=tmp_path / "sae_cache",
+        model_cache_path=model_cache_path,
+        batch_size=32,
+        ks=[16],
+        binarize=True,
+    )
+
+    activations = captured_activations[0]
+    probe_inputs = captured_probe_inputs[0]
+    indices = get_sorted_indices(
+        activations.X_train, activations.y_train, mean_act_normalization
+    )[:16]
+    raw_train = activations.X_train[:, indices]
+    raw_test = activations.X_test[:, indices]
+
+    # make sure there are small nonzero activations that a higher threshold would drop
+    assert ((raw_train > 0) & (raw_train <= 1)).any()
+    torch.testing.assert_close(probe_inputs["X_train"], raw_train != 0)
+    torch.testing.assert_close(probe_inputs["X_test"], raw_test != 0)
