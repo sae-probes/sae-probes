@@ -12,6 +12,14 @@ from sae_probes.generate_model_activations import (
 from sae_probes.utils_hooks import get_layer_from_hook_name
 
 
+def _tokenizer_adds_bos(model: HookedSAETransformer) -> bool:
+    # transformer-lens loads the gpt2 tokenizer with add_bos_token=True, which
+    # transformers<5 silently ignores for gpt2 but transformers>=5 honors
+    tokenizer = model.tokenizer
+    assert tokenizer is not None
+    return tokenizer("short")["input_ids"][0] == tokenizer.bos_token_id  # type: ignore
+
+
 def test_process_activations_gives_same_results_regardless_of_batch_size(
     gpt2_model: HookedSAETransformer,
 ):
@@ -47,7 +55,7 @@ def test_process_activations_gives_same_results_regardless_of_batch_size(
         "Hello, world!",
         names_filter=hook_names,
         stop_at_layer=5,
-        prepend_bos=False,
+        prepend_bos=_tokenizer_adds_bos(gpt2_model),
     )
     assert torch.allclose(
         activations_batched["blocks.2.hook_resid_post"][0],
@@ -78,7 +86,8 @@ def test_get_text_lengths(gpt2_model: HookedSAETransformer):
         "he he he 1 2 3 4 5 6 7 8 9 10",
     ]
     text_lengths = _get_text_lengths(gpt2_model, texts)
-    assert text_lengths == [4, 5, 1, 13]
+    bos_offset = int(_tokenizer_adds_bos(gpt2_model))
+    assert text_lengths == [n + bos_offset for n in [4, 5, 1, 13]]
 
 
 def test_generate_single_dataset_activations(

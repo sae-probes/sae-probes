@@ -19,13 +19,16 @@ classifiers = ["Topic :: Scientific/Engineering :: Artificial Intelligence"]
 
 [tool.poetry.dependencies]
 python = ">=3.10,<4.0"
-transformer-lens = "^2.15.4"
+transformer-lens = ">=2.15.4,<4.0.0"
 sae-lens = ">=5.0.0,<7.0.0"
 scikit-learn = "^1.6.1"
 pandas = "^2.2.3"
 xgboost = "^3.0.2"
 hf-transfer = "^0.1.9"
 zstandard = ">=0.19.0"
+# transformer-lens 2.x pins numpy<2, but pyarrow>=26 requires numpy>=2 at import time
+# without declaring it as a dependency, so resolvers can pick an incompatible pair
+pyarrow = "<26"
 
 
 [tool.poetry.group.dev.dependencies]
