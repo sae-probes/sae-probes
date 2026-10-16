@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v0.4.2 (2026-10-16)
+
+### Fix
+
+* fix: binarize SAE activations at nonzero instead of &gt; 1 (#8) ([`774e34a`](https://github.com/sae-probes/sae-probes/commit/774e34aeca303426aae704ad20b91fbae390f5bc))
+
 ## v0.4.1 (2026-10-16)
 
 ### Fix
