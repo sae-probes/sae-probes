@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## v0.4.1 (2026-10-16)
+
+### Fix
+
+* fix: cap pyarrow below 26 and allow transformer-lens 3.x (#9) ([`ba0e564`](https://github.com/sae-probes/sae-probes/commit/ba0e564aa36cdda3489099239f73b822c93adb3b))
+
+* fix: upcast SAE activations to float32 before probing (#7) ([`7fc006e`](https://github.com/sae-probes/sae-probes/commit/7fc006e220e98035c79504747a097024e3a37059))
+
 ## v0.4.0 (2026-04-29)
 
 ### Feature
