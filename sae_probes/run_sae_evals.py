@@ -176,8 +176,8 @@ def run_sae_eval(
         X_test_filtered = X_test_sae[:, top_by_average_diff]
 
         if binarize and setting == "normal":
-            X_train_filtered = X_train_filtered > 1
-            X_test_filtered = X_test_filtered > 1
+            X_train_filtered = X_train_filtered != 0
+            X_test_filtered = X_test_filtered != 0
 
         results = find_best_reg(
             X_train=X_train_filtered,
