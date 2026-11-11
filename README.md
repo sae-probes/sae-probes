@@ -54,7 +54,13 @@ The sparse probing results for each dataset will be saved to `results_path` as a
 
 A k-sparse probe is trained on the k SAE latents that best separate the two classes on the training set. The `selection_method` argument of `run_sae_evals` controls how those latents are chosen.
 
-**We recommend `selection_method="forward"` for new work.** It gives the most accurate probes for `k > 1` and matches the best per-latent methods at `k=1`. The default is still `"mean_diff"`, the method from the original paper, so that results stay comparable with published numbers; pass `selection_method` explicitly, and report which method you used. The available methods are:
+**Which method to use.** No method is best everywhere. On the SAEs we have tried (Gemma-2-2b layer 12, `k` up to 64):
+
+- for `k=1`, `"accuracy"` is the most accurate, with `"auc"`, `"correlation"` and `"forward"` within about 0.002 of it and `"mean_diff"` about 0.007 behind;
+- for `k` from 2 to 16, `"forward"` is the most accurate on nearly every SAE, by about 0.005 to 0.01;
+- for `k` of 32 and above the methods are close, and `"forward"` can be slightly worse than the others, because it greedily fits the roughly 1,000 training examples.
+
+We suggest `"forward"` as a general-purpose choice for new work, and `"accuracy"` if you only care about `k=1`. The default is still `"mean_diff"`, the method from the original paper, so that results stay comparable with published numbers; pass `selection_method` explicitly, and report which method you used. The available methods are:
 
 - `"mean_diff"` (default): the absolute difference between the class means of each latent's activation, after dividing by the latent's mean nonzero activation. This is the method from the original paper, and is what published results use. It depends on activation magnitudes, so a latent that fires on both classes but fires very strongly on a few examples of one class can outrank a latent that fires on only one class.
 - `"raw_mean_diff"`: the same without the normalization.
@@ -62,7 +68,7 @@ A k-sparse probe is trained on the k SAE latents that best separate the two clas
 - `"firing_rate"`: the absolute difference between the fraction of each class on which the latent is active, ignoring how strongly it fires.
 - `"auc"`: the ROC AUC of each latent's activation on the training set. This depends only on the ranking of a latent's activations, not their scale.
 - `"accuracy"`: the best training accuracy of a single threshold on each latent's activation. A 1-sparse probe is a single threshold on one latent, so this directly picks the best latent for `k=1`.
-- `"forward"`: forward stepwise selection. The methods above score each latent on its own, so the k best latents are often redundant. This instead adds one latent at a time, each time taking the latent most correlated with what a linear fit on the latents chosen so far leaves unexplained (among the 4,096 latents most correlated with the label). At `k=1` it selects the same latent as `"correlation"`; for larger k it usually gives the most accurate probes.
+- `"forward"`: forward stepwise selection. The methods above score each latent on its own, so the k best latents are often redundant. This instead adds one latent at a time, each time taking the latent most correlated with what a linear fit on the latents chosen so far leaves unexplained (among the 4,096 latents most correlated with the label). At `k=1` it selects the same latent as `"correlation"`.
 - a function taking `(X_train, y_train)` and returning one score per latent, where larger scores are selected first.
 
 Results for a non-default `selection_method` are saved with a `_sel-<method>` suffix (e.g. `..._l1_sel-forward.json`), so they never overwrite or get mistaken for results from the default method. Each result also records the `selection_method` used.

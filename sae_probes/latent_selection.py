@@ -37,7 +37,8 @@ All scorers are symmetric in the direction of the association (a latent that is 
 on class 0 scores the same as an otherwise identical latent that is active on class 1).
 """
 
-from typing import Callable, Literal
+from collections.abc import Callable
+from typing import Literal
 
 import torch
 

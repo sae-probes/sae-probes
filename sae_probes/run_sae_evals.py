@@ -2,7 +2,8 @@ import json
 import warnings
 from dataclasses import asdict
 from pathlib import Path
-from typing import Callable, Literal
+from collections.abc import Callable
+from typing import Literal
 
 import torch
 from sae_lens import SAE
