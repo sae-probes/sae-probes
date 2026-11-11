@@ -17,13 +17,6 @@ jobs:
       - name: Install dependencies
         # no lock file is committed, so this always resolves the newest versions a user would get
         run: uv sync
-      - name: diagnose imports (temporary)
-        run: |
-          lscpu | grep -E "Model name|Flags" | cut -c1-600
-          for m in numpy scipy pandas pyarrow sklearn xgboost torch transformers transformer_lens sae_lens; do
-            echo "== $m"
-            uv run python -X faulthandler -c "import $m; print(getattr($m, '__version__', ''))" || echo "FAILED $m"
-          done
       - name: check formatting
         run: uv run ruff format --check
       - name: check linting
@@ -31,7 +24,7 @@ jobs:
       - name: check types
         run: uv run pyright
       - name: run tests
-        run: uv run pytest tests -n auto
+        run: uv run pytest tests -n auto --durations=10
         env:
           # one thread per test worker
           OMP_NUM_THREADS: "1"
