@@ -9,23 +9,35 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
         with:
           python-version: "3.12"
-      - name: Install Poetry
-        uses: snok/install-poetry@v1
+          enable-cache: false
       - name: Install dependencies
-        run: poetry install
+        # no lock file is committed, so this always resolves the newest versions a user would get
+        run: uv sync
+      - name: diagnose imports (temporary)
+        run: |
+          lscpu | grep -E "Model name|Flags" | cut -c1-600
+          for m in numpy scipy pandas pyarrow sklearn xgboost torch transformers transformer_lens sae_lens; do
+            echo "== $m"
+            uv run python -X faulthandler -c "import $m; print(getattr($m, '__version__', ''))" || echo "FAILED $m"
+          done
       - name: check formatting
-        run: poetry run ruff format --check
+        run: uv run ruff format --check
       - name: check linting
-        run: poetry run ruff check
+        run: uv run ruff check
       - name: check types
-        run: poetry run pyright
+        run: uv run pyright
       - name: run tests
-        run: poetry run pytest tests
+        run: uv run pytest tests -n auto
+        env:
+          # one thread per test worker
+          OMP_NUM_THREADS: "1"
+          MKL_NUM_THREADS: "1"
       - name: build
-        run: poetry build
+        run: uv build
 
   release:
     needs: build

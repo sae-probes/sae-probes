@@ -1,41 +1,51 @@
-[tool.poetry]
+[project]
 name = "sae-probes"
-version = "0.4.2"
+dynamic = ["version"]
 description = "Sparse probing benchmark for Sparse Autoencoders derived from the paper \"Are Sparse Autoencoders Useful? A Case Study in Sparse Probing\""
-authors = ["Subhash Kantamneni", "Joshua Engels"]
+authors = [{ name = "Subhash Kantamneni" }, { name = "Joshua Engels" }]
 readme = "README.md"
-packages = [{ include = "sae_probes" }]
-repository = "https://github.com/sae-probes/sae-probes"
-homepage = "https://github.com/sae-probes/sae-probes"
 license = "MIT"
+license-files = ["LICENSE"]
+requires-python = ">=3.10,<4.0"
 keywords = [
     "deep-learning",
     "sparse-autoencoders",
     "mechanistic-interpretability",
     "PyTorch",
 ]
-classifiers = ["Topic :: Scientific/Engineering :: Artificial Intelligence"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = [
+    "transformer-lens>=2.15.4,<4.0.0",
+    "sae-lens>=5.0.0,<7.0.0",
+    "scikit-learn>=1.6.1,<2.0.0",
+    "pandas>=2.2.3,<3.0.0",
+    "xgboost>=3.0.2,<4.0.0",
+    "hf-transfer>=0.1.9,<0.2.0",
+    "zstandard>=0.19.0",
+    # transformer-lens 2.x pins numpy<2, but pyarrow>=26 requires numpy>=2 at import time
+    # without declaring it as a dependency, so resolvers can pick an incompatible pair
+    "pyarrow<26",
+]
 
+[project.urls]
+Homepage = "https://github.com/sae-probes/sae-probes"
+Repository = "https://github.com/sae-probes/sae-probes"
 
-[tool.poetry.dependencies]
-python = ">=3.10,<4.0"
-transformer-lens = ">=2.15.4,<4.0.0"
-sae-lens = ">=5.0.0,<7.0.0"
-scikit-learn = "^1.6.1"
-pandas = "^2.2.3"
-xgboost = "^3.0.2"
-hf-transfer = "^0.1.9"
-zstandard = ">=0.19.0"
-# transformer-lens 2.x pins numpy<2, but pyarrow>=26 requires numpy>=2 at import time
-# without declaring it as a dependency, so resolvers can pick an incompatible pair
-pyarrow = "<26"
-
-
-[tool.poetry.group.dev.dependencies]
-pytest = "^8.3.5"
-ruff = "^0.11.11"
-pyright = "^1.1.401"
-matplotlib = "^3.10.5"
+[dependency-groups]
+dev = [
+    "pytest>=8.3.5,<9.0.0",
+    "pytest-xdist>=3.6.1,<4.0.0",
+    "ruff>=0.11.11,<0.12.0",
+    "pyright>=1.1.401,<2.0.0",
+    "matplotlib>=3.10.5,<4.0.0",
+]
 
 
 [tool.isort]
@@ -61,11 +71,21 @@ ignore = ["tests/_comparison"]
 reportPrivateImportUsage = false
 
 [build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.version]
+path = "sae_probes/__init__.py"
+
+[tool.hatch.build.targets.wheel]
+packages = ["sae_probes"]
+core-metadata-version = "2.4"
+
+[tool.hatch.build.targets.sdist]
+include = ["/sae_probes", "/README.md", "/LICENSE", "/pyproject.toml"]
+core-metadata-version = "2.4"
 
 [tool.semantic_release]
 version_variables = ["sae_probes/__init__.py:__version__"]
-version_toml = ["pyproject.toml:tool.poetry.version"]
-build_command = "pip install poetry && poetry build"
+build_command = "pip install uv && uv build"
 branches = { main = { match = "main" }, alpha = { match = "alpha", prerelease = true }, beta = { match = "beta", prerelease = true } }

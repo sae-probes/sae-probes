@@ -3,9 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Poetry
+# uv (no lock file is committed: CI always tests the newest dependency versions)
 .venv/
-poetry.lock
+uv.lock
 
 # Build artifacts
 dist/
