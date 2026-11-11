@@ -1,8 +1,8 @@
 import json
 import warnings
+from collections.abc import Callable
 from dataclasses import asdict
 from pathlib import Path
-from collections.abc import Callable
 from typing import Literal
 
 import torch
