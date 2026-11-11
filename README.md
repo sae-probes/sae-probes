@@ -58,6 +58,7 @@ A k-sparse probe is trained on the k SAE latents that best separate the two clas
 - `"firing_rate"`: the absolute difference between the fraction of each class on which the latent is active, ignoring how strongly it fires.
 - `"auc"`: the ROC AUC of each latent's activation on the training set. This depends only on the ranking of a latent's activations, not their scale.
 - `"accuracy"`: the best training accuracy of a single threshold on each latent's activation. A 1-sparse probe is a single threshold on one latent, so this directly picks the best latent for `k=1`.
+- `"forward"`: forward stepwise selection. The methods above score each latent on its own, so the k best latents are often redundant. This instead adds one latent at a time, each time taking the latent most correlated with what a linear fit on the latents chosen so far leaves unexplained (among the 4,096 latents most correlated with the label). At `k=1` it selects the same latent as `"correlation"`; for larger k it usually gives the most accurate probes.
 - a function taking `(X_train, y_train)` and returning one score per latent, where larger scores are selected first.
 
 ```python

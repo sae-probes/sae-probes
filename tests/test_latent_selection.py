@@ -9,6 +9,7 @@ from sae_probes.latent_selection import (
     auc_scores,
     correlation_scores,
     firing_rate_scores,
+    forward_selection_order,
     get_selection_scores,
     get_sorted_indices,
     mean_act_normalization,
@@ -189,7 +190,13 @@ def test_magnitude_outliers_mislead_mean_diff_but_not_auc_or_accuracy() -> None:
 
     assert get_sorted_indices(X, y, "mean_diff")[0].item() == 1
     assert get_sorted_indices(X, y, "raw_mean_diff")[0].item() == 1
-    for selection_method in ("correlation", "firing_rate", "auc", "accuracy"):
+    for selection_method in (
+        "correlation",
+        "firing_rate",
+        "auc",
+        "accuracy",
+        "forward",
+    ):
         assert get_sorted_indices(X, y, selection_method)[0].item() == 0
 
 
@@ -245,7 +252,7 @@ def test_get_sorted_indices_defaults_to_mean_diff() -> None:
 
 
 @pytest.mark.parametrize(
-    "selection_method", ["correlation", "firing_rate", "auc", "accuracy"]
+    "selection_method", ["correlation", "firing_rate", "auc", "accuracy", "forward"]
 )
 def test_get_sorted_indices_puts_the_informative_latents_first(
     selection_method,
@@ -253,6 +260,139 @@ def test_get_sorted_indices_puts_the_informative_latents_first(
     X, y = _sparse_activations(n_samples=500)
     indices = get_sorted_indices(X, y, selection_method)
     assert set(indices[:2].tolist()) == {0, 1}
+
+
+def _reference_forward_selection(
+    X: np.ndarray, y: np.ndarray, n_select: int
+) -> list[int]:
+    """Orthogonal matching pursuit on the centered labels with a full refit each step."""
+    Xs = X - X.mean(axis=0)
+    Xs = Xs / np.linalg.norm(Xs, axis=0)
+    target = y - y.mean()
+    residual = target.copy()
+    chosen: list[int] = []
+    for _ in range(n_select):
+        scores = np.abs(Xs.T @ residual)
+        scores[chosen] = -1
+        chosen.append(int(scores.argmax()))
+        coef, *_ = np.linalg.lstsq(Xs[:, chosen], target, rcond=None)
+        residual = target - Xs[:, chosen] @ coef
+    return chosen
+
+
+def test_forward_selection_matches_a_reference_implementation() -> None:
+    X, y = _sparse_activations(n_samples=300, n_latents=40)
+    expected = _reference_forward_selection(
+        X.numpy().astype(np.float64), y.numpy().astype(np.float64), n_select=10
+    )
+    order = forward_selection_order(X, y, n_select=10)
+    assert order[:10].tolist() == expected
+    assert get_sorted_indices(X, y, "forward", k_max=10)[:10].tolist() == expected
+
+
+def test_forward_selection_returns_every_latent_exactly_once() -> None:
+    X, y = _sparse_activations()
+    for n_select in (0, 1, 5, 1000):
+        order = forward_selection_order(X, y, n_select=n_select)
+        assert sorted(order.tolist()) == list(range(X.shape[1]))
+    order = forward_selection_order(X, y, n_select=5, pool_size=8)
+    assert sorted(order.tolist()) == list(range(X.shape[1]))
+
+
+def test_forward_selection_first_latent_is_the_most_correlated() -> None:
+    X, y = _sparse_activations()
+    assert (
+        get_sorted_indices(X, y, "forward")[0].item()
+        == get_sorted_indices(X, y, "correlation")[0].item()
+    )
+
+
+def test_forward_selection_order_is_nested_in_the_number_of_steps() -> None:
+    X, y = _sparse_activations(n_samples=300, n_latents=40)
+    long_order = forward_selection_order(X, y, n_select=12)
+    for n_select in (1, 3, 7):
+        short_order = forward_selection_order(X, y, n_select=n_select)
+        assert short_order[:n_select].tolist() == long_order[:n_select].tolist()
+    assert (
+        get_sorted_indices(X, y, "forward", k_max=3)[:3].tolist()
+        == get_sorted_indices(X, y, "forward")[:3].tolist()
+    )
+
+
+def test_forward_selection_skips_redundant_latents() -> None:
+    generator = torch.Generator().manual_seed(0)
+    n = 400
+    part_a = torch.rand(n, generator=generator) < 0.5
+    part_b = torch.rand(n, generator=generator) < 0.3
+    y = (part_a | part_b).long()
+    noise = lambda: 0.01 * torch.rand(n, generator=generator)  # noqa: E731
+    # latents 0-2 are near-copies of the same detector, latent 3 covers the rest
+    X = torch.stack(
+        [
+            part_a.float() + noise(),
+            part_a.float() + noise(),
+            part_a.float() + noise(),
+            (part_b & ~part_a).float() + noise(),
+            torch.rand(n, generator=generator),
+        ],
+        dim=1,
+    )
+    # scoring latents one at a time picks two copies of the same detector
+    for selection_method in ("correlation", "auc", "accuracy"):
+        top2 = get_sorted_indices(X, y, selection_method)[:2].tolist()
+        assert set(top2) <= {0, 1, 2}
+    # forward selection picks one copy, then the complementary latent
+    top2 = get_sorted_indices(X, y, "forward", k_max=2)[:2].tolist()
+    assert top2[0] in {0, 1, 2}
+    assert top2[1] == 3
+
+
+def test_forward_selection_handles_duplicate_and_constant_latents() -> None:
+    X, y = _sparse_activations(n_samples=120, n_latents=6)
+    X = torch.cat([X, X[:, :1], torch.zeros(120, 2), torch.ones(120, 1)], dim=1)
+    order = forward_selection_order(X, y, n_select=10)
+    assert sorted(order.tolist()) == list(range(X.shape[1]))
+    # the exact duplicate of latent 0 (index 6) is never selected before the others run out
+    first_six = order[:6].tolist()
+    assert not ({0, 6} <= set(first_six))
+
+
+def test_forward_selection_stops_when_the_labels_are_fit_exactly() -> None:
+    y = torch.tensor([0, 0, 0, 1, 1, 1])
+    X = torch.zeros(6, 5)
+    X[:, 0] = y.float()  # perfectly predictive
+    X[:, 1] = torch.tensor([1.0, 0.0, 1.0, 0.0, 1.0, 0.0])
+    X[:, 2] = torch.tensor([0.3, 0.1, 0.9, 0.2, 0.4, 0.8])
+    order = forward_selection_order(X, y, n_select=5)
+    assert order[0].item() == 0
+    # after the exact fit the rest follow in order of correlation with the label
+    by_correlation = get_sorted_indices(X, y, "correlation").tolist()
+    assert order[1:].tolist() == [i for i in by_correlation if i != 0]
+
+
+def test_forward_selection_with_a_single_class_falls_back_to_correlation_order() -> (
+    None
+):
+    X, _ = _sparse_activations()
+    y = torch.ones(X.shape[0], dtype=torch.long)
+    order = forward_selection_order(X, y)
+    assert order.tolist() == get_sorted_indices(X, y, "correlation").tolist()
+
+
+def test_forward_selection_works_on_binarized_activations() -> None:
+    X, y = _sparse_activations(n_samples=300, n_latents=40)
+    X_binary = X != 0
+    expected = _reference_forward_selection(
+        X_binary.numpy().astype(np.float64), y.numpy().astype(np.float64), n_select=6
+    )
+    assert forward_selection_order(X_binary, y, n_select=6)[:6].tolist() == expected
+
+
+def test_get_selection_scores_for_forward_reproduce_its_order() -> None:
+    X, y = _sparse_activations()
+    scores = get_selection_scores(X, y, "forward", k_max=8)
+    order = torch.argsort(scores, descending=True).tolist()
+    assert order == forward_selection_order(X, y, n_select=8).tolist()
 
 
 def test_get_save_metrics_path_keeps_default_names_and_separates_other_methods(

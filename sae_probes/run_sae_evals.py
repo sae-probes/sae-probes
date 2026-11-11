@@ -161,8 +161,9 @@ def run_sae_eval(
     """
     Train k-sparse probes on the k SAE latents ranked best by `selection_method` on
     the training set: "mean_diff" (default, the method from the original paper),
-    "raw_mean_diff", "correlation", "firing_rate", "auc", "accuracy", or a callable
-    taking (X_train, y_train) and returning one score per latent (larger is better).
+    "raw_mean_diff", "correlation", "firing_rate", "auc", "accuracy", "forward", or a
+    callable taking (X_train, y_train) and returning one score per latent (larger is
+    better).
     See `sae_probes.latent_selection` for what each method does.
 
     With `binarize=True` (normal setting), latents are ranked on the binarized
@@ -205,7 +206,7 @@ def run_sae_eval(
     # rank latents on what the probe will see
     X_train_for_selection = X_train_sae != 0 if binarize_probe_inputs else X_train_sae
     sorted_indices = get_sorted_indices(
-        X_train_for_selection, y_train, selection_method
+        X_train_for_selection, y_train, selection_method, k_max=max(ks)
     )
 
     for k in tqdm(ks):
@@ -295,8 +296,8 @@ def run_sae_evals(
 
     `selection_method` chooses how the k latents of each k-sparse probe are picked on
     the training set: "mean_diff" (default, the method from the original paper),
-    "raw_mean_diff", "correlation", "firing_rate", "auc", "accuracy", or a callable
-    taking (X_train, y_train) and returning one score per latent. See
+    "raw_mean_diff", "correlation", "firing_rate", "auc", "accuracy", "forward", or a
+    callable taking (X_train, y_train) and returning one score per latent. See
     `sae_probes.latent_selection` for what each method does. Results for non-default
     methods are saved under separate file names.
 

@@ -788,7 +788,7 @@ def test_run_sae_eval_binarize_thresholds_at_nonzero(
 
 
 @pytest.mark.parametrize(
-    "selection_method", ["correlation", "firing_rate", "auc", "accuracy"]
+    "selection_method", ["correlation", "firing_rate", "auc", "accuracy", "forward"]
 )
 def test_run_sae_eval_selection_method_ranks_latents_on_probe_inputs(
     gpt2_l4_sae: SAE,

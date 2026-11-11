@@ -26,6 +26,13 @@ largest scores are used for the k-sparse probe.
   activation. A 1-sparse probe is a single threshold on one latent, so for k=1 this is
   the selection rule that directly optimizes training accuracy.
 
+- ``forward``: forward stepwise selection. The methods above score every latent on
+  its own, so the k best latents are often redundant (several latents that fire on
+  the same examples). Forward selection instead builds the set one latent at a time:
+  each step adds the latent most correlated with the part of the label that a linear
+  fit on the latents chosen so far does not explain. The first latent chosen is the
+  one ``correlation`` ranks first, so the two methods agree at k=1.
+
 All scorers are symmetric in the direction of the association (a latent that is active
 on class 0 scores the same as an otherwise identical latent that is active on class 1).
 """
@@ -35,7 +42,13 @@ from typing import Callable, Literal
 import torch
 
 SelectionMethod = Literal[
-    "mean_diff", "raw_mean_diff", "correlation", "firing_rate", "auc", "accuracy"
+    "mean_diff",
+    "raw_mean_diff",
+    "correlation",
+    "firing_rate",
+    "auc",
+    "accuracy",
+    "forward",
 ]
 SelectionFn = Callable[[torch.Tensor, torch.Tensor], torch.Tensor]
 
@@ -46,10 +59,15 @@ SELECTION_METHODS: tuple[SelectionMethod, ...] = (
     "firing_rate",
     "auc",
     "accuracy",
+    "forward",
 )
 
 # number of latents sorted at once by the rank-based scorers
 _CHUNK_SIZE = 4096
+# forward selection only considers the latents most correlated with the label
+_FORWARD_POOL_SIZE = 4096
+# default number of forward selection steps (the largest k of the default ks)
+_FORWARD_DEFAULT_STEPS = 512
 
 
 def mean_act_normalization(X_sae: torch.Tensor) -> torch.Tensor:
@@ -142,17 +160,97 @@ def accuracy_scores(
     return scores
 
 
+def forward_selection_order(
+    X: torch.Tensor,
+    y: torch.Tensor,
+    n_select: int = _FORWARD_DEFAULT_STEPS,
+    pool_size: int = _FORWARD_POOL_SIZE,
+) -> torch.Tensor:
+    """
+    All latent indices, starting with the latents chosen by forward stepwise selection.
+
+    Candidates are the `pool_size` latents most correlated with the label. Starting
+    from the centered label, each step adds the candidate (standardized to unit
+    variance) most correlated with the current residual, then replaces the residual by
+    the residual of a least-squares fit of the label on all latents chosen so far
+    (orthogonal matching pursuit). Selection stops after `n_select` latents, or once
+    the chosen latents fit the training labels exactly. The order is nested: the first
+    k indices do not depend on `n_select`. The remaining latents follow, most
+    correlated with the label first.
+    """
+    X = _as_float(X)
+    by_correlation = torch.argsort(
+        correlation_scores(X, y), descending=True, stable=True
+    )
+    pool = by_correlation[:pool_size]
+    # float64 keeps the orthogonalization stable over hundreds of steps
+    X_pool = X[:, pool].to(torch.float64)
+    X_pool = X_pool - X_pool.mean(dim=0)
+    norms = X_pool.norm(dim=0)
+    available = norms > 0
+    X_pool = X_pool / norms.clamp_min(1e-12)
+    residual = (y == 1).to(torch.float64).to(X.device)
+    residual = residual - residual.mean()
+    initial_norm = residual.norm()
+
+    n_samples = X.shape[0]
+    max_steps = min(n_select, pool.numel(), n_samples - 1)
+    basis = torch.zeros(
+        (n_samples, max(max_steps, 0)), dtype=torch.float64, device=X.device
+    )
+    chosen: list[int] = []
+    while len(chosen) < max_steps and bool(available.any()):
+        if residual.norm() <= 1e-8 * initial_norm:
+            break
+        scores = (X_pool.T @ residual).abs()
+        scores[~available] = -1
+        best = int(scores.argmax())
+        if scores[best] <= 1e-12:
+            break
+        available[best] = False
+        direction = X_pool[:, best].clone()
+        previous = basis[:, : len(chosen)]
+        # two passes of Gram-Schmidt against the latents chosen so far
+        for _ in range(2):
+            direction = direction - previous @ (previous.T @ direction)
+        direction_norm = direction.norm()
+        if direction_norm < 1e-8:
+            # a linear combination of the latents already chosen: adds nothing
+            continue
+        direction = direction / direction_norm
+        basis[:, len(chosen)] = direction
+        residual = residual - direction * (direction @ residual)
+        chosen.append(best)
+
+    chosen_latents = pool[torch.tensor(chosen, dtype=torch.long, device=X.device)]
+    is_chosen = torch.zeros(X.shape[1], dtype=torch.bool, device=X.device)
+    is_chosen[chosen_latents] = True
+    return torch.cat([chosen_latents, by_correlation[~is_chosen[by_correlation]]])
+
+
 def get_selection_scores(
     X: torch.Tensor,
     y: torch.Tensor,
     selection_method: SelectionMethod | SelectionFn = "mean_diff",
+    k_max: int | None = None,
 ) -> torch.Tensor:
     """
     One score per latent; larger scores are selected first. A callable
     `selection_method` is called with (X, y) and must return one score per latent.
+
+    `k_max` is the largest number of latents that will be selected. It is only used by
+    "forward", as the number of selection steps to run (the scores it returns are just
+    the positions in its selection order).
     """
     if callable(selection_method):
         return selection_method(X, y)
+    if selection_method == "forward":
+        order = _forward_order(X, y, k_max)
+        scores = torch.empty(X.shape[1], dtype=torch.float32, device=X.device)
+        scores[order] = torch.arange(
+            X.shape[1], 0, -1, dtype=torch.float32, device=X.device
+        )
+        return scores
     if selection_method == "mean_diff":
         return mean_diff_scores(X, y, mean_act_normalization)
     if selection_method == "raw_mean_diff":
@@ -172,10 +270,22 @@ def get_sorted_indices(
     X_train_sae: torch.Tensor,
     y_train: torch.Tensor,
     selection_method: SelectionMethod | SelectionFn = "mean_diff",
+    k_max: int | None = None,
 ) -> torch.Tensor:
-    """Latent indices from best to worst by `selection_method` on the training set."""
+    """
+    Latent indices from best to worst by `selection_method` on the training set; the
+    first k are the latents used for a k-sparse probe. `k_max` is the largest k that
+    will be used (only needed by "forward", which runs that many selection steps).
+    """
+    if selection_method == "forward":
+        return _forward_order(X_train_sae, y_train, k_max)
     scores = get_selection_scores(X_train_sae, y_train, selection_method)
     return torch.argsort(scores, descending=True, stable=True)
+
+
+def _forward_order(X: torch.Tensor, y: torch.Tensor, k_max: int | None) -> torch.Tensor:
+    n_select = _FORWARD_DEFAULT_STEPS if k_max is None else k_max
+    return forward_selection_order(X, y, n_select=n_select)
 
 
 def selection_method_name(selection_method: SelectionMethod | SelectionFn) -> str:
