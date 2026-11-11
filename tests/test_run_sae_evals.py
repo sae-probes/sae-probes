@@ -9,10 +9,12 @@ from transformer_lens import HookedTransformer
 
 from sae_probes.constants import RegType, Setting
 from sae_probes.generate_sae_activations import generate_sae_activations
+from sae_probes.latent_selection import SelectionMethod, mean_diff_selection_fn
 from sae_probes.run_sae_evals import (
     get_save_metrics_path,
     get_sorted_indices,
     mean_act_normalization,
+    resolve_selection_method,
     run_sae_eval,
     run_sae_evals,
 )
@@ -141,7 +143,7 @@ def test_get_sorted_indices_without_normalization() -> None:
     )
     y_train = torch.tensor([0, 0, 1, 1])
 
-    sorted_indices = get_sorted_indices(X_train_sae, y_train, normalize_fn=None)
+    sorted_indices = get_sorted_indices(X_train_sae, y_train, "raw_mean_diff")
 
     class_0_mean = torch.tensor([1.5, 2.5, 0.5])
     class_1_mean = torch.tensor([0.0, 0.5, 4.5])
@@ -163,9 +165,8 @@ def test_get_sorted_indices_with_mean_normalization() -> None:
     )
     y_train = torch.tensor([0, 0, 1, 1])
 
-    sorted_indices = get_sorted_indices(
-        X_train_sae, y_train, normalize_fn=mean_act_normalization
-    )
+    sorted_indices = get_sorted_indices(X_train_sae, y_train, "mean_diff")
+    assert torch.equal(sorted_indices, get_sorted_indices(X_train_sae, y_train))
 
     X_normalized = mean_act_normalization(X_train_sae)
     class_0_mean = X_normalized[y_train == 0].mean(dim=0)
@@ -193,7 +194,7 @@ def test_get_sorted_indices_with_custom_normalization() -> None:
         return result
 
     sorted_indices = get_sorted_indices(
-        X_train_sae, y_train, normalize_fn=keep_first_dim_only
+        X_train_sae, y_train, mean_diff_selection_fn(keep_first_dim_only)
     )
 
     expected_indices = torch.tensor([0, 1, 2])
@@ -201,7 +202,7 @@ def test_get_sorted_indices_with_custom_normalization() -> None:
     torch.testing.assert_close(sorted_indices, expected_indices)
 
     sorted_indices_without_norm = get_sorted_indices(
-        X_train_sae, y_train, normalize_fn=None
+        X_train_sae, y_train, "raw_mean_diff"
     )
     expected_indices_without_norm = torch.tensor([2, 0, 1])
     torch.testing.assert_close(
@@ -222,10 +223,8 @@ def test_get_sorted_indices_different_normalizations_produce_different_results()
     )
     y_train = torch.tensor([0, 0, 1, 1])
 
-    indices_without_norm = get_sorted_indices(X_train_sae, y_train, normalize_fn=None)
-    indices_with_norm = get_sorted_indices(
-        X_train_sae, y_train, normalize_fn=mean_act_normalization
-    )
+    indices_without_norm = get_sorted_indices(X_train_sae, y_train, "raw_mean_diff")
+    indices_with_norm = get_sorted_indices(X_train_sae, y_train, "mean_diff")
 
     assert not torch.equal(indices_without_norm, indices_with_norm)
 
@@ -241,7 +240,7 @@ def test_get_sorted_indices_sorts_by_absolute_difference() -> None:
     )
     y_train = torch.tensor([0, 0, 1, 1])
 
-    sorted_indices = get_sorted_indices(X_train_sae, y_train, normalize_fn=None)
+    sorted_indices = get_sorted_indices(X_train_sae, y_train, "raw_mean_diff")
 
     expected_indices = torch.tensor([3, 1, 2, 0])
 
@@ -654,7 +653,7 @@ def test_run_sae_evals_imbalance_setting(
     assert found_valid_result, "No valid result files found for imbalance setting"
 
 
-def test_run_sae_eval_different_normalizations_produce_different_indices(
+def test_run_sae_eval_different_selection_methods_produce_different_indices(
     gpt2_l4_sae: SAE, tmp_path: Path, gpt2_model: HookedTransformer
 ) -> None:
     sae_results_path_mean = tmp_path / "sae_cache_mean"
@@ -680,7 +679,7 @@ def test_run_sae_eval_different_normalizations_produce_different_indices(
         model_cache_path=model_cache_path,
         batch_size=batch_size,
         ks=[16],
-        mean_diff_normalization="mean",
+        selection_method="mean_diff",
     )
     assert success_mean
 
@@ -696,7 +695,7 @@ def test_run_sae_eval_different_normalizations_produce_different_indices(
         model_cache_path=model_cache_path,
         batch_size=batch_size,
         ks=[16],
-        mean_diff_normalization="none",
+        selection_method="raw_mean_diff",
     )
     assert success_none
 
@@ -715,6 +714,7 @@ def test_run_sae_eval_different_normalizations_produce_different_indices(
         model_name=model_name,
         setting=setting,
         sae_results_path=sae_results_path_none,
+        selection_method="raw_mean_diff",
     )
 
     with open(save_path_mean) as f:
@@ -772,9 +772,12 @@ def test_run_sae_eval_binarize_thresholds_at_nonzero(
 
     activations = captured_activations[0]
     probe_inputs = captured_probe_inputs[0]
-    indices = get_sorted_indices(
-        activations.X_train, activations.y_train, mean_act_normalization
+    # latents are ranked on the binarized activations the probe is trained on
+    indices = get_sorted_indices(activations.X_train != 0, activations.y_train)[:16]
+    indices_from_continuous = get_sorted_indices(
+        activations.X_train, activations.y_train
     )[:16]
+    assert indices.tolist() != indices_from_continuous.tolist()
     raw_train = activations.X_train[:, indices]
     raw_test = activations.X_test[:, indices]
 
@@ -782,3 +785,202 @@ def test_run_sae_eval_binarize_thresholds_at_nonzero(
     assert ((raw_train > 0) & (raw_train <= 1)).any()
     torch.testing.assert_close(probe_inputs["X_train"], raw_train != 0)
     torch.testing.assert_close(probe_inputs["X_test"], raw_test != 0)
+
+
+@pytest.mark.parametrize(
+    "selection_method", ["correlation", "firing_rate", "auc", "accuracy"]
+)
+def test_run_sae_eval_selection_method_ranks_latents_on_probe_inputs(
+    gpt2_l4_sae: SAE,
+    tmp_path: Path,
+    gpt2_model: HookedTransformer,
+    monkeypatch: pytest.MonkeyPatch,
+    selection_method: SelectionMethod,
+) -> None:
+    model_cache_path = tmp_path / "model_cache"
+    results_path = tmp_path / "sae_cache"
+    layer: int = 4
+    hook_name = f"blocks.{layer}.hook_resid_post"
+    generate_model_activations(gpt2_model, model_cache_path, layers=[layer])
+
+    captured_activations = []
+    captured_probe_inputs = []
+
+    def capture_activations(**kwargs):
+        activations = generate_sae_activations(**kwargs)
+        captured_activations.append(activations)
+        return activations
+
+    def capture_probe_inputs(**kwargs):
+        captured_probe_inputs.append(kwargs)
+        return find_best_reg(**kwargs)
+
+    monkeypatch.setattr(
+        run_sae_evals_module, "generate_sae_activations", capture_activations
+    )
+    monkeypatch.setattr(run_sae_evals_module, "find_best_reg", capture_probe_inputs)
+
+    for binarize in (False, True):
+        run_sae_eval(
+            sae=gpt2_l4_sae,
+            dataset=TEST_DATASET_NAME,
+            hook_name=hook_name,
+            reg_type="l2",
+            setting="normal",
+            model_name="gpt2",
+            device="cpu",
+            results_path=results_path,
+            model_cache_path=model_cache_path,
+            batch_size=32,
+            ks=[4],
+            binarize=binarize,
+            selection_method=selection_method,
+        )
+
+    activations = captured_activations[0]
+    # continuous probes rank the continuous activations
+    indices = get_sorted_indices(
+        activations.X_train, activations.y_train, selection_method
+    )[:4]
+    torch.testing.assert_close(
+        captured_probe_inputs[0]["X_train"], activations.X_train[:, indices]
+    )
+    # binarized probes rank the binarized activations the probe is trained on
+    indices_binarized = get_sorted_indices(
+        activations.X_train != 0, activations.y_train, selection_method
+    )[:4]
+    torch.testing.assert_close(
+        captured_probe_inputs[1]["X_train"],
+        activations.X_train[:, indices_binarized] != 0,
+    )
+
+    for binarize in (False, True):
+        save_path = get_save_metrics_path(
+            dataset=TEST_DATASET_NAME,
+            hook_name=hook_name,
+            reg_type="l2",
+            model_name="gpt2",
+            sae_results_path=results_path,
+            binarize=binarize,
+            selection_method=selection_method,
+        )
+        assert save_path.name.endswith(f"_sel-{selection_method}.json")
+        with open(save_path) as f:
+            results = json.load(f)
+        assert [item["selection_method"] for item in results] == [selection_method]
+        assert [item["binarize"] for item in results] == [binarize]
+    # the default method's result file is not written
+    assert not get_save_metrics_path(
+        dataset=TEST_DATASET_NAME,
+        hook_name=hook_name,
+        reg_type="l2",
+        model_name="gpt2",
+        sae_results_path=results_path,
+    ).exists()
+
+
+def test_run_sae_eval_default_selection_is_recorded_as_mean_diff(
+    gpt2_l4_sae: SAE, tmp_path: Path, gpt2_model: HookedTransformer
+) -> None:
+    model_cache_path = tmp_path / "model_cache"
+    results_path = tmp_path / "sae_cache"
+    layer: int = 4
+    hook_name = f"blocks.{layer}.hook_resid_post"
+    generate_model_activations(gpt2_model, model_cache_path, layers=[layer])
+    run_sae_eval(
+        sae=gpt2_l4_sae,
+        dataset=TEST_DATASET_NAME,
+        hook_name=hook_name,
+        reg_type="l2",
+        setting="normal",
+        model_name="gpt2",
+        device="cpu",
+        results_path=results_path,
+        model_cache_path=model_cache_path,
+        batch_size=32,
+        ks=[2],
+    )
+    save_path = get_save_metrics_path(
+        dataset=TEST_DATASET_NAME,
+        hook_name=hook_name,
+        reg_type="l2",
+        model_name="gpt2",
+        sae_results_path=results_path,
+    )
+    with open(save_path) as f:
+        results = json.load(f)
+    assert results[0]["selection_method"] == "mean_diff"
+
+
+def test_run_sae_eval_deprecated_mean_diff_normalization_maps_to_selection_method(
+    gpt2_l4_sae: SAE, tmp_path: Path, gpt2_model: HookedTransformer
+) -> None:
+    model_cache_path = tmp_path / "model_cache"
+    results_path = tmp_path / "sae_cache"
+    layer: int = 4
+    hook_name = f"blocks.{layer}.hook_resid_post"
+    generate_model_activations(gpt2_model, model_cache_path, layers=[layer])
+    common = dict(
+        sae=gpt2_l4_sae,
+        dataset=TEST_DATASET_NAME,
+        hook_name=hook_name,
+        reg_type="l2",
+        setting="normal",
+        model_name="gpt2",
+        device="cpu",
+        model_cache_path=model_cache_path,
+        batch_size=32,
+        ks=[16],
+    )
+    with pytest.warns(DeprecationWarning, match="mean_diff_normalization"):
+        run_sae_eval(
+            **common,  # type: ignore[arg-type]
+            results_path=results_path / "deprecated",
+            mean_diff_normalization="none",
+        )
+    run_sae_eval(
+        **common,  # type: ignore[arg-type]
+        results_path=results_path / "new",
+        selection_method="raw_mean_diff",
+    )
+    results = []
+    for folder in ("deprecated", "new"):
+        save_path = get_save_metrics_path(
+            dataset=TEST_DATASET_NAME,
+            hook_name=hook_name,
+            reg_type="l2",
+            model_name="gpt2",
+            sae_results_path=results_path / folder,
+            selection_method="raw_mean_diff",
+        )
+        with open(save_path) as f:
+            results.append(json.load(f))
+    assert results[0][0]["indices"] == results[1][0]["indices"]
+    assert results[0][0]["selection_method"] == "raw_mean_diff"
+
+
+def test_resolve_selection_method() -> None:
+    assert resolve_selection_method() == "mean_diff"
+    assert resolve_selection_method("auc") == "auc"
+    with pytest.warns(DeprecationWarning):
+        assert resolve_selection_method("mean_diff", "mean") == "mean_diff"
+    with pytest.warns(DeprecationWarning):
+        assert resolve_selection_method("mean_diff", "none") == "raw_mean_diff"
+
+    def double(X: torch.Tensor) -> torch.Tensor:
+        return 2 * X
+
+    with pytest.warns(DeprecationWarning):
+        selection_fn = resolve_selection_method("mean_diff", double)
+    assert callable(selection_fn)
+    X = torch.tensor([[0.0, 1.0], [0.0, 3.0], [4.0, 1.0], [2.0, 1.0]])
+    y = torch.tensor([0, 0, 1, 1])
+    torch.testing.assert_close(selection_fn(X, y), torch.tensor([6.0, 2.0]))
+
+    with pytest.warns(DeprecationWarning), pytest.raises(ValueError, match="not both"):
+        resolve_selection_method("auc", "mean")
+    with (
+        pytest.warns(DeprecationWarning),
+        pytest.raises(ValueError, match="Invalid mean_diff_normalization"),
+    ):
+        resolve_selection_method("mean_diff", "bad")  # type: ignore[arg-type]

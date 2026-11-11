@@ -16,6 +16,16 @@ from sae_probes.constants import (
 )
 from sae_probes.generate_model_activations import ensure_dataset_activations
 from sae_probes.generate_sae_activations import generate_sae_activations
+from sae_probes.latent_selection import (
+    SelectionFn,
+    SelectionMethod,
+    mean_diff_selection_fn,
+    selection_method_name,
+)
+from sae_probes.latent_selection import get_sorted_indices as get_sorted_indices
+from sae_probes.latent_selection import (
+    mean_act_normalization as mean_act_normalization,
+)
 from sae_probes.utils_data import (
     get_class_imbalance,
     get_corrupt_frac,
@@ -53,6 +63,7 @@ def get_save_metrics_path(
     num_train: int | None = None,
     corrupt_frac: float | None = None,
     frac: float | None = None,
+    selection_method: SelectionMethod | SelectionFn = "mean_diff",
 ):
     description_string = f"{dataset}_{hook_name}"
 
@@ -75,6 +86,9 @@ def get_save_metrics_path(
     reg_type_str: str = reg_type
     if binarize:
         reg_type_str = f"{reg_type_str}_binarized"
+    # the default method keeps the original file names, so existing results stay valid
+    if selection_method != "mean_diff":
+        reg_type_str = f"{reg_type_str}_sel-{selection_method_name(selection_method)}"
 
     if extra_string != "_":
         if not extra_string.endswith("_"):
@@ -92,23 +106,34 @@ def get_save_metrics_path(
     return save_path
 
 
-def get_sorted_indices(
-    X_train_sae, y_train, normalize_fn: Callable[[torch.Tensor], torch.Tensor] | None
-):
-    X_train_sae_normalized = normalize_fn(X_train_sae) if normalize_fn else X_train_sae
-    X_train_diff = X_train_sae_normalized[y_train == 1].mean(
-        dim=0
-    ) - X_train_sae_normalized[y_train == 0].mean(dim=0)
-    sorted_indices = torch.argsort(torch.abs(X_train_diff), descending=True)
-    return sorted_indices
-
-
-def mean_act_normalization(X_sae):
-    # take abs to handle negative values in the SAE activations for novel architectures.
-    col_sums = X_sae.abs().sum(dim=0)
-    col_nonzero_counts = (X_sae != 0).sum(dim=0)
-    col_means = col_sums / (col_nonzero_counts + 1e-6)
-    return X_sae / (col_means + 1e-6)
+def resolve_selection_method(
+    selection_method: SelectionMethod | SelectionFn = "mean_diff",
+    mean_diff_normalization: (
+        Literal["mean", "none"] | Callable[[torch.Tensor], torch.Tensor] | None
+    ) = None,
+) -> SelectionMethod | SelectionFn:
+    """Map the deprecated `mean_diff_normalization` argument onto `selection_method`."""
+    if mean_diff_normalization is None:
+        return selection_method
+    warnings.warn(
+        "`mean_diff_normalization` is deprecated and will be removed in a future "
+        'version. Use `selection_method` instead: "mean_diff" replaces "mean", '
+        '"raw_mean_diff" replaces "none", and a custom normalization can be passed as '
+        "`selection_method=mean_diff_selection_fn(normalize_fn)`.",
+        DeprecationWarning,
+        stacklevel=3,
+    )
+    if selection_method != "mean_diff":
+        raise ValueError(
+            "Pass `selection_method` or the deprecated `mean_diff_normalization`, not both"
+        )
+    if mean_diff_normalization == "mean":
+        return "mean_diff"
+    if mean_diff_normalization == "none":
+        return "raw_mean_diff"
+    if callable(mean_diff_normalization):
+        return mean_diff_selection_fn(mean_diff_normalization)
+    raise ValueError(f"Invalid mean_diff_normalization: {mean_diff_normalization}")
 
 
 def run_sae_eval(
@@ -128,10 +153,27 @@ def run_sae_eval(
     ks: list[int] | None = None,
     results_path: str | Path = DEFAULT_RESULTS_PATH,
     mean_diff_normalization: (
-        Literal["mean", "none"] | Callable[[torch.Tensor], torch.Tensor]
-    ) = "mean",
+        Literal["mean", "none"] | Callable[[torch.Tensor], torch.Tensor] | None
+    ) = None,
     seed: int = 42,
+    selection_method: SelectionMethod | SelectionFn = "mean_diff",
 ):
+    """
+    Train k-sparse probes on the k SAE latents ranked best by `selection_method` on
+    the training set: "mean_diff" (default, the method from the original paper),
+    "raw_mean_diff", "correlation", "firing_rate", "auc", "accuracy", or a callable
+    taking (X_train, y_train) and returning one score per latent (larger is better).
+    See `sae_probes.latent_selection` for what each method does.
+
+    With `binarize=True` (normal setting), latents are ranked on the binarized
+    activations that the probe is trained on. Versions up to 0.4.2 ranked latents on
+    the continuous activations and binarized afterwards.
+
+    `mean_diff_normalization` is deprecated; use `selection_method`.
+    """
+    selection_method = resolve_selection_method(
+        selection_method, mean_diff_normalization
+    )
     activations = generate_sae_activations(
         sae=sae,
         setting=setting,
@@ -159,23 +201,19 @@ def run_sae_eval(
             ks = [16, 128]
 
     all_metrics = []
-    normalization = None
-    if mean_diff_normalization == "mean":
-        normalization = mean_act_normalization
-    elif mean_diff_normalization == "none":
-        normalization = None
-    elif callable(mean_diff_normalization):
-        normalization = mean_diff_normalization
-    else:
-        raise ValueError(f"Invalid mean_diff_normalization: {mean_diff_normalization}")
-    sorted_indices = get_sorted_indices(X_train_sae, y_train, normalization)
+    binarize_probe_inputs = binarize and setting == "normal"
+    # rank latents on what the probe will see
+    X_train_for_selection = X_train_sae != 0 if binarize_probe_inputs else X_train_sae
+    sorted_indices = get_sorted_indices(
+        X_train_for_selection, y_train, selection_method
+    )
 
     for k in tqdm(ks):
-        top_by_average_diff = sorted_indices[:k]
-        X_train_filtered = X_train_sae[:, top_by_average_diff]
-        X_test_filtered = X_test_sae[:, top_by_average_diff]
+        selected_indices = sorted_indices[:k]
+        X_train_filtered = X_train_sae[:, selected_indices]
+        X_test_filtered = X_test_sae[:, selected_indices]
 
-        if binarize and setting == "normal":
+        if binarize_probe_inputs:
             X_train_filtered = X_train_filtered != 0
             X_test_filtered = X_test_filtered != 0
 
@@ -199,7 +237,8 @@ def run_sae_eval(
                 "hook_name": hook_name,
                 "reg_type": reg_type,
                 "binarize": binarize,
-                "indices": top_by_average_diff.tolist(),
+                "selection_method": selection_method_name(selection_method),
+                "indices": selected_indices.tolist(),
             }
         )
 
@@ -222,6 +261,7 @@ def run_sae_eval(
         corrupt_frac=corrupt_frac,
         frac=frac,
         sae_results_path=results_path,
+        selection_method=selection_method,
     )
 
     print(f"Saving results to {save_path}")
@@ -245,10 +285,26 @@ def run_sae_evals(
     datasets: list[str] | None = None,
     device: str = "cuda",
     mean_diff_normalization: (
-        Literal["mean", "none"] | Callable[[torch.Tensor], torch.Tensor]
-    ) = "mean",
+        Literal["mean", "none"] | Callable[[torch.Tensor], torch.Tensor] | None
+    ) = None,
     seed: int = 42,
+    selection_method: SelectionMethod | SelectionFn = "mean_diff",
 ):
+    """
+    Run the sparse probing benchmark for an SAE on every dataset.
+
+    `selection_method` chooses how the k latents of each k-sparse probe are picked on
+    the training set: "mean_diff" (default, the method from the original paper),
+    "raw_mean_diff", "correlation", "firing_rate", "auc", "accuracy", or a callable
+    taking (X_train, y_train) and returning one score per latent. See
+    `sae_probes.latent_selection` for what each method does. Results for non-default
+    methods are saved under separate file names.
+
+    `mean_diff_normalization` is deprecated; use `selection_method`.
+    """
+    selection_method = resolve_selection_method(
+        selection_method, mean_diff_normalization
+    )
     if datasets is None:
         datasets = DATASETS
     with resolve_model_cache_path(model_cache_path) as resolved_cache_path:
@@ -270,6 +326,7 @@ def run_sae_evals(
                     model_name=model_name,
                     setting=setting,
                     sae_results_path=results_path,
+                    selection_method=selection_method,
                 )
                 if save_path.exists():
                     print(
@@ -291,7 +348,7 @@ def run_sae_evals(
                         ks=ks,
                         results_path=results_path,
                         device=device,
-                        mean_diff_normalization=mean_diff_normalization,
+                        selection_method=selection_method,
                         seed=seed,
                     )
                     assert success
@@ -308,6 +365,7 @@ def run_sae_evals(
                         setting=setting,
                         num_train=num_train,
                         sae_results_path=results_path,
+                        selection_method=selection_method,
                     )
                     if save_path.exists():
                         print(
@@ -329,7 +387,7 @@ def run_sae_evals(
                             ks=ks,
                             results_path=results_path,
                             device=device,
-                            mean_diff_normalization=mean_diff_normalization,
+                            selection_method=selection_method,
                             seed=seed,
                         )
                         assert success
@@ -344,6 +402,7 @@ def run_sae_evals(
                         setting=setting,
                         frac=frac,
                         sae_results_path=results_path,
+                        selection_method=selection_method,
                     )
                     if save_path.exists():
                         print(
@@ -365,7 +424,7 @@ def run_sae_evals(
                             ks=ks,
                             results_path=results_path,
                             device=device,
-                            mean_diff_normalization=mean_diff_normalization,
+                            selection_method=selection_method,
                             seed=seed,
                         )
                         assert success
