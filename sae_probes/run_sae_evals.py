@@ -1,8 +1,9 @@
 import json
 import warnings
+from collections.abc import Callable
 from dataclasses import asdict
 from pathlib import Path
-from typing import Callable, Literal
+from typing import Literal
 
 import torch
 from sae_lens import SAE
