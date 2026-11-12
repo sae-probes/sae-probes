@@ -1,9 +1,9 @@
 import json
 import os
-from collections.abc import Sequence
+from collections.abc import Callable, Sequence
 from dataclasses import asdict
 from pathlib import Path
-from typing import Callable, Literal
+from typing import Literal
 
 import pandas as pd
 import torch
