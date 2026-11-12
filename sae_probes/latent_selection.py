@@ -30,8 +30,10 @@ largest scores are used for the k-sparse probe.
   its own, so the k best latents are often redundant (several latents that fire on
   the same examples). Forward selection instead builds the set one latent at a time:
   each step adds the latent most correlated with the part of the label that a linear
-  fit on the latents chosen so far does not explain. The first latent chosen is the
-  one ``correlation`` ranks first, so the two methods agree at k=1.
+  fit on the latents chosen so far does not explain. Only the first 32 latents are
+  chosen this way, from the 256 latents most correlated with the label; the rest
+  follow in order of correlation. The first latent chosen is the one ``correlation``
+  ranks first, so the two methods agree at k=1.
 
 All scorers are symmetric in the direction of the association (a latent that is active
 on class 0 scores the same as an otherwise identical latent that is active on class 1).
@@ -65,10 +67,12 @@ SELECTION_METHODS: tuple[SelectionMethod, ...] = (
 
 # number of latents sorted at once by the rank-based scorers
 _CHUNK_SIZE = 4096
-# forward selection only considers the latents most correlated with the label
-_FORWARD_POOL_SIZE = 4096
-# default number of forward selection steps (the largest k of the default ks)
-_FORWARD_DEFAULT_STEPS = 512
+# forward selection only considers the latents most correlated with the label, and only
+# chooses the first few latents greedily; later latents follow in order of correlation.
+# With ~1,000 training examples a larger pool or more greedy steps overfit: accuracy
+# for k >= 32 falls below that of ranking by correlation.
+_FORWARD_POOL_SIZE = 256
+_FORWARD_MAX_STEPS = 32
 
 
 def mean_act_normalization(X_sae: torch.Tensor) -> torch.Tensor:
@@ -164,7 +168,7 @@ def accuracy_scores(
 def forward_selection_order(
     X: torch.Tensor,
     y: torch.Tensor,
-    n_select: int = _FORWARD_DEFAULT_STEPS,
+    n_select: int = _FORWARD_MAX_STEPS,
     pool_size: int = _FORWARD_POOL_SIZE,
 ) -> torch.Tensor:
     """
@@ -285,7 +289,7 @@ def get_sorted_indices(
 
 
 def _forward_order(X: torch.Tensor, y: torch.Tensor, k_max: int | None) -> torch.Tensor:
-    n_select = _FORWARD_DEFAULT_STEPS if k_max is None else k_max
+    n_select = _FORWARD_MAX_STEPS if k_max is None else min(k_max, _FORWARD_MAX_STEPS)
     return forward_selection_order(X, y, n_select=n_select)
 
 

@@ -388,6 +388,20 @@ def test_forward_selection_works_on_binarized_activations() -> None:
     assert forward_selection_order(X_binary, y, n_select=6)[:6].tolist() == expected
 
 
+def test_forward_selection_default_chooses_at_most_32_latents_greedily() -> None:
+    X, y = _sparse_activations(n_samples=400, n_latents=80, seed=3)
+    order = get_sorted_indices(X, y, "forward", k_max=64)
+    assert sorted(order.tolist()) == list(range(80))
+    greedy = order[:32].tolist()
+    assert greedy == forward_selection_order(X, y, n_select=32)[:32].tolist()
+    # past the greedy steps, latents follow in order of correlation with the label
+    by_correlation = get_sorted_indices(X, y, "correlation").tolist()
+    assert order[32:].tolist() == [i for i in by_correlation if i not in set(greedy)]
+    # asking for more latents does not change the order
+    assert get_sorted_indices(X, y, "forward", k_max=512).tolist() == order.tolist()
+    assert get_sorted_indices(X, y, "forward").tolist() == order.tolist()
+
+
 def test_get_selection_scores_for_forward_reproduce_its_order() -> None:
     X, y = _sparse_activations()
     scores = get_selection_scores(X, y, "forward", k_max=8)
